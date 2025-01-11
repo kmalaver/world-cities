@@ -1,0 +1,53 @@
+{
+    "id": 216020,
+    "name": "Taoyuan",
+    "alt_names": [],
+    "state_code": "TAO",
+    "latitude": 24.9936281,
+    "longitude": 121.3009798,
+    "type": "special municipality",
+    "cities": [
+        {
+            "id": 2160200001,
+            "name": "Daxi",
+            "alt_names": [],
+            "latitude": 24.88373,
+            "longitude": 121.29043,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160200002,
+            "name": "Taoyuan",
+            "alt_names": [],
+            "latitude": 24.895,
+            "longitude": 121.24611,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160200003,
+            "name": "Taoyuan City",
+            "alt_names": [],
+            "latitude": 24.99368,
+            "longitude": 121.29696,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

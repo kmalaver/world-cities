@@ -1,0 +1,25 @@
+{
+    "id": 138011,
+    "name": "Saint Brandon Islands",
+    "alt_names": [],
+    "state_code": "CC",
+    "latitude": -16.583333,
+    "longitude": 59.616667,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 1380110001,
+            "name": "Cargados Carajos",
+            "alt_names": [],
+            "latitude": -16.60329,
+            "longitude": 59.65851,
+            "timezone": {
+                "zoneName": "Indian/Mauritius",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "MUT",
+                "tzName": "Mauritius Time"
+            }
+        }
+    ]
+}

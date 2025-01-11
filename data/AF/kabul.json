@@ -1,0 +1,53 @@
+{
+    "id": 1014,
+    "name": "Kabul",
+    "alt_names": [],
+    "state_code": "KAB",
+    "latitude": 34.5553494,
+    "longitude": 69.207486,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10140001,
+            "name": "Kabul",
+            "alt_names": [],
+            "latitude": 34.52813,
+            "longitude": 69.17233,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10140002,
+            "name": "Mīr Bachah Kōṯ",
+            "alt_names": [],
+            "latitude": 34.74999,
+            "longitude": 69.11899,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10140003,
+            "name": "Paghmān",
+            "alt_names": [],
+            "latitude": 34.58787,
+            "longitude": 68.95091,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

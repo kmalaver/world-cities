@@ -1,0 +1,39 @@
+{
+    "id": 98015,
+    "name": "Wan Chai",
+    "alt_names": [],
+    "state_code": "HWC",
+    "latitude": 22.27968,
+    "longitude": 114.17168,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980150001,
+            "name": "Causeway Bay",
+            "alt_names": [],
+            "latitude": 22.28,
+            "longitude": 114.185,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980150002,
+            "name": "Wan Chai",
+            "alt_names": [],
+            "latitude": 22.278,
+            "longitude": 114.182,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

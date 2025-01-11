@@ -1,0 +1,39 @@
+{
+    "id": 113016,
+    "name": "Kisii",
+    "alt_names": [],
+    "state_code": "16",
+    "latitude": -0.677334,
+    "longitude": 34.779603,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130160001,
+            "name": "Kisii",
+            "alt_names": [],
+            "latitude": -0.68174,
+            "longitude": 34.76666,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130160002,
+            "name": "Ogembo",
+            "alt_names": [],
+            "latitude": -0.80116,
+            "longitude": 34.72579,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

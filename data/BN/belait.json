@@ -1,0 +1,39 @@
+{
+    "id": 33001,
+    "name": "Belait",
+    "alt_names": [],
+    "state_code": "BE",
+    "latitude": 4.3750749,
+    "longitude": 114.6192899,
+    "type": "district",
+    "cities": [
+        {
+            "id": 330010001,
+            "name": "Kuala Belait",
+            "alt_names": [],
+            "latitude": 4.58361,
+            "longitude": 114.2312,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        },
+        {
+            "id": 330010002,
+            "name": "Seria",
+            "alt_names": [],
+            "latitude": 4.60637,
+            "longitude": 114.32476,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        }
+    ]
+}

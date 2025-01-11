@@ -1,0 +1,67 @@
+{
+    "id": 42009,
+    "name": "Mbomou",
+    "alt_names": [],
+    "state_code": "MB",
+    "latitude": 5.556837,
+    "longitude": 23.7632828,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420090001,
+            "name": "Bangassou",
+            "alt_names": [],
+            "latitude": 4.74132,
+            "longitude": 22.81838,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420090002,
+            "name": "Gambo",
+            "alt_names": [],
+            "latitude": 4.64816,
+            "longitude": 22.26331,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420090003,
+            "name": "Ouango",
+            "alt_names": [],
+            "latitude": 4.31325,
+            "longitude": 22.55524,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420090004,
+            "name": "Rafai",
+            "alt_names": [],
+            "latitude": 5.81012,
+            "longitude": 24.20305,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

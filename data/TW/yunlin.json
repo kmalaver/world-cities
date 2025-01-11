@@ -1,0 +1,39 @@
+{
+    "id": 216022,
+    "name": "Yunlin",
+    "alt_names": [],
+    "state_code": "YUN",
+    "latitude": 23.7092033,
+    "longitude": 120.4313373,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160220001,
+            "name": "Douliu",
+            "alt_names": [],
+            "latitude": 23.70944,
+            "longitude": 120.54333,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160220002,
+            "name": "Yunlin",
+            "alt_names": [],
+            "latitude": 23.70701,
+            "longitude": 120.38481,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 64,
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "iso2": "EC",
+    "numeric_code": "218",
+    "phonecode": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".ec",
+    "native": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "translations": {
+        "de": "Ecuador",
+        "es": "Ecuador",
+        "fa": "اکوادور",
+        "fr": "Équateur",
+        "hr": "Ekvador",
+        "it": "Ecuador",
+        "ja": "エクアドル",
+        "ko": "에콰도르",
+        "nl": "Ecuador",
+        "pl": "Ekwador",
+        "pt": "Equador",
+        "pt-BR": "Equador",
+        "ru": "Эквадор",
+        "tr": "Ekvator",
+        "uk": "Еквадор",
+        "zh-CN": "厄瓜多尔"
+    },
+    "latitude": -2,
+    "longitude": -77.5,
+    "emoji": "🇪🇨",
+    "emojiU": "U+1F1EA U+1F1E8",
+    "timezones": [
+        {
+            "zoneName": "America/Guayaquil",
+            "gmtOffset": -18000,
+            "gmtOffsetName": "UTC-05:00",
+            "abbreviation": "ECT",
+            "tzName": "Ecuador Time"
+        },
+        {
+            "zoneName": "Pacific/Galapagos",
+            "gmtOffset": -21600,
+            "gmtOffsetName": "UTC-06:00",
+            "abbreviation": "GALT",
+            "tzName": "Galápagos Time"
+        }
+    ]
+}

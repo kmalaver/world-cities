@@ -1,0 +1,39 @@
+{
+    "id": 123016,
+    "name": "Sabha",
+    "alt_names": [],
+    "state_code": "SB",
+    "latitude": 27.0365406,
+    "longitude": 14.4290236,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230160001,
+            "name": "Al Jadīd",
+            "alt_names": [],
+            "latitude": 27.05,
+            "longitude": 14.4,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230160002,
+            "name": "Sabhā",
+            "alt_names": [],
+            "latitude": 27.03766,
+            "longitude": 14.42832,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

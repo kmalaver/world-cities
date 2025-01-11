@@ -1,0 +1,67 @@
+{
+    "id": 29007,
+    "name": "North-East",
+    "alt_names": [],
+    "state_code": "NE",
+    "latitude": 37.5884461,
+    "longitude": -94.6863782,
+    "type": "district",
+    "cities": [
+        {
+            "id": 290070001,
+            "name": "Dukwe",
+            "alt_names": [],
+            "latitude": -20.58333,
+            "longitude": 26.41667,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290070002,
+            "name": "Makaleng",
+            "alt_names": [],
+            "latitude": -20.9,
+            "longitude": 27.28333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290070003,
+            "name": "Masunga",
+            "alt_names": [],
+            "latitude": -20.62455,
+            "longitude": 27.44875,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290070004,
+            "name": "Sebina",
+            "alt_names": [],
+            "latitude": -20.86667,
+            "longitude": 27.25,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

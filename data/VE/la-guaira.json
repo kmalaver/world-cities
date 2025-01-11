@@ -1,0 +1,67 @@
+{
+    "id": 242013,
+    "name": "La Guaira",
+    "alt_names": [],
+    "state_code": "X",
+    "latitude": 29.3052268,
+    "longitude": -94.7913854,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2420130001,
+            "name": "Caraballeda",
+            "alt_names": [],
+            "latitude": 10.61216,
+            "longitude": -66.85192,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420130002,
+            "name": "Catia La Mar",
+            "alt_names": [],
+            "latitude": 10.60545,
+            "longitude": -67.03238,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420130003,
+            "name": "La Guaira",
+            "alt_names": [],
+            "latitude": 10.60156,
+            "longitude": -66.93293,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420130004,
+            "name": "Maiquetía",
+            "alt_names": [],
+            "latitude": 10.5945,
+            "longitude": -66.95624,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 23012,
+    "name": "Zou",
+    "alt_names": [],
+    "state_code": "ZO",
+    "latitude": 7.3469268,
+    "longitude": 2.0665197,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230120001,
+            "name": "Abomey",
+            "alt_names": [],
+            "latitude": 7.18286,
+            "longitude": 1.99119,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230120002,
+            "name": "Bohicon",
+            "alt_names": [],
+            "latitude": 7.17826,
+            "longitude": 2.0667,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230120003,
+            "name": "Commune of Agbangnizoun",
+            "alt_names": [],
+            "latitude": 7.076,
+            "longitude": 1.961,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230120004,
+            "name": "Cové",
+            "alt_names": [],
+            "latitude": 7.22097,
+            "longitude": 2.34017,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

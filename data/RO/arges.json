@@ -1,0 +1,3595 @@
+{
+    "id": 180003,
+    "name": "Arges",
+    "alt_names": [],
+    "state_code": "AG",
+    "latitude": 45.0722527,
+    "longitude": 24.8142726,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1800030001,
+            "name": "Albeşti",
+            "alt_names": [],
+            "latitude": 45.30955,
+            "longitude": 25.0078,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030002,
+            "name": "Albeştii Pământeni",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 24.66667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030003,
+            "name": "Albeștii Ungureni",
+            "alt_names": [],
+            "latitude": 45.22529,
+            "longitude": 24.67254,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030004,
+            "name": "Albota",
+            "alt_names": [],
+            "latitude": 44.78333,
+            "longitude": 24.85,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030005,
+            "name": "Albota de Jos",
+            "alt_names": [],
+            "latitude": 44.76667,
+            "longitude": 24.83333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030006,
+            "name": "Aninoasa",
+            "alt_names": [],
+            "latitude": 45.18333,
+            "longitude": 24.93333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030007,
+            "name": "Arefu",
+            "alt_names": [],
+            "latitude": 45.33333,
+            "longitude": 24.6,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030008,
+            "name": "Argeșelu",
+            "alt_names": [],
+            "latitude": 44.9274,
+            "longitude": 24.87115,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030009,
+            "name": "Băbana",
+            "alt_names": [],
+            "latitude": 44.9,
+            "longitude": 24.7,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030010,
+            "name": "Bădești",
+            "alt_names": [],
+            "latitude": 45.17157,
+            "longitude": 24.86064,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030011,
+            "name": "Băiculeşti",
+            "alt_names": [],
+            "latitude": 45.06667,
+            "longitude": 24.7,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030012,
+            "name": "Băjești",
+            "alt_names": [],
+            "latitude": 45.02615,
+            "longitude": 24.94006,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030013,
+            "name": "Bălileşti",
+            "alt_names": [],
+            "latitude": 45.06667,
+            "longitude": 24.93333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030014,
+            "name": "Bărăști",
+            "alt_names": [],
+            "latitude": 45.25369,
+            "longitude": 24.59651,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030015,
+            "name": "Bârla",
+            "alt_names": [],
+            "latitude": 44.42606,
+            "longitude": 24.77743,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030016,
+            "name": "Bârlogu",
+            "alt_names": [],
+            "latitude": 44.62658,
+            "longitude": 25.08066,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030017,
+            "name": "Başcov",
+            "alt_names": [],
+            "latitude": 44.9,
+            "longitude": 24.81667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030018,
+            "name": "Beleţi",
+            "alt_names": [],
+            "latitude": 44.9,
+            "longitude": 25.08333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030019,
+            "name": "Berevoeşti",
+            "alt_names": [],
+            "latitude": 45.23333,
+            "longitude": 24.91667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030020,
+            "name": "Bogaţi",
+            "alt_names": [],
+            "latitude": 44.86667,
+            "longitude": 25.13333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030021,
+            "name": "Boteni",
+            "alt_names": [],
+            "latitude": 45.18333,
+            "longitude": 25.11667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030022,
+            "name": "Boţeşti",
+            "alt_names": [],
+            "latitude": 45.01667,
+            "longitude": 25.13333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030023,
+            "name": "Bradu",
+            "alt_names": [],
+            "latitude": 44.78333,
+            "longitude": 24.9,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030024,
+            "name": "Brăduleţ",
+            "alt_names": [],
+            "latitude": 45.28333,
+            "longitude": 24.76667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030025,
+            "name": "Bucșenești",
+            "alt_names": [],
+            "latitude": 45.30096,
+            "longitude": 24.65841,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030026,
+            "name": "Bucșenești-Lotași",
+            "alt_names": [],
+            "latitude": 45.01307,
+            "longitude": 24.96845,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030027,
+            "name": "Budeasa Mică",
+            "alt_names": [],
+            "latitude": 44.95,
+            "longitude": 24.85,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030028,
+            "name": "Bughea de Jos",
+            "alt_names": [],
+            "latitude": 45.26667,
+            "longitude": 25,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030029,
+            "name": "Bughea de Sus",
+            "alt_names": [],
+            "latitude": 45.29812,
+            "longitude": 25.03284,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030030,
+            "name": "Buzoeşti",
+            "alt_names": [],
+            "latitude": 44.58333,
+            "longitude": 24.91667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030031,
+            "name": "Căldăraru",
+            "alt_names": [],
+            "latitude": 44.45,
+            "longitude": 24.95,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030032,
+            "name": "Călineşti",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 25.05,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030033,
+            "name": "Câmpulung",
+            "alt_names": [],
+            "latitude": 45.26667,
+            "longitude": 25.05,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030034,
+            "name": "Căpățânenii Pământeni",
+            "alt_names": [],
+            "latitude": 45.31667,
+            "longitude": 24.65,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030035,
+            "name": "Capu Piscului",
+            "alt_names": [],
+            "latitude": 45.17999,
+            "longitude": 24.97679,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030036,
+            "name": "Căteasca",
+            "alt_names": [],
+            "latitude": 44.76667,
+            "longitude": 25.08333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030037,
+            "name": "Ceparii Pământeni",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 24.56667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030038,
+            "name": "Cetăţeni",
+            "alt_names": [],
+            "latitude": 45.2,
+            "longitude": 25.18333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030039,
+            "name": "Cicănești",
+            "alt_names": [],
+            "latitude": 45.24601,
+            "longitude": 24.60526,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030040,
+            "name": "Ciofrângeni",
+            "alt_names": [],
+            "latitude": 45.08333,
+            "longitude": 24.53333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030041,
+            "name": "Ciomăgeşti",
+            "alt_names": [],
+            "latitude": 44.83333,
+            "longitude": 24.45,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030042,
+            "name": "Ciulnița",
+            "alt_names": [],
+            "latitude": 44.78769,
+            "longitude": 25.15388,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030043,
+            "name": "Cocu",
+            "alt_names": [],
+            "latitude": 44.86667,
+            "longitude": 24.65,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030044,
+            "name": "Colibași",
+            "alt_names": [],
+            "latitude": 44.93544,
+            "longitude": 24.90905,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030045,
+            "name": "Comuna Albeștii de Argeș",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 24.66667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030046,
+            "name": "Comuna Albeștii de Muscel",
+            "alt_names": [],
+            "latitude": 45.31667,
+            "longitude": 25,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030047,
+            "name": "Comuna Albota",
+            "alt_names": [],
+            "latitude": 44.78287,
+            "longitude": 24.81838,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030048,
+            "name": "Comuna Aninoasa",
+            "alt_names": [],
+            "latitude": 45.20222,
+            "longitude": 24.91206,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030049,
+            "name": "Comuna Arefu",
+            "alt_names": [],
+            "latitude": 45.33142,
+            "longitude": 24.62944,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030050,
+            "name": "Comuna Băbana",
+            "alt_names": [],
+            "latitude": 44.87539,
+            "longitude": 24.71918,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030051,
+            "name": "Comuna Băiculeşti",
+            "alt_names": [],
+            "latitude": 45.06017,
+            "longitude": 24.67331,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030052,
+            "name": "Comuna Bălileşti",
+            "alt_names": [],
+            "latitude": 45.07981,
+            "longitude": 24.93943,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030053,
+            "name": "Comuna Bârla",
+            "alt_names": [],
+            "latitude": 44.42636,
+            "longitude": 24.77949,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030054,
+            "name": "Comuna Başcov",
+            "alt_names": [],
+            "latitude": 44.89295,
+            "longitude": 24.78532,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030055,
+            "name": "Comuna Beleţi-Negreşti",
+            "alt_names": [],
+            "latitude": 44.94651,
+            "longitude": 25.08603,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030056,
+            "name": "Comuna Berevoeşti",
+            "alt_names": [],
+            "latitude": 45.25327,
+            "longitude": 24.94292,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030057,
+            "name": "Comuna Bogaţi",
+            "alt_names": [],
+            "latitude": 44.87344,
+            "longitude": 25.15045,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030058,
+            "name": "Comuna Boteni",
+            "alt_names": [],
+            "latitude": 45.17937,
+            "longitude": 25.13073,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030059,
+            "name": "Comuna Boţeşti",
+            "alt_names": [],
+            "latitude": 45.00704,
+            "longitude": 25.14723,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030060,
+            "name": "Comuna Bradu",
+            "alt_names": [],
+            "latitude": 44.78333,
+            "longitude": 24.9,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030061,
+            "name": "Comuna Brăduleţ",
+            "alt_names": [],
+            "latitude": 45.27502,
+            "longitude": 24.77372,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030062,
+            "name": "Comuna Budeasa",
+            "alt_names": [],
+            "latitude": 44.95042,
+            "longitude": 24.80254,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030063,
+            "name": "Comuna Bughea de Jos",
+            "alt_names": [],
+            "latitude": 45.27404,
+            "longitude": 25.00324,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030064,
+            "name": "Comuna Bughea de Sus",
+            "alt_names": [],
+            "latitude": 45.29812,
+            "longitude": 25.03284,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030065,
+            "name": "Comuna Buzoeşti",
+            "alt_names": [],
+            "latitude": 44.60205,
+            "longitude": 24.91856,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030066,
+            "name": "Comuna Căldăraru",
+            "alt_names": [],
+            "latitude": 44.45395,
+            "longitude": 24.94263,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030067,
+            "name": "Comuna Călineşti",
+            "alt_names": [],
+            "latitude": 44.8565,
+            "longitude": 25.01968,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030068,
+            "name": "Comuna Căteasca",
+            "alt_names": [],
+            "latitude": 44.77056,
+            "longitude": 25.03633,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030069,
+            "name": "Comuna Cepari",
+            "alt_names": [],
+            "latitude": 45.20564,
+            "longitude": 24.53064,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030070,
+            "name": "Comuna Cetăţeni",
+            "alt_names": [],
+            "latitude": 45.19234,
+            "longitude": 25.20789,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030071,
+            "name": "Comuna Cicănești",
+            "alt_names": [],
+            "latitude": 45.24577,
+            "longitude": 24.60629,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030072,
+            "name": "Comuna Ciofrângeni",
+            "alt_names": [],
+            "latitude": 45.10277,
+            "longitude": 24.53704,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030073,
+            "name": "Comuna Ciomăgeşti",
+            "alt_names": [],
+            "latitude": 44.85656,
+            "longitude": 24.47229,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030074,
+            "name": "Comuna Cocu",
+            "alt_names": [],
+            "latitude": 44.87429,
+            "longitude": 24.65112,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030075,
+            "name": "Comuna Corbeni",
+            "alt_names": [],
+            "latitude": 45.29597,
+            "longitude": 24.66207,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030076,
+            "name": "Comuna Corbi",
+            "alt_names": [],
+            "latitude": 45.25572,
+            "longitude": 24.81611,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030077,
+            "name": "Comuna Coşeşti",
+            "alt_names": [],
+            "latitude": 45.06431,
+            "longitude": 24.87202,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030078,
+            "name": "Comuna Cotmeana",
+            "alt_names": [],
+            "latitude": 45.00518,
+            "longitude": 24.62021,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030079,
+            "name": "Comuna Cuca",
+            "alt_names": [],
+            "latitude": 44.95654,
+            "longitude": 24.50636,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030080,
+            "name": "Comuna Dâmbovicioara",
+            "alt_names": [],
+            "latitude": 45.43452,
+            "longitude": 25.22737,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030081,
+            "name": "Comuna Dărmăneşti",
+            "alt_names": [],
+            "latitude": 45.00656,
+            "longitude": 24.90224,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030082,
+            "name": "Comuna Davideşti",
+            "alt_names": [],
+            "latitude": 45.00694,
+            "longitude": 25.03599,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030083,
+            "name": "Comuna Dobreşti",
+            "alt_names": [],
+            "latitude": 44.94992,
+            "longitude": 25.11907,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030084,
+            "name": "Comuna Domneşti",
+            "alt_names": [],
+            "latitude": 45.20562,
+            "longitude": 24.83945,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030085,
+            "name": "Comuna Drăganu",
+            "alt_names": [],
+            "latitude": 44.93761,
+            "longitude": 24.70301,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030086,
+            "name": "Comuna Dragoslavele",
+            "alt_names": [],
+            "latitude": 45.33451,
+            "longitude": 25.1701,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030087,
+            "name": "Comuna Godeni",
+            "alt_names": [],
+            "latitude": 45.22311,
+            "longitude": 24.97842,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030088,
+            "name": "Comuna Hârseşti",
+            "alt_names": [],
+            "latitude": 44.51091,
+            "longitude": 24.78294,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030089,
+            "name": "Comuna Hârtieşti",
+            "alt_names": [],
+            "latitude": 45.12629,
+            "longitude": 25.11343,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030090,
+            "name": "Comuna Izvoru",
+            "alt_names": [],
+            "latitude": 44.49414,
+            "longitude": 25.0647,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030091,
+            "name": "Comuna Leordeni",
+            "alt_names": [],
+            "latitude": 44.79117,
+            "longitude": 25.16299,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030092,
+            "name": "Comuna Lereşti",
+            "alt_names": [],
+            "latitude": 45.32789,
+            "longitude": 25.06951,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030093,
+            "name": "Comuna Lunca Corbului",
+            "alt_names": [],
+            "latitude": 44.68361,
+            "longitude": 24.76056,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030094,
+            "name": "Comuna Mălureni",
+            "alt_names": [],
+            "latitude": 45.0478,
+            "longitude": 24.77875,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030095,
+            "name": "Comuna Mărăcineni",
+            "alt_names": [],
+            "latitude": 44.90857,
+            "longitude": 24.87484,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030096,
+            "name": "Comuna Merișani",
+            "alt_names": [],
+            "latitude": 44.96674,
+            "longitude": 24.74482,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030097,
+            "name": "Comuna Miceşti",
+            "alt_names": [],
+            "latitude": 44.97367,
+            "longitude": 24.85577,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030098,
+            "name": "Comuna Mihăeşti",
+            "alt_names": [],
+            "latitude": 45.11563,
+            "longitude": 25.01938,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030099,
+            "name": "Comuna Mioarele",
+            "alt_names": [],
+            "latitude": 45.23396,
+            "longitude": 25.10045,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030100,
+            "name": "Comuna Miroşi",
+            "alt_names": [],
+            "latitude": 44.40316,
+            "longitude": 24.9517,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030101,
+            "name": "Comuna Morărești",
+            "alt_names": [],
+            "latitude": 45.0076,
+            "longitude": 24.56079,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030102,
+            "name": "Comuna Moşoaia",
+            "alt_names": [],
+            "latitude": 44.83013,
+            "longitude": 24.79957,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030103,
+            "name": "Comuna Mozăceni",
+            "alt_names": [],
+            "latitude": 44.56366,
+            "longitude": 25.17492,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030104,
+            "name": "Comuna Mușătești",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 24.78333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030105,
+            "name": "Comuna Negraşi",
+            "alt_names": [],
+            "latitude": 44.61441,
+            "longitude": 25.12404,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030106,
+            "name": "Comuna Nucşoara",
+            "alt_names": [],
+            "latitude": 45.33798,
+            "longitude": 24.78943,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030107,
+            "name": "Comuna Oarja",
+            "alt_names": [],
+            "latitude": 44.7573,
+            "longitude": 24.96935,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030108,
+            "name": "Comuna Pietroşani",
+            "alt_names": [],
+            "latitude": 45.15375,
+            "longitude": 24.84439,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030109,
+            "name": "Comuna Poiana Lacului",
+            "alt_names": [],
+            "latitude": 44.81199,
+            "longitude": 24.71296,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030110,
+            "name": "Comuna Poienarii de Argeş",
+            "alt_names": [],
+            "latitude": 45.06667,
+            "longitude": 24.53333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030111,
+            "name": "Comuna Poienarii de Muscel",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 25.05,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030112,
+            "name": "Comuna Popeşti",
+            "alt_names": [],
+            "latitude": 44.44521,
+            "longitude": 25.09114,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030113,
+            "name": "Comuna Priboieni",
+            "alt_names": [],
+            "latitude": 44.87728,
+            "longitude": 25.0868,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030114,
+            "name": "Comuna Râca",
+            "alt_names": [],
+            "latitude": 44.44216,
+            "longitude": 25.03671,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030115,
+            "name": "Comuna Răteşti",
+            "alt_names": [],
+            "latitude": 44.7169,
+            "longitude": 25.15858,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030116,
+            "name": "Comuna Recea",
+            "alt_names": [],
+            "latitude": 44.54264,
+            "longitude": 25.02738,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030117,
+            "name": "Comuna Rociu",
+            "alt_names": [],
+            "latitude": 44.66838,
+            "longitude": 25.02014,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030118,
+            "name": "Comuna Rucăr",
+            "alt_names": [],
+            "latitude": 45.41607,
+            "longitude": 25.17338,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030119,
+            "name": "Comuna Sălătrucu",
+            "alt_names": [],
+            "latitude": 45.29098,
+            "longitude": 24.52523,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030120,
+            "name": "Comuna Săpata",
+            "alt_names": [],
+            "latitude": 44.72789,
+            "longitude": 24.7528,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030121,
+            "name": "Comuna Schitu-Goleşti",
+            "alt_names": [],
+            "latitude": 45.1863,
+            "longitude": 25.00576,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030122,
+            "name": "Comuna Slobozia",
+            "alt_names": [],
+            "latitude": 44.52197,
+            "longitude": 25.24092,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030123,
+            "name": "Comuna Stâlpeni",
+            "alt_names": [],
+            "latitude": 45.05665,
+            "longitude": 24.99307,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030124,
+            "name": "Comuna Ştefan cel Mare",
+            "alt_names": [],
+            "latitude": 44.49197,
+            "longitude": 25.2471,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030125,
+            "name": "Comuna Stoeneşti",
+            "alt_names": [],
+            "latitude": 45.26432,
+            "longitude": 25.17674,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030126,
+            "name": "Comuna Stolnici",
+            "alt_names": [],
+            "latitude": 44.58075,
+            "longitude": 24.77335,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030127,
+            "name": "Comuna Şuici",
+            "alt_names": [],
+            "latitude": 45.24454,
+            "longitude": 24.53621,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030128,
+            "name": "Comuna Suseni",
+            "alt_names": [],
+            "latitude": 44.70861,
+            "longitude": 24.96437,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030129,
+            "name": "Comuna Teiu",
+            "alt_names": [],
+            "latitude": 44.64225,
+            "longitude": 25.1411,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030130,
+            "name": "Comuna Tigveni",
+            "alt_names": [],
+            "latitude": 45.15588,
+            "longitude": 24.55094,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030131,
+            "name": "Comuna Țițești",
+            "alt_names": [],
+            "latitude": 45.01146,
+            "longitude": 24.97898,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030132,
+            "name": "Comuna Uda",
+            "alt_names": [],
+            "latitude": 44.87591,
+            "longitude": 24.58582,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030133,
+            "name": "Comuna Ungheni",
+            "alt_names": [],
+            "latitude": 44.51166,
+            "longitude": 24.95186,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030134,
+            "name": "Comuna Valea Danului",
+            "alt_names": [],
+            "latitude": 45.18962,
+            "longitude": 24.61959,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030135,
+            "name": "Comuna Valea Iaşului",
+            "alt_names": [],
+            "latitude": 45.19677,
+            "longitude": 24.70094,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030136,
+            "name": "Comuna Valea Mare-Pravăţ",
+            "alt_names": [],
+            "latitude": 45.289,
+            "longitude": 25.10567,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030137,
+            "name": "Comuna Vedea",
+            "alt_names": [],
+            "latitude": 44.77735,
+            "longitude": 24.64677,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030138,
+            "name": "Comuna Vlădeşti",
+            "alt_names": [],
+            "latitude": 45.14344,
+            "longitude": 24.93634,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030139,
+            "name": "Comuna Vultureşti",
+            "alt_names": [],
+            "latitude": 45.05999,
+            "longitude": 25.0737,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030140,
+            "name": "Conțești",
+            "alt_names": [],
+            "latitude": 44.98494,
+            "longitude": 25.01032,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030141,
+            "name": "Corbeni",
+            "alt_names": [],
+            "latitude": 45.3,
+            "longitude": 24.65,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030142,
+            "name": "Corbi",
+            "alt_names": [],
+            "latitude": 45.28333,
+            "longitude": 24.8,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030143,
+            "name": "Cornățel",
+            "alt_names": [],
+            "latitude": 44.57972,
+            "longitude": 24.95487,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030144,
+            "name": "Coşeşti",
+            "alt_names": [],
+            "latitude": 45.06667,
+            "longitude": 24.86667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030145,
+            "name": "Costeşti",
+            "alt_names": [],
+            "latitude": 44.66667,
+            "longitude": 24.88333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030146,
+            "name": "Cotenești",
+            "alt_names": [],
+            "latitude": 45.23462,
+            "longitude": 25.18617,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030147,
+            "name": "Cotmeana",
+            "alt_names": [],
+            "latitude": 44.96667,
+            "longitude": 24.61667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030148,
+            "name": "Cuca",
+            "alt_names": [],
+            "latitude": 44.95,
+            "longitude": 24.51667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030149,
+            "name": "Curtea de Argeş",
+            "alt_names": [],
+            "latitude": 45.13422,
+            "longitude": 24.67409,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030150,
+            "name": "Dâmbovicioara",
+            "alt_names": [],
+            "latitude": 45.45,
+            "longitude": 25.23333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030151,
+            "name": "Dărmăneşti",
+            "alt_names": [],
+            "latitude": 45.01667,
+            "longitude": 24.9,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030152,
+            "name": "Davideşti",
+            "alt_names": [],
+            "latitude": 45.01667,
+            "longitude": 25.03333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030153,
+            "name": "Dobreşti",
+            "alt_names": [],
+            "latitude": 44.96667,
+            "longitude": 25.13333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030154,
+            "name": "Dobrotu",
+            "alt_names": [],
+            "latitude": 45.20633,
+            "longitude": 24.65859,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030155,
+            "name": "Domneşti",
+            "alt_names": [],
+            "latitude": 45.2,
+            "longitude": 24.83333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030156,
+            "name": "Drăganu-Olteni",
+            "alt_names": [],
+            "latitude": 44.93333,
+            "longitude": 24.71667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030157,
+            "name": "Drăghici",
+            "alt_names": [],
+            "latitude": 45.12865,
+            "longitude": 25.04508,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030158,
+            "name": "Dragoslavele",
+            "alt_names": [],
+            "latitude": 45.34801,
+            "longitude": 25.16925,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030159,
+            "name": "Făgetu",
+            "alt_names": [],
+            "latitude": 44.90616,
+            "longitude": 24.91159,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030160,
+            "name": "Gălășești",
+            "alt_names": [],
+            "latitude": 44.95593,
+            "longitude": 24.78602,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030161,
+            "name": "Geamăna",
+            "alt_names": [],
+            "latitude": 44.82005,
+            "longitude": 24.89109,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030162,
+            "name": "Godeni",
+            "alt_names": [],
+            "latitude": 45.23333,
+            "longitude": 24.98333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030163,
+            "name": "Golești",
+            "alt_names": [],
+            "latitude": 44.8397,
+            "longitude": 24.9653,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030164,
+            "name": "Gorganu",
+            "alt_names": [],
+            "latitude": 44.84241,
+            "longitude": 25.03838,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030165,
+            "name": "Hârseşti",
+            "alt_names": [],
+            "latitude": 44.53333,
+            "longitude": 24.78333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030166,
+            "name": "Hârtieşti",
+            "alt_names": [],
+            "latitude": 45.11667,
+            "longitude": 25.1,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030167,
+            "name": "Humele",
+            "alt_names": [],
+            "latitude": 44.52612,
+            "longitude": 24.97714,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030168,
+            "name": "Izvoru",
+            "alt_names": [],
+            "latitude": 44.49414,
+            "longitude": 25.0647,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030169,
+            "name": "Izvoru de Sus",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 24.65,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030170,
+            "name": "Jugur",
+            "alt_names": [],
+            "latitude": 45.19255,
+            "longitude": 25.08493,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030171,
+            "name": "Jupânești",
+            "alt_names": [],
+            "latitude": 45.06667,
+            "longitude": 24.85,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030172,
+            "name": "Lăzărești",
+            "alt_names": [],
+            "latitude": 45.15659,
+            "longitude": 24.9954,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030173,
+            "name": "Leicești",
+            "alt_names": [],
+            "latitude": 45.09586,
+            "longitude": 24.86108,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030174,
+            "name": "Leordeni",
+            "alt_names": [],
+            "latitude": 44.78333,
+            "longitude": 25.11667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030175,
+            "name": "Lereşti",
+            "alt_names": [],
+            "latitude": 45.33333,
+            "longitude": 25.06667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030176,
+            "name": "Livezeni",
+            "alt_names": [],
+            "latitude": 45.03838,
+            "longitude": 24.97676,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030177,
+            "name": "Lunca Corbului",
+            "alt_names": [],
+            "latitude": 44.68391,
+            "longitude": 24.75855,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030178,
+            "name": "Mălureni",
+            "alt_names": [],
+            "latitude": 45.1,
+            "longitude": 24.8,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030179,
+            "name": "Mărăcineni",
+            "alt_names": [],
+            "latitude": 44.9,
+            "longitude": 24.88333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030180,
+            "name": "Mareș",
+            "alt_names": [],
+            "latitude": 44.77824,
+            "longitude": 24.79005,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030181,
+            "name": "Mârţeşti",
+            "alt_names": [],
+            "latitude": 44.71667,
+            "longitude": 24.75,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030182,
+            "name": "Mățău",
+            "alt_names": [],
+            "latitude": 45.23565,
+            "longitude": 25.08286,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030183,
+            "name": "Merişani",
+            "alt_names": [],
+            "latitude": 44.9682,
+            "longitude": 24.74327,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030184,
+            "name": "Miceşti",
+            "alt_names": [],
+            "latitude": 44.95,
+            "longitude": 24.86667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030185,
+            "name": "Mihăeşti",
+            "alt_names": [],
+            "latitude": 45.11667,
+            "longitude": 25,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030186,
+            "name": "Mioveni",
+            "alt_names": [],
+            "latitude": 44.95905,
+            "longitude": 24.94198,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030187,
+            "name": "Miroşi",
+            "alt_names": [],
+            "latitude": 44.41667,
+            "longitude": 24.93333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030188,
+            "name": "Morăreşti",
+            "alt_names": [],
+            "latitude": 45.01667,
+            "longitude": 24.56667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030189,
+            "name": "Moşoaia",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 24.76667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030190,
+            "name": "Mozăceni",
+            "alt_names": [],
+            "latitude": 44.56667,
+            "longitude": 25.16667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030191,
+            "name": "Municipiul Câmpulung",
+            "alt_names": [],
+            "latitude": 45.26691,
+            "longitude": 25.04419,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030192,
+            "name": "Municipiul Curtea de Argeș",
+            "alt_names": [],
+            "latitude": 45.1384,
+            "longitude": 24.67512,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030193,
+            "name": "Municipiul Piteşti",
+            "alt_names": [],
+            "latitude": 44.85782,
+            "longitude": 24.87133,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030194,
+            "name": "Mușătești",
+            "alt_names": [],
+            "latitude": 45.21651,
+            "longitude": 24.77941,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030195,
+            "name": "Negraşi",
+            "alt_names": [],
+            "latitude": 44.6,
+            "longitude": 25.11667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030196,
+            "name": "Nucşoara",
+            "alt_names": [],
+            "latitude": 45.33333,
+            "longitude": 24.78333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030197,
+            "name": "Oarja",
+            "alt_names": [],
+            "latitude": 44.76053,
+            "longitude": 24.97596,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030198,
+            "name": "Oarja Sat",
+            "alt_names": [],
+            "latitude": 44.76429,
+            "longitude": 24.97141,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030199,
+            "name": "Oeștii Pământeni",
+            "alt_names": [],
+            "latitude": 45.25241,
+            "longitude": 24.65658,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030200,
+            "name": "Oraș Costeşti",
+            "alt_names": [],
+            "latitude": 44.66667,
+            "longitude": 24.88333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030201,
+            "name": "Oraș Mioveni",
+            "alt_names": [],
+            "latitude": 44.95897,
+            "longitude": 24.94274,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030202,
+            "name": "Oraș Ştefăneşti",
+            "alt_names": [],
+            "latitude": 44.86667,
+            "longitude": 24.93333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030203,
+            "name": "Oraș Topoloveni",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 25.08333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030204,
+            "name": "Pătuleni",
+            "alt_names": [],
+            "latitude": 44.73247,
+            "longitude": 25.16495,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030205,
+            "name": "Petrești",
+            "alt_names": [],
+            "latitude": 45.04364,
+            "longitude": 24.88989,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030206,
+            "name": "Pietroşani",
+            "alt_names": [],
+            "latitude": 45.18333,
+            "longitude": 24.85,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030207,
+            "name": "Piteşti",
+            "alt_names": [],
+            "latitude": 44.85,
+            "longitude": 24.86667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030208,
+            "name": "Poiana Lacului",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 24.73333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030209,
+            "name": "Poienari",
+            "alt_names": [],
+            "latitude": 45.21667,
+            "longitude": 25.05,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030210,
+            "name": "Popeşti",
+            "alt_names": [],
+            "latitude": 44.44181,
+            "longitude": 25.10007,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030211,
+            "name": "Priboieni",
+            "alt_names": [],
+            "latitude": 44.88333,
+            "longitude": 25.08333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030212,
+            "name": "Purcăreni",
+            "alt_names": [],
+            "latitude": 44.96847,
+            "longitude": 24.88736,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030213,
+            "name": "Râca",
+            "alt_names": [],
+            "latitude": 44.43426,
+            "longitude": 25.04333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030214,
+            "name": "Racovița",
+            "alt_names": [],
+            "latitude": 44.97081,
+            "longitude": 24.97582,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030215,
+            "name": "Rădești",
+            "alt_names": [],
+            "latitude": 45.07184,
+            "longitude": 25.00207,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030216,
+            "name": "Răteşti",
+            "alt_names": [],
+            "latitude": 44.73333,
+            "longitude": 25.13333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030217,
+            "name": "Recea",
+            "alt_names": [],
+            "latitude": 44.53333,
+            "longitude": 25.01667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030218,
+            "name": "Retevoiești",
+            "alt_names": [],
+            "latitude": 45.14016,
+            "longitude": 24.83797,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030219,
+            "name": "Rociu",
+            "alt_names": [],
+            "latitude": 44.66667,
+            "longitude": 25.03333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030220,
+            "name": "Rucăr",
+            "alt_names": [],
+            "latitude": 45.4,
+            "longitude": 25.16667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030221,
+            "name": "Sălătrucu",
+            "alt_names": [],
+            "latitude": 45.33333,
+            "longitude": 24.51667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030222,
+            "name": "Schitu-Goleşti",
+            "alt_names": [],
+            "latitude": 45.2,
+            "longitude": 25,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030223,
+            "name": "Șerbănești",
+            "alt_names": [],
+            "latitude": 44.68142,
+            "longitude": 24.99236,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030224,
+            "name": "Șerboeni",
+            "alt_names": [],
+            "latitude": 44.63818,
+            "longitude": 24.89355,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030225,
+            "name": "Slănic",
+            "alt_names": [],
+            "latitude": 45.23108,
+            "longitude": 24.89411,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030226,
+            "name": "Slobozia",
+            "alt_names": [],
+            "latitude": 44.52527,
+            "longitude": 25.24263,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030227,
+            "name": "Stâlpeni",
+            "alt_names": [],
+            "latitude": 45.05,
+            "longitude": 24.96667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030228,
+            "name": "Ştefan cel Mare",
+            "alt_names": [],
+            "latitude": 44.49283,
+            "longitude": 25.24418,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030229,
+            "name": "Ştefăneşti",
+            "alt_names": [],
+            "latitude": 44.86506,
+            "longitude": 24.94961,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030230,
+            "name": "Stoeneşti",
+            "alt_names": [],
+            "latitude": 45.25,
+            "longitude": 25.16667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030231,
+            "name": "Stolnici",
+            "alt_names": [],
+            "latitude": 44.56667,
+            "longitude": 24.78333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030232,
+            "name": "Strâmbeni",
+            "alt_names": [],
+            "latitude": 44.46897,
+            "longitude": 24.97315,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030233,
+            "name": "Stroești",
+            "alt_names": [],
+            "latitude": 45.12953,
+            "longitude": 24.79418,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030234,
+            "name": "Şuici",
+            "alt_names": [],
+            "latitude": 45.25,
+            "longitude": 24.53333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030235,
+            "name": "Surdulești",
+            "alt_names": [],
+            "latitude": 44.39217,
+            "longitude": 24.95798,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030236,
+            "name": "Suseni",
+            "alt_names": [],
+            "latitude": 44.71667,
+            "longitude": 24.95,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030237,
+            "name": "Teiu",
+            "alt_names": [],
+            "latitude": 44.66667,
+            "longitude": 25.1,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030238,
+            "name": "Tigveni",
+            "alt_names": [],
+            "latitude": 45.13333,
+            "longitude": 24.58333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030239,
+            "name": "Titeşti",
+            "alt_names": [],
+            "latitude": 45.01667,
+            "longitude": 25,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030240,
+            "name": "Toplița",
+            "alt_names": [],
+            "latitude": 45.09022,
+            "longitude": 24.73236,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030241,
+            "name": "Topoloveni",
+            "alt_names": [],
+            "latitude": 44.81667,
+            "longitude": 25.08333,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030242,
+            "name": "Tutana",
+            "alt_names": [],
+            "latitude": 45.04286,
+            "longitude": 24.65122,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030243,
+            "name": "Uda",
+            "alt_names": [],
+            "latitude": 44.91667,
+            "longitude": 24.56667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030244,
+            "name": "Ungheni",
+            "alt_names": [],
+            "latitude": 44.5,
+            "longitude": 24.96667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030245,
+            "name": "Valea Caselor",
+            "alt_names": [],
+            "latitude": 45.35,
+            "longitude": 25.16667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030246,
+            "name": "Valea Danului",
+            "alt_names": [],
+            "latitude": 45.18333,
+            "longitude": 24.65,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030247,
+            "name": "Valea Iaşului",
+            "alt_names": [],
+            "latitude": 45.18333,
+            "longitude": 24.71667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030248,
+            "name": "Valea Mare Pravăț",
+            "alt_names": [],
+            "latitude": 45.29171,
+            "longitude": 25.0925,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030249,
+            "name": "Valea Mare-Podgoria",
+            "alt_names": [],
+            "latitude": 44.88513,
+            "longitude": 24.90613,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030250,
+            "name": "Valea Popii",
+            "alt_names": [],
+            "latitude": 45.09253,
+            "longitude": 25.0224,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030251,
+            "name": "Văleni-Podgoria",
+            "alt_names": [],
+            "latitude": 44.85755,
+            "longitude": 24.9893,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030252,
+            "name": "Vedea",
+            "alt_names": [],
+            "latitude": 44.78333,
+            "longitude": 24.61667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030253,
+            "name": "Vlădești",
+            "alt_names": [],
+            "latitude": 45.15,
+            "longitude": 24.91667,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030254,
+            "name": "Voinești",
+            "alt_names": [],
+            "latitude": 45.30007,
+            "longitude": 25.07225,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030255,
+            "name": "Vrănești",
+            "alt_names": [],
+            "latitude": 44.84595,
+            "longitude": 25.00716,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1800030256,
+            "name": "Vulturești",
+            "alt_names": [],
+            "latitude": 45.06618,
+            "longitude": 25.08347,
+            "timezone": {
+                "zoneName": "Europe/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

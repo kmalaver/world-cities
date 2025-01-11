@@ -1,0 +1,25 @@
+{
+    "id": 218031,
+    "name": "Zanzibar West",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": -6.2298136,
+    "longitude": 39.2583293,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2180310001,
+            "name": "Zanzibar",
+            "alt_names": [],
+            "latitude": -6.16394,
+            "longitude": 39.19793,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

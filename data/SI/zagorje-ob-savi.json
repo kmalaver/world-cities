@@ -1,0 +1,53 @@
+{
+    "id": 201203,
+    "name": "Zagorje ob Savi",
+    "alt_names": [],
+    "state_code": "142",
+    "latitude": 46.1345202,
+    "longitude": 14.9964384,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2012030001,
+            "name": "Izlake",
+            "alt_names": [],
+            "latitude": 46.15,
+            "longitude": 14.95,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2012030002,
+            "name": "Kisovec",
+            "alt_names": [],
+            "latitude": 46.13911,
+            "longitude": 14.96295,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2012030003,
+            "name": "Zagorje ob Savi",
+            "alt_names": [],
+            "latitude": 46.13179,
+            "longitude": 14.99694,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

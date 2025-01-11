@@ -1,0 +1,95 @@
+{
+    "id": 74004,
+    "name": "Central",
+    "alt_names": [],
+    "state_code": "C",
+    "latitude": 34.0440066,
+    "longitude": -118.2472738,
+    "type": "division",
+    "cities": [
+        {
+            "id": 740040001,
+            "name": "Naitasiri Province",
+            "alt_names": [],
+            "latitude": -17.83333,
+            "longitude": 178.25,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740040002,
+            "name": "Namosi Province",
+            "alt_names": [],
+            "latitude": -18.05,
+            "longitude": 178.13333,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740040003,
+            "name": "Rewa Province",
+            "alt_names": [],
+            "latitude": -18.08333,
+            "longitude": 178.33333,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740040004,
+            "name": "Serua Province",
+            "alt_names": [],
+            "latitude": -18.16667,
+            "longitude": 178,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740040005,
+            "name": "Suva",
+            "alt_names": [],
+            "latitude": -18.14161,
+            "longitude": 178.44149,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740040006,
+            "name": "Tailevu Province",
+            "alt_names": [],
+            "latitude": -17.83333,
+            "longitude": 178.5,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        }
+    ]
+}

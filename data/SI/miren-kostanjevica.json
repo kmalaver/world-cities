@@ -1,0 +1,39 @@
+{
+    "id": 201102,
+    "name": "Miren–Kostanjevica",
+    "alt_names": [],
+    "state_code": "075",
+    "latitude": 45.8436029,
+    "longitude": 13.6276647,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011020001,
+            "name": "Bilje",
+            "alt_names": [],
+            "latitude": 45.89444,
+            "longitude": 13.63222,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011020002,
+            "name": "Miren",
+            "alt_names": [],
+            "latitude": 45.89556,
+            "longitude": 13.6075,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

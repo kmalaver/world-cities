@@ -1,0 +1,39 @@
+{
+    "id": 123017,
+    "name": "Sirte",
+    "alt_names": [],
+    "state_code": "SR",
+    "latitude": 31.189689,
+    "longitude": 16.5701927,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230170001,
+            "name": "Qasr Abu Hadi",
+            "alt_names": [],
+            "latitude": 31.05926,
+            "longitude": 16.65905,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230170002,
+            "name": "Sirte",
+            "alt_names": [],
+            "latitude": 31.20892,
+            "longitude": 16.58866,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

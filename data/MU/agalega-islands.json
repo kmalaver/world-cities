@@ -1,0 +1,25 @@
+{
+    "id": 138001,
+    "name": "Agalega Islands",
+    "alt_names": [],
+    "state_code": "AG",
+    "latitude": -10.4,
+    "longitude": 56.6166667,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 1380010001,
+            "name": "Vingt Cinq",
+            "alt_names": [],
+            "latitude": -10.38803,
+            "longitude": 56.61795,
+            "timezone": {
+                "zoneName": "Indian/Mauritius",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "MUT",
+                "tzName": "Mauritius Time"
+            }
+        }
+    ]
+}

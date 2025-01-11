@@ -1,0 +1,655 @@
+{
+    "id": 75019,
+    "name": "Uusimaa",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": 60.21872,
+    "longitude": 25.271621,
+    "type": "region",
+    "cities": [
+        {
+            "id": 750190001,
+            "name": "Askola",
+            "alt_names": [],
+            "latitude": 60.53333,
+            "longitude": 25.6,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190002,
+            "name": "Ekenäs",
+            "alt_names": [],
+            "latitude": 59.97359,
+            "longitude": 23.43389,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190003,
+            "name": "Espoo",
+            "alt_names": [],
+            "latitude": 60.2052,
+            "longitude": 24.6522,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190004,
+            "name": "Gumböle",
+            "alt_names": [],
+            "latitude": 60.21948,
+            "longitude": 24.61684,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190005,
+            "name": "Hanko",
+            "alt_names": [],
+            "latitude": 59.83333,
+            "longitude": 22.95,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190006,
+            "name": "Helsinki",
+            "alt_names": [],
+            "latitude": 60.16952,
+            "longitude": 24.93545,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190007,
+            "name": "Hyvinge",
+            "alt_names": [],
+            "latitude": 60.63333,
+            "longitude": 24.86667,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190008,
+            "name": "Ingå",
+            "alt_names": [],
+            "latitude": 60.04587,
+            "longitude": 24.00459,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190009,
+            "name": "Järvenpää",
+            "alt_names": [],
+            "latitude": 60.47369,
+            "longitude": 25.08992,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190010,
+            "name": "Kaarela",
+            "alt_names": [],
+            "latitude": 60.25174,
+            "longitude": 24.88111,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190011,
+            "name": "Kallio",
+            "alt_names": [],
+            "latitude": 60.18427,
+            "longitude": 24.95034,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190012,
+            "name": "Karis",
+            "alt_names": [],
+            "latitude": 60.07178,
+            "longitude": 23.66163,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190013,
+            "name": "Karjalohja",
+            "alt_names": [],
+            "latitude": 60.24015,
+            "longitude": 23.71789,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190014,
+            "name": "Karkkila",
+            "alt_names": [],
+            "latitude": 60.53418,
+            "longitude": 24.20977,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190015,
+            "name": "Kärkölä",
+            "alt_names": [],
+            "latitude": 60.61292,
+            "longitude": 23.94196,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190016,
+            "name": "Kauniainen",
+            "alt_names": [],
+            "latitude": 60.21209,
+            "longitude": 24.72756,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190017,
+            "name": "Kellokoski",
+            "alt_names": [],
+            "latitude": 60.53271,
+            "longitude": 25.10917,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190018,
+            "name": "Kerava",
+            "alt_names": [],
+            "latitude": 60.40338,
+            "longitude": 25.105,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190019,
+            "name": "Kilo",
+            "alt_names": [],
+            "latitude": 60.21746,
+            "longitude": 24.78151,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190020,
+            "name": "Kirkkonummi",
+            "alt_names": [],
+            "latitude": 60.12381,
+            "longitude": 24.43853,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190021,
+            "name": "Koukkuniemi",
+            "alt_names": [],
+            "latitude": 60.15261,
+            "longitude": 24.76467,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190022,
+            "name": "Lapinjärvi",
+            "alt_names": [],
+            "latitude": 60.62443,
+            "longitude": 26.1972,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190023,
+            "name": "Lauttasaari",
+            "alt_names": [],
+            "latitude": 60.15896,
+            "longitude": 24.86797,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190024,
+            "name": "Liljendal",
+            "alt_names": [],
+            "latitude": 60.57346,
+            "longitude": 26.05257,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190025,
+            "name": "Lohja",
+            "alt_names": [],
+            "latitude": 60.24859,
+            "longitude": 24.06534,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190026,
+            "name": "Lovisa",
+            "alt_names": [],
+            "latitude": 60.45659,
+            "longitude": 26.22505,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190027,
+            "name": "Mäntsälä",
+            "alt_names": [],
+            "latitude": 60.63333,
+            "longitude": 25.31667,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190028,
+            "name": "Mellunkylä",
+            "alt_names": [],
+            "latitude": 60.23355,
+            "longitude": 25.09947,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190029,
+            "name": "Munkkiniemi",
+            "alt_names": [],
+            "latitude": 60.19861,
+            "longitude": 24.87772,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190030,
+            "name": "Myrskylä",
+            "alt_names": [],
+            "latitude": 60.66965,
+            "longitude": 25.8475,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190031,
+            "name": "Nurmijärvi",
+            "alt_names": [],
+            "latitude": 60.46407,
+            "longitude": 24.8073,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190032,
+            "name": "Otaniemi",
+            "alt_names": [],
+            "latitude": 60.18395,
+            "longitude": 24.82786,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190033,
+            "name": "Pernå",
+            "alt_names": [],
+            "latitude": 60.44869,
+            "longitude": 26.03187,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190034,
+            "name": "Pohja",
+            "alt_names": [],
+            "latitude": 60.09626,
+            "longitude": 23.52757,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190035,
+            "name": "Pornainen",
+            "alt_names": [],
+            "latitude": 60.47581,
+            "longitude": 25.3749,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190036,
+            "name": "Porvoo",
+            "alt_names": [],
+            "latitude": 60.39233,
+            "longitude": 25.66507,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190037,
+            "name": "Pukkila",
+            "alt_names": [],
+            "latitude": 60.65,
+            "longitude": 25.56667,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190038,
+            "name": "Raaseporin",
+            "alt_names": [],
+            "latitude": 60.00273,
+            "longitude": 23.55499,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190039,
+            "name": "Ruotsinpyhtää",
+            "alt_names": [],
+            "latitude": 60.5268,
+            "longitude": 26.46203,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190040,
+            "name": "Sammatti",
+            "alt_names": [],
+            "latitude": 60.31991,
+            "longitude": 23.82085,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190041,
+            "name": "Sibbo",
+            "alt_names": [],
+            "latitude": 60.37752,
+            "longitude": 25.26906,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190042,
+            "name": "Siuntio",
+            "alt_names": [],
+            "latitude": 60.13862,
+            "longitude": 24.22715,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190043,
+            "name": "Tuusula",
+            "alt_names": [],
+            "latitude": 60.40368,
+            "longitude": 25.02638,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190044,
+            "name": "Vantaa",
+            "alt_names": [],
+            "latitude": 60.29414,
+            "longitude": 25.04099,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190045,
+            "name": "Vihti",
+            "alt_names": [],
+            "latitude": 60.41699,
+            "longitude": 24.31965,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 750190046,
+            "name": "Vuosaari",
+            "alt_names": [],
+            "latitude": 60.20963,
+            "longitude": 25.14195,
+            "timezone": {
+                "zoneName": "Europe/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

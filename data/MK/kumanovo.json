@@ -1,0 +1,53 @@
+{
+    "id": 162042,
+    "name": "Kumanovo",
+    "alt_names": [],
+    "state_code": "47",
+    "latitude": 42.0732613,
+    "longitude": 21.7853143,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620420001,
+            "name": "Bedinje",
+            "alt_names": [],
+            "latitude": 42.14167,
+            "longitude": 21.69639,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620420002,
+            "name": "Kumanovo",
+            "alt_names": [],
+            "latitude": 42.13222,
+            "longitude": 21.71444,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620420003,
+            "name": "Romanovci",
+            "alt_names": [],
+            "latitude": 42.09472,
+            "longitude": 21.69306,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

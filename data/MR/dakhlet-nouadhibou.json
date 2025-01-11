@@ -1,0 +1,53 @@
+{
+    "id": 137004,
+    "name": "Dakhlet Nouadhibou",
+    "alt_names": [],
+    "state_code": "08",
+    "latitude": 20.5985588,
+    "longitude": -16.2522143,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370040001,
+            "name": "Cansado",
+            "alt_names": [],
+            "latitude": 20.85333333,
+            "longitude": -17.0325,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370040002,
+            "name": "Iouik",
+            "alt_names": [],
+            "latitude": 19.84944444,
+            "longitude": -16.33083333,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370040003,
+            "name": "Nouadhibou",
+            "alt_names": [],
+            "latitude": 20.94188,
+            "longitude": -17.03842,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

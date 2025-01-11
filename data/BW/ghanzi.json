@@ -1,0 +1,39 @@
+{
+    "id": 29002,
+    "name": "Ghanzi",
+    "alt_names": [],
+    "state_code": "GH",
+    "latitude": -21.8652314,
+    "longitude": 21.8568586,
+    "type": "district",
+    "cities": [
+        {
+            "id": 290020001,
+            "name": "Dekar",
+            "alt_names": [],
+            "latitude": -21.53333,
+            "longitude": 21.93333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290020002,
+            "name": "Ghanzi",
+            "alt_names": [],
+            "latitude": -21.69785,
+            "longitude": 21.64581,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

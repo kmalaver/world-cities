@@ -1,0 +1,39 @@
+{
+    "id": 66002,
+    "name": "Cabañas",
+    "alt_names": [],
+    "state_code": "CA",
+    "latitude": 13.8648288,
+    "longitude": -88.7493998,
+    "type": "department",
+    "cities": [
+        {
+            "id": 660020001,
+            "name": "Sensuntepeque",
+            "alt_names": [],
+            "latitude": 13.86667,
+            "longitude": -88.63333,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 660020002,
+            "name": "Victoria",
+            "alt_names": [],
+            "latitude": 13.95,
+            "longitude": -88.63333,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 121005,
+    "name": "Maseru",
+    "alt_names": [],
+    "state_code": "A",
+    "latitude": -29.516565,
+    "longitude": 27.8311428,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1210050001,
+            "name": "Maseru",
+            "alt_names": [],
+            "latitude": -29.31667,
+            "longitude": 27.48333,
+            "timezone": {
+                "zoneName": "Africa/Maseru",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 1210050002,
+            "name": "Nako",
+            "alt_names": [],
+            "latitude": -29.61667,
+            "longitude": 27.76667,
+            "timezone": {
+                "zoneName": "Africa/Maseru",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        }
+    ]
+}

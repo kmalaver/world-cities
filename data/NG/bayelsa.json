@@ -1,0 +1,53 @@
+{
+    "id": 158007,
+    "name": "Bayelsa",
+    "alt_names": [],
+    "state_code": "BY",
+    "latitude": 4.7719071,
+    "longitude": 6.0698526,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1580070001,
+            "name": "Amassoma",
+            "alt_names": [],
+            "latitude": 4.97032,
+            "longitude": 6.10915,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580070002,
+            "name": "Twon-Brass",
+            "alt_names": [],
+            "latitude": 4.31231,
+            "longitude": 6.24091,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580070003,
+            "name": "Yenagoa",
+            "alt_names": [],
+            "latitude": 4.92675,
+            "longitude": 6.26764,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

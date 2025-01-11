@@ -1,0 +1,67 @@
+{
+    "id": 7003,
+    "name": "Bié",
+    "alt_names": [],
+    "state_code": "BIE",
+    "latitude": -12.5727907,
+    "longitude": 17.668887,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70030001,
+            "name": "Camacupa",
+            "alt_names": [],
+            "latitude": -12.01667,
+            "longitude": 17.48333,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70030002,
+            "name": "Catabola",
+            "alt_names": [],
+            "latitude": -12.15,
+            "longitude": 17.28333,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70030003,
+            "name": "Chissamba",
+            "alt_names": [],
+            "latitude": -12.16667,
+            "longitude": 17.33333,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70030004,
+            "name": "Cuito",
+            "alt_names": [],
+            "latitude": -12.38333,
+            "longitude": 16.93333,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

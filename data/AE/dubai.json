@@ -1,0 +1,25 @@
+{
+    "id": 234003,
+    "name": "Dubai",
+    "alt_names": [],
+    "state_code": "DU",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828,
+    "type": "emirate",
+    "cities": [
+        {
+            "id": 2340030001,
+            "name": "Dubai",
+            "alt_names": [],
+            "latitude": 25.0657,
+            "longitude": 55.17128,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

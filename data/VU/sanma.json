@@ -1,0 +1,39 @@
+{
+    "id": 240003,
+    "name": "Sanma",
+    "alt_names": [],
+    "state_code": "SAM",
+    "latitude": -15.4840017,
+    "longitude": 166.9182097,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2400030001,
+            "name": "Luganville",
+            "alt_names": [],
+            "latitude": -15.51989,
+            "longitude": 167.16235,
+            "timezone": {
+                "zoneName": "Pacific/Efate",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "VUT",
+                "tzName": "Vanuatu Time"
+            }
+        },
+        {
+            "id": 2400030002,
+            "name": "Port-Olry",
+            "alt_names": [],
+            "latitude": -15.04175,
+            "longitude": 167.07265,
+            "timezone": {
+                "zoneName": "Pacific/Efate",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "VUT",
+                "tzName": "Vanuatu Time"
+            }
+        }
+    ]
+}

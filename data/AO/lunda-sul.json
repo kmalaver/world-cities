@@ -1,0 +1,39 @@
+{
+    "id": 7013,
+    "name": "Lunda Sul",
+    "alt_names": [],
+    "state_code": "LSU",
+    "latitude": -10.2866578,
+    "longitude": 20.7122465,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70130001,
+            "name": "Cazaji",
+            "alt_names": [],
+            "latitude": -11.06715,
+            "longitude": 20.70148,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70130002,
+            "name": "Saurimo",
+            "alt_names": [],
+            "latitude": -9.66078,
+            "longitude": 20.39155,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

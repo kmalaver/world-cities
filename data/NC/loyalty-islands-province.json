@@ -1,0 +1,39 @@
+{
+    "id": 154001,
+    "name": "Loyalty Islands Province",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": -20.9667,
+    "longitude": 167.2333,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1540010001,
+            "name": "Lifou",
+            "alt_names": [],
+            "latitude": -20.9667,
+            "longitude": 167.2333,
+            "timezone": {
+                "zoneName": "Pacific/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
+            }
+        },
+        {
+            "id": 1540010002,
+            "name": "Maré",
+            "alt_names": [],
+            "latitude": -21.5167,
+            "longitude": 167.9833,
+            "timezone": {
+                "zoneName": "Pacific/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
+            }
+        }
+    ]
+}

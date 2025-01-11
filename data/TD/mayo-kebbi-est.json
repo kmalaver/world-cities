@@ -1,0 +1,53 @@
+{
+    "id": 43014,
+    "name": "Mayo-Kebbi Est",
+    "alt_names": [],
+    "state_code": "ME",
+    "latitude": 9.4046039,
+    "longitude": 14.8454619,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430140001,
+            "name": "Bongor",
+            "alt_names": [],
+            "latitude": 10.28056,
+            "longitude": 15.37222,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430140002,
+            "name": "Gounou Gaya",
+            "alt_names": [],
+            "latitude": 9.6294,
+            "longitude": 15.5132,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430140003,
+            "name": "Guelendeng",
+            "alt_names": [],
+            "latitude": 10.91762,
+            "longitude": 15.55011,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

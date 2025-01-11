@@ -1,0 +1,67 @@
+{
+    "id": 42007,
+    "name": "Lobaye",
+    "alt_names": [],
+    "state_code": "LB",
+    "latitude": 4.3525981,
+    "longitude": 17.4795173,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420070001,
+            "name": "Boda",
+            "alt_names": [],
+            "latitude": 4.31887,
+            "longitude": 17.46953,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420070002,
+            "name": "Boganangone",
+            "alt_names": [],
+            "latitude": 4.73558,
+            "longitude": 17.14047,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420070003,
+            "name": "Mbaiki",
+            "alt_names": [],
+            "latitude": 3.97145,
+            "longitude": 17.93352,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420070004,
+            "name": "Mongoumba",
+            "alt_names": [],
+            "latitude": 3.64153,
+            "longitude": 18.59364,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

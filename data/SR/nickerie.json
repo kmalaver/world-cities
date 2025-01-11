@@ -1,0 +1,39 @@
+{
+    "id": 211005,
+    "name": "Nickerie",
+    "alt_names": [],
+    "state_code": "NI",
+    "latitude": 5.5855469,
+    "longitude": -56.8311117,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2110050001,
+            "name": "Nieuw Nickerie",
+            "alt_names": [],
+            "latitude": 5.92606,
+            "longitude": -56.97297,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        },
+        {
+            "id": 2110050002,
+            "name": "Wageningen",
+            "alt_names": [],
+            "latitude": 5.7601,
+            "longitude": -56.66523,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 242008,
+    "name": "Cojedes",
+    "alt_names": [],
+    "state_code": "H",
+    "latitude": 9.3816682,
+    "longitude": -68.3339275,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2420080001,
+            "name": "San Carlos",
+            "alt_names": [],
+            "latitude": 9.66124,
+            "longitude": -68.58268,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420080002,
+            "name": "Tinaquillo",
+            "alt_names": [],
+            "latitude": 9.91861,
+            "longitude": -68.30472,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

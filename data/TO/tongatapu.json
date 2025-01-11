@@ -1,0 +1,67 @@
+{
+    "id": 225004,
+    "name": "Tongatapu",
+    "alt_names": [],
+    "state_code": "04",
+    "latitude": -21.1465968,
+    "longitude": -175.2515482,
+    "type": "division",
+    "cities": [
+        {
+            "id": 2250040001,
+            "name": "Haveluloto",
+            "alt_names": [],
+            "latitude": -21.15216,
+            "longitude": -175.21333,
+            "timezone": {
+                "zoneName": "Pacific/Tongatapu",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "TOT",
+                "tzName": "Tonga Time"
+            }
+        },
+        {
+            "id": 2250040002,
+            "name": "Kolonga",
+            "alt_names": [],
+            "latitude": -21.13333,
+            "longitude": -175.06667,
+            "timezone": {
+                "zoneName": "Pacific/Tongatapu",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "TOT",
+                "tzName": "Tonga Time"
+            }
+        },
+        {
+            "id": 2250040003,
+            "name": "Nuku‘alofa",
+            "alt_names": [],
+            "latitude": -21.13938,
+            "longitude": -175.2018,
+            "timezone": {
+                "zoneName": "Pacific/Tongatapu",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "TOT",
+                "tzName": "Tonga Time"
+            }
+        },
+        {
+            "id": 2250040004,
+            "name": "Vaini",
+            "alt_names": [],
+            "latitude": -21.19292,
+            "longitude": -175.17678,
+            "timezone": {
+                "zoneName": "Pacific/Tongatapu",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "TOT",
+                "tzName": "Tonga Time"
+            }
+        }
+    ]
+}

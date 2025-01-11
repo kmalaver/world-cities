@@ -1,0 +1,39 @@
+{
+    "id": 62005,
+    "name": "Saint Joseph",
+    "alt_names": [],
+    "state_code": "06",
+    "latitude": 39.0222712,
+    "longitude": -94.7176504,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 620050001,
+            "name": "Saint Joseph",
+            "alt_names": [],
+            "latitude": 15.4,
+            "longitude": -61.43333,
+            "timezone": {
+                "zoneName": "America/Dominica",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 620050002,
+            "name": "Salisbury",
+            "alt_names": [],
+            "latitude": 15.43689,
+            "longitude": -61.43637,
+            "timezone": {
+                "zoneName": "America/Dominica",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

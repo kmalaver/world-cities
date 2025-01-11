@@ -1,0 +1,67 @@
+{
+    "id": 29004,
+    "name": "Kgatleng",
+    "alt_names": [],
+    "state_code": "KL",
+    "latitude": -24.1970445,
+    "longitude": 26.2304616,
+    "type": "district",
+    "cities": [
+        {
+            "id": 290040001,
+            "name": "Bokaa",
+            "alt_names": [],
+            "latitude": -24.45,
+            "longitude": 26.01667,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290040002,
+            "name": "Mmathubudukwane",
+            "alt_names": [],
+            "latitude": -24.6,
+            "longitude": 26.43333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290040003,
+            "name": "Mochudi",
+            "alt_names": [],
+            "latitude": -24.41667,
+            "longitude": 26.15,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290040004,
+            "name": "Pilane",
+            "alt_names": [],
+            "latitude": -24.45,
+            "longitude": 26.13333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 123005,
+    "name": "Jabal al Akhdar",
+    "alt_names": [],
+    "state_code": "JA",
+    "latitude": 23.1856081,
+    "longitude": 57.3713879,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230050001,
+            "name": "Al Bayḑā’",
+            "alt_names": [],
+            "latitude": 32.76272,
+            "longitude": 21.75506,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

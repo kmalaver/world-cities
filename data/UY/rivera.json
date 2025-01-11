@@ -1,0 +1,67 @@
+{
+    "id": 238013,
+    "name": "Rivera",
+    "alt_names": [],
+    "state_code": "RV",
+    "latitude": -31.4817421,
+    "longitude": -55.2435759,
+    "type": "department",
+    "cities": [
+        {
+            "id": 2380130001,
+            "name": "Minas de Corrales",
+            "alt_names": [],
+            "latitude": -31.57375,
+            "longitude": -55.47075,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380130002,
+            "name": "Rivera",
+            "alt_names": [],
+            "latitude": -30.90534,
+            "longitude": -55.55076,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380130003,
+            "name": "Tranqueras",
+            "alt_names": [],
+            "latitude": -31.2,
+            "longitude": -55.75,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380130004,
+            "name": "Vichadero",
+            "alt_names": [],
+            "latitude": -31.77794,
+            "longitude": -54.69183,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        }
+    ]
+}

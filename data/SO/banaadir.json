@@ -1,0 +1,25 @@
+{
+    "id": 203003,
+    "name": "Banaadir",
+    "alt_names": [],
+    "state_code": "BN",
+    "latitude": 2.1187375,
+    "longitude": 45.3369459,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030030001,
+            "name": "Mogadishu",
+            "alt_names": [],
+            "latitude": 2.03711,
+            "longitude": 45.34375,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

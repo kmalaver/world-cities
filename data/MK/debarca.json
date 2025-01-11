@@ -1,0 +1,39 @@
+{
+    "id": 162016,
+    "name": "Debarca",
+    "alt_names": [],
+    "state_code": "22",
+    "latitude": 41.3584077,
+    "longitude": 20.8552919,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620160001,
+            "name": "Belčišta",
+            "alt_names": [],
+            "latitude": 41.30278,
+            "longitude": 20.83028,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620160002,
+            "name": "Mešeišta",
+            "alt_names": [],
+            "latitude": 41.23814,
+            "longitude": 20.77414,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

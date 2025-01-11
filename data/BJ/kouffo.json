@@ -1,0 +1,39 @@
+{
+    "id": 23007,
+    "name": "Kouffo",
+    "alt_names": [],
+    "state_code": "KO",
+    "latitude": 7.0035894,
+    "longitude": 1.7538817,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230070001,
+            "name": "Djakotomey",
+            "alt_names": [],
+            "latitude": 6.9,
+            "longitude": 1.71667,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230070002,
+            "name": "Dogbo",
+            "alt_names": [],
+            "latitude": 6.79911,
+            "longitude": 1.78073,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

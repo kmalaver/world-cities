@@ -1,0 +1,53 @@
+{
+    "id": 68003,
+    "name": "Gash-Barka",
+    "alt_names": [],
+    "state_code": "GB",
+    "latitude": 15.4068825,
+    "longitude": 37.6386622,
+    "type": "region",
+    "cities": [
+        {
+            "id": 680030001,
+            "name": "Ak’ordat",
+            "alt_names": [],
+            "latitude": 15.54798,
+            "longitude": 37.88291,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 680030002,
+            "name": "Barentu",
+            "alt_names": [],
+            "latitude": 15.10582,
+            "longitude": 37.59067,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 680030003,
+            "name": "Teseney",
+            "alt_names": [],
+            "latitude": 15.11,
+            "longitude": 36.6575,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 216014,
+    "name": "Penghu",
+    "alt_names": [],
+    "state_code": "PEN",
+    "latitude": 23.5711899,
+    "longitude": 119.5793157,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160140001,
+            "name": "Magong",
+            "alt_names": [],
+            "latitude": 23.5654,
+            "longitude": 119.58627,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160140002,
+            "name": "Penghu County",
+            "alt_names": [],
+            "latitude": 23.57111,
+            "longitude": 119.61138,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

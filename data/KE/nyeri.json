@@ -1,0 +1,53 @@
+{
+    "id": 113036,
+    "name": "Nyeri",
+    "alt_names": [],
+    "state_code": "36",
+    "latitude": -0.4196915,
+    "longitude": 37.0400339,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130360001,
+            "name": "Naro Moru",
+            "alt_names": [],
+            "latitude": -0.16357,
+            "longitude": 37.01773,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130360002,
+            "name": "Nyeri",
+            "alt_names": [],
+            "latitude": -0.42013,
+            "longitude": 36.94759,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130360003,
+            "name": "Othaya",
+            "alt_names": [],
+            "latitude": -0.54655,
+            "longitude": 36.93178,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

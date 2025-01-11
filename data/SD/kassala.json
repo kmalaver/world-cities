@@ -1,0 +1,53 @@
+{
+    "id": 210006,
+    "name": "Kassala",
+    "alt_names": [],
+    "state_code": "KA",
+    "latitude": 15.4581332,
+    "longitude": 36.4039629,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100060001,
+            "name": "Aroma",
+            "alt_names": [],
+            "latitude": 15.81667,
+            "longitude": 36.13333,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100060002,
+            "name": "Kassala",
+            "alt_names": [],
+            "latitude": 15.45099,
+            "longitude": 36.39998,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100060003,
+            "name": "Wagar",
+            "alt_names": [],
+            "latitude": 16.1525,
+            "longitude": 36.2032,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

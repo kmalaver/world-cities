@@ -1,0 +1,39 @@
+{
+    "id": 201153,
+    "name": "Šenčur",
+    "alt_names": [],
+    "state_code": "117",
+    "latitude": 46.2433699,
+    "longitude": 14.4192223,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011530001,
+            "name": "Hrastje",
+            "alt_names": [],
+            "latitude": 46.21667,
+            "longitude": 14.4,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011530002,
+            "name": "Šenčur",
+            "alt_names": [],
+            "latitude": 46.24556,
+            "longitude": 14.41972,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

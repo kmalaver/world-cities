@@ -1,0 +1,39 @@
+{
+    "id": 61005,
+    "name": "Obock",
+    "alt_names": [],
+    "state_code": "OB",
+    "latitude": 12.3895691,
+    "longitude": 43.0194897,
+    "type": "region",
+    "cities": [
+        {
+            "id": 610050001,
+            "name": "Alaïli Ḏaḏḏa‘",
+            "alt_names": [],
+            "latitude": 12.42167,
+            "longitude": 42.89556,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 610050002,
+            "name": "Obock",
+            "alt_names": [],
+            "latitude": 11.96693,
+            "longitude": 43.28835,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

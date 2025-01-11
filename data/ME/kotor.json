@@ -1,0 +1,67 @@
+{
+    "id": 145009,
+    "name": "Kotor",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 42.5740261,
+    "longitude": 18.6413145,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1450090001,
+            "name": "Dobrota",
+            "alt_names": [],
+            "latitude": 42.45417,
+            "longitude": 18.76833,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450090002,
+            "name": "Kotor",
+            "alt_names": [],
+            "latitude": 42.42067,
+            "longitude": 18.76825,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450090003,
+            "name": "Prčanj",
+            "alt_names": [],
+            "latitude": 42.4575,
+            "longitude": 18.74222,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450090004,
+            "name": "Risan",
+            "alt_names": [],
+            "latitude": 42.515,
+            "longitude": 18.69556,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 7006,
+    "name": "Cuanza",
+    "alt_names": [],
+    "state_code": "CUS",
+    "latitude": -10.595191,
+    "longitude": 15.4068079,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70060001,
+            "name": "Quibala",
+            "alt_names": [],
+            "latitude": -10.73366,
+            "longitude": 14.97995,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70060002,
+            "name": "Sumbe",
+            "alt_names": [],
+            "latitude": -11.20605,
+            "longitude": 13.84371,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70060003,
+            "name": "Uacu Cungo",
+            "alt_names": [],
+            "latitude": -11.35669,
+            "longitude": 15.11719,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

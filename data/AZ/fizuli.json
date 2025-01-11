@@ -1,0 +1,39 @@
+{
+    "id": 16015,
+    "name": "Fizuli",
+    "alt_names": [],
+    "state_code": "FUZ",
+    "latitude": 39.5378605,
+    "longitude": 47.3033877,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160150001,
+            "name": "Fizuli",
+            "alt_names": [],
+            "latitude": 39.60094,
+            "longitude": 47.14529,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160150002,
+            "name": "Horadiz",
+            "alt_names": [],
+            "latitude": 39.45015,
+            "longitude": 47.33496,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

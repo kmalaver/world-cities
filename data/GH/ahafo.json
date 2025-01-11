@@ -1,0 +1,95 @@
+{
+    "id": 83001,
+    "name": "Ahafo",
+    "alt_names": [],
+    "state_code": "AF",
+    "latitude": 7.5821372,
+    "longitude": -2.5497463,
+    "type": "region",
+    "cities": [
+        {
+            "id": 830010001,
+            "name": "Asunafo North",
+            "alt_names": [],
+            "latitude": 6.8196891,
+            "longitude": -2.807705,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830010002,
+            "name": "Asunafo South",
+            "alt_names": [],
+            "latitude": 6.6480138,
+            "longitude": -2.6887437,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830010003,
+            "name": "Asutifi North",
+            "alt_names": [],
+            "latitude": 6.9477486,
+            "longitude": -2.7675716,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830010004,
+            "name": "Asutifi South",
+            "alt_names": [],
+            "latitude": 6.6480138,
+            "longitude": -2.6887437,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830010005,
+            "name": "Tano North",
+            "alt_names": [],
+            "latitude": 7.2260301,
+            "longitude": -2.3045656,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830010006,
+            "name": "Tano South",
+            "alt_names": [],
+            "latitude": 7.1953793,
+            "longitude": -2.1258661,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

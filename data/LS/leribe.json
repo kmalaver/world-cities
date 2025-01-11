@@ -1,0 +1,39 @@
+{
+    "id": 121003,
+    "name": "Leribe",
+    "alt_names": [],
+    "state_code": "C",
+    "latitude": -28.8638065,
+    "longitude": 28.0478826,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1210030001,
+            "name": "Leribe",
+            "alt_names": [],
+            "latitude": -28.87185,
+            "longitude": 28.04501,
+            "timezone": {
+                "zoneName": "Africa/Maseru",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 1210030002,
+            "name": "Maputsoe",
+            "alt_names": [],
+            "latitude": -28.8866,
+            "longitude": 27.89915,
+            "timezone": {
+                "zoneName": "Africa/Maseru",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        }
+    ]
+}

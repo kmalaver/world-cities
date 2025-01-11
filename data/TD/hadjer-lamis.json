@@ -1,0 +1,53 @@
+{
+    "id": 43008,
+    "name": "Hadjer-Lamis",
+    "alt_names": [],
+    "state_code": "HL",
+    "latitude": 12.4577273,
+    "longitude": 16.7234639,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430080001,
+            "name": "Bokoro",
+            "alt_names": [],
+            "latitude": 12.37813,
+            "longitude": 17.05876,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430080002,
+            "name": "Massaguet",
+            "alt_names": [],
+            "latitude": 12.47554,
+            "longitude": 15.43647,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430080003,
+            "name": "Massakory",
+            "alt_names": [],
+            "latitude": 12.996,
+            "longitude": 15.72927,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

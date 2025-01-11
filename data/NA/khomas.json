@@ -1,0 +1,39 @@
+{
+    "id": 150006,
+    "name": "Khomas",
+    "alt_names": [],
+    "state_code": "KH",
+    "latitude": -22.6377854,
+    "longitude": 17.1011931,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500060001,
+            "name": "Katutura",
+            "alt_names": [],
+            "latitude": -22.52306,
+            "longitude": 17.06028,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500060002,
+            "name": "Windhoek",
+            "alt_names": [],
+            "latitude": -22.55941,
+            "longitude": 17.08323,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

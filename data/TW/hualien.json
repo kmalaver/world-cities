@@ -1,0 +1,39 @@
+{
+    "id": 216006,
+    "name": "Hualien",
+    "alt_names": [],
+    "state_code": "HUA",
+    "latitude": 23.9871589,
+    "longitude": 121.6015714,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160060001,
+            "name": "Hualien",
+            "alt_names": [],
+            "latitude": 23.78166,
+            "longitude": 121.39333,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160060002,
+            "name": "Hualien City",
+            "alt_names": [],
+            "latitude": 23.97694,
+            "longitude": 121.60444,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

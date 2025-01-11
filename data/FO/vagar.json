@@ -1,0 +1,39 @@
+{
+    "id": 73006,
+    "name": "Vágar",
+    "alt_names": [],
+    "state_code": "VA",
+    "latitude": 62.0899835,
+    "longitude": -7.4276837,
+    "type": "region",
+    "cities": [
+        {
+            "id": 730060001,
+            "name": "Sørvágur",
+            "alt_names": [],
+            "latitude": 62.0654,
+            "longitude": -7.3787,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730060002,
+            "name": "Vágar",
+            "alt_names": [],
+            "latitude": 62.0667,
+            "longitude": -7.1,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        }
+    ]
+}

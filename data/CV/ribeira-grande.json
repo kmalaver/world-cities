@@ -1,0 +1,39 @@
+{
+    "id": 40010,
+    "name": "Ribeira Grande",
+    "alt_names": [],
+    "state_code": "RG",
+    "latitude": 37.8210369,
+    "longitude": -25.5148137,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 400100001,
+            "name": "Ponta do Sol",
+            "alt_names": [],
+            "latitude": 17.20171,
+            "longitude": -25.09217,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        },
+        {
+            "id": 400100002,
+            "name": "Ribeira Grande",
+            "alt_names": [],
+            "latitude": 17.1825,
+            "longitude": -25.065,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1032,
+    "name": "Urozgan",
+    "alt_names": [],
+    "state_code": "URU",
+    "latitude": 32.9271287,
+    "longitude": 66.1415263,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10320001,
+            "name": "Tarinkot",
+            "alt_names": [],
+            "latitude": 32.62998,
+            "longitude": 65.87806,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10320002,
+            "name": "Uruzgān",
+            "alt_names": [],
+            "latitude": 32.92775,
+            "longitude": 66.63253,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

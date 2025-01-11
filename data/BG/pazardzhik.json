@@ -1,0 +1,347 @@
+{
+    "id": 34010,
+    "name": "Pazardzhik",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 42.1927567,
+    "longitude": 24.3336226,
+    "type": "district",
+    "cities": [
+        {
+            "id": 340100001,
+            "name": "Batak",
+            "alt_names": [],
+            "latitude": 41.94225,
+            "longitude": 24.21843,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100002,
+            "name": "Belovo",
+            "alt_names": [],
+            "latitude": 42.21239,
+            "longitude": 24.02081,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100003,
+            "name": "Bratsigovo",
+            "alt_names": [],
+            "latitude": 42.01667,
+            "longitude": 24.36667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100004,
+            "name": "Lesichovo",
+            "alt_names": [],
+            "latitude": 42.35626,
+            "longitude": 24.1119,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100005,
+            "name": "Obshtina Batak",
+            "alt_names": [],
+            "latitude": 41.86667,
+            "longitude": 24.21667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100006,
+            "name": "Obshtina Belovo",
+            "alt_names": [],
+            "latitude": 42.2,
+            "longitude": 23.93333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100007,
+            "name": "Obshtina Bratsigovo",
+            "alt_names": [],
+            "latitude": 42,
+            "longitude": 24.4,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100008,
+            "name": "Obshtina Lesichovo",
+            "alt_names": [],
+            "latitude": 42.36667,
+            "longitude": 24.15,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100009,
+            "name": "Obshtina Panagyurishte",
+            "alt_names": [],
+            "latitude": 42.5,
+            "longitude": 24.16667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100010,
+            "name": "Obshtina Pazardzhik",
+            "alt_names": [],
+            "latitude": 42.2,
+            "longitude": 24.33333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100011,
+            "name": "Obshtina Peshtera",
+            "alt_names": [],
+            "latitude": 42.03333,
+            "longitude": 24.3,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100012,
+            "name": "Obshtina Rakitovo",
+            "alt_names": [],
+            "latitude": 41.99965,
+            "longitude": 24.10877,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100013,
+            "name": "Obshtina Septemvri",
+            "alt_names": [],
+            "latitude": 42.26667,
+            "longitude": 24.13333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100014,
+            "name": "Obshtina Strelcha",
+            "alt_names": [],
+            "latitude": 42.46667,
+            "longitude": 24.36667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100015,
+            "name": "Obshtina Velingrad",
+            "alt_names": [],
+            "latitude": 41.96667,
+            "longitude": 23.93333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100016,
+            "name": "Panagyurishte",
+            "alt_names": [],
+            "latitude": 42.49518,
+            "longitude": 24.19021,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100017,
+            "name": "Pazardzhik",
+            "alt_names": [],
+            "latitude": 42.2,
+            "longitude": 24.33333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100018,
+            "name": "Peshtera",
+            "alt_names": [],
+            "latitude": 42.03372,
+            "longitude": 24.29995,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100019,
+            "name": "Rakitovo",
+            "alt_names": [],
+            "latitude": 41.99012,
+            "longitude": 24.0873,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100020,
+            "name": "Sarnitsa",
+            "alt_names": [],
+            "latitude": 41.73835,
+            "longitude": 24.02435,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100021,
+            "name": "Sarnitsa Obshtina",
+            "alt_names": [],
+            "latitude": 41.73333,
+            "longitude": 24.03333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100022,
+            "name": "Septemvri",
+            "alt_names": [],
+            "latitude": 42.21138,
+            "longitude": 24.12946,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100023,
+            "name": "Strelcha",
+            "alt_names": [],
+            "latitude": 42.5,
+            "longitude": 24.31667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340100024,
+            "name": "Velingrad",
+            "alt_names": [],
+            "latitude": 42.02754,
+            "longitude": 23.99155,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

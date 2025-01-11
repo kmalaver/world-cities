@@ -1,0 +1,39 @@
+{
+    "id": 162071,
+    "name": "Sveti Nikole",
+    "alt_names": [],
+    "state_code": "69",
+    "latitude": 41.8980312,
+    "longitude": 21.9999435,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620710001,
+            "name": "Gorobinci",
+            "alt_names": [],
+            "latitude": 41.87507,
+            "longitude": 21.87599,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620710002,
+            "name": "Sveti Nikole",
+            "alt_names": [],
+            "latitude": 41.86956,
+            "longitude": 21.95274,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

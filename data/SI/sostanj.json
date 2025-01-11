@@ -1,0 +1,53 @@
+{
+    "id": 201172,
+    "name": "Šoštanj",
+    "alt_names": [],
+    "state_code": "126",
+    "latitude": 46.3782836,
+    "longitude": 15.0461378,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011720001,
+            "name": "Ravne",
+            "alt_names": [],
+            "latitude": 46.41413,
+            "longitude": 15.06087,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011720002,
+            "name": "Šoštanj",
+            "alt_names": [],
+            "latitude": 46.38,
+            "longitude": 15.04861,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011720003,
+            "name": "Topolšica",
+            "alt_names": [],
+            "latitude": 46.40028,
+            "longitude": 15.02157,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 226003,
+    "name": "Couva-Tabaquite-Talparo",
+    "alt_names": [],
+    "state_code": "CTT",
+    "latitude": 10.4297145,
+    "longitude": -61.373521,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2260030001,
+            "name": "Couva",
+            "alt_names": [],
+            "latitude": 10.42248,
+            "longitude": -61.46748,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260030002,
+            "name": "Tabaquite",
+            "alt_names": [],
+            "latitude": 10.38824,
+            "longitude": -61.29704,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

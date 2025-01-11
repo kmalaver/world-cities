@@ -1,0 +1,39 @@
+{
+    "id": 65027,
+    "name": "Suez",
+    "alt_names": [],
+    "state_code": "SUZ",
+    "latitude": 29.3682255,
+    "longitude": 32.174605,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650270001,
+            "name": "Ain Sukhna",
+            "alt_names": [],
+            "latitude": 29.60018,
+            "longitude": 32.31671,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650270002,
+            "name": "Suez",
+            "alt_names": [],
+            "latitude": 29.97371,
+            "longitude": 32.52627,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

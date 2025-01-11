@@ -1,0 +1,725 @@
+{
+    "id": 219003,
+    "name": "Bangkok",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 13.7563309,
+    "longitude": 100.5017651,
+    "type": "metropolitan administration",
+    "cities": [
+        {
+            "id": 2190030001,
+            "name": "Bang Bon",
+            "alt_names": [],
+            "latitude": 13.6592,
+            "longitude": 100.38801,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030002,
+            "name": "Bang Kapi",
+            "alt_names": [],
+            "latitude": 13.77258,
+            "longitude": 100.63847,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030003,
+            "name": "Bang Khae",
+            "alt_names": [],
+            "latitude": 13.71927,
+            "longitude": 100.39278,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030004,
+            "name": "Bang Khen",
+            "alt_names": [],
+            "latitude": 13.86901,
+            "longitude": 100.62769,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030005,
+            "name": "Bang Kho laen",
+            "alt_names": [],
+            "latitude": 13.70025,
+            "longitude": 100.50971,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030006,
+            "name": "Bang Khun thain",
+            "alt_names": [],
+            "latitude": 13.59482,
+            "longitude": 100.42694,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030007,
+            "name": "Bang Na",
+            "alt_names": [],
+            "latitude": 13.67252,
+            "longitude": 100.62089,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030008,
+            "name": "Bang Phlat",
+            "alt_names": [],
+            "latitude": 13.78668,
+            "longitude": 100.49152,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030009,
+            "name": "Bang Rak",
+            "alt_names": [],
+            "latitude": 13.73058,
+            "longitude": 100.52388,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030010,
+            "name": "Bang Sue",
+            "alt_names": [],
+            "latitude": 13.81921,
+            "longitude": 100.5279,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030011,
+            "name": "Bangkok",
+            "alt_names": [],
+            "latitude": 13.75398,
+            "longitude": 100.50144,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030012,
+            "name": "Bangkok Noi",
+            "alt_names": [],
+            "latitude": 13.76551,
+            "longitude": 100.46988,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030013,
+            "name": "Bangkok Yai",
+            "alt_names": [],
+            "latitude": 13.73748,
+            "longitude": 100.47428,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030014,
+            "name": "Bueng Kum",
+            "alt_names": [],
+            "latitude": 13.81023,
+            "longitude": 100.6514,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030015,
+            "name": "Chatu Chak",
+            "alt_names": [],
+            "latitude": 13.82888,
+            "longitude": 100.56374,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030016,
+            "name": "Chom Thong",
+            "alt_names": [],
+            "latitude": 13.6891,
+            "longitude": 100.46175,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030017,
+            "name": "Din Daeng",
+            "alt_names": [],
+            "latitude": 13.77728,
+            "longitude": 100.56235,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030018,
+            "name": "Don Mueang",
+            "alt_names": [],
+            "latitude": 13.92601,
+            "longitude": 100.59365,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030019,
+            "name": "Dusit",
+            "alt_names": [],
+            "latitude": 13.78235,
+            "longitude": 100.51677,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030020,
+            "name": "Huai Khwang",
+            "alt_names": [],
+            "latitude": 13.7706,
+            "longitude": 100.58119,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030021,
+            "name": "Khan Na Yao",
+            "alt_names": [],
+            "latitude": 13.8238,
+            "longitude": 100.67649,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030022,
+            "name": "Khlong Sam Wa",
+            "alt_names": [],
+            "latitude": 13.87633,
+            "longitude": 100.73805,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030023,
+            "name": "Khlong San",
+            "alt_names": [],
+            "latitude": 13.72602,
+            "longitude": 100.50071,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030024,
+            "name": "Khlong Toei",
+            "alt_names": [],
+            "latitude": 13.71806,
+            "longitude": 100.57065,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030025,
+            "name": "Lak Si",
+            "alt_names": [],
+            "latitude": 13.8821,
+            "longitude": 100.56889,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030026,
+            "name": "Lat Krabang",
+            "alt_names": [],
+            "latitude": 13.745,
+            "longitude": 100.79224,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030027,
+            "name": "Lat Phrao",
+            "alt_names": [],
+            "latitude": 13.82779,
+            "longitude": 100.60672,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030028,
+            "name": "Min Buri",
+            "alt_names": [],
+            "latitude": 13.81254,
+            "longitude": 100.75334,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030029,
+            "name": "Nong Chok",
+            "alt_names": [],
+            "latitude": 13.8528,
+            "longitude": 100.85788,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030030,
+            "name": "Nong Khaem",
+            "alt_names": [],
+            "latitude": 13.69979,
+            "longitude": 100.35364,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030031,
+            "name": "Parthum Wan",
+            "alt_names": [],
+            "latitude": 13.74265,
+            "longitude": 100.53398,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030032,
+            "name": "Phasi Charoen",
+            "alt_names": [],
+            "latitude": 13.72597,
+            "longitude": 100.44103,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030033,
+            "name": "Phaya Thai",
+            "alt_names": [],
+            "latitude": 13.78442,
+            "longitude": 100.54306,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030034,
+            "name": "Phra Khanong",
+            "alt_names": [],
+            "latitude": 13.69705,
+            "longitude": 100.61234,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030035,
+            "name": "Phra Nakhon",
+            "alt_names": [],
+            "latitude": 13.75831,
+            "longitude": 100.49613,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030036,
+            "name": "Pom Prap Sattru Phai",
+            "alt_names": [],
+            "latitude": 13.7548,
+            "longitude": 100.50995,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030037,
+            "name": "Pra Wet",
+            "alt_names": [],
+            "latitude": 13.71735,
+            "longitude": 100.69452,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030038,
+            "name": "Rat Burana",
+            "alt_names": [],
+            "latitude": 13.67633,
+            "longitude": 100.49881,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030039,
+            "name": "Ratchathewi",
+            "alt_names": [],
+            "latitude": 13.76029,
+            "longitude": 100.53724,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030040,
+            "name": "Sai Mai",
+            "alt_names": [],
+            "latitude": 13.90727,
+            "longitude": 100.65181,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030041,
+            "name": "Samphanthawong",
+            "alt_names": [],
+            "latitude": 13.74233,
+            "longitude": 100.50765,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030042,
+            "name": "Saphan Sung",
+            "alt_names": [],
+            "latitude": 13.76531,
+            "longitude": 100.69001,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030043,
+            "name": "Sathon",
+            "alt_names": [],
+            "latitude": 13.71745,
+            "longitude": 100.52999,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030044,
+            "name": "Suanluang",
+            "alt_names": [],
+            "latitude": 13.72989,
+            "longitude": 100.62677,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030045,
+            "name": "Taling Chan",
+            "alt_names": [],
+            "latitude": 13.77271,
+            "longitude": 100.43289,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030046,
+            "name": "Thawi Watthana",
+            "alt_names": [],
+            "latitude": 13.77637,
+            "longitude": 100.3662,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030047,
+            "name": "Thon buri",
+            "alt_names": [],
+            "latitude": 13.71874,
+            "longitude": 100.48367,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030048,
+            "name": "Thung khru",
+            "alt_names": [],
+            "latitude": 13.63387,
+            "longitude": 100.49641,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030049,
+            "name": "Vadhana",
+            "alt_names": [],
+            "latitude": 13.73501,
+            "longitude": 100.5828,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030050,
+            "name": "Wang Thong Lang",
+            "alt_names": [],
+            "latitude": 13.78188,
+            "longitude": 100.60804,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2190030051,
+            "name": "Yan na wa",
+            "alt_names": [],
+            "latitude": 13.69177,
+            "longitude": 100.5395,
+            "timezone": {
+                "zoneName": "Asia/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

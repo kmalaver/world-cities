@@ -1,0 +1,53 @@
+{
+    "id": 203009,
+    "name": "Lower Juba",
+    "alt_names": [],
+    "state_code": "JH",
+    "latitude": 0.224021,
+    "longitude": 41.6011814,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030090001,
+            "name": "Buur Gaabo",
+            "alt_names": [],
+            "latitude": -1.21917,
+            "longitude": 41.83725,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030090002,
+            "name": "Jamaame",
+            "alt_names": [],
+            "latitude": 0.06968,
+            "longitude": 42.74497,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030090003,
+            "name": "Kismayo",
+            "alt_names": [],
+            "latitude": -0.35817,
+            "longitude": 42.54536,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

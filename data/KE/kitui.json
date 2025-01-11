@@ -1,0 +1,39 @@
+{
+    "id": 113018,
+    "name": "Kitui",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": -1.6832822,
+    "longitude": 38.3165725,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130180001,
+            "name": "Kitui",
+            "alt_names": [],
+            "latitude": -1.36696,
+            "longitude": 38.01055,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130180002,
+            "name": "Mwingi",
+            "alt_names": [],
+            "latitude": -0.93605,
+            "longitude": 38.05955,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

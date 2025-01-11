@@ -1,0 +1,53 @@
+{
+    "id": 154002,
+    "name": "North Province",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": -22.2758,
+    "longitude": 166.458,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1540020001,
+            "name": "Houaïlou",
+            "alt_names": [],
+            "latitude": -21.2909,
+            "longitude": 165.6217,
+            "timezone": {
+                "zoneName": "Pacific/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
+            }
+        },
+        {
+            "id": 1540020002,
+            "name": "Koné",
+            "alt_names": [],
+            "latitude": -21.059,
+            "longitude": 164.8518,
+            "timezone": {
+                "zoneName": "Pacific/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
+            }
+        },
+        {
+            "id": 1540020003,
+            "name": "Poindimié",
+            "alt_names": [],
+            "latitude": -20.9496,
+            "longitude": 165.3293,
+            "timezone": {
+                "zoneName": "Pacific/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
+            }
+        }
+    ]
+}

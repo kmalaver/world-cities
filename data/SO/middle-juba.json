@@ -1,0 +1,53 @@
+{
+    "id": 203011,
+    "name": "Middle Juba",
+    "alt_names": [],
+    "state_code": "JD",
+    "latitude": 2.0780488,
+    "longitude": 41.6011814,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030110001,
+            "name": "Dujuuma",
+            "alt_names": [],
+            "latitude": 1.25311,
+            "longitude": 42.57377,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030110002,
+            "name": "Jilib",
+            "alt_names": [],
+            "latitude": 0.48829,
+            "longitude": 42.78535,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030110003,
+            "name": "Saacow",
+            "alt_names": [],
+            "latitude": 1.62794,
+            "longitude": 42.44067,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

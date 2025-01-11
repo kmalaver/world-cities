@@ -1,0 +1,53 @@
+{
+    "id": 25003,
+    "name": "Dagana ",
+    "alt_names": [],
+    "state_code": "22",
+    "latitude": 27.0322861,
+    "longitude": 89.8879304,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250030001,
+            "name": "Daga",
+            "alt_names": [],
+            "latitude": 27.07529,
+            "longitude": 89.87688,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250030002,
+            "name": "Sibsu",
+            "alt_names": [],
+            "latitude": 27,
+            "longitude": 88.9,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250030003,
+            "name": "Thumgaon",
+            "alt_names": [],
+            "latitude": 26.9833,
+            "longitude": 89.9667,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

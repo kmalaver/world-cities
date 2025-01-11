@@ -1,0 +1,39 @@
+{
+    "id": 133020,
+    "name": "Kalkara",
+    "alt_names": [],
+    "state_code": "21",
+    "latitude": 35.8914242,
+    "longitude": 14.5320278,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330200001,
+            "name": "Imġarr",
+            "alt_names": [],
+            "latitude": 35.92056,
+            "longitude": 14.36639,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330200002,
+            "name": "Mġarr",
+            "alt_names": [],
+            "latitude": 36.02528,
+            "longitude": 14.295,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

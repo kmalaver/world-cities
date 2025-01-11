@@ -1,0 +1,25 @@
+{
+    "id": 220023,
+    "name": "Long Island",
+    "alt_names": [],
+    "state_code": "LI",
+    "latitude": 40.789142,
+    "longitude": -73.134961,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2200230001,
+            "name": "Clarence Town",
+            "alt_names": [],
+            "latitude": 23.1,
+            "longitude": -74.98333,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        }
+    ]
+}

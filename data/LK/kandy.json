@@ -1,0 +1,641 @@
+{
+    "id": 209013,
+    "name": "Kandy",
+    "alt_names": [],
+    "state_code": "21",
+    "latitude": 7.2931588,
+    "longitude": 80.6350107,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2090130001,
+            "name": "Akurana",
+            "alt_names": [],
+            "latitude": 7.365,
+            "longitude": 80.617222,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130002,
+            "name": "Alawatugoda",
+            "alt_names": [],
+            "latitude": 7.41048962,
+            "longitude": 80.60918933,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130003,
+            "name": "Ambatenna",
+            "alt_names": [],
+            "latitude": 7.35252855,
+            "longitude": 80.61378113,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130004,
+            "name": "Daskara",
+            "alt_names": [],
+            "latitude": 7.20902217,
+            "longitude": 80.57764643,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130005,
+            "name": "Daulagala",
+            "alt_names": [],
+            "latitude": 7.22882494,
+            "longitude": 80.57756073,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130006,
+            "name": "Delthota",
+            "alt_names": [],
+            "latitude": 7.18491721,
+            "longitude": 80.70488697,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130007,
+            "name": "Doluwa",
+            "alt_names": [],
+            "latitude": 7.18518536,
+            "longitude": 80.6057345,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130008,
+            "name": "Galagedara",
+            "alt_names": [],
+            "latitude": 7.368333,
+            "longitude": 80.5275,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130009,
+            "name": "Galhinna",
+            "alt_names": [],
+            "latitude": 7.416142,
+            "longitude": 80.568842,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130010,
+            "name": "Gampola",
+            "alt_names": [],
+            "latitude": 7.1643,
+            "longitude": 80.5696,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130011,
+            "name": "Ganga Ihala Korale",
+            "alt_names": [],
+            "latitude": 7.11455516,
+            "longitude": 80.5144881,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130012,
+            "name": "Hanguranketa",
+            "alt_names": [],
+            "latitude": 7.166667,
+            "longitude": 80.783333,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130013,
+            "name": "Hapugastalawa",
+            "alt_names": [],
+            "latitude": 7.05872498,
+            "longitude": 80.57137014,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130014,
+            "name": "Harispattuwa",
+            "alt_names": [],
+            "latitude": 7.33016007,
+            "longitude": 80.58765149,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130015,
+            "name": "Hatharaliyadda",
+            "alt_names": [],
+            "latitude": 7.33032982,
+            "longitude": 80.47875881,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130016,
+            "name": "Kadugannawa",
+            "alt_names": [],
+            "latitude": 7.2547,
+            "longitude": 80.5242,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130017,
+            "name": "Kandy Four Gravets",
+            "alt_names": [],
+            "latitude": 7.28318748,
+            "longitude": 80.63527585,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130018,
+            "name": "Katugastota",
+            "alt_names": [],
+            "latitude": 7.333333,
+            "longitude": 80.616667,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130019,
+            "name": "Kundasale",
+            "alt_names": [],
+            "latitude": 7.30391594,
+            "longitude": 80.71230408,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130020,
+            "name": "Madawala",
+            "alt_names": [],
+            "latitude": 7.328331,
+            "longitude": 80.673552,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130021,
+            "name": "Medadumbara",
+            "alt_names": [],
+            "latitude": 7.30425996,
+            "longitude": 80.77519844,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130022,
+            "name": "Menikdiwela",
+            "alt_names": [],
+            "latitude": 7.083333,
+            "longitude": 80.733333,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130023,
+            "name": "Minipe",
+            "alt_names": [],
+            "latitude": 7.22638754,
+            "longitude": 81.00116732,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130024,
+            "name": "Nawalapitiya",
+            "alt_names": [],
+            "latitude": 7.03696481,
+            "longitude": 80.51626688,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130025,
+            "name": "Pallekele",
+            "alt_names": [],
+            "latitude": 7.283333,
+            "longitude": 80.7,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130026,
+            "name": "Panvila",
+            "alt_names": [],
+            "latitude": 7.4092975,
+            "longitude": 80.73966228,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130027,
+            "name": "Pasbage Korale",
+            "alt_names": [],
+            "latitude": 7.0151045,
+            "longitude": 80.54078073,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130028,
+            "name": "Pathadumbara",
+            "alt_names": [],
+            "latitude": 7.34931196,
+            "longitude": 80.66303689,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130029,
+            "name": "Pathahewaheta",
+            "alt_names": [],
+            "latitude": 7.23139207,
+            "longitude": 80.70848937,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130030,
+            "name": "Peradeniya",
+            "alt_names": [],
+            "latitude": 7.266667,
+            "longitude": 80.6,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130031,
+            "name": "Pilimathalawa",
+            "alt_names": [],
+            "latitude": 7.27,
+            "longitude": 80.57,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130032,
+            "name": "Poojapitiya",
+            "alt_names": [],
+            "latitude": 7.38093796,
+            "longitude": 80.58913708,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130033,
+            "name": "Pussellawa",
+            "alt_names": [],
+            "latitude": 7.105333,
+            "longitude": 80.636667,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130034,
+            "name": "Talatuoya",
+            "alt_names": [],
+            "latitude": 7.25,
+            "longitude": 80.683333,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130035,
+            "name": "Teldeniya",
+            "alt_names": [],
+            "latitude": 7.3,
+            "longitude": 80.766667,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130036,
+            "name": "Thumpane",
+            "alt_names": [],
+            "latitude": 7.36616728,
+            "longitude": 80.51587048,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130037,
+            "name": "Udadumbara",
+            "alt_names": [],
+            "latitude": 7.35,
+            "longitude": 80.833333,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130038,
+            "name": "Udapalatha",
+            "alt_names": [],
+            "latitude": 7.11515526,
+            "longitude": 80.6024834,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130039,
+            "name": "Ududumbara",
+            "alt_names": [],
+            "latitude": 7.31434839,
+            "longitude": 80.87707756,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130040,
+            "name": "Udunuwara",
+            "alt_names": [],
+            "latitude": 7.22777866,
+            "longitude": 80.55894578,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130041,
+            "name": "Ulapane",
+            "alt_names": [],
+            "latitude": 7.102778,
+            "longitude": 80.561111,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130042,
+            "name": "Watadeniya",
+            "alt_names": [],
+            "latitude": 7.195011,
+            "longitude": 80.552494,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130043,
+            "name": "Wattegama",
+            "alt_names": [],
+            "latitude": 7.350278,
+            "longitude": 80.6825,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130044,
+            "name": "Welamboda",
+            "alt_names": [],
+            "latitude": 7.2,
+            "longitude": 80.55,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090130045,
+            "name": "Yatinuwara",
+            "alt_names": [],
+            "latitude": 7.28584509,
+            "longitude": 80.53516168,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

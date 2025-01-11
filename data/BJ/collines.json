@@ -1,0 +1,67 @@
+{
+    "id": 23005,
+    "name": "Collines",
+    "alt_names": [],
+    "state_code": "CO",
+    "latitude": 8.3022297,
+    "longitude": 2.302446,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230050001,
+            "name": "Comé",
+            "alt_names": [],
+            "latitude": 6.40764,
+            "longitude": 1.88198,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230050002,
+            "name": "Dassa-Zoumé",
+            "alt_names": [],
+            "latitude": 7.75,
+            "longitude": 2.18333,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230050003,
+            "name": "Savalou",
+            "alt_names": [],
+            "latitude": 7.92807,
+            "longitude": 1.97558,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230050004,
+            "name": "Savé",
+            "alt_names": [],
+            "latitude": 8.03424,
+            "longitude": 2.4866,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

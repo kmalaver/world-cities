@@ -1,0 +1,39 @@
+{
+    "id": 94003,
+    "name": "Demerara-Mahaica",
+    "alt_names": [],
+    "state_code": "DE",
+    "latitude": 6.546426,
+    "longitude": -58.0982046,
+    "type": "region",
+    "cities": [
+        {
+            "id": 940030001,
+            "name": "Georgetown",
+            "alt_names": [],
+            "latitude": 6.80448,
+            "longitude": -58.15527,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        },
+        {
+            "id": 940030002,
+            "name": "Mahaica Village",
+            "alt_names": [],
+            "latitude": 6.68405,
+            "longitude": -57.92181,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        }
+    ]
+}

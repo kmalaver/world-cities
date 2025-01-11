@@ -1,0 +1,81 @@
+{
+    "id": 238003,
+    "name": "Cerro Largo",
+    "alt_names": [],
+    "state_code": "CL",
+    "latitude": -32.4411032,
+    "longitude": -54.3521753,
+    "type": "department",
+    "cities": [
+        {
+            "id": 2380030001,
+            "name": "Aceguá",
+            "alt_names": [],
+            "latitude": -31.87178,
+            "longitude": -54.16351,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380030002,
+            "name": "Isidoro Noblía",
+            "alt_names": [],
+            "latitude": -31.96218,
+            "longitude": -54.12309,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380030003,
+            "name": "Melo",
+            "alt_names": [],
+            "latitude": -32.37028,
+            "longitude": -54.1675,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380030004,
+            "name": "Río Branco",
+            "alt_names": [],
+            "latitude": -32.59802,
+            "longitude": -53.38583,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380030005,
+            "name": "Tupambaé",
+            "alt_names": [],
+            "latitude": -32.83333,
+            "longitude": -54.76667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        }
+    ]
+}

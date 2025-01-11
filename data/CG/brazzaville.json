@@ -1,0 +1,25 @@
+{
+    "id": 50002,
+    "name": "Brazzaville",
+    "alt_names": [],
+    "state_code": "BZV",
+    "latitude": -4.2633597,
+    "longitude": 15.2428853,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500020001,
+            "name": "Brazzaville",
+            "alt_names": [],
+            "latitude": -4.26613,
+            "longitude": 15.28318,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

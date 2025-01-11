@@ -1,0 +1,39 @@
+{
+    "id": 1010,
+    "name": "Ghōr",
+    "alt_names": [],
+    "state_code": "GHO",
+    "latitude": 34.0995776,
+    "longitude": 64.905955,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10100001,
+            "name": "Fayrōz Kōh",
+            "alt_names": [],
+            "latitude": 34.51952,
+            "longitude": 65.25093,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10100002,
+            "name": "Shahrak",
+            "alt_names": [],
+            "latitude": 34.10737,
+            "longitude": 64.3052,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

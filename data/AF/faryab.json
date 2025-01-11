@@ -1,0 +1,39 @@
+{
+    "id": 1008,
+    "name": "Faryab",
+    "alt_names": [],
+    "state_code": "FYB",
+    "latitude": 36.0795613,
+    "longitude": 64.905955,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10080001,
+            "name": "Andkhoy",
+            "alt_names": [],
+            "latitude": 36.95293,
+            "longitude": 65.12376,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10080002,
+            "name": "Maymana",
+            "alt_names": [],
+            "latitude": 35.92139,
+            "longitude": 64.78361,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 111004,
+    "name": "Balqa",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 32.0366806,
+    "longitude": 35.728848,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1110040001,
+            "name": "Al Karāmah",
+            "alt_names": [],
+            "latitude": 31.95439,
+            "longitude": 35.58033,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110040002,
+            "name": "As Salţ",
+            "alt_names": [],
+            "latitude": 32.03917,
+            "longitude": 35.72722,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110040003,
+            "name": "Yarqā",
+            "alt_names": [],
+            "latitude": 31.97583,
+            "longitude": 35.69638,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

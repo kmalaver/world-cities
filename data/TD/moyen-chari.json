@@ -1,0 +1,39 @@
+{
+    "id": 43016,
+    "name": "Moyen-Chari",
+    "alt_names": [],
+    "state_code": "MC",
+    "latitude": 9.0639998,
+    "longitude": 18.4276047,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430160001,
+            "name": "Kyabé",
+            "alt_names": [],
+            "latitude": 9.45149,
+            "longitude": 18.94493,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430160002,
+            "name": "Sarh",
+            "alt_names": [],
+            "latitude": 9.1429,
+            "longitude": 18.3923,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

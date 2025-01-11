@@ -1,0 +1,809 @@
+{
+    "id": 166002,
+    "name": "Balochistan",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 28.4907332,
+    "longitude": 65.0957792,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1660020001,
+            "name": "Alik Ghund",
+            "alt_names": [],
+            "latitude": 30.48976,
+            "longitude": 67.52177,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020002,
+            "name": "Awārān District",
+            "alt_names": [],
+            "latitude": 26.21157,
+            "longitude": 65.42944,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020003,
+            "name": "Barkhan",
+            "alt_names": [],
+            "latitude": 29.89773,
+            "longitude": 69.52558,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020004,
+            "name": "Bārkhān District",
+            "alt_names": [],
+            "latitude": 29.98482,
+            "longitude": 69.69944,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020005,
+            "name": "Bela",
+            "alt_names": [],
+            "latitude": 26.22718,
+            "longitude": 66.31178,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020006,
+            "name": "Bhag",
+            "alt_names": [],
+            "latitude": 29.04174,
+            "longitude": 67.82394,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020007,
+            "name": "Chāgai District",
+            "alt_names": [],
+            "latitude": 28.98765,
+            "longitude": 63.59087,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020008,
+            "name": "Chaman",
+            "alt_names": [],
+            "latitude": 30.91769,
+            "longitude": 66.45259,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020009,
+            "name": "Chowki Jamali",
+            "alt_names": [],
+            "latitude": 28.01944,
+            "longitude": 67.92083,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020010,
+            "name": "Dadhar",
+            "alt_names": [],
+            "latitude": 29.47489,
+            "longitude": 67.65167,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020011,
+            "name": "Dalbandin",
+            "alt_names": [],
+            "latitude": 28.88846,
+            "longitude": 64.40616,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020012,
+            "name": "Dera Bugti",
+            "alt_names": [],
+            "latitude": 29.03619,
+            "longitude": 69.15849,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020013,
+            "name": "Dera Bugti District",
+            "alt_names": [],
+            "latitude": 28.9425,
+            "longitude": 69.06883,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020014,
+            "name": "Duki",
+            "alt_names": [],
+            "latitude": 30.15307,
+            "longitude": 68.57323,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020015,
+            "name": "Gadani",
+            "alt_names": [],
+            "latitude": 25.11879,
+            "longitude": 66.73219,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020016,
+            "name": "Garhi Khairo",
+            "alt_names": [],
+            "latitude": 28.06029,
+            "longitude": 67.98033,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020017,
+            "name": "Gwadar",
+            "alt_names": [],
+            "latitude": 25.12163,
+            "longitude": 62.32541,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020018,
+            "name": "Harnai",
+            "alt_names": [],
+            "latitude": 30.10077,
+            "longitude": 67.93824,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020019,
+            "name": "Jāfarābād District",
+            "alt_names": [],
+            "latitude": 28.30104,
+            "longitude": 68.19783,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020020,
+            "name": "Jhal Magsi District",
+            "alt_names": [],
+            "latitude": 28.36881,
+            "longitude": 67.543,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020021,
+            "name": "Jiwani",
+            "alt_names": [],
+            "latitude": 25.04852,
+            "longitude": 61.74573,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020022,
+            "name": "Kalat",
+            "alt_names": [],
+            "latitude": 29.02663,
+            "longitude": 66.59361,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020023,
+            "name": "Kalāt District",
+            "alt_names": [],
+            "latitude": 28.88242,
+            "longitude": 66.53165,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020024,
+            "name": "Khadan Khak",
+            "alt_names": [],
+            "latitude": 30.75236,
+            "longitude": 67.71133,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020025,
+            "name": "Kharan",
+            "alt_names": [],
+            "latitude": 28.58459,
+            "longitude": 65.41501,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020026,
+            "name": "Khārān District",
+            "alt_names": [],
+            "latitude": 27.96308,
+            "longitude": 64.57113,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020027,
+            "name": "Khuzdar",
+            "alt_names": [],
+            "latitude": 27.81193,
+            "longitude": 66.61096,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020028,
+            "name": "Khuzdār District",
+            "alt_names": [],
+            "latitude": 27.4868,
+            "longitude": 66.58703,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020029,
+            "name": "Kohlu",
+            "alt_names": [],
+            "latitude": 29.89651,
+            "longitude": 69.25324,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020030,
+            "name": "Kot Malik Barkhurdar",
+            "alt_names": [],
+            "latitude": 30.20379,
+            "longitude": 66.98723,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020031,
+            "name": "Lasbela District",
+            "alt_names": [],
+            "latitude": 25.78634,
+            "longitude": 66.6033,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020032,
+            "name": "Loralai",
+            "alt_names": [],
+            "latitude": 30.37051,
+            "longitude": 68.59795,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020033,
+            "name": "Loralai District",
+            "alt_names": [],
+            "latitude": 30.30253,
+            "longitude": 68.84636,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020034,
+            "name": "Mach",
+            "alt_names": [],
+            "latitude": 29.86371,
+            "longitude": 67.33018,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020035,
+            "name": "Mastung",
+            "alt_names": [],
+            "latitude": 29.79966,
+            "longitude": 66.84553,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020036,
+            "name": "Mastung District",
+            "alt_names": [],
+            "latitude": 29.79455,
+            "longitude": 66.72068,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020037,
+            "name": "Mehrabpur",
+            "alt_names": [],
+            "latitude": 28.10773,
+            "longitude": 68.02554,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020038,
+            "name": "Mūsa Khel District",
+            "alt_names": [],
+            "latitude": 30.84937,
+            "longitude": 69.90069,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020039,
+            "name": "Nasīrābād District",
+            "alt_names": [],
+            "latitude": 28.62643,
+            "longitude": 68.12925,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020040,
+            "name": "Nushki",
+            "alt_names": [],
+            "latitude": 29.55218,
+            "longitude": 66.02288,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020041,
+            "name": "Ormara",
+            "alt_names": [],
+            "latitude": 25.21018,
+            "longitude": 64.63626,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020042,
+            "name": "Panjgūr District",
+            "alt_names": [],
+            "latitude": 26.7375,
+            "longitude": 64.2038,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020043,
+            "name": "Pasni",
+            "alt_names": [],
+            "latitude": 25.26302,
+            "longitude": 63.46921,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020044,
+            "name": "Pishin",
+            "alt_names": [],
+            "latitude": 30.58176,
+            "longitude": 66.99406,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020045,
+            "name": "Qila Saifullāh District",
+            "alt_names": [],
+            "latitude": 30.95392,
+            "longitude": 68.33996,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020046,
+            "name": "Quetta",
+            "alt_names": [],
+            "latitude": 30.18414,
+            "longitude": 67.00141,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020047,
+            "name": "Quetta District",
+            "alt_names": [],
+            "latitude": 30.17458,
+            "longitude": 66.76203,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020048,
+            "name": "Sibi",
+            "alt_names": [],
+            "latitude": 29.54299,
+            "longitude": 67.87726,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020049,
+            "name": "Sohbatpur",
+            "alt_names": [],
+            "latitude": 28.52038,
+            "longitude": 68.54298,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020050,
+            "name": "Surab",
+            "alt_names": [],
+            "latitude": 28.49276,
+            "longitude": 66.25999,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020051,
+            "name": "Turbat",
+            "alt_names": [],
+            "latitude": 26.00122,
+            "longitude": 63.04849,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020052,
+            "name": "Usta Muhammad",
+            "alt_names": [],
+            "latitude": 28.17723,
+            "longitude": 68.04367,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020053,
+            "name": "Uthal",
+            "alt_names": [],
+            "latitude": 25.80722,
+            "longitude": 66.62194,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020054,
+            "name": "Zhob",
+            "alt_names": [],
+            "latitude": 31.34082,
+            "longitude": 69.4493,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020055,
+            "name": "Zhob District",
+            "alt_names": [],
+            "latitude": 31.36444,
+            "longitude": 69.20749,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020056,
+            "name": "Ziarat",
+            "alt_names": [],
+            "latitude": 30.38244,
+            "longitude": 67.72562,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660020057,
+            "name": "Ziārat District",
+            "alt_names": [],
+            "latitude": 30.43591,
+            "longitude": 67.50962,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        }
+    ]
+}

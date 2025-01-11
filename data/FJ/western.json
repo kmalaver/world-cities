@@ -1,0 +1,95 @@
+{
+    "id": 74019,
+    "name": "Western",
+    "alt_names": [],
+    "state_code": "W",
+    "latitude": 42.9662198,
+    "longitude": -78.7021134,
+    "type": "division",
+    "cities": [
+        {
+            "id": 740190001,
+            "name": "Ba",
+            "alt_names": [],
+            "latitude": -17.5343,
+            "longitude": 177.67407,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740190002,
+            "name": "Ba Province",
+            "alt_names": [],
+            "latitude": -17.66667,
+            "longitude": 177.66667,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740190003,
+            "name": "Lautoka",
+            "alt_names": [],
+            "latitude": -17.61686,
+            "longitude": 177.45049,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740190004,
+            "name": "Nadi",
+            "alt_names": [],
+            "latitude": -17.80309,
+            "longitude": 177.41617,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740190005,
+            "name": "Nandronga and Navosa Province",
+            "alt_names": [],
+            "latitude": -18,
+            "longitude": 177.66667,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740190006,
+            "name": "Ra Province",
+            "alt_names": [],
+            "latitude": -17.5,
+            "longitude": 178.16667,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        }
+    ]
+}

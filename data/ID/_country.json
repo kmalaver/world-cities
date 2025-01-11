@@ -1,0 +1,68 @@
+{
+    "id": 102,
+    "name": "Indonesia",
+    "iso3": "IDN",
+    "iso2": "ID",
+    "numeric_code": "360",
+    "phonecode": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currency_name": "Indonesian rupiah",
+    "currency_symbol": "Rp",
+    "tld": ".id",
+    "native": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "translations": {
+        "de": "Indonesien",
+        "es": "Indonesia",
+        "fa": "اندونزی",
+        "fr": "Indonésie",
+        "hr": "Indonezija",
+        "it": "Indonesia",
+        "ja": "インドネシア",
+        "ko": "인도네시아",
+        "nl": "Indonesië",
+        "pl": "Indonezja",
+        "pt": "Indonésia",
+        "pt-BR": "Indonésia",
+        "ru": "Индонезия",
+        "tr": "Endonezya",
+        "uk": "Індонезія",
+        "zh-CN": "印度尼西亚"
+    },
+    "latitude": -5,
+    "longitude": 120,
+    "emoji": "🇮🇩",
+    "emojiU": "U+1F1EE U+1F1E9",
+    "timezones": [
+        {
+            "zoneName": "Asia/Jakarta",
+            "gmtOffset": 25200,
+            "gmtOffsetName": "UTC+07:00",
+            "abbreviation": "WIB",
+            "tzName": "Western Indonesian Time"
+        },
+        {
+            "zoneName": "Asia/Jayapura",
+            "gmtOffset": 32400,
+            "gmtOffsetName": "UTC+09:00",
+            "abbreviation": "WIT",
+            "tzName": "Eastern Indonesian Time"
+        },
+        {
+            "zoneName": "Asia/Makassar",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "WITA",
+            "tzName": "Central Indonesia Time"
+        },
+        {
+            "zoneName": "Asia/Pontianak",
+            "gmtOffset": 25200,
+            "gmtOffsetName": "UTC+07:00",
+            "abbreviation": "WIB",
+            "tzName": "Western Indonesian Time"
+        }
+    ]
+}

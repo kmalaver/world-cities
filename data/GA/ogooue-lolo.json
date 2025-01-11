@@ -1,0 +1,39 @@
+{
+    "id": 80007,
+    "name": "Ogooué-Lolo",
+    "alt_names": [],
+    "state_code": "7",
+    "latitude": -0.8844093,
+    "longitude": 12.4380581,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800070001,
+            "name": "Koulamoutou",
+            "alt_names": [],
+            "latitude": -1.13667,
+            "longitude": 12.46399,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800070002,
+            "name": "Lastoursville",
+            "alt_names": [],
+            "latitude": -0.81742,
+            "longitude": 12.70818,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

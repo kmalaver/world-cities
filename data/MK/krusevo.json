@@ -1,0 +1,39 @@
+{
+    "id": 162041,
+    "name": "Kruševo",
+    "alt_names": [],
+    "state_code": "46",
+    "latitude": 41.3769331,
+    "longitude": 21.2606554,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620410001,
+            "name": "Bučin",
+            "alt_names": [],
+            "latitude": 41.27377,
+            "longitude": 21.31692,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620410002,
+            "name": "Krusevo",
+            "alt_names": [],
+            "latitude": 41.36889,
+            "longitude": 21.24889,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

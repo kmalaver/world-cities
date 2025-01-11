@@ -1,0 +1,53 @@
+{
+    "id": 243017,
+    "name": "Đắk Nông",
+    "alt_names": [],
+    "state_code": "72",
+    "latitude": 12.2646476,
+    "longitude": 107.609806,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2430170001,
+            "name": "Huyện Cư Jút",
+            "alt_names": [],
+            "latitude": 12.69591,
+            "longitude": 107.76316,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430170002,
+            "name": "Huyện Đắk R’Lấp",
+            "alt_names": [],
+            "latitude": 11.8799,
+            "longitude": 107.52244,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430170003,
+            "name": "Huyện Krông Nô",
+            "alt_names": [],
+            "latitude": 12.36285,
+            "longitude": 107.83445,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

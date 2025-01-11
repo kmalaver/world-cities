@@ -1,0 +1,81 @@
+{
+    "id": 213004,
+    "name": "Gotland",
+    "alt_names": [],
+    "state_code": "I",
+    "latitude": 57.4684121,
+    "longitude": 18.4867447,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2130040001,
+            "name": "Gotland",
+            "alt_names": [],
+            "latitude": 57.5,
+            "longitude": 18.5,
+            "timezone": {
+                "zoneName": "Europe/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2130040002,
+            "name": "Hemse",
+            "alt_names": [],
+            "latitude": 57.23788,
+            "longitude": 18.37443,
+            "timezone": {
+                "zoneName": "Europe/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2130040003,
+            "name": "Klintehamn",
+            "alt_names": [],
+            "latitude": 57.38667,
+            "longitude": 18.20371,
+            "timezone": {
+                "zoneName": "Europe/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2130040004,
+            "name": "Vibble",
+            "alt_names": [],
+            "latitude": 57.60452,
+            "longitude": 18.25601,
+            "timezone": {
+                "zoneName": "Europe/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2130040005,
+            "name": "Visby",
+            "alt_names": [],
+            "latitude": 57.64089,
+            "longitude": 18.29602,
+            "timezone": {
+                "zoneName": "Europe/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

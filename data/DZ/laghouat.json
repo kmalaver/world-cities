@@ -1,0 +1,39 @@
+{
+    "id": 4032,
+    "name": "Laghouat",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 33.8078341,
+    "longitude": 2.8628294,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40320001,
+            "name": "Aflou",
+            "alt_names": [],
+            "latitude": 34.11279,
+            "longitude": 2.10228,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40320002,
+            "name": "Laghouat",
+            "alt_names": [],
+            "latitude": 33.8,
+            "longitude": 2.86514,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 113015,
+    "name": "Kirinyaga",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": -0.6590565,
+    "longitude": 37.3827234,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130150001,
+            "name": "Kerugoya",
+            "alt_names": [],
+            "latitude": -0.49887,
+            "longitude": 37.28031,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130150002,
+            "name": "Sagana",
+            "alt_names": [],
+            "latitude": -0.66806,
+            "longitude": 37.20875,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

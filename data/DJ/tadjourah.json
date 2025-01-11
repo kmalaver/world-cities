@@ -1,0 +1,39 @@
+{
+    "id": 61006,
+    "name": "Tadjourah",
+    "alt_names": [],
+    "state_code": "TA",
+    "latitude": 11.9338885,
+    "longitude": 42.3938375,
+    "type": "region",
+    "cities": [
+        {
+            "id": 610060001,
+            "name": "Dorra",
+            "alt_names": [],
+            "latitude": 12.15028,
+            "longitude": 42.47624,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 610060002,
+            "name": "Tadjourah",
+            "alt_names": [],
+            "latitude": 11.78778,
+            "longitude": 42.88222,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

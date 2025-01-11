@@ -1,0 +1,53 @@
+{
+    "id": 171015,
+    "name": "Ñeembucú",
+    "alt_names": [],
+    "state_code": "12",
+    "latitude": -27.0299114,
+    "longitude": -57.825395,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1710150001,
+            "name": "Cerrito",
+            "alt_names": [],
+            "latitude": -27.34215,
+            "longitude": -57.64119,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710150002,
+            "name": "General José Eduvigis Díaz",
+            "alt_names": [],
+            "latitude": -27.20136,
+            "longitude": -58.3674,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710150003,
+            "name": "Pilar",
+            "alt_names": [],
+            "latitude": -26.85874,
+            "longitude": -58.30639,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        }
+    ]
+}

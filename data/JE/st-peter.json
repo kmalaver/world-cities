@@ -1,0 +1,67 @@
+{
+    "id": 110010,
+    "name": "St Peter",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 49.2144278,
+    "longitude": -2.2323431,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1100100001,
+            "name": "Grande Vingtaine",
+            "alt_names": [],
+            "latitude": 49.210655,
+            "longitude": -2.1960636,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100100002,
+            "name": "Vingtaine des Augerez",
+            "alt_names": [],
+            "latitude": 49.2077679,
+            "longitude": -2.1862978,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100100003,
+            "name": "Vingtaine du Coin Varin",
+            "alt_names": [],
+            "latitude": 49.2145195,
+            "longitude": -2.1872255,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100100004,
+            "name": "Vingtaine du Douet",
+            "alt_names": [],
+            "latitude": 0,
+            "longitude": 0,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 148009,
+    "name": "Sofala",
+    "alt_names": [],
+    "state_code": "S",
+    "latitude": -19.2039073,
+    "longitude": 34.8624166,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480090001,
+            "name": "Beira",
+            "alt_names": [],
+            "latitude": -19.84361,
+            "longitude": 34.83889,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480090002,
+            "name": "Dondo",
+            "alt_names": [],
+            "latitude": -19.60944,
+            "longitude": 34.74306,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480090003,
+            "name": "Nhamatanda District",
+            "alt_names": [],
+            "latitude": -19.349,
+            "longitude": 34.268,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

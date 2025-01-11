@@ -1,0 +1,67 @@
+{
+    "id": 193011,
+    "name": "Northern Borders",
+    "alt_names": [],
+    "state_code": "08",
+    "latitude": 30.0799162,
+    "longitude": 42.8637875,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1930110001,
+            "name": "Arar",
+            "alt_names": [],
+            "latitude": 30.97531,
+            "longitude": 41.03808,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930110002,
+            "name": "Nisab",
+            "alt_names": [],
+            "latitude": 29.19274,
+            "longitude": 44.71598,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930110003,
+            "name": "Turaif",
+            "alt_names": [],
+            "latitude": 31.67252,
+            "longitude": 38.66374,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930110004,
+            "name": "Umm Radamah",
+            "alt_names": [],
+            "latitude": 28.67985,
+            "longitude": 44.69549,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

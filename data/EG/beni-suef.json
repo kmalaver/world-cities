@@ -1,0 +1,67 @@
+{
+    "id": 65005,
+    "name": "Beni Suef",
+    "alt_names": [],
+    "state_code": "BNS",
+    "latitude": 28.8938837,
+    "longitude": 31.4456179,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650050001,
+            "name": "Al Fashn",
+            "alt_names": [],
+            "latitude": 28.82431,
+            "longitude": 30.89948,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650050002,
+            "name": "Banī Suwayf",
+            "alt_names": [],
+            "latitude": 29.07441,
+            "longitude": 31.09785,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650050003,
+            "name": "Būsh",
+            "alt_names": [],
+            "latitude": 29.14816,
+            "longitude": 31.12733,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650050004,
+            "name": "Sumusţā as Sulţānī",
+            "alt_names": [],
+            "latitude": 28.91667,
+            "longitude": 30.85,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

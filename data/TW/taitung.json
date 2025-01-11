@@ -1,0 +1,39 @@
+{
+    "id": 216019,
+    "name": "Taitung",
+    "alt_names": [],
+    "state_code": "TTT",
+    "latitude": 22.7972447,
+    "longitude": 121.0713702,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160190001,
+            "name": "Taitung",
+            "alt_names": [],
+            "latitude": 22.88361,
+            "longitude": 121.04833,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160190002,
+            "name": "Taitung City",
+            "alt_names": [],
+            "latitude": 22.7583,
+            "longitude": 121.1444,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

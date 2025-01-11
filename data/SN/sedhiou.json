@@ -1,0 +1,39 @@
+{
+    "id": 194011,
+    "name": "Sédhiou",
+    "alt_names": [],
+    "state_code": "SE",
+    "latitude": 12.704604,
+    "longitude": -15.5562304,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1940110001,
+            "name": "Goudomp Department",
+            "alt_names": [],
+            "latitude": 12.57778,
+            "longitude": -15.87222,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1940110002,
+            "name": "Sédhiou",
+            "alt_names": [],
+            "latitude": 12.70806,
+            "longitude": -15.55694,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 148003,
+    "name": "Inhambane",
+    "alt_names": [],
+    "state_code": "I",
+    "latitude": -22.8527997,
+    "longitude": 34.5508758,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480030001,
+            "name": "Inhambane",
+            "alt_names": [],
+            "latitude": -23.865,
+            "longitude": 35.38333,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480030002,
+            "name": "Maxixe",
+            "alt_names": [],
+            "latitude": -23.85972,
+            "longitude": 35.34722,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

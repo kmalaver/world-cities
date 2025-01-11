@@ -1,0 +1,81 @@
+{
+    "id": 80002,
+    "name": "Haut-Ogooué",
+    "alt_names": [],
+    "state_code": "2",
+    "latitude": -1.4762544,
+    "longitude": 13.914399,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800020001,
+            "name": "Franceville",
+            "alt_names": [],
+            "latitude": -1.63333,
+            "longitude": 13.58357,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800020002,
+            "name": "Lékoni",
+            "alt_names": [],
+            "latitude": -1.58431,
+            "longitude": 14.25905,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800020003,
+            "name": "Moanda",
+            "alt_names": [],
+            "latitude": -1.56652,
+            "longitude": 13.1987,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800020004,
+            "name": "Mounana",
+            "alt_names": [],
+            "latitude": -1.4085,
+            "longitude": 13.15857,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800020005,
+            "name": "Okondja",
+            "alt_names": [],
+            "latitude": -0.65487,
+            "longitude": 13.67533,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

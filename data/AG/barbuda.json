@@ -1,0 +1,25 @@
+{
+    "id": 10001,
+    "name": "Barbuda",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 17.6266242,
+    "longitude": -61.7713028,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 100010001,
+            "name": "Codrington",
+            "alt_names": [],
+            "latitude": 17.63333,
+            "longitude": -61.83333,
+            "timezone": {
+                "zoneName": "America/Antigua",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

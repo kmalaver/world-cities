@@ -1,0 +1,585 @@
+{
+    "id": 97006,
+    "name": "Copán",
+    "alt_names": [],
+    "state_code": "CP",
+    "latitude": 14.9360838,
+    "longitude": -88.864698,
+    "type": "department",
+    "cities": [
+        {
+            "id": 970060001,
+            "name": "Agua Caliente",
+            "alt_names": [],
+            "latitude": 14.88333,
+            "longitude": -88.81667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060002,
+            "name": "Buenos Aires",
+            "alt_names": [],
+            "latitude": 15.03333,
+            "longitude": -88.96667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060003,
+            "name": "Cabañas",
+            "alt_names": [],
+            "latitude": 14.76,
+            "longitude": -89.06,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060004,
+            "name": "Chalmeca",
+            "alt_names": [],
+            "latitude": 15.1,
+            "longitude": -88.68333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060005,
+            "name": "Concepción",
+            "alt_names": [],
+            "latitude": 14.88077,
+            "longitude": -88.87919,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060006,
+            "name": "Concepción de la Barranca",
+            "alt_names": [],
+            "latitude": 15.16667,
+            "longitude": -88.71667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060007,
+            "name": "Copán",
+            "alt_names": [],
+            "latitude": 14.83333,
+            "longitude": -89.15,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060008,
+            "name": "Copán Ruinas",
+            "alt_names": [],
+            "latitude": 14.92,
+            "longitude": -89.15,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060009,
+            "name": "Corquín",
+            "alt_names": [],
+            "latitude": 14.56667,
+            "longitude": -88.86667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060010,
+            "name": "Cucuyagua",
+            "alt_names": [],
+            "latitude": 14.65,
+            "longitude": -88.86667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060011,
+            "name": "Dolores",
+            "alt_names": [],
+            "latitude": 14.86667,
+            "longitude": -88.83333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060012,
+            "name": "Dulce Nombre",
+            "alt_names": [],
+            "latitude": 14.85552,
+            "longitude": -88.83856,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060013,
+            "name": "El Corpus",
+            "alt_names": [],
+            "latitude": 14.7,
+            "longitude": -88.91667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060014,
+            "name": "El Ocotón",
+            "alt_names": [],
+            "latitude": 15.03333,
+            "longitude": -88.88333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060015,
+            "name": "El Paraíso",
+            "alt_names": [],
+            "latitude": 15.04217,
+            "longitude": -88.98045,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060016,
+            "name": "Florida",
+            "alt_names": [],
+            "latitude": 15.03333,
+            "longitude": -88.83333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060017,
+            "name": "La Entrada",
+            "alt_names": [],
+            "latitude": 15.05,
+            "longitude": -88.73333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060018,
+            "name": "La Jigua",
+            "alt_names": [],
+            "latitude": 15.1,
+            "longitude": -88.76,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060019,
+            "name": "La Playona",
+            "alt_names": [],
+            "latitude": 15.11667,
+            "longitude": -88.98333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060020,
+            "name": "La Unión",
+            "alt_names": [],
+            "latitude": 14.6935,
+            "longitude": -88.94734,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060021,
+            "name": "La Zumbadora",
+            "alt_names": [],
+            "latitude": 15.01667,
+            "longitude": -88.9,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060022,
+            "name": "Los Tangos",
+            "alt_names": [],
+            "latitude": 15.15,
+            "longitude": -88.68333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060023,
+            "name": "Nueva Arcadia",
+            "alt_names": [],
+            "latitude": 15.08,
+            "longitude": -88.69,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060024,
+            "name": "Ojos de Agua",
+            "alt_names": [],
+            "latitude": 14.7,
+            "longitude": -88.81667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060025,
+            "name": "Pueblo Nuevo",
+            "alt_names": [],
+            "latitude": 15,
+            "longitude": -88.75,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060026,
+            "name": "Quezailica",
+            "alt_names": [],
+            "latitude": 14.88333,
+            "longitude": -88.73333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060027,
+            "name": "San Agustín",
+            "alt_names": [],
+            "latitude": 14.81973,
+            "longitude": -88.93027,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060028,
+            "name": "San Antonio",
+            "alt_names": [],
+            "latitude": 15.04,
+            "longitude": -88.88,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060029,
+            "name": "San Jerónimo",
+            "alt_names": [],
+            "latitude": 14.96207,
+            "longitude": -88.9027,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060030,
+            "name": "San Joaquín",
+            "alt_names": [],
+            "latitude": 15.05,
+            "longitude": -88.9,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060031,
+            "name": "San José",
+            "alt_names": [],
+            "latitude": 14.91184,
+            "longitude": -88.71667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060032,
+            "name": "San José de Copán",
+            "alt_names": [],
+            "latitude": 14.9,
+            "longitude": -88.71667,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060033,
+            "name": "San Juan de Opoa",
+            "alt_names": [],
+            "latitude": 14.78333,
+            "longitude": -88.7,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060034,
+            "name": "San Juan de Planes",
+            "alt_names": [],
+            "latitude": 14.93333,
+            "longitude": -88.78333,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060035,
+            "name": "San Nicolás",
+            "alt_names": [],
+            "latitude": 14.98,
+            "longitude": -88.73,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060036,
+            "name": "San Pedro de Copán",
+            "alt_names": [],
+            "latitude": 14.61667,
+            "longitude": -88.8,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060037,
+            "name": "Santa Rita",
+            "alt_names": [],
+            "latitude": 14.88,
+            "longitude": -89.01,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060038,
+            "name": "Santa Rita Copan",
+            "alt_names": [],
+            "latitude": 14.86748,
+            "longitude": -89.1,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060039,
+            "name": "Santa Rosa de Copán",
+            "alt_names": [],
+            "latitude": 14.76667,
+            "longitude": -88.77917,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060040,
+            "name": "Trinidad de Copán",
+            "alt_names": [],
+            "latitude": 14.95,
+            "longitude": -88.75,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 970060041,
+            "name": "Veracruz",
+            "alt_names": [],
+            "latitude": 14.88343,
+            "longitude": -88.7857,
+            "timezone": {
+                "zoneName": "America/Tegucigalpa",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        }
+    ]
+}

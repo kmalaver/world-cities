@@ -1,0 +1,53 @@
+{
+    "id": 111012,
+    "name": "Zarqa",
+    "alt_names": [],
+    "state_code": "AZ",
+    "latitude": 32.0608505,
+    "longitude": 36.0942121,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1110120001,
+            "name": "Al Azraq ash Shamālī",
+            "alt_names": [],
+            "latitude": 31.88209,
+            "longitude": 36.83017,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110120002,
+            "name": "Russeifa",
+            "alt_names": [],
+            "latitude": 32.01778,
+            "longitude": 36.04639,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110120003,
+            "name": "Zarqa",
+            "alt_names": [],
+            "latitude": 32.07275,
+            "longitude": 36.08796,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

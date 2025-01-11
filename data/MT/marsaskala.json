@@ -1,0 +1,39 @@
+{
+    "id": 133026,
+    "name": "Marsaskala",
+    "alt_names": [],
+    "state_code": "27",
+    "latitude": 35.860364,
+    "longitude": 14.5567876,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330260001,
+            "name": "Kerċem",
+            "alt_names": [],
+            "latitude": 36.04194,
+            "longitude": 14.22667,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330260002,
+            "name": "Marsaskala",
+            "alt_names": [],
+            "latitude": 35.8622,
+            "longitude": 14.56701,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

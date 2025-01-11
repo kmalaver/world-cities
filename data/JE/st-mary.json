@@ -1,0 +1,39 @@
+{
+    "id": 110008,
+    "name": "St Mary",
+    "alt_names": [],
+    "state_code": "08",
+    "latitude": 49.2378181,
+    "longitude": -2.1952213,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1100080001,
+            "name": "Vingtaine du Nord",
+            "alt_names": [],
+            "latitude": 49.241027,
+            "longitude": -2.1690095,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100080002,
+            "name": "Vingtaine du Sud",
+            "alt_names": [],
+            "latitude": 49.241027,
+            "longitude": -2.1690095,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 71006,
+    "name": "Gambela",
+    "alt_names": [],
+    "state_code": "GA",
+    "latitude": 7.9219687,
+    "longitude": 34.1531947,
+    "type": "region",
+    "cities": [
+        {
+            "id": 710060001,
+            "name": "Administrative Zone 1",
+            "alt_names": [],
+            "latitude": 8.14699,
+            "longitude": 33.97335,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710060002,
+            "name": "Gambēla",
+            "alt_names": [],
+            "latitude": 8.25,
+            "longitude": 34.58333,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

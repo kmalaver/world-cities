@@ -1,0 +1,47 @@
+{
+    "id": 99,
+    "name": "Hungary",
+    "iso3": "HUN",
+    "iso2": "HU",
+    "numeric_code": "348",
+    "phonecode": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "currency_name": "Hungarian forint",
+    "currency_symbol": "Ft",
+    "tld": ".hu",
+    "native": "Magyarország",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "translations": {
+        "de": "Ungarn",
+        "es": "Hungría",
+        "fa": "مجارستان",
+        "fr": "Hongrie",
+        "hr": "Mađarska",
+        "it": "Ungheria",
+        "ja": "ハンガリー",
+        "ko": "헝가리",
+        "nl": "Hongarije",
+        "pl": "Węgry",
+        "pt": "Hungria",
+        "pt-BR": "Hungria",
+        "ru": "Венгрия",
+        "tr": "Macaristan",
+        "uk": "Угорщина",
+        "zh-CN": "匈牙利"
+    },
+    "latitude": 47,
+    "longitude": 20,
+    "emoji": "🇭🇺",
+    "emojiU": "U+1F1ED U+1F1FA",
+    "timezones": [
+        {
+            "zoneName": "Europe/Budapest",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        }
+    ]
+}

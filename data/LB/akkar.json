@@ -1,0 +1,25 @@
+{
+    "id": 120001,
+    "name": "Akkar",
+    "alt_names": [],
+    "state_code": "AK",
+    "latitude": 34.5328763,
+    "longitude": 36.1328132,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200010001,
+            "name": "Caza de Aakkar",
+            "alt_names": [],
+            "latitude": 34.53333,
+            "longitude": 36.16667,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

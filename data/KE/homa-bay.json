@@ -1,0 +1,53 @@
+{
+    "id": 113008,
+    "name": "Homa Bay",
+    "alt_names": [],
+    "state_code": "08",
+    "latitude": -0.6220655,
+    "longitude": 34.3310364,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130080001,
+            "name": "Homa Bay",
+            "alt_names": [],
+            "latitude": -0.52731,
+            "longitude": 34.45714,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130080002,
+            "name": "Oyugis",
+            "alt_names": [],
+            "latitude": -0.50974,
+            "longitude": 34.73067,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130080003,
+            "name": "Rachuonyo District",
+            "alt_names": [],
+            "latitude": -0.44,
+            "longitude": 34.739,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 94004,
+    "name": "East Berbice-Corentyne",
+    "alt_names": [],
+    "state_code": "EB",
+    "latitude": 2.7477922,
+    "longitude": -57.4627259,
+    "type": "region",
+    "cities": [
+        {
+            "id": 940040001,
+            "name": "New Amsterdam",
+            "alt_names": [],
+            "latitude": 6.24793,
+            "longitude": -57.5171,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        },
+        {
+            "id": 940040002,
+            "name": "Skeldon",
+            "alt_names": [],
+            "latitude": 5.88333,
+            "longitude": -57.13333,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        }
+    ]
+}

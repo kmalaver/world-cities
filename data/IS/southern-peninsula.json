@@ -1,0 +1,95 @@
+{
+    "id": 100006,
+    "name": "Southern Peninsula",
+    "alt_names": [],
+    "state_code": "2",
+    "latitude": 63.9154803,
+    "longitude": -22.3649667,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1000060001,
+            "name": "Garður",
+            "alt_names": [],
+            "latitude": 64.06558,
+            "longitude": -22.64656,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000060002,
+            "name": "Grindavík",
+            "alt_names": [],
+            "latitude": 63.83849,
+            "longitude": -22.43931,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000060003,
+            "name": "Keflavík",
+            "alt_names": [],
+            "latitude": 64.00492,
+            "longitude": -22.56242,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000060004,
+            "name": "Reykjanesbær",
+            "alt_names": [],
+            "latitude": 63.99813,
+            "longitude": -22.56111,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000060005,
+            "name": "Sandgerði",
+            "alt_names": [],
+            "latitude": 64.03762,
+            "longitude": -22.70799,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000060006,
+            "name": "Vogar",
+            "alt_names": [],
+            "latitude": 63.9816,
+            "longitude": -22.38473,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

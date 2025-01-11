@@ -1,0 +1,25 @@
+{
+    "id": 202003,
+    "name": "Guadalcanal",
+    "alt_names": [],
+    "state_code": "GU",
+    "latitude": -9.5773284,
+    "longitude": 160.1455805,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2020030001,
+            "name": "Honiara",
+            "alt_names": [],
+            "latitude": -9.43333,
+            "longitude": 159.95,
+            "timezone": {
+                "zoneName": "Pacific/Guadalcanal",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "SBT",
+                "tzName": "Solomon Islands Time"
+            }
+        }
+    ]
+}

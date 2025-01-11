@@ -1,0 +1,39 @@
+{
+    "id": 142021,
+    "name": "Hîncești",
+    "alt_names": [],
+    "state_code": "HI",
+    "latitude": 46.8281147,
+    "longitude": 28.5850889,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420210001,
+            "name": "Dancu",
+            "alt_names": [],
+            "latitude": 46.75818,
+            "longitude": 28.20716,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420210002,
+            "name": "Hînceşti",
+            "alt_names": [],
+            "latitude": 46.83047,
+            "longitude": 28.59064,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

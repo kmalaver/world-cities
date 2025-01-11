@@ -1,0 +1,67 @@
+{
+    "id": 42013,
+    "name": "Ouaka",
+    "alt_names": [],
+    "state_code": "UK",
+    "latitude": 6.3168216,
+    "longitude": 20.7122465,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420130001,
+            "name": "Bambari",
+            "alt_names": [],
+            "latitude": 5.76795,
+            "longitude": 20.67565,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420130002,
+            "name": "Grimari",
+            "alt_names": [],
+            "latitude": 5.73549,
+            "longitude": 19.91209,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420130003,
+            "name": "Ippy",
+            "alt_names": [],
+            "latitude": 6.26793,
+            "longitude": 21.22468,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420130004,
+            "name": "Kouango",
+            "alt_names": [],
+            "latitude": 4.99337,
+            "longitude": 19.96186,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

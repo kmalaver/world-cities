@@ -1,0 +1,39 @@
+{
+    "id": 6005,
+    "name": "La Massana",
+    "alt_names": [],
+    "state_code": "04",
+    "latitude": 42.545625,
+    "longitude": 1.5147392,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 60050001,
+            "name": "Arinsal",
+            "alt_names": [],
+            "latitude": 42.57205,
+            "longitude": 1.48453,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 60050002,
+            "name": "la Massana",
+            "alt_names": [],
+            "latitude": 42.54499,
+            "longitude": 1.51483,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

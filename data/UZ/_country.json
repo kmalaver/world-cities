@@ -1,0 +1,54 @@
+{
+    "id": 239,
+    "name": "Uzbekistan",
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "numeric_code": "860",
+    "phonecode": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "currency_name": "Uzbekistani soʻm",
+    "currency_symbol": "лв",
+    "tld": ".uz",
+    "native": "O‘zbekiston",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "translations": {
+        "de": "Usbekistan",
+        "es": "Uzbekistán",
+        "fa": "ازبکستان",
+        "fr": "Ouzbékistan",
+        "hr": "Uzbekistan",
+        "it": "Uzbekistan",
+        "ja": "ウズベキスタン",
+        "ko": "우즈베키스탄",
+        "nl": "Oezbekistan",
+        "pl": "Uzbekistan",
+        "pt": "Usbequistão",
+        "pt-BR": "Uzbequistão",
+        "ru": "Узбекистан",
+        "tr": "Özbekistan",
+        "uk": "Узбекистан",
+        "zh-CN": "乌兹别克斯坦"
+    },
+    "latitude": 41,
+    "longitude": 64,
+    "emoji": "🇺🇿",
+    "emojiU": "U+1F1FA U+1F1FF",
+    "timezones": [
+        {
+            "zoneName": "Asia/Samarkand",
+            "gmtOffset": 18000,
+            "gmtOffsetName": "UTC+05:00",
+            "abbreviation": "UZT",
+            "tzName": "Uzbekistan Time"
+        },
+        {
+            "zoneName": "Asia/Tashkent",
+            "gmtOffset": 18000,
+            "gmtOffsetName": "UTC+05:00",
+            "abbreviation": "UZT",
+            "tzName": "Uzbekistan Time"
+        }
+    ]
+}

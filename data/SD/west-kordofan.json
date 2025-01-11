@@ -1,0 +1,67 @@
+{
+    "id": 210017,
+    "name": "West Kordofan",
+    "alt_names": [],
+    "state_code": "GK",
+    "latitude": 11.1990192,
+    "longitude": 29.4179324,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100170001,
+            "name": "Abū Zabad",
+            "alt_names": [],
+            "latitude": 12.35,
+            "longitude": 29.25,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100170002,
+            "name": "Al Lagowa",
+            "alt_names": [],
+            "latitude": 11.4,
+            "longitude": 29.13333,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100170003,
+            "name": "Al Mijlad",
+            "alt_names": [],
+            "latitude": 11.03333,
+            "longitude": 27.73333,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100170004,
+            "name": "An Nuhūd",
+            "alt_names": [],
+            "latitude": 12.7,
+            "longitude": 28.43333,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

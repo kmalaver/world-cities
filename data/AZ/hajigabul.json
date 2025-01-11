@@ -1,0 +1,39 @@
+{
+    "id": 16022,
+    "name": "Hajigabul",
+    "alt_names": [],
+    "state_code": "HAC",
+    "latitude": 40.039377,
+    "longitude": 48.9202533,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160220001,
+            "name": "Hacıqabul",
+            "alt_names": [],
+            "latitude": 40.03874,
+            "longitude": 48.94286,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160220002,
+            "name": "Mughan",
+            "alt_names": [],
+            "latitude": 40.09902,
+            "longitude": 48.81886,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

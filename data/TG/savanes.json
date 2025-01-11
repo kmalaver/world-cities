@@ -1,0 +1,39 @@
+{
+    "id": 223005,
+    "name": "Savanes",
+    "alt_names": [],
+    "state_code": "S",
+    "latitude": 10.5291781,
+    "longitude": 0.5257823,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2230050001,
+            "name": "Dapaong",
+            "alt_names": [],
+            "latitude": 10.86225,
+            "longitude": 0.20762,
+            "timezone": {
+                "zoneName": "Africa/Lome",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 2230050002,
+            "name": "Sansanné-Mango",
+            "alt_names": [],
+            "latitude": 10.35917,
+            "longitude": 0.47083,
+            "timezone": {
+                "zoneName": "Africa/Lome",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

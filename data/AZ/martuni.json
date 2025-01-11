@@ -1,0 +1,53 @@
+{
+    "id": 16038,
+    "name": "Martuni",
+    "alt_names": [],
+    "state_code": "XVD",
+    "latitude": 39.7914693,
+    "longitude": 47.1100814,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160380001,
+            "name": "Hadrut",
+            "alt_names": [],
+            "latitude": 39.52003,
+            "longitude": 47.0319,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160380002,
+            "name": "Novyy Karanlug",
+            "alt_names": [],
+            "latitude": 39.79496,
+            "longitude": 47.1117,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160380003,
+            "name": "Qırmızı Bazar",
+            "alt_names": [],
+            "latitude": 39.67669,
+            "longitude": 46.95123,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

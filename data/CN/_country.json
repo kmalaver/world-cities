@@ -1,0 +1,54 @@
+{
+    "id": 45,
+    "name": "China",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "numeric_code": "156",
+    "phonecode": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currency_name": "Chinese yuan",
+    "currency_symbol": "¥",
+    "tld": ".cn",
+    "native": "中国",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "translations": {
+        "de": "China",
+        "es": "China",
+        "fa": "چین",
+        "fr": "Chine",
+        "hr": "Kina",
+        "it": "Cina",
+        "ja": "中国",
+        "ko": "중국",
+        "nl": "China",
+        "pl": "Chiny",
+        "pt": "China",
+        "pt-BR": "China",
+        "ru": "Китай",
+        "tr": "Çin",
+        "uk": "Китай",
+        "zh-CN": "中国"
+    },
+    "latitude": 35,
+    "longitude": 105,
+    "emoji": "🇨🇳",
+    "emojiU": "U+1F1E8 U+1F1F3",
+    "timezones": [
+        {
+            "zoneName": "Asia/Shanghai",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "CST",
+            "tzName": "China Standard Time"
+        },
+        {
+            "zoneName": "Asia/Urumqi",
+            "gmtOffset": 21600,
+            "gmtOffsetName": "UTC+06:00",
+            "abbreviation": "XJT",
+            "tzName": "China Standard Time"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 94006,
+    "name": "Mahaica-Berbice",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 6.238496,
+    "longitude": -57.9162555,
+    "type": "region",
+    "cities": [
+        {
+            "id": 940060001,
+            "name": "Mahaicony Village",
+            "alt_names": [],
+            "latitude": 6.57633,
+            "longitude": -57.80486,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        },
+        {
+            "id": 940060002,
+            "name": "Rosignol",
+            "alt_names": [],
+            "latitude": 6.27095,
+            "longitude": -57.53697,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        }
+    ]
+}

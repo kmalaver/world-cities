@@ -1,0 +1,53 @@
+{
+    "id": 171003,
+    "name": "Amambay",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": -22.5590272,
+    "longitude": -56.0249982,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1710030001,
+            "name": "Bella Vista",
+            "alt_names": [],
+            "latitude": -22.13333,
+            "longitude": -56.51667,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710030002,
+            "name": "Capitán Bado",
+            "alt_names": [],
+            "latitude": -23.26667,
+            "longitude": -55.53333,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710030003,
+            "name": "Pedro Juan Caballero",
+            "alt_names": [],
+            "latitude": -22.54722,
+            "longitude": -55.73333,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 104004,
+    "name": "Babylon",
+    "alt_names": [],
+    "state_code": "BB",
+    "latitude": 32.468191,
+    "longitude": 44.5501935,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040040001,
+            "name": "Al Ḩillah",
+            "alt_names": [],
+            "latitude": 32.46367,
+            "longitude": 44.41963,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040040002,
+            "name": "Al Musayyib",
+            "alt_names": [],
+            "latitude": 32.77872,
+            "longitude": 44.29005,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040040003,
+            "name": "Imam Qasim",
+            "alt_names": [],
+            "latitude": 32.29799,
+            "longitude": 44.68282,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040040004,
+            "name": "Nāḩīyat Saddat al Hindīyah",
+            "alt_names": [],
+            "latitude": 32.71557,
+            "longitude": 44.27857,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

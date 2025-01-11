@@ -1,0 +1,53 @@
+{
+    "id": 42008,
+    "name": "Mambéré-Kadéï",
+    "alt_names": [],
+    "state_code": "HS",
+    "latitude": 4.7055653,
+    "longitude": 15.9699878,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420080001,
+            "name": "Berberati",
+            "alt_names": [],
+            "latitude": 4.31211,
+            "longitude": 15.88948,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420080002,
+            "name": "Carnot",
+            "alt_names": [],
+            "latitude": 4.94273,
+            "longitude": 15.87735,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420080003,
+            "name": "Gamboula",
+            "alt_names": [],
+            "latitude": 4.11775,
+            "longitude": 15.13926,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

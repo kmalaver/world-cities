@@ -1,0 +1,39 @@
+{
+    "id": 119019,
+    "name": "Liepāja",
+    "alt_names": [],
+    "state_code": "LPX",
+    "latitude": 56.5046678,
+    "longitude": 21.010806,
+    "type": "state city",
+    "cities": [
+        {
+            "id": 1190190001,
+            "name": "Karosta",
+            "alt_names": [],
+            "latitude": 56.55128,
+            "longitude": 21.01287,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1190190002,
+            "name": "Liepāja",
+            "alt_names": [],
+            "latitude": 56.50474,
+            "longitude": 21.01085,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

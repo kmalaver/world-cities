@@ -1,0 +1,53 @@
+{
+    "id": 250002,
+    "name": "Harare",
+    "alt_names": [],
+    "state_code": "HA",
+    "latitude": -17.8216288,
+    "longitude": 31.0492259,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2500020001,
+            "name": "Chitungwiza",
+            "alt_names": [],
+            "latitude": -18.01274,
+            "longitude": 31.07555,
+            "timezone": {
+                "zoneName": "Africa/Harare",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2500020002,
+            "name": "Epworth",
+            "alt_names": [],
+            "latitude": -17.89,
+            "longitude": 31.1475,
+            "timezone": {
+                "zoneName": "Africa/Harare",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2500020003,
+            "name": "Harare",
+            "alt_names": [],
+            "latitude": -17.82772,
+            "longitude": 31.05337,
+            "timezone": {
+                "zoneName": "Africa/Harare",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

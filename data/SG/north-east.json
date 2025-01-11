@@ -1,0 +1,81 @@
+{
+    "id": 198002,
+    "name": "North East",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": 1.3824,
+    "longitude": 103.8972,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1980020001,
+            "name": "Ang Mo Kio",
+            "alt_names": [],
+            "latitude": 1.3698,
+            "longitude": 103.8461,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980020002,
+            "name": "Hougang",
+            "alt_names": [],
+            "latitude": 1.3736,
+            "longitude": 103.8867,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980020003,
+            "name": "Punggol",
+            "alt_names": [],
+            "latitude": 1.4051,
+            "longitude": 103.9023,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980020004,
+            "name": "Sengkang",
+            "alt_names": [],
+            "latitude": 1.3901,
+            "longitude": 103.8952,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980020005,
+            "name": "Serangoon",
+            "alt_names": [],
+            "latitude": 1.3496,
+            "longitude": 103.8737,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        }
+    ]
+}

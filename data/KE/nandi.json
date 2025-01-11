@@ -1,0 +1,39 @@
+{
+    "id": 113032,
+    "name": "Nandi",
+    "alt_names": [],
+    "state_code": "32",
+    "latitude": 0.1835867,
+    "longitude": 35.1268781,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130320001,
+            "name": "Kapsabet",
+            "alt_names": [],
+            "latitude": 0.20387,
+            "longitude": 35.105,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130320002,
+            "name": "Nandi Hills",
+            "alt_names": [],
+            "latitude": 0.10366,
+            "longitude": 35.18426,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

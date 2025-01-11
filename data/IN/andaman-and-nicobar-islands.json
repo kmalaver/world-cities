@@ -1,0 +1,67 @@
+{
+    "id": 101001,
+    "name": "Andaman and Nicobar Islands",
+    "alt_names": [],
+    "state_code": "AN",
+    "latitude": 11.7400867,
+    "longitude": 92.6586401,
+    "type": "union territory",
+    "cities": [
+        {
+            "id": 1010010001,
+            "name": "Bamboo Flat",
+            "alt_names": [],
+            "latitude": 11.7,
+            "longitude": 92.71667,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010010002,
+            "name": "Nicobar",
+            "alt_names": [],
+            "latitude": 7.03002,
+            "longitude": 93.79028,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010010003,
+            "name": "Port Blair",
+            "alt_names": [],
+            "latitude": 11.66613,
+            "longitude": 92.74635,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010010004,
+            "name": "South Andaman",
+            "alt_names": [],
+            "latitude": 10.75776,
+            "longitude": 92.52136,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

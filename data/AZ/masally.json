@@ -1,0 +1,39 @@
+{
+    "id": 16039,
+    "name": "Masally",
+    "alt_names": [],
+    "state_code": "MAS",
+    "latitude": 39.0340722,
+    "longitude": 48.6589354,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160390001,
+            "name": "Boradigah",
+            "alt_names": [],
+            "latitude": 38.93013,
+            "longitude": 48.7092,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160390002,
+            "name": "Masally",
+            "alt_names": [],
+            "latitude": 39.03532,
+            "longitude": 48.6654,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

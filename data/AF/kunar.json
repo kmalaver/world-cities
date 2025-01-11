@@ -1,0 +1,39 @@
+{
+    "id": 1018,
+    "name": "Kunar",
+    "alt_names": [],
+    "state_code": "KNR",
+    "latitude": 34.8465893,
+    "longitude": 71.097317,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10180001,
+            "name": "Asadabad",
+            "alt_names": [],
+            "latitude": 34.87311,
+            "longitude": 71.14697,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10180002,
+            "name": "Āsmār",
+            "alt_names": [],
+            "latitude": 35.03333,
+            "longitude": 71.35809,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

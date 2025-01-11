@@ -1,0 +1,67 @@
+{
+    "id": 234002,
+    "name": "Ajman",
+    "alt_names": [],
+    "state_code": "AJ",
+    "latitude": 25.4052165,
+    "longitude": 55.5136433,
+    "type": "emirate",
+    "cities": [
+        {
+            "id": 2340020001,
+            "name": "Ajman",
+            "alt_names": [],
+            "latitude": 25.40328,
+            "longitude": 55.52341,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 2340020002,
+            "name": "Ajman City",
+            "alt_names": [],
+            "latitude": 25.40177,
+            "longitude": 55.47878,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 2340020003,
+            "name": "Manama",
+            "alt_names": [],
+            "latitude": 25.32568,
+            "longitude": 56.00259,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 2340020004,
+            "name": "Masfout",
+            "alt_names": [],
+            "latitude": 24.83982,
+            "longitude": 56.05158,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

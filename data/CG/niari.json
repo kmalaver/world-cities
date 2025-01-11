@@ -1,0 +1,39 @@
+{
+    "id": 50008,
+    "name": "Niari",
+    "alt_names": [],
+    "state_code": "9",
+    "latitude": -3.18427,
+    "longitude": 12.2547919,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500080001,
+            "name": "Dolisie",
+            "alt_names": [],
+            "latitude": -4.19834,
+            "longitude": 12.66664,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500080002,
+            "name": "Mossendjo",
+            "alt_names": [],
+            "latitude": -2.94968,
+            "longitude": 12.70423,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

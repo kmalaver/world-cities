@@ -1,0 +1,25 @@
+{
+    "id": 10002,
+    "name": "Redonda",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 16.938416,
+    "longitude": -62.3455148,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 100020001,
+            "name": "Redonda",
+            "alt_names": [],
+            "latitude": 16.938416,
+            "longitude": -62.3455148,
+            "timezone": {
+                "zoneName": "America/Antigua",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

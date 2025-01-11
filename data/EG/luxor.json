@@ -1,0 +1,39 @@
+{
+    "id": 65014,
+    "name": "Luxor",
+    "alt_names": [],
+    "state_code": "LX",
+    "latitude": 25.3944444,
+    "longitude": 32.4920088,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650140001,
+            "name": "Luxor",
+            "alt_names": [],
+            "latitude": 25.69893,
+            "longitude": 32.6421,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650140002,
+            "name": "Markaz al Uqşur",
+            "alt_names": [],
+            "latitude": 25.62986,
+            "longitude": 32.59017,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

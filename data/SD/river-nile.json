@@ -1,0 +1,95 @@
+{
+    "id": 210012,
+    "name": "River Nile",
+    "alt_names": [],
+    "state_code": "NR",
+    "latitude": 23.9727595,
+    "longitude": 32.8749206,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100120001,
+            "name": "Atbara",
+            "alt_names": [],
+            "latitude": 17.70217,
+            "longitude": 33.98638,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100120002,
+            "name": "Berber",
+            "alt_names": [],
+            "latitude": 18.02158,
+            "longitude": 33.98299,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100120003,
+            "name": "Ed Damer",
+            "alt_names": [],
+            "latitude": 17.59898,
+            "longitude": 33.97205,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100120004,
+            "name": "El Bauga",
+            "alt_names": [],
+            "latitude": 18.26197,
+            "longitude": 33.90812,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100120005,
+            "name": "El Matama",
+            "alt_names": [],
+            "latitude": 16.7095,
+            "longitude": 33.3565,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100120006,
+            "name": "Shendi",
+            "alt_names": [],
+            "latitude": 16.6915,
+            "longitude": 33.4341,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

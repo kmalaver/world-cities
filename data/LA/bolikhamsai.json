@@ -1,0 +1,39 @@
+{
+    "id": 118003,
+    "name": "Bolikhamsai",
+    "alt_names": [],
+    "state_code": "BL",
+    "latitude": 18.4362924,
+    "longitude": 104.4723301,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1180030001,
+            "name": "Ban Nahin",
+            "alt_names": [],
+            "latitude": 18.24253,
+            "longitude": 104.21281,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 1180030002,
+            "name": "Pakxan",
+            "alt_names": [],
+            "latitude": 18.3942,
+            "longitude": 103.6611,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 137011,
+    "name": "Nouakchott-Ouest",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 18.1511357,
+    "longitude": -15.993491,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370110001,
+            "name": "Ksar",
+            "alt_names": [],
+            "latitude": 18.10222222,
+            "longitude": -15.955,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370110002,
+            "name": "Sebkha",
+            "alt_names": [],
+            "latitude": 18.07555556,
+            "longitude": -16.00194444,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370110003,
+            "name": "Tevragh-Zeina",
+            "alt_names": [],
+            "latitude": 18.11011,
+            "longitude": -15.99931,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

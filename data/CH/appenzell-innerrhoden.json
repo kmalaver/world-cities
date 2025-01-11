@@ -1,0 +1,67 @@
+{
+    "id": 214003,
+    "name": "Appenzell Innerrhoden",
+    "alt_names": [],
+    "state_code": "AI",
+    "latitude": 47.3161925,
+    "longitude": 9.4316573,
+    "type": "canton",
+    "cities": [
+        {
+            "id": 2140030001,
+            "name": "Appenzell",
+            "alt_names": [],
+            "latitude": 47.33103,
+            "longitude": 9.40996,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140030002,
+            "name": "Gonten",
+            "alt_names": [],
+            "latitude": 47.32725,
+            "longitude": 9.34705,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140030003,
+            "name": "Haslen",
+            "alt_names": [],
+            "latitude": 47.36931,
+            "longitude": 9.36752,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140030004,
+            "name": "Oberegg",
+            "alt_names": [],
+            "latitude": 47.42531,
+            "longitude": 9.55134,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

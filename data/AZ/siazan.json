@@ -1,0 +1,39 @@
+{
+    "id": 16065,
+    "name": "Siazan",
+    "alt_names": [],
+    "state_code": "SIY",
+    "latitude": 41.0783833,
+    "longitude": 49.1118477,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160650001,
+            "name": "Gilgilçay",
+            "alt_names": [],
+            "latitude": 41.13932,
+            "longitude": 49.09038,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160650002,
+            "name": "Kyzyl-Burun",
+            "alt_names": [],
+            "latitude": 41.07811,
+            "longitude": 49.11564,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

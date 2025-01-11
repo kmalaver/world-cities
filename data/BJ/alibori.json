@@ -1,0 +1,53 @@
+{
+    "id": 23001,
+    "name": "Alibori",
+    "alt_names": [],
+    "state_code": "AL",
+    "latitude": 10.9681093,
+    "longitude": 2.7779813,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230010001,
+            "name": "Banikoara",
+            "alt_names": [],
+            "latitude": 11.29845,
+            "longitude": 2.43856,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230010002,
+            "name": "Kandi",
+            "alt_names": [],
+            "latitude": 11.13417,
+            "longitude": 2.93861,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230010003,
+            "name": "Malanville",
+            "alt_names": [],
+            "latitude": 11.86819,
+            "longitude": 3.38327,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

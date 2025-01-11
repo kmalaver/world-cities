@@ -1,0 +1,39 @@
+{
+    "id": 80005,
+    "name": "Nyanga",
+    "alt_names": [],
+    "state_code": "5",
+    "latitude": -2.8821033,
+    "longitude": 11.1617356,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800050001,
+            "name": "Mayumba",
+            "alt_names": [],
+            "latitude": -3.43198,
+            "longitude": 10.6554,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800050002,
+            "name": "Tchibanga",
+            "alt_names": [],
+            "latitude": -2.93323,
+            "longitude": 10.98178,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

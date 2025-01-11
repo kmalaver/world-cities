@@ -1,0 +1,655 @@
+{
+    "id": 48006,
+    "name": "Bolívar",
+    "alt_names": [],
+    "state_code": "BOL",
+    "latitude": 8.6704382,
+    "longitude": -74.0300122,
+    "type": "department",
+    "cities": [
+        {
+            "id": 480060001,
+            "name": "Achí",
+            "alt_names": [],
+            "latitude": 8.5695,
+            "longitude": -74.55715,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060002,
+            "name": "Altos del Rosario",
+            "alt_names": [],
+            "latitude": 8.79162,
+            "longitude": -74.16556,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060003,
+            "name": "Arenal",
+            "alt_names": [],
+            "latitude": 8.45928,
+            "longitude": -73.94331,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060004,
+            "name": "Arjona",
+            "alt_names": [],
+            "latitude": 10.17594,
+            "longitude": -75.35884,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060005,
+            "name": "Arroyohondo",
+            "alt_names": [],
+            "latitude": 10.2522,
+            "longitude": -75.0198,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060006,
+            "name": "Barranco de Loba",
+            "alt_names": [],
+            "latitude": 8.94597,
+            "longitude": -74.10647,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060007,
+            "name": "Calamar",
+            "alt_names": [],
+            "latitude": 10.23377,
+            "longitude": -74.9424,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060008,
+            "name": "Cantagallo",
+            "alt_names": [],
+            "latitude": 7.37926,
+            "longitude": -73.9155,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060009,
+            "name": "Cartagena de Indias",
+            "alt_names": [],
+            "latitude": 10.39972,
+            "longitude": -75.51444,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060010,
+            "name": "Cicuco",
+            "alt_names": [],
+            "latitude": 9.27756,
+            "longitude": -74.64312,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060011,
+            "name": "Clemencia",
+            "alt_names": [],
+            "latitude": 10.56645,
+            "longitude": -75.32499,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060012,
+            "name": "Córdoba",
+            "alt_names": [],
+            "latitude": 9.55149,
+            "longitude": -74.898,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060013,
+            "name": "El Carmen de Bolívar",
+            "alt_names": [],
+            "latitude": 9.7174,
+            "longitude": -75.12023,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060014,
+            "name": "El Guamo",
+            "alt_names": [],
+            "latitude": 10.01753,
+            "longitude": -74.93483,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060015,
+            "name": "El Peñón",
+            "alt_names": [],
+            "latitude": 8.98691,
+            "longitude": -73.94697,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060016,
+            "name": "Hatillo de Loba",
+            "alt_names": [],
+            "latitude": 8.95635,
+            "longitude": -74.07819,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060017,
+            "name": "Magangué",
+            "alt_names": [],
+            "latitude": 9.24202,
+            "longitude": -74.75467,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060018,
+            "name": "Mahates",
+            "alt_names": [],
+            "latitude": 10.23293,
+            "longitude": -75.18985,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060019,
+            "name": "Margarita",
+            "alt_names": [],
+            "latitude": 9.06325,
+            "longitude": -74.28134,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060020,
+            "name": "María la Baja",
+            "alt_names": [],
+            "latitude": 9.99228,
+            "longitude": -75.34364,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060021,
+            "name": "Mompós",
+            "alt_names": [],
+            "latitude": 9.1399,
+            "longitude": -74.54513,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060022,
+            "name": "Montecristo",
+            "alt_names": [],
+            "latitude": 8.2971,
+            "longitude": -74.4733,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060023,
+            "name": "Morales",
+            "alt_names": [],
+            "latitude": 8.2752,
+            "longitude": -73.86884,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060024,
+            "name": "Norosí",
+            "alt_names": [],
+            "latitude": 8.52692,
+            "longitude": -74.03736,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060025,
+            "name": "Pinillos",
+            "alt_names": [],
+            "latitude": 8.91925,
+            "longitude": -74.46771,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060026,
+            "name": "Regidor",
+            "alt_names": [],
+            "latitude": 8.72229,
+            "longitude": -73.84891,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060027,
+            "name": "Río Viejo",
+            "alt_names": [],
+            "latitude": 8.5874,
+            "longitude": -73.83901,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060028,
+            "name": "San Cristóbal",
+            "alt_names": [],
+            "latitude": 9.87809,
+            "longitude": -75.25248,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060029,
+            "name": "San Estanislao",
+            "alt_names": [],
+            "latitude": 10.39833,
+            "longitude": -75.15111,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060030,
+            "name": "San Fernando",
+            "alt_names": [],
+            "latitude": 9.27972,
+            "longitude": -74.53389,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060031,
+            "name": "San Jacinto",
+            "alt_names": [],
+            "latitude": 9.83906,
+            "longitude": -75.11043,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060032,
+            "name": "San Jacinto del Cauca",
+            "alt_names": [],
+            "latitude": 8.23729,
+            "longitude": -74.66782,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060033,
+            "name": "San Juan Nepomuceno",
+            "alt_names": [],
+            "latitude": 9.94976,
+            "longitude": -75.07426,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060034,
+            "name": "San Martín de Loba",
+            "alt_names": [],
+            "latitude": 8.88214,
+            "longitude": -74.00353,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060035,
+            "name": "San Pablo",
+            "alt_names": [],
+            "latitude": 10.05154,
+            "longitude": -75.26775,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060036,
+            "name": "Santa Catalina",
+            "alt_names": [],
+            "latitude": 10.60448,
+            "longitude": -75.29555,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060037,
+            "name": "Santa Rosa",
+            "alt_names": [],
+            "latitude": 10.47312,
+            "longitude": -75.3616,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060038,
+            "name": "Santa Rosa del Sur",
+            "alt_names": [],
+            "latitude": 7.96444,
+            "longitude": -74.05444,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060039,
+            "name": "Simití",
+            "alt_names": [],
+            "latitude": 7.81632,
+            "longitude": -73.97922,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060040,
+            "name": "Soplaviento",
+            "alt_names": [],
+            "latitude": 10.33176,
+            "longitude": -75.11853,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060041,
+            "name": "Talaigua Nuevo",
+            "alt_names": [],
+            "latitude": 9.30347,
+            "longitude": -74.56477,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060042,
+            "name": "Tiquisio",
+            "alt_names": [],
+            "latitude": 8.55666,
+            "longitude": -74.26355,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060043,
+            "name": "Turbaco",
+            "alt_names": [],
+            "latitude": 10.35707,
+            "longitude": -75.38044,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060044,
+            "name": "Turbaná",
+            "alt_names": [],
+            "latitude": 10.27169,
+            "longitude": -75.44222,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060045,
+            "name": "Villanueva",
+            "alt_names": [],
+            "latitude": 10.44759,
+            "longitude": -75.26574,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480060046,
+            "name": "Zambrano",
+            "alt_names": [],
+            "latitude": 9.74823,
+            "longitude": -74.88487,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        }
+    ]
+}

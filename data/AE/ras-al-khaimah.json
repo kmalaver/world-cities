@@ -1,0 +1,39 @@
+{
+    "id": 234005,
+    "name": "Ras al-Khaimah",
+    "alt_names": [],
+    "state_code": "RK",
+    "latitude": 25.6741343,
+    "longitude": 55.9804173,
+    "type": "emirate",
+    "cities": [
+        {
+            "id": 2340050001,
+            "name": "Ras Al Khaimah",
+            "alt_names": [],
+            "latitude": 25.46116,
+            "longitude": 56.04058,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 2340050002,
+            "name": "Ras Al Khaimah City",
+            "alt_names": [],
+            "latitude": 25.78953,
+            "longitude": 55.9432,
+            "timezone": {
+                "zoneName": "Asia/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

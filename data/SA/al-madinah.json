@@ -1,0 +1,851 @@
+{
+    "id": 193004,
+    "name": "Al Madinah",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 24.8403977,
+    "longitude": 39.3206241,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1930040001,
+            "name": "`Ajmiyah",
+            "alt_names": [],
+            "latitude": 24.2167,
+            "longitude": 38.5,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040002,
+            "name": "`Alya'",
+            "alt_names": [],
+            "latitude": 23.8236,
+            "longitude": 38.8833,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040003,
+            "name": "`Ushash",
+            "alt_names": [],
+            "latitude": 23.5,
+            "longitude": 38.9167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040004,
+            "name": "`Ushayrah",
+            "alt_names": [],
+            "latitude": 24.0186,
+            "longitude": 39.6731,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040005,
+            "name": "Abū Shayţānah",
+            "alt_names": [],
+            "latitude": 23.8667,
+            "longitude": 38.3667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040006,
+            "name": "Abyar 'Ali",
+            "alt_names": [],
+            "latitude": 24.41666667,
+            "longitude": 39.55,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040007,
+            "name": "Ad Dulu`",
+            "alt_names": [],
+            "latitude": 24.7667,
+            "longitude": 39.5333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040008,
+            "name": "Al `Awali",
+            "alt_names": [],
+            "latitude": 24.45,
+            "longitude": 39.6167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040009,
+            "name": "Al `Uqul",
+            "alt_names": [],
+            "latitude": 24.5,
+            "longitude": 39.8167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040010,
+            "name": "Al Akhal",
+            "alt_names": [],
+            "latitude": 23.3156,
+            "longitude": 39.8594,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040011,
+            "name": "Al Bardiyah",
+            "alt_names": [],
+            "latitude": 24.0439,
+            "longitude": 39.6061,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040012,
+            "name": "Al Biqa'",
+            "alt_names": [],
+            "latitude": 24.38861111,
+            "longitude": 38.59888889,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040013,
+            "name": "Al Bustan",
+            "alt_names": [],
+            "latitude": 23.2783,
+            "longitude": 39.2428,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040014,
+            "name": "Al Faqirah",
+            "alt_names": [],
+            "latitude": 23.4217,
+            "longitude": 39.7097,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040015,
+            "name": "Al Furaysh",
+            "alt_names": [],
+            "latitude": 24.22,
+            "longitude": 39.2814,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040016,
+            "name": "Al Jabriyah",
+            "alt_names": [],
+            "latitude": 24.25,
+            "longitude": 38.5167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040017,
+            "name": "Al Jissah",
+            "alt_names": [],
+            "latitude": 23.3333,
+            "longitude": 40.3,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040018,
+            "name": "Al Kharma'",
+            "alt_names": [],
+            "latitude": 23.9,
+            "longitude": 38.9,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040019,
+            "name": "Al Malbanah",
+            "alt_names": [],
+            "latitude": 23.1833,
+            "longitude": 39.5167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040020,
+            "name": "Al Mufrihat",
+            "alt_names": [],
+            "latitude": 24.35,
+            "longitude": 39.4167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040021,
+            "name": "Al Multasa",
+            "alt_names": [],
+            "latitude": 24.0833,
+            "longitude": 38.15,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040022,
+            "name": "Al Musayjid",
+            "alt_names": [],
+            "latitude": 24.0833,
+            "longitude": 39.1,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040023,
+            "name": "Al Wuday",
+            "alt_names": [],
+            "latitude": 24.1789,
+            "longitude": 39.5481,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040024,
+            "name": "Al-Jafr",
+            "alt_names": [],
+            "latitude": 25.41666667,
+            "longitude": 49.61666667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040025,
+            "name": "Al-Ula",
+            "alt_names": [],
+            "latitude": 26.60853,
+            "longitude": 37.92316,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040026,
+            "name": "As Sadayir",
+            "alt_names": [],
+            "latitude": 24.25,
+            "longitude": 39.1833,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040027,
+            "name": "As Safra'",
+            "alt_names": [],
+            "latitude": 24.01277778,
+            "longitude": 38.92277778,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040028,
+            "name": "As Sumariyah",
+            "alt_names": [],
+            "latitude": 24.9214,
+            "longitude": 39.6178,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040029,
+            "name": "As Suwayriqiyah",
+            "alt_names": [],
+            "latitude": 23.35,
+            "longitude": 40.3167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040030,
+            "name": "Ash Shufayyah",
+            "alt_names": [],
+            "latitude": 23.8167,
+            "longitude": 39.15,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040031,
+            "name": "Asira",
+            "alt_names": [],
+            "latitude": 24.3333,
+            "longitude": 38.6333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040032,
+            "name": "Baq`a'",
+            "alt_names": [],
+            "latitude": 24.21666667,
+            "longitude": 38.71666667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040033,
+            "name": "Bartiyah",
+            "alt_names": [],
+            "latitude": 24.2833,
+            "longitude": 38.5833,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040034,
+            "name": "Bi'r al Mashi",
+            "alt_names": [],
+            "latitude": 24.21666667,
+            "longitude": 39.55,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040035,
+            "name": "Birkah",
+            "alt_names": [],
+            "latitude": 23.8203,
+            "longitude": 38.8597,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040036,
+            "name": "Far`",
+            "alt_names": [],
+            "latitude": 23.8167,
+            "longitude": 38.8667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040037,
+            "name": "Fiji",
+            "alt_names": [],
+            "latitude": 24.26666667,
+            "longitude": 38.56666667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040038,
+            "name": "Harthiyah",
+            "alt_names": [],
+            "latitude": 24.25,
+            "longitude": 38.55,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040039,
+            "name": "Haylat Radi al Baham",
+            "alt_names": [],
+            "latitude": 24.0839,
+            "longitude": 39.725,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040040,
+            "name": "Husayniyah",
+            "alt_names": [],
+            "latitude": 23.86666667,
+            "longitude": 38.9,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040041,
+            "name": "Jadidah",
+            "alt_names": [],
+            "latitude": 23.8167,
+            "longitude": 38.8333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040042,
+            "name": "Khayf Fadil",
+            "alt_names": [],
+            "latitude": 24.2667,
+            "longitude": 38.5667,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040043,
+            "name": "Madsus",
+            "alt_names": [],
+            "latitude": 24.35,
+            "longitude": 38.55,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040044,
+            "name": "Mahattat al Hafah",
+            "alt_names": [],
+            "latitude": 23.75,
+            "longitude": 39.3,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040045,
+            "name": "Maqrah",
+            "alt_names": [],
+            "latitude": 24.4167,
+            "longitude": 38.7,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040046,
+            "name": "Maqshush",
+            "alt_names": [],
+            "latitude": 23.5833,
+            "longitude": 38.6,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040047,
+            "name": "Masahili",
+            "alt_names": [],
+            "latitude": 24.0333,
+            "longitude": 38.2333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040048,
+            "name": "Mawarah",
+            "alt_names": [],
+            "latitude": 24.2,
+            "longitude": 38.4333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040049,
+            "name": "Medina",
+            "alt_names": [],
+            "latitude": 24.46861,
+            "longitude": 39.61417,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040050,
+            "name": "Milhah",
+            "alt_names": [],
+            "latitude": 24.05,
+            "longitude": 38.3,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040051,
+            "name": "Nujayl",
+            "alt_names": [],
+            "latitude": 24.2667,
+            "longitude": 38.65,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040052,
+            "name": "Qaba'",
+            "alt_names": [],
+            "latitude": 24.4,
+            "longitude": 39.65,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040053,
+            "name": "Rayyis",
+            "alt_names": [],
+            "latitude": 23.5667,
+            "longitude": 38.6,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040054,
+            "name": "Sha`tha'",
+            "alt_names": [],
+            "latitude": 24.23333333,
+            "longitude": 38.53333333,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040055,
+            "name": "Sidi Hamzah",
+            "alt_names": [],
+            "latitude": 24.5,
+            "longitude": 39.6167,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040056,
+            "name": "Suq Suwayq",
+            "alt_names": [],
+            "latitude": 24.3667,
+            "longitude": 38.45,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040057,
+            "name": "Suqubiya",
+            "alt_names": [],
+            "latitude": 24.2333,
+            "longitude": 38.5,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040058,
+            "name": "Suwadah",
+            "alt_names": [],
+            "latitude": 24.0333,
+            "longitude": 38.2,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040059,
+            "name": "Wasitah",
+            "alt_names": [],
+            "latitude": 23.8833,
+            "longitude": 38.9,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930040060,
+            "name": "Yanbu",
+            "alt_names": [],
+            "latitude": 24.08954,
+            "longitude": 38.0618,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

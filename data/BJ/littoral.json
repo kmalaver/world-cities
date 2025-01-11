@@ -1,0 +1,25 @@
+{
+    "id": 23008,
+    "name": "Littoral",
+    "alt_names": [],
+    "state_code": "LI",
+    "latitude": 6.3806973,
+    "longitude": 2.4406387,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230080001,
+            "name": "Cotonou",
+            "alt_names": [],
+            "latitude": 6.36536,
+            "longitude": 2.41833,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

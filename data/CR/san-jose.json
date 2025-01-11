@@ -1,0 +1,697 @@
+{
+    "id": 52007,
+    "name": "San José",
+    "alt_names": [],
+    "state_code": "SJ",
+    "latitude": 9.9129727,
+    "longitude": -84.0768294,
+    "type": "province",
+    "cities": [
+        {
+            "id": 520070001,
+            "name": "Acosta",
+            "alt_names": [],
+            "latitude": 9.8,
+            "longitude": -84.2,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070002,
+            "name": "Alajuelita",
+            "alt_names": [],
+            "latitude": 9.9,
+            "longitude": -84.1,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070003,
+            "name": "Aserrí",
+            "alt_names": [],
+            "latitude": 9.86667,
+            "longitude": -84.1,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070004,
+            "name": "Calle Blancos",
+            "alt_names": [],
+            "latitude": 9.95,
+            "longitude": -84.06667,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070005,
+            "name": "Colima",
+            "alt_names": [],
+            "latitude": 9.95091,
+            "longitude": -84.08503,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070006,
+            "name": "Colón",
+            "alt_names": [],
+            "latitude": 9.91491,
+            "longitude": -84.2417,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070007,
+            "name": "Curridabat",
+            "alt_names": [],
+            "latitude": 9.91667,
+            "longitude": -84.03333,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070008,
+            "name": "Daniel Flores",
+            "alt_names": [],
+            "latitude": 9.33554,
+            "longitude": -83.6694,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070009,
+            "name": "Desamparados",
+            "alt_names": [],
+            "latitude": 9.9,
+            "longitude": -84.06667,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070010,
+            "name": "Dota",
+            "alt_names": [],
+            "latitude": 9.65,
+            "longitude": -83.95,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070011,
+            "name": "Escazú",
+            "alt_names": [],
+            "latitude": 9.93333,
+            "longitude": -84.13333,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070012,
+            "name": "Goicoechea",
+            "alt_names": [],
+            "latitude": 9.94848,
+            "longitude": -84.06365,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070013,
+            "name": "Granadilla",
+            "alt_names": [],
+            "latitude": 9.93491,
+            "longitude": -84.01688,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070014,
+            "name": "Guadalupe",
+            "alt_names": [],
+            "latitude": 9.94805,
+            "longitude": -84.05665,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070015,
+            "name": "Ipís",
+            "alt_names": [],
+            "latitude": 9.96745,
+            "longitude": -84.01326,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070016,
+            "name": "León Cortés",
+            "alt_names": [],
+            "latitude": 9.683,
+            "longitude": -84.04781,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070017,
+            "name": "Mercedes",
+            "alt_names": [],
+            "latitude": 9.2627,
+            "longitude": -83.58202,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070018,
+            "name": "Montes de Oca",
+            "alt_names": [],
+            "latitude": 9.9396,
+            "longitude": -84.03013,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070019,
+            "name": "Mora",
+            "alt_names": [],
+            "latitude": 9.91667,
+            "longitude": -84.25,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070020,
+            "name": "Moravia",
+            "alt_names": [],
+            "latitude": 10.04,
+            "longitude": -84,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070021,
+            "name": "Palmichal",
+            "alt_names": [],
+            "latitude": 9.83778,
+            "longitude": -84.20478,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070022,
+            "name": "Patarrá",
+            "alt_names": [],
+            "latitude": 9.88071,
+            "longitude": -84.03501,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070023,
+            "name": "Pérez Zeledón",
+            "alt_names": [],
+            "latitude": 9.35473,
+            "longitude": -83.63484,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070024,
+            "name": "Puriscal",
+            "alt_names": [],
+            "latitude": 9.75,
+            "longitude": -84.41667,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070025,
+            "name": "Purral",
+            "alt_names": [],
+            "latitude": 9.95808,
+            "longitude": -84.0305,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070026,
+            "name": "Sabanilla",
+            "alt_names": [],
+            "latitude": 9.94522,
+            "longitude": -84.03927,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070027,
+            "name": "Salitral",
+            "alt_names": [],
+            "latitude": 9.91163,
+            "longitude": -84.17835,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070028,
+            "name": "Salitrillos",
+            "alt_names": [],
+            "latitude": 9.85259,
+            "longitude": -84.09062,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070029,
+            "name": "San Felipe",
+            "alt_names": [],
+            "latitude": 9.90488,
+            "longitude": -84.10551,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070030,
+            "name": "San Ignacio",
+            "alt_names": [],
+            "latitude": 9.79853,
+            "longitude": -84.16173,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070031,
+            "name": "San Isidro",
+            "alt_names": [],
+            "latitude": 9.3674,
+            "longitude": -83.69713,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070032,
+            "name": "San José",
+            "alt_names": [],
+            "latitude": 9.93333,
+            "longitude": -84.08333,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070033,
+            "name": "San Juan",
+            "alt_names": [],
+            "latitude": 9.95974,
+            "longitude": -84.08165,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070034,
+            "name": "San Juan de Dios",
+            "alt_names": [],
+            "latitude": 9.8773,
+            "longitude": -84.0847,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070035,
+            "name": "San Marcos",
+            "alt_names": [],
+            "latitude": 9.6601,
+            "longitude": -84.02026,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070036,
+            "name": "San Miguel",
+            "alt_names": [],
+            "latitude": 9.87121,
+            "longitude": -84.06084,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070037,
+            "name": "San Pedro",
+            "alt_names": [],
+            "latitude": 9.92829,
+            "longitude": -84.05074,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070038,
+            "name": "San Rafael",
+            "alt_names": [],
+            "latitude": 9.92787,
+            "longitude": -84.13722,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070039,
+            "name": "San Rafael Abajo",
+            "alt_names": [],
+            "latitude": 9.831,
+            "longitude": -84.29008,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070040,
+            "name": "San Rafael Arriba",
+            "alt_names": [],
+            "latitude": 9.87556,
+            "longitude": -84.07661,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070041,
+            "name": "San Vicente",
+            "alt_names": [],
+            "latitude": 9.96016,
+            "longitude": -84.04762,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070042,
+            "name": "San Vicente de Moravia",
+            "alt_names": [],
+            "latitude": 9.96164,
+            "longitude": -84.0488,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070043,
+            "name": "Santa Ana",
+            "alt_names": [],
+            "latitude": 9.9326,
+            "longitude": -84.18255,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070044,
+            "name": "Santiago",
+            "alt_names": [],
+            "latitude": 9.84636,
+            "longitude": -84.31428,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070045,
+            "name": "Tarrazú",
+            "alt_names": [],
+            "latitude": 9.65965,
+            "longitude": -84.02138,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070046,
+            "name": "Tejar",
+            "alt_names": [],
+            "latitude": 9.74622,
+            "longitude": -84.23368,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070047,
+            "name": "Tibás",
+            "alt_names": [],
+            "latitude": 9.96667,
+            "longitude": -84.08333,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070048,
+            "name": "Turrubares",
+            "alt_names": [],
+            "latitude": 9.75,
+            "longitude": -84.5,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 520070049,
+            "name": "Vázquez de Coronado",
+            "alt_names": [],
+            "latitude": 10.06,
+            "longitude": -84,
+            "timezone": {
+                "zoneName": "America/Costa_Rica",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        }
+    ]
+}

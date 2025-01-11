@@ -1,0 +1,53 @@
+{
+    "id": 119018,
+    "name": "Kuldīga",
+    "alt_names": [],
+    "state_code": "050",
+    "latitude": 56.9687257,
+    "longitude": 21.9613739,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1190180001,
+            "name": "Alsunga",
+            "alt_names": [],
+            "latitude": 56.98194,
+            "longitude": 21.55938,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1190180002,
+            "name": "Kuldīga",
+            "alt_names": [],
+            "latitude": 56.97399,
+            "longitude": 21.95721,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1190180003,
+            "name": "Skrunda",
+            "alt_names": [],
+            "latitude": 56.67749,
+            "longitude": 22.01649,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

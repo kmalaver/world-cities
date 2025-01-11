@@ -1,0 +1,53 @@
+{
+    "id": 23006,
+    "name": "Donga",
+    "alt_names": [],
+    "state_code": "DO",
+    "latitude": 9.7191867,
+    "longitude": 1.6760691,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230060001,
+            "name": "Bassila",
+            "alt_names": [],
+            "latitude": 9.00814,
+            "longitude": 1.6654,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230060002,
+            "name": "Commune of Djougou",
+            "alt_names": [],
+            "latitude": 9.643,
+            "longitude": 1.896,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230060003,
+            "name": "Djougou",
+            "alt_names": [],
+            "latitude": 9.70853,
+            "longitude": 1.66598,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

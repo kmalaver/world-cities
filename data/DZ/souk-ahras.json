@@ -1,0 +1,39 @@
+{
+    "id": 4048,
+    "name": "Souk Ahras",
+    "alt_names": [],
+    "state_code": "41",
+    "latitude": 36.2801062,
+    "longitude": 7.9384033,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40480001,
+            "name": "Sedrata",
+            "alt_names": [],
+            "latitude": 36.12868,
+            "longitude": 7.53376,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40480002,
+            "name": "Souk Ahras",
+            "alt_names": [],
+            "latitude": 36.28639,
+            "longitude": 7.95111,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

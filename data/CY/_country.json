@@ -1,0 +1,54 @@
+{
+    "id": 57,
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "iso2": "CY",
+    "numeric_code": "196",
+    "phonecode": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".cy",
+    "native": "Κύπρος",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "translations": {
+        "de": "Zypern",
+        "es": "Chipre",
+        "fa": "قبرس",
+        "fr": "Chypre",
+        "hr": "Cipar",
+        "it": "Cipro",
+        "ja": "キプロス",
+        "ko": "키프로스",
+        "nl": "Cyprus",
+        "pl": "Cypr",
+        "pt": "Chipre",
+        "pt-BR": "Chipre",
+        "ru": "Кипр",
+        "tr": "Kuzey Kıbrıs Türk Cumhuriyeti",
+        "uk": "Кіпр",
+        "zh-CN": "塞浦路斯"
+    },
+    "latitude": 35,
+    "longitude": 33,
+    "emoji": "🇨🇾",
+    "emojiU": "U+1F1E8 U+1F1FE",
+    "timezones": [
+        {
+            "zoneName": "Asia/Famagusta",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        },
+        {
+            "zoneName": "Asia/Nicosia",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        }
+    ]
+}

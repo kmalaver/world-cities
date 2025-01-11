@@ -1,0 +1,137 @@
+{
+    "id": 100001,
+    "name": "Capital",
+    "alt_names": [],
+    "state_code": "1",
+    "latitude": 38.5656957,
+    "longitude": -92.1816949,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1000010001,
+            "name": "Álftanes",
+            "alt_names": [],
+            "latitude": 64.1,
+            "longitude": -22.01667,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010002,
+            "name": "Garðabær",
+            "alt_names": [],
+            "latitude": 64.08865,
+            "longitude": -21.92298,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010003,
+            "name": "Hafnarfjörður",
+            "alt_names": [],
+            "latitude": 64.0671,
+            "longitude": -21.93774,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010004,
+            "name": "Kjósarhreppur",
+            "alt_names": [],
+            "latitude": 64.30644,
+            "longitude": -21.49919,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010005,
+            "name": "Kópavogur",
+            "alt_names": [],
+            "latitude": 64.11234,
+            "longitude": -21.91298,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010006,
+            "name": "Mosfellsbaer",
+            "alt_names": [],
+            "latitude": 64.15,
+            "longitude": -21.65,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010007,
+            "name": "Mosfellsbær",
+            "alt_names": [],
+            "latitude": 64.16667,
+            "longitude": -21.7,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010008,
+            "name": "Reykjavík",
+            "alt_names": [],
+            "latitude": 64.13548,
+            "longitude": -21.89541,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000010009,
+            "name": "Seltjarnarnes",
+            "alt_names": [],
+            "latitude": 64.15309,
+            "longitude": -21.99499,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

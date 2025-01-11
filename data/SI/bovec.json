@@ -1,0 +1,39 @@
+{
+    "id": 201011,
+    "name": "Bovec",
+    "alt_names": [],
+    "state_code": "006",
+    "latitude": 46.3380495,
+    "longitude": 13.5524174,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010110001,
+            "name": "Bovec",
+            "alt_names": [],
+            "latitude": 46.33808,
+            "longitude": 13.55245,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010110002,
+            "name": "Mirna",
+            "alt_names": [],
+            "latitude": 45.95528,
+            "longitude": 15.06194,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

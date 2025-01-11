@@ -1,0 +1,39 @@
+{
+    "id": 201190,
+    "name": "Trzin",
+    "alt_names": [],
+    "state_code": "186",
+    "latitude": 46.1298241,
+    "longitude": 14.5577637,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011900001,
+            "name": "Črnuče District",
+            "alt_names": [],
+            "latitude": 46.11506,
+            "longitude": 14.55371,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011900002,
+            "name": "Trzin",
+            "alt_names": [],
+            "latitude": 46.13333,
+            "longitude": 14.56667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

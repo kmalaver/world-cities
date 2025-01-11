@@ -1,0 +1,81 @@
+{
+    "id": 190009,
+    "name": "Tuamasaga",
+    "alt_names": [],
+    "state_code": "TU",
+    "latitude": -13.9163592,
+    "longitude": -171.8224362,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1900090001,
+            "name": "Afega",
+            "alt_names": [],
+            "latitude": -13.79726,
+            "longitude": -171.85308,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900090002,
+            "name": "Apia",
+            "alt_names": [],
+            "latitude": -13.83333,
+            "longitude": -171.76666,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900090003,
+            "name": "Malie",
+            "alt_names": [],
+            "latitude": -13.80044,
+            "longitude": -171.8469,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900090004,
+            "name": "Vailima",
+            "alt_names": [],
+            "latitude": -13.86417,
+            "longitude": -171.76126,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900090005,
+            "name": "Vaiusu",
+            "alt_names": [],
+            "latitude": -13.82678,
+            "longitude": -171.79333,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        }
+    ]
+}

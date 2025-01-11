@@ -1,0 +1,39 @@
+{
+    "id": 142024,
+    "name": "Ocnița",
+    "alt_names": [],
+    "state_code": "OC",
+    "latitude": 48.4110435,
+    "longitude": 27.4768092,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420240001,
+            "name": "Ocniţa",
+            "alt_names": [],
+            "latitude": 48.38274,
+            "longitude": 27.43805,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420240002,
+            "name": "Otaci",
+            "alt_names": [],
+            "latitude": 48.43285,
+            "longitude": 27.79912,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

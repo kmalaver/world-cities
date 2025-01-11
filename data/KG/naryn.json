@@ -1,0 +1,53 @@
+{
+    "id": 117006,
+    "name": "Naryn",
+    "alt_names": [],
+    "state_code": "N",
+    "latitude": 41.2943227,
+    "longitude": 75.3412179,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1170060001,
+            "name": "At-Bashi",
+            "alt_names": [],
+            "latitude": 41.16951,
+            "longitude": 75.80099,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        },
+        {
+            "id": 1170060002,
+            "name": "Jumgal",
+            "alt_names": [],
+            "latitude": 41.94924,
+            "longitude": 74.40566,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        },
+        {
+            "id": 1170060003,
+            "name": "Naryn",
+            "alt_names": [],
+            "latitude": 41.42866,
+            "longitude": 75.99111,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        }
+    ]
+}

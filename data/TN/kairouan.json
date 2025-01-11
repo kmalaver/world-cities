@@ -1,0 +1,53 @@
+{
+    "id": 227008,
+    "name": "Kairouan",
+    "alt_names": [],
+    "state_code": "41",
+    "latitude": 35.6711663,
+    "longitude": 10.1005469,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 2270080001,
+            "name": "Haffouz",
+            "alt_names": [],
+            "latitude": 35.63235,
+            "longitude": 9.67624,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2270080002,
+            "name": "Kairouan",
+            "alt_names": [],
+            "latitude": 35.6781,
+            "longitude": 10.09633,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2270080003,
+            "name": "Sbikha",
+            "alt_names": [],
+            "latitude": 35.93325,
+            "longitude": 10.02081,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

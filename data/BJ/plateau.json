@@ -1,0 +1,53 @@
+{
+    "id": 23011,
+    "name": "Plateau",
+    "alt_names": [],
+    "state_code": "PL",
+    "latitude": 7.3445141,
+    "longitude": 2.539603,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230110001,
+            "name": "Kétou",
+            "alt_names": [],
+            "latitude": 7.36332,
+            "longitude": 2.59978,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230110002,
+            "name": "Pobé",
+            "alt_names": [],
+            "latitude": 6.98008,
+            "longitude": 2.6649,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230110003,
+            "name": "Sakété",
+            "alt_names": [],
+            "latitude": 6.73618,
+            "longitude": 2.65866,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

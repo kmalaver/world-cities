@@ -1,0 +1,61 @@
+{
+    "id": 208,
+    "name": "Spain",
+    "iso3": "ESP",
+    "iso2": "ES",
+    "numeric_code": "724",
+    "phonecode": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".es",
+    "native": "España",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "translations": {
+        "de": "Spanien",
+        "es": "España",
+        "fa": "اسپانیا",
+        "fr": "Espagne",
+        "hr": "Španjolska",
+        "it": "Spagna",
+        "ja": "スペイン",
+        "ko": "스페인",
+        "nl": "Spanje",
+        "pl": "Hiszpania",
+        "pt": "Espanha",
+        "pt-BR": "Espanha",
+        "ru": "Испания",
+        "tr": "İspanya",
+        "uk": "Іспанія",
+        "zh-CN": "西班牙"
+    },
+    "latitude": 40,
+    "longitude": -4,
+    "emoji": "🇪🇸",
+    "emojiU": "U+1F1EA U+1F1F8",
+    "timezones": [
+        {
+            "zoneName": "Africa/Ceuta",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        },
+        {
+            "zoneName": "Atlantic/Canary",
+            "gmtOffset": 0,
+            "gmtOffsetName": "UTC±00",
+            "abbreviation": "WET",
+            "tzName": "Western European Time"
+        },
+        {
+            "zoneName": "Europe/Madrid",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        }
+    ]
+}

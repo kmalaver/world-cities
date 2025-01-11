@@ -1,0 +1,417 @@
+{
+    "id": 34001,
+    "name": "Blagoevgrad",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 42.0208614,
+    "longitude": 23.0943356,
+    "type": "district",
+    "cities": [
+        {
+            "id": 340010001,
+            "name": "Bansko",
+            "alt_names": [],
+            "latitude": 41.8383,
+            "longitude": 23.48851,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010002,
+            "name": "Belitsa",
+            "alt_names": [],
+            "latitude": 41.95694,
+            "longitude": 23.5725,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010003,
+            "name": "Blagoevgrad",
+            "alt_names": [],
+            "latitude": 42.01667,
+            "longitude": 23.1,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010004,
+            "name": "Garmen",
+            "alt_names": [],
+            "latitude": 41.6,
+            "longitude": 23.81667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010005,
+            "name": "Gotse Delchev",
+            "alt_names": [],
+            "latitude": 41.56667,
+            "longitude": 23.73333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010006,
+            "name": "Hadzhidimovo",
+            "alt_names": [],
+            "latitude": 41.52222,
+            "longitude": 23.86861,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010007,
+            "name": "Kolarovo",
+            "alt_names": [],
+            "latitude": 41.36385,
+            "longitude": 23.10669,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010008,
+            "name": "Kresna",
+            "alt_names": [],
+            "latitude": 41.73333,
+            "longitude": 23.15,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010009,
+            "name": "Obshtina Bansko",
+            "alt_names": [],
+            "latitude": 41.8,
+            "longitude": 23.6,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010010,
+            "name": "Obshtina Belitsa",
+            "alt_names": [],
+            "latitude": 42.01667,
+            "longitude": 23.58333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010011,
+            "name": "Obshtina Blagoevgrad",
+            "alt_names": [],
+            "latitude": 42.01667,
+            "longitude": 23.16667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010012,
+            "name": "Obshtina Garmen",
+            "alt_names": [],
+            "latitude": 41.7,
+            "longitude": 23.85,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010013,
+            "name": "Obshtina Gotse Delchev",
+            "alt_names": [],
+            "latitude": 41.63333,
+            "longitude": 23.68333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010014,
+            "name": "Obshtina Kresna",
+            "alt_names": [],
+            "latitude": 41.76667,
+            "longitude": 23.23333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010015,
+            "name": "Obshtina Petrich",
+            "alt_names": [],
+            "latitude": 41.45,
+            "longitude": 23.16667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010016,
+            "name": "Obshtina Razlog",
+            "alt_names": [],
+            "latitude": 41.95,
+            "longitude": 23.46667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010017,
+            "name": "Obshtina Sandanski",
+            "alt_names": [],
+            "latitude": 41.56667,
+            "longitude": 23.45,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010018,
+            "name": "Obshtina Satovcha",
+            "alt_names": [],
+            "latitude": 41.59848,
+            "longitude": 24.00781,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010019,
+            "name": "Obshtina Simitli",
+            "alt_names": [],
+            "latitude": 41.88333,
+            "longitude": 23.16667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010020,
+            "name": "Obshtina Strumyani",
+            "alt_names": [],
+            "latitude": 41.63333,
+            "longitude": 23.2,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010021,
+            "name": "Obshtina Yakoruda",
+            "alt_names": [],
+            "latitude": 42.08333,
+            "longitude": 23.7,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010022,
+            "name": "Petrich",
+            "alt_names": [],
+            "latitude": 41.39846,
+            "longitude": 23.20702,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010023,
+            "name": "Razlog",
+            "alt_names": [],
+            "latitude": 41.8863,
+            "longitude": 23.46714,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010024,
+            "name": "Sandanski",
+            "alt_names": [],
+            "latitude": 41.56667,
+            "longitude": 23.28333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010025,
+            "name": "Satovcha",
+            "alt_names": [],
+            "latitude": 41.61667,
+            "longitude": 23.98333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010026,
+            "name": "Simitli",
+            "alt_names": [],
+            "latitude": 41.88333,
+            "longitude": 23.11667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010027,
+            "name": "Stara Kresna",
+            "alt_names": [],
+            "latitude": 41.8,
+            "longitude": 23.18333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010028,
+            "name": "Strumyani",
+            "alt_names": [],
+            "latitude": 41.63333,
+            "longitude": 23.2,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340010029,
+            "name": "Yakoruda",
+            "alt_names": [],
+            "latitude": 42.02528,
+            "longitude": 23.68417,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

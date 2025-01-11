@@ -1,0 +1,53 @@
+{
+    "id": 66011,
+    "name": "San Vicente",
+    "alt_names": [],
+    "state_code": "SV",
+    "latitude": 13.5868561,
+    "longitude": -88.7493998,
+    "type": "department",
+    "cities": [
+        {
+            "id": 660110001,
+            "name": "Apastepeque",
+            "alt_names": [],
+            "latitude": 13.66667,
+            "longitude": -88.78333,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 660110002,
+            "name": "San Sebastián",
+            "alt_names": [],
+            "latitude": 13.73333,
+            "longitude": -88.83333,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 660110003,
+            "name": "San Vicente",
+            "alt_names": [],
+            "latitude": 13.63333,
+            "longitude": -88.8,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        }
+    ]
+}

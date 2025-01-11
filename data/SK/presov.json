@@ -1,0 +1,571 @@
+{
+    "id": 200005,
+    "name": "Prešov",
+    "alt_names": [],
+    "state_code": "PV",
+    "latitude": 49.1716773,
+    "longitude": 21.3742001,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2000050001,
+            "name": "Bardejov",
+            "alt_names": [],
+            "latitude": 49.29175,
+            "longitude": 21.27271,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050002,
+            "name": "Chlmec",
+            "alt_names": [],
+            "latitude": 48.88628,
+            "longitude": 21.9393,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050003,
+            "name": "Giraltovce",
+            "alt_names": [],
+            "latitude": 49.11398,
+            "longitude": 21.51731,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050004,
+            "name": "Humenné",
+            "alt_names": [],
+            "latitude": 48.93707,
+            "longitude": 21.91625,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050005,
+            "name": "Kežmarok",
+            "alt_names": [],
+            "latitude": 49.13571,
+            "longitude": 20.43352,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050006,
+            "name": "Levoča",
+            "alt_names": [],
+            "latitude": 49.02173,
+            "longitude": 20.59212,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050007,
+            "name": "Lipany",
+            "alt_names": [],
+            "latitude": 49.15376,
+            "longitude": 20.96382,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050008,
+            "name": "Ľubica",
+            "alt_names": [],
+            "latitude": 49.11667,
+            "longitude": 20.45,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050009,
+            "name": "Medzilaborce",
+            "alt_names": [],
+            "latitude": 49.27195,
+            "longitude": 21.90073,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050010,
+            "name": "Nová Lesná",
+            "alt_names": [],
+            "latitude": 49.12253,
+            "longitude": 20.26737,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050011,
+            "name": "Okres Bardejov",
+            "alt_names": [],
+            "latitude": 49.28333,
+            "longitude": 21.28333,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050012,
+            "name": "Okres Humenné",
+            "alt_names": [],
+            "latitude": 48.93333,
+            "longitude": 21.91667,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050013,
+            "name": "Okres Kežmarok",
+            "alt_names": [],
+            "latitude": 49.13593,
+            "longitude": 20.42929,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050014,
+            "name": "Okres Levoča",
+            "alt_names": [],
+            "latitude": 49.01986,
+            "longitude": 20.57688,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050015,
+            "name": "Okres Medzilaborce",
+            "alt_names": [],
+            "latitude": 49.27062,
+            "longitude": 21.902,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050016,
+            "name": "Okres Poprad",
+            "alt_names": [],
+            "latitude": 49.05,
+            "longitude": 20.3,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050017,
+            "name": "Okres Prešov",
+            "alt_names": [],
+            "latitude": 49,
+            "longitude": 21.25,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050018,
+            "name": "Okres Sabinov",
+            "alt_names": [],
+            "latitude": 49.10115,
+            "longitude": 21.09844,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050019,
+            "name": "Okres Snina",
+            "alt_names": [],
+            "latitude": 48.98579,
+            "longitude": 22.15059,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050020,
+            "name": "Okres Stará Ĺubovňa",
+            "alt_names": [],
+            "latitude": 49.3,
+            "longitude": 20.7,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050021,
+            "name": "Okres Stropkov",
+            "alt_names": [],
+            "latitude": 49.20249,
+            "longitude": 21.65025,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050022,
+            "name": "Okres Svidník",
+            "alt_names": [],
+            "latitude": 49.3,
+            "longitude": 21.56667,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050023,
+            "name": "Okres Vranov nad Topľou",
+            "alt_names": [],
+            "latitude": 48.9,
+            "longitude": 21.68333,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050024,
+            "name": "Podolínec",
+            "alt_names": [],
+            "latitude": 49.25869,
+            "longitude": 20.536,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050025,
+            "name": "Poprad",
+            "alt_names": [],
+            "latitude": 49.06144,
+            "longitude": 20.29798,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050026,
+            "name": "Prešov",
+            "alt_names": [],
+            "latitude": 48.99839,
+            "longitude": 21.23393,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050027,
+            "name": "Sabinov",
+            "alt_names": [],
+            "latitude": 49.10309,
+            "longitude": 21.0988,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050028,
+            "name": "Snina",
+            "alt_names": [],
+            "latitude": 48.98857,
+            "longitude": 22.15099,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050029,
+            "name": "Spišská Belá",
+            "alt_names": [],
+            "latitude": 49.18725,
+            "longitude": 20.45948,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050030,
+            "name": "Spišské Podhradie",
+            "alt_names": [],
+            "latitude": 49.00088,
+            "longitude": 20.75307,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050031,
+            "name": "Stará Ľubovňa",
+            "alt_names": [],
+            "latitude": 49.29859,
+            "longitude": 20.6862,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050032,
+            "name": "Štrba",
+            "alt_names": [],
+            "latitude": 49.05913,
+            "longitude": 20.07975,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050033,
+            "name": "Stropkov",
+            "alt_names": [],
+            "latitude": 49.20211,
+            "longitude": 21.65216,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050034,
+            "name": "Svidník",
+            "alt_names": [],
+            "latitude": 49.30819,
+            "longitude": 21.5703,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050035,
+            "name": "Svit",
+            "alt_names": [],
+            "latitude": 49.06014,
+            "longitude": 20.20695,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050036,
+            "name": "Vranov nad Topľou",
+            "alt_names": [],
+            "latitude": 48.88836,
+            "longitude": 21.68479,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050037,
+            "name": "Vrbov",
+            "alt_names": [],
+            "latitude": 49.08764,
+            "longitude": 20.4253,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050038,
+            "name": "Vyšné Ružbachy",
+            "alt_names": [],
+            "latitude": 49.30387,
+            "longitude": 20.56558,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050039,
+            "name": "Vysoké Tatry",
+            "alt_names": [],
+            "latitude": 49.13637,
+            "longitude": 20.24386,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2000050040,
+            "name": "Ždiar",
+            "alt_names": [],
+            "latitude": 49.271,
+            "longitude": 20.26239,
+            "timezone": {
+                "zoneName": "Europe/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

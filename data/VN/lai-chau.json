@@ -1,0 +1,53 @@
+{
+    "id": 243035,
+    "name": "Lai Châu",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 22.3862227,
+    "longitude": 103.4702631,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2430350001,
+            "name": "Huyện Mưòng Tè",
+            "alt_names": [],
+            "latitude": 22.37443,
+            "longitude": 102.73835,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430350002,
+            "name": "Huyện Tam Đường",
+            "alt_names": [],
+            "latitude": 22.35391,
+            "longitude": 103.59342,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430350003,
+            "name": "Huyện Than Uyên",
+            "alt_names": [],
+            "latitude": 21.91424,
+            "longitude": 103.82857,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

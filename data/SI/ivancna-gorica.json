@@ -1,0 +1,39 @@
+{
+    "id": 201056,
+    "name": "Ivančna Gorica",
+    "alt_names": [],
+    "state_code": "039",
+    "latitude": 45.9395841,
+    "longitude": 14.8047626,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010560001,
+            "name": "Ivančna Gorica",
+            "alt_names": [],
+            "latitude": 45.93833,
+            "longitude": 14.80444,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010560002,
+            "name": "Šentvid pri Stični",
+            "alt_names": [],
+            "latitude": 45.95004,
+            "longitude": 14.84344,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

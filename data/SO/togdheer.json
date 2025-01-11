@@ -1,0 +1,53 @@
+{
+    "id": 203016,
+    "name": "Togdheer",
+    "alt_names": [],
+    "state_code": "TO",
+    "latitude": 9.4460587,
+    "longitude": 45.2993862,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030160001,
+            "name": "Burao",
+            "alt_names": [],
+            "latitude": 9.52213,
+            "longitude": 45.53363,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030160002,
+            "name": "Ceek",
+            "alt_names": [],
+            "latitude": 8.99907,
+            "longitude": 45.35824,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030160003,
+            "name": "Oodweyne",
+            "alt_names": [],
+            "latitude": 9.4092,
+            "longitude": 45.06397,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

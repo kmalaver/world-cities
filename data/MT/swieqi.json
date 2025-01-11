@@ -1,0 +1,39 @@
+{
+    "id": 133055,
+    "name": "Swieqi",
+    "alt_names": [],
+    "state_code": "57",
+    "latitude": 35.9191182,
+    "longitude": 14.4694186,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330550001,
+            "name": "Madliena",
+            "alt_names": [],
+            "latitude": 35.933333,
+            "longitude": 14.466667,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330550002,
+            "name": "Swieqi",
+            "alt_names": [],
+            "latitude": 35.9225,
+            "longitude": 14.48,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

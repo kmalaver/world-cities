@@ -1,0 +1,53 @@
+{
+    "id": 158020,
+    "name": "Kano",
+    "alt_names": [],
+    "state_code": "KN",
+    "latitude": 11.7470698,
+    "longitude": 8.5247107,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1580200001,
+            "name": "Dan Gora",
+            "alt_names": [],
+            "latitude": 11.53485,
+            "longitude": 8.15224,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580200002,
+            "name": "Gaya",
+            "alt_names": [],
+            "latitude": 11.86064,
+            "longitude": 9.0027,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580200003,
+            "name": "Kano",
+            "alt_names": [],
+            "latitude": 12.00012,
+            "longitude": 8.51672,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

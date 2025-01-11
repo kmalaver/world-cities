@@ -1,0 +1,53 @@
+{
+    "id": 42003,
+    "name": "Basse-Kotto",
+    "alt_names": [],
+    "state_code": "BK",
+    "latitude": 4.8719319,
+    "longitude": 21.2845025,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420030001,
+            "name": "Alindao",
+            "alt_names": [],
+            "latitude": 5.02667,
+            "longitude": 21.20876,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420030002,
+            "name": "Kembé",
+            "alt_names": [],
+            "latitude": 4.62275,
+            "longitude": 21.88645,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420030003,
+            "name": "Mobaye",
+            "alt_names": [],
+            "latitude": 4.31902,
+            "longitude": 21.17861,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

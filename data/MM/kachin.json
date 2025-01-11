@@ -1,0 +1,39 @@
+{
+    "id": 149004,
+    "name": "Kachin",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 25.850904,
+    "longitude": 97.4381355,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1490040001,
+            "name": "Bhamo",
+            "alt_names": [],
+            "latitude": 24.25256,
+            "longitude": 97.23357,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490040002,
+            "name": "Myitkyina",
+            "alt_names": [],
+            "latitude": 25.38327,
+            "longitude": 97.39637,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

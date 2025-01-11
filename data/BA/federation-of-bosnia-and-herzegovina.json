@@ -1,0 +1,2181 @@
+{
+    "id": 28005,
+    "name": "Federation of Bosnia and Herzegovina",
+    "alt_names": [],
+    "state_code": "BIH",
+    "latitude": 43.8874897,
+    "longitude": 17.842793,
+    "type": "entity",
+    "cities": [
+        {
+            "id": 280050001,
+            "name": "Banovići",
+            "alt_names": [],
+            "latitude": 44.40596,
+            "longitude": 18.52648,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050002,
+            "name": "Barice",
+            "alt_names": [],
+            "latitude": 44.54065,
+            "longitude": 18.48069,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050003,
+            "name": "Bihać",
+            "alt_names": [],
+            "latitude": 44.81694,
+            "longitude": 15.87083,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050004,
+            "name": "Bijela",
+            "alt_names": [],
+            "latitude": 43.60871,
+            "longitude": 17.95078,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050005,
+            "name": "Bila",
+            "alt_names": [],
+            "latitude": 43.78265,
+            "longitude": 16.92676,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050006,
+            "name": "Blagaj",
+            "alt_names": [],
+            "latitude": 43.25892,
+            "longitude": 17.88815,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050007,
+            "name": "Bosanska Krupa",
+            "alt_names": [],
+            "latitude": 44.8825,
+            "longitude": 16.15139,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050008,
+            "name": "Bosanski Petrovac",
+            "alt_names": [],
+            "latitude": 44.55537,
+            "longitude": 16.36897,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050009,
+            "name": "Bosansko Grahovo",
+            "alt_names": [],
+            "latitude": 44.17944,
+            "longitude": 16.36389,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050010,
+            "name": "Breza",
+            "alt_names": [],
+            "latitude": 44.01862,
+            "longitude": 18.26063,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050011,
+            "name": "Bugojno",
+            "alt_names": [],
+            "latitude": 44.05722,
+            "longitude": 17.45083,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050012,
+            "name": "Busovača",
+            "alt_names": [],
+            "latitude": 44.09769,
+            "longitude": 17.8783,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050013,
+            "name": "Bužim",
+            "alt_names": [],
+            "latitude": 45.05361,
+            "longitude": 16.03254,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050014,
+            "name": "Čapljina",
+            "alt_names": [],
+            "latitude": 43.12139,
+            "longitude": 17.68444,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050015,
+            "name": "Cazin",
+            "alt_names": [],
+            "latitude": 44.96694,
+            "longitude": 15.94306,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050016,
+            "name": "Čelić",
+            "alt_names": [],
+            "latitude": 44.72524,
+            "longitude": 18.81474,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050017,
+            "name": "Cim",
+            "alt_names": [],
+            "latitude": 43.35401,
+            "longitude": 17.78045,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050018,
+            "name": "Čitluk",
+            "alt_names": [],
+            "latitude": 43.22861,
+            "longitude": 17.70083,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050019,
+            "name": "Ćoralići",
+            "alt_names": [],
+            "latitude": 45.00694,
+            "longitude": 15.87194,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050020,
+            "name": "Crnići",
+            "alt_names": [],
+            "latitude": 43.13156,
+            "longitude": 17.86452,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050021,
+            "name": "Divičani",
+            "alt_names": [],
+            "latitude": 44.36682,
+            "longitude": 17.32678,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050022,
+            "name": "Dobrinje",
+            "alt_names": [],
+            "latitude": 44.05008,
+            "longitude": 18.11958,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050023,
+            "name": "Domaljevac",
+            "alt_names": [],
+            "latitude": 45.0611,
+            "longitude": 18.58612,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050024,
+            "name": "Donja Dubica",
+            "alt_names": [],
+            "latitude": 45.07559,
+            "longitude": 18.41023,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050025,
+            "name": "Donja Mahala",
+            "alt_names": [],
+            "latitude": 45.04327,
+            "longitude": 18.66996,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050026,
+            "name": "Donja Međiđa",
+            "alt_names": [],
+            "latitude": 44.80235,
+            "longitude": 18.40477,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050027,
+            "name": "Donji Vakuf",
+            "alt_names": [],
+            "latitude": 44.14361,
+            "longitude": 17.4,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050028,
+            "name": "Drežnica",
+            "alt_names": [],
+            "latitude": 43.52891,
+            "longitude": 17.2812,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050029,
+            "name": "Drinovci",
+            "alt_names": [],
+            "latitude": 43.35454,
+            "longitude": 17.32536,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050030,
+            "name": "Drvar",
+            "alt_names": [],
+            "latitude": 44.37389,
+            "longitude": 16.38083,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050031,
+            "name": "Dubrave Donje",
+            "alt_names": [],
+            "latitude": 44.4806,
+            "longitude": 18.69709,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050032,
+            "name": "Dubrave Gornje",
+            "alt_names": [],
+            "latitude": 44.47229,
+            "longitude": 18.72685,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050033,
+            "name": "Dubravica",
+            "alt_names": [],
+            "latitude": 44.44131,
+            "longitude": 18.11883,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050034,
+            "name": "Fojnica",
+            "alt_names": [],
+            "latitude": 43.95952,
+            "longitude": 17.90288,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050035,
+            "name": "Glamoč",
+            "alt_names": [],
+            "latitude": 44.04583,
+            "longitude": 16.84861,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050036,
+            "name": "Gnojnica",
+            "alt_names": [],
+            "latitude": 44.62058,
+            "longitude": 18.44684,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050037,
+            "name": "Goražde",
+            "alt_names": [],
+            "latitude": 43.66795,
+            "longitude": 18.97564,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050038,
+            "name": "Gorica",
+            "alt_names": [],
+            "latitude": 43.41833,
+            "longitude": 17.285,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050039,
+            "name": "Gornja Breza",
+            "alt_names": [],
+            "latitude": 44.03758,
+            "longitude": 18.24564,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050040,
+            "name": "Gornja Koprivna",
+            "alt_names": [],
+            "latitude": 45.01091,
+            "longitude": 15.95487,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050041,
+            "name": "Gornja Tuzla",
+            "alt_names": [],
+            "latitude": 44.55659,
+            "longitude": 18.76159,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050042,
+            "name": "Gornje Moštre",
+            "alt_names": [],
+            "latitude": 44.01911,
+            "longitude": 18.15477,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050043,
+            "name": "Gornje Živinice",
+            "alt_names": [],
+            "latitude": 44.42921,
+            "longitude": 18.61667,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050044,
+            "name": "Gornji Vakuf",
+            "alt_names": [],
+            "latitude": 43.93806,
+            "longitude": 17.58833,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050045,
+            "name": "Gostovići",
+            "alt_names": [],
+            "latitude": 44.41124,
+            "longitude": 18.17029,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050046,
+            "name": "Gračanica",
+            "alt_names": [],
+            "latitude": 43.73333,
+            "longitude": 18.28333,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050047,
+            "name": "Gradačac",
+            "alt_names": [],
+            "latitude": 44.87851,
+            "longitude": 18.42764,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050048,
+            "name": "Gromiljak",
+            "alt_names": [],
+            "latitude": 43.96668,
+            "longitude": 18.05504,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050049,
+            "name": "Grude",
+            "alt_names": [],
+            "latitude": 43.37208,
+            "longitude": 17.41449,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050050,
+            "name": "Hadžići",
+            "alt_names": [],
+            "latitude": 43.82222,
+            "longitude": 18.20667,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050051,
+            "name": "Hercegovačko-Neretvanski Kanton",
+            "alt_names": [],
+            "latitude": 43.45722,
+            "longitude": 17.8125,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050052,
+            "name": "Hotonj",
+            "alt_names": [],
+            "latitude": 43.89341,
+            "longitude": 18.37751,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050053,
+            "name": "Ilići",
+            "alt_names": [],
+            "latitude": 43.34765,
+            "longitude": 17.76848,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050054,
+            "name": "Ilijaš",
+            "alt_names": [],
+            "latitude": 43.95128,
+            "longitude": 18.27128,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050055,
+            "name": "Izačić",
+            "alt_names": [],
+            "latitude": 44.87485,
+            "longitude": 15.78256,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050056,
+            "name": "Jablanica",
+            "alt_names": [],
+            "latitude": 43.66028,
+            "longitude": 17.76167,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050057,
+            "name": "Jajce",
+            "alt_names": [],
+            "latitude": 44.34203,
+            "longitude": 17.27059,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050058,
+            "name": "Jelah",
+            "alt_names": [],
+            "latitude": 44.654,
+            "longitude": 17.95897,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050059,
+            "name": "Jezerski",
+            "alt_names": [],
+            "latitude": 44.98172,
+            "longitude": 16.09447,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050060,
+            "name": "Kačuni",
+            "alt_names": [],
+            "latitude": 44.06433,
+            "longitude": 17.93894,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050061,
+            "name": "Kakanj",
+            "alt_names": [],
+            "latitude": 44.13311,
+            "longitude": 18.12292,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050062,
+            "name": "Kanton Sarajevo",
+            "alt_names": [],
+            "latitude": 43.84333,
+            "longitude": 18.24222,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050063,
+            "name": "Karadaglije",
+            "alt_names": [],
+            "latitude": 44.57065,
+            "longitude": 18.01775,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050064,
+            "name": "Kiseljak",
+            "alt_names": [],
+            "latitude": 44.48904,
+            "longitude": 18.56982,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050065,
+            "name": "Kladanj",
+            "alt_names": [],
+            "latitude": 44.22669,
+            "longitude": 18.69274,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050066,
+            "name": "Ključ",
+            "alt_names": [],
+            "latitude": 44.53251,
+            "longitude": 16.77682,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050067,
+            "name": "Kobilja Glava",
+            "alt_names": [],
+            "latitude": 43.88188,
+            "longitude": 18.38864,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050068,
+            "name": "Kočerin",
+            "alt_names": [],
+            "latitude": 43.39005,
+            "longitude": 17.48552,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050069,
+            "name": "Konjic",
+            "alt_names": [],
+            "latitude": 43.65126,
+            "longitude": 17.96082,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050070,
+            "name": "Kovači",
+            "alt_names": [],
+            "latitude": 44.44874,
+            "longitude": 18.20521,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050071,
+            "name": "Liješnica",
+            "alt_names": [],
+            "latitude": 44.49497,
+            "longitude": 18.07644,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050072,
+            "name": "Livno",
+            "alt_names": [],
+            "latitude": 43.82695,
+            "longitude": 17.00746,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050073,
+            "name": "Ljubuški",
+            "alt_names": [],
+            "latitude": 43.19694,
+            "longitude": 17.545,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050074,
+            "name": "Lokvine",
+            "alt_names": [],
+            "latitude": 44.20466,
+            "longitude": 17.85665,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050075,
+            "name": "Lukavac",
+            "alt_names": [],
+            "latitude": 44.54245,
+            "longitude": 18.52618,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050076,
+            "name": "Lukavica",
+            "alt_names": [],
+            "latitude": 44.76452,
+            "longitude": 18.16887,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050077,
+            "name": "Maglaj",
+            "alt_names": [],
+            "latitude": 44.54771,
+            "longitude": 18.10003,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050078,
+            "name": "Mahala",
+            "alt_names": [],
+            "latitude": 44.01194,
+            "longitude": 18.25528,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050079,
+            "name": "Mala Kladuša",
+            "alt_names": [],
+            "latitude": 45.13443,
+            "longitude": 15.85217,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050080,
+            "name": "Malešići",
+            "alt_names": [],
+            "latitude": 44.73824,
+            "longitude": 18.27335,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050081,
+            "name": "Mionica",
+            "alt_names": [],
+            "latitude": 44.86646,
+            "longitude": 18.46603,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050082,
+            "name": "Mostar",
+            "alt_names": [],
+            "latitude": 43.34333,
+            "longitude": 17.80806,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050083,
+            "name": "Mramor",
+            "alt_names": [],
+            "latitude": 44.59234,
+            "longitude": 18.56458,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050084,
+            "name": "Neum",
+            "alt_names": [],
+            "latitude": 42.92333,
+            "longitude": 17.61556,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050085,
+            "name": "Novi Šeher",
+            "alt_names": [],
+            "latitude": 44.51031,
+            "longitude": 18.02624,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050086,
+            "name": "Novi Travnik",
+            "alt_names": [],
+            "latitude": 44.17133,
+            "longitude": 17.65816,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050087,
+            "name": "Odžak",
+            "alt_names": [],
+            "latitude": 45.02461,
+            "longitude": 18.32107,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050088,
+            "name": "Olovo",
+            "alt_names": [],
+            "latitude": 44.1277,
+            "longitude": 18.58065,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050089,
+            "name": "Omanjska",
+            "alt_names": [],
+            "latitude": 44.69831,
+            "longitude": 17.95757,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050090,
+            "name": "Orahovica Donja",
+            "alt_names": [],
+            "latitude": 44.65345,
+            "longitude": 18.36951,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050091,
+            "name": "Orašac",
+            "alt_names": [],
+            "latitude": 44.63039,
+            "longitude": 16.07443,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050092,
+            "name": "Orašje",
+            "alt_names": [],
+            "latitude": 45.03366,
+            "longitude": 18.69334,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050093,
+            "name": "Orguz",
+            "alt_names": [],
+            "latitude": 43.77414,
+            "longitude": 16.86329,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050094,
+            "name": "Ostrožac",
+            "alt_names": [],
+            "latitude": 44.90866,
+            "longitude": 15.94045,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050095,
+            "name": "Otoka",
+            "alt_names": [],
+            "latitude": 44.96,
+            "longitude": 16.17917,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050096,
+            "name": "Pajić Polje",
+            "alt_names": [],
+            "latitude": 43.97583,
+            "longitude": 17.5275,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050097,
+            "name": "Pazarić",
+            "alt_names": [],
+            "latitude": 43.78882,
+            "longitude": 18.16049,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050098,
+            "name": "Peći",
+            "alt_names": [],
+            "latitude": 44.63139,
+            "longitude": 16.7825,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050099,
+            "name": "Pećigrad",
+            "alt_names": [],
+            "latitude": 45.05444,
+            "longitude": 15.89694,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050100,
+            "name": "Pjanići",
+            "alt_names": [],
+            "latitude": 44.98568,
+            "longitude": 15.82304,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050101,
+            "name": "Podhum",
+            "alt_names": [],
+            "latitude": 43.72295,
+            "longitude": 16.99887,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050102,
+            "name": "Podzvizd",
+            "alt_names": [],
+            "latitude": 45.17417,
+            "longitude": 15.87361,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050103,
+            "name": "Polje",
+            "alt_names": [],
+            "latitude": 43.88014,
+            "longitude": 18.07452,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050104,
+            "name": "Polje-Bijela",
+            "alt_names": [],
+            "latitude": 43.63299,
+            "longitude": 17.97216,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050105,
+            "name": "Potoci",
+            "alt_names": [],
+            "latitude": 43.40953,
+            "longitude": 17.87855,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050106,
+            "name": "Prozor",
+            "alt_names": [],
+            "latitude": 43.82222,
+            "longitude": 17.60917,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050107,
+            "name": "Puračić",
+            "alt_names": [],
+            "latitude": 44.54562,
+            "longitude": 18.47865,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050108,
+            "name": "Radišići",
+            "alt_names": [],
+            "latitude": 43.22302,
+            "longitude": 17.54056,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050109,
+            "name": "Rodoč",
+            "alt_names": [],
+            "latitude": 43.31453,
+            "longitude": 17.8029,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050110,
+            "name": "Rumboci",
+            "alt_names": [],
+            "latitude": 43.83154,
+            "longitude": 17.50273,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050111,
+            "name": "Sanica",
+            "alt_names": [],
+            "latitude": 44.61354,
+            "longitude": 16.64062,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050112,
+            "name": "Sanski Most",
+            "alt_names": [],
+            "latitude": 44.7667,
+            "longitude": 16.667,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050113,
+            "name": "Sapna",
+            "alt_names": [],
+            "latitude": 44.5038,
+            "longitude": 18.99818,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050114,
+            "name": "Sarajevo",
+            "alt_names": [],
+            "latitude": 43.84864,
+            "longitude": 18.35644,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050115,
+            "name": "Šerići",
+            "alt_names": [],
+            "latitude": 44.46674,
+            "longitude": 18.5637,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050116,
+            "name": "Široki Brijeg",
+            "alt_names": [],
+            "latitude": 43.3829,
+            "longitude": 17.59416,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050117,
+            "name": "Skokovi",
+            "alt_names": [],
+            "latitude": 45.03139,
+            "longitude": 15.91444,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050118,
+            "name": "Sladna",
+            "alt_names": [],
+            "latitude": 44.72897,
+            "longitude": 18.42575,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050119,
+            "name": "Solina",
+            "alt_names": [],
+            "latitude": 44.56226,
+            "longitude": 18.69322,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050120,
+            "name": "Srebrenik",
+            "alt_names": [],
+            "latitude": 44.70819,
+            "longitude": 18.48834,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050121,
+            "name": "Stijena",
+            "alt_names": [],
+            "latitude": 44.9363,
+            "longitude": 16.02224,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050122,
+            "name": "Stjepan-Polje",
+            "alt_names": [],
+            "latitude": 44.71634,
+            "longitude": 18.25783,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050123,
+            "name": "Stolac",
+            "alt_names": [],
+            "latitude": 43.084,
+            "longitude": 17.95995,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050124,
+            "name": "Šturlić",
+            "alt_names": [],
+            "latitude": 45.06389,
+            "longitude": 15.77806,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050125,
+            "name": "Šumatac",
+            "alt_names": [],
+            "latitude": 45.09743,
+            "longitude": 15.85818,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050126,
+            "name": "Tasovčići",
+            "alt_names": [],
+            "latitude": 43.11333,
+            "longitude": 17.72,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050127,
+            "name": "Tešanj",
+            "alt_names": [],
+            "latitude": 44.61191,
+            "longitude": 17.98552,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050128,
+            "name": "Tešanjka",
+            "alt_names": [],
+            "latitude": 44.67228,
+            "longitude": 18.01109,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050129,
+            "name": "Todorovo",
+            "alt_names": [],
+            "latitude": 45.08833,
+            "longitude": 15.93083,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050130,
+            "name": "Tojšići",
+            "alt_names": [],
+            "latitude": 44.50133,
+            "longitude": 18.78523,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050131,
+            "name": "Tomislavgrad",
+            "alt_names": [],
+            "latitude": 43.71849,
+            "longitude": 17.22515,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050132,
+            "name": "Travnik",
+            "alt_names": [],
+            "latitude": 44.22637,
+            "longitude": 17.66583,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050133,
+            "name": "Tržačka Raštela",
+            "alt_names": [],
+            "latitude": 44.97597,
+            "longitude": 15.78489,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050134,
+            "name": "Turbe",
+            "alt_names": [],
+            "latitude": 44.24352,
+            "longitude": 17.57499,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050135,
+            "name": "Tuzla",
+            "alt_names": [],
+            "latitude": 44.53842,
+            "longitude": 18.66709,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050136,
+            "name": "Ustikolina",
+            "alt_names": [],
+            "latitude": 43.58338,
+            "longitude": 18.79106,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050137,
+            "name": "Vareš",
+            "alt_names": [],
+            "latitude": 44.16444,
+            "longitude": 18.32833,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050138,
+            "name": "Varoška Rijeka",
+            "alt_names": [],
+            "latitude": 45.08936,
+            "longitude": 16.01906,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050139,
+            "name": "Velagići",
+            "alt_names": [],
+            "latitude": 44.55618,
+            "longitude": 16.73349,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050140,
+            "name": "Velika Kladuša",
+            "alt_names": [],
+            "latitude": 45.18497,
+            "longitude": 15.80579,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050141,
+            "name": "Vidoši",
+            "alt_names": [],
+            "latitude": 43.77139,
+            "longitude": 17.02833,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050142,
+            "name": "Visoko",
+            "alt_names": [],
+            "latitude": 43.98889,
+            "longitude": 18.17806,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050143,
+            "name": "Vitez",
+            "alt_names": [],
+            "latitude": 44.15424,
+            "longitude": 17.79009,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050144,
+            "name": "Vitina",
+            "alt_names": [],
+            "latitude": 43.2375,
+            "longitude": 17.48389,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050145,
+            "name": "Vogošća",
+            "alt_names": [],
+            "latitude": 43.90225,
+            "longitude": 18.34438,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050146,
+            "name": "Voljevac",
+            "alt_names": [],
+            "latitude": 43.87873,
+            "longitude": 17.65861,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050147,
+            "name": "Vrnograč",
+            "alt_names": [],
+            "latitude": 45.16369,
+            "longitude": 15.95444,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050148,
+            "name": "Vukovije Donje",
+            "alt_names": [],
+            "latitude": 44.46209,
+            "longitude": 18.74941,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050149,
+            "name": "Zabrišće",
+            "alt_names": [],
+            "latitude": 43.79224,
+            "longitude": 16.94224,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050150,
+            "name": "Zavidovići",
+            "alt_names": [],
+            "latitude": 44.44583,
+            "longitude": 18.14972,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050151,
+            "name": "Zborište",
+            "alt_names": [],
+            "latitude": 45.14593,
+            "longitude": 16.01728,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050152,
+            "name": "Željezno Polje",
+            "alt_names": [],
+            "latitude": 44.39875,
+            "longitude": 17.94103,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050153,
+            "name": "Zenica",
+            "alt_names": [],
+            "latitude": 44.20169,
+            "longitude": 17.90397,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050154,
+            "name": "Žepče",
+            "alt_names": [],
+            "latitude": 44.42667,
+            "longitude": 18.03778,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280050155,
+            "name": "Živinice",
+            "alt_names": [],
+            "latitude": 44.44929,
+            "longitude": 18.64978,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

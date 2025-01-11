@@ -1,0 +1,39 @@
+{
+    "id": 142013,
+    "name": "Dondușeni",
+    "alt_names": [],
+    "state_code": "DO",
+    "latitude": 48.2338305,
+    "longitude": 27.5998087,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420130001,
+            "name": "Briceni",
+            "alt_names": [],
+            "latitude": 48.35628,
+            "longitude": 27.70293,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420130002,
+            "name": "Donduşeni",
+            "alt_names": [],
+            "latitude": 48.24268,
+            "longitude": 27.6101,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

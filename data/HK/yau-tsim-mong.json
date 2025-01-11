@@ -1,0 +1,39 @@
+{
+    "id": 98017,
+    "name": "Yau Tsim Mong",
+    "alt_names": [],
+    "state_code": "KYT",
+    "latitude": 22.32138,
+    "longitude": 114.1726,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980170001,
+            "name": "Mong Kok",
+            "alt_names": [],
+            "latitude": 22.319,
+            "longitude": 114.169,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980170002,
+            "name": "Tsim Sha Tsui",
+            "alt_names": [],
+            "latitude": 22.298,
+            "longitude": 114.172,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

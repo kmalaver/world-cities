@@ -1,0 +1,53 @@
+{
+    "id": 1026,
+    "name": "Paktika",
+    "alt_names": [],
+    "state_code": "PKA",
+    "latitude": 32.2645386,
+    "longitude": 68.5247149,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10260001,
+            "name": "Saṟōbī",
+            "alt_names": [],
+            "latitude": 32.75221,
+            "longitude": 69.04587,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10260002,
+            "name": "Zaṟah Sharan",
+            "alt_names": [],
+            "latitude": 33.14641,
+            "longitude": 68.79213,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10260003,
+            "name": "Zarghūn Shahr",
+            "alt_names": [],
+            "latitude": 32.84734,
+            "longitude": 68.44573,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

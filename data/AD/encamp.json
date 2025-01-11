@@ -1,0 +1,39 @@
+{
+    "id": 6003,
+    "name": "Encamp",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 42.5359764,
+    "longitude": 1.5836773,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 60030001,
+            "name": "Encamp",
+            "alt_names": [],
+            "latitude": 42.53474,
+            "longitude": 1.58014,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 60030002,
+            "name": "Pas de la Casa",
+            "alt_names": [],
+            "latitude": 42.54277,
+            "longitude": 1.73361,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

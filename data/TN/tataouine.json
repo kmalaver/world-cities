@@ -1,0 +1,39 @@
+{
+    "id": 227021,
+    "name": "Tataouine",
+    "alt_names": [],
+    "state_code": "83",
+    "latitude": 32.1344122,
+    "longitude": 10.0807298,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 2270210001,
+            "name": "Remada",
+            "alt_names": [],
+            "latitude": 32.31662,
+            "longitude": 10.39551,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2270210002,
+            "name": "Tataouine",
+            "alt_names": [],
+            "latitude": 32.92967,
+            "longitude": 10.45177,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

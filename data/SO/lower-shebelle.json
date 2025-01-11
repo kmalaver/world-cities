@@ -1,0 +1,67 @@
+{
+    "id": 203010,
+    "name": "Lower Shebelle",
+    "alt_names": [],
+    "state_code": "SH",
+    "latitude": 1.8766458,
+    "longitude": 44.2479015,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030100001,
+            "name": "Afgooye",
+            "alt_names": [],
+            "latitude": 2.1381,
+            "longitude": 45.1212,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030100002,
+            "name": "Marka",
+            "alt_names": [],
+            "latitude": 1.71594,
+            "longitude": 44.77166,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030100003,
+            "name": "Qoryooley",
+            "alt_names": [],
+            "latitude": 1.78784,
+            "longitude": 44.52999,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030100004,
+            "name": "Wanlaweyn",
+            "alt_names": [],
+            "latitude": 2.6185,
+            "longitude": 44.8938,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

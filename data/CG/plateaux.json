@@ -1,0 +1,39 @@
+{
+    "id": 50009,
+    "name": "Plateaux",
+    "alt_names": [],
+    "state_code": "14",
+    "latitude": -2.0680088,
+    "longitude": 15.4068079,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500090001,
+            "name": "Djambala",
+            "alt_names": [],
+            "latitude": -2.54472,
+            "longitude": 14.75333,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500090002,
+            "name": "Gamboma",
+            "alt_names": [],
+            "latitude": -1.87639,
+            "longitude": 15.86444,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

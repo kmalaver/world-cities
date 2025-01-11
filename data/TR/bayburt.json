@@ -1,0 +1,53 @@
+{
+    "id": 228015,
+    "name": "Bayburt",
+    "alt_names": [],
+    "state_code": "69",
+    "latitude": 40.26032,
+    "longitude": 40.228048,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2280150001,
+            "name": "Aydıntepe",
+            "alt_names": [],
+            "latitude": 40.38325,
+            "longitude": 40.14272,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280150002,
+            "name": "Demirözü",
+            "alt_names": [],
+            "latitude": 40.1656,
+            "longitude": 39.89343,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280150003,
+            "name": "Merkez",
+            "alt_names": [],
+            "latitude": 40.25631,
+            "longitude": 40.22289,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 214005,
+    "name": "Basel-Stadt",
+    "alt_names": [],
+    "state_code": "BS",
+    "latitude": 47.566667,
+    "longitude": 7.6,
+    "type": "canton",
+    "cities": [
+        {
+            "id": 2140050001,
+            "name": "Basel",
+            "alt_names": [],
+            "latitude": 47.554722,
+            "longitude": 7.590556,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140050002,
+            "name": "Bettingen",
+            "alt_names": [],
+            "latitude": 47.571389,
+            "longitude": 7.664167,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140050003,
+            "name": "Riehen",
+            "alt_names": [],
+            "latitude": 47.583333,
+            "longitude": 7.633333,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

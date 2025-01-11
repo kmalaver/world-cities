@@ -1,0 +1,53 @@
+{
+    "id": 201061,
+    "name": "Kamnik",
+    "alt_names": [],
+    "state_code": "043",
+    "latitude": 46.2221666,
+    "longitude": 14.6070727,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010610001,
+            "name": "Kamnik",
+            "alt_names": [],
+            "latitude": 46.22587,
+            "longitude": 14.61207,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010610002,
+            "name": "Mekinje",
+            "alt_names": [],
+            "latitude": 46.23333,
+            "longitude": 14.61667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010610003,
+            "name": "Šmarca",
+            "alt_names": [],
+            "latitude": 46.19333,
+            "longitude": 14.59667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

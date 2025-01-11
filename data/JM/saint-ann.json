@@ -1,0 +1,767 @@
+{
+    "id": 108007,
+    "name": "Saint Ann",
+    "alt_names": [],
+    "state_code": "06",
+    "latitude": 37.2871452,
+    "longitude": -77.4103533,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1080070001,
+            "name": "Aboukir",
+            "alt_names": [],
+            "latitude": 18.2509,
+            "longitude": -77.34327,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070002,
+            "name": "Alderton",
+            "alt_names": [],
+            "latitude": 18.28706,
+            "longitude": -77.20832,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070003,
+            "name": "Alexandria",
+            "alt_names": [],
+            "latitude": 18.30411,
+            "longitude": -77.35311,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070004,
+            "name": "Alva",
+            "alt_names": [],
+            "latitude": 18.29679,
+            "longitude": -77.31717,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070005,
+            "name": "Bamboo",
+            "alt_names": [],
+            "latitude": 18.39216,
+            "longitude": -77.26429,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070006,
+            "name": "Beecher Town",
+            "alt_names": [],
+            "latitude": 18.38465,
+            "longitude": -77.11617,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070007,
+            "name": "Bensonton",
+            "alt_names": [],
+            "latitude": 18.22315,
+            "longitude": -77.20861,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070008,
+            "name": "Blackstonedge",
+            "alt_names": [],
+            "latitude": 18.27357,
+            "longitude": -77.04254,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070009,
+            "name": "Bohemia",
+            "alt_names": [],
+            "latitude": 18.21239,
+            "longitude": -77.46954,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070010,
+            "name": "Borobridge",
+            "alt_names": [],
+            "latitude": 18.19779,
+            "longitude": -77.42755,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070011,
+            "name": "Browns Town",
+            "alt_names": [],
+            "latitude": 18.38464,
+            "longitude": -77.35286,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070012,
+            "name": "Calderwood",
+            "alt_names": [],
+            "latitude": 18.25641,
+            "longitude": -77.27144,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070013,
+            "name": "Cascade",
+            "alt_names": [],
+            "latitude": 18.23209,
+            "longitude": -77.46255,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070014,
+            "name": "Cave Valley",
+            "alt_names": [],
+            "latitude": 18.23268,
+            "longitude": -77.36337,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070015,
+            "name": "Chalky Hill",
+            "alt_names": [],
+            "latitude": 18.37964,
+            "longitude": -77.1752,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070016,
+            "name": "Chester",
+            "alt_names": [],
+            "latitude": 18.44786,
+            "longitude": -77.26503,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070017,
+            "name": "Claremont",
+            "alt_names": [],
+            "latitude": 18.32556,
+            "longitude": -77.20643,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070018,
+            "name": "Cole Gate",
+            "alt_names": [],
+            "latitude": 18.37967,
+            "longitude": -77.08518,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070019,
+            "name": "Content Garden",
+            "alt_names": [],
+            "latitude": 18.40977,
+            "longitude": -77.0754,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070020,
+            "name": "Cuffie Ridge",
+            "alt_names": [],
+            "latitude": 18.22793,
+            "longitude": -77.42054,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070021,
+            "name": "Discovery Bay",
+            "alt_names": [],
+            "latitude": 18.43725,
+            "longitude": -77.41815,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070022,
+            "name": "Epworth",
+            "alt_names": [],
+            "latitude": 18.36083,
+            "longitude": -77.13342,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070023,
+            "name": "Exchange",
+            "alt_names": [],
+            "latitude": 18.37265,
+            "longitude": -77.06572,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070024,
+            "name": "Faith's Pen",
+            "alt_names": [],
+            "latitude": 18.22963,
+            "longitude": -77.08804,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070025,
+            "name": "Gibraltar",
+            "alt_names": [],
+            "latitude": 18.35079,
+            "longitude": -77.42142,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070026,
+            "name": "Golden Grove",
+            "alt_names": [],
+            "latitude": 18.32956,
+            "longitude": -77.12256,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070027,
+            "name": "Great Pond",
+            "alt_names": [],
+            "latitude": 18.40227,
+            "longitude": -77.08511,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070028,
+            "name": "Higgin Land",
+            "alt_names": [],
+            "latitude": 18.34119,
+            "longitude": -77.27072,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070029,
+            "name": "Hinds Town",
+            "alt_names": [],
+            "latitude": 18.35425,
+            "longitude": -77.09812,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070030,
+            "name": "Inverness",
+            "alt_names": [],
+            "latitude": 18.27531,
+            "longitude": -77.36862,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070031,
+            "name": "Lime Hall",
+            "alt_names": [],
+            "latitude": 18.39742,
+            "longitude": -77.21051,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070032,
+            "name": "Lime Tree Gardens",
+            "alt_names": [],
+            "latitude": 18.34545,
+            "longitude": -77.38645,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070033,
+            "name": "Linton Park",
+            "alt_names": [],
+            "latitude": 18.26081,
+            "longitude": -77.42221,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070034,
+            "name": "Macknie",
+            "alt_names": [],
+            "latitude": 18.21191,
+            "longitude": -77.28016,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070035,
+            "name": "Madras",
+            "alt_names": [],
+            "latitude": 18.29112,
+            "longitude": -77.44875,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070036,
+            "name": "Mansfield",
+            "alt_names": [],
+            "latitude": 18.40265,
+            "longitude": -77.09488,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070037,
+            "name": "Moneague",
+            "alt_names": [],
+            "latitude": 18.28307,
+            "longitude": -77.13855,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070038,
+            "name": "Mount Moriah",
+            "alt_names": [],
+            "latitude": 18.20617,
+            "longitude": -77.44094,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070039,
+            "name": "Mount Zion",
+            "alt_names": [],
+            "latitude": 18.43377,
+            "longitude": -77.28028,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070040,
+            "name": "Ocho Rios",
+            "alt_names": [],
+            "latitude": 18.4076,
+            "longitude": -77.10312,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070041,
+            "name": "Parry Town",
+            "alt_names": [],
+            "latitude": 18.38359,
+            "longitude": -77.10345,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070042,
+            "name": "Philadelphia",
+            "alt_names": [],
+            "latitude": 18.40005,
+            "longitude": -77.32735,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070043,
+            "name": "Pimento Walk",
+            "alt_names": [],
+            "latitude": 18.39578,
+            "longitude": -77.11383,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070044,
+            "name": "Priory",
+            "alt_names": [],
+            "latitude": 18.4366,
+            "longitude": -77.24551,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070045,
+            "name": "River Head",
+            "alt_names": [],
+            "latitude": 18.2603,
+            "longitude": -77.07782,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070046,
+            "name": "Runaway Bay",
+            "alt_names": [],
+            "latitude": 18.45962,
+            "longitude": -77.3357,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070047,
+            "name": "Saint Ann’s Bay",
+            "alt_names": [],
+            "latitude": 18.43581,
+            "longitude": -77.20098,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070048,
+            "name": "St. Ann's Bay",
+            "alt_names": [],
+            "latitude": 18.42989,
+            "longitude": -77.20775,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070049,
+            "name": "St. D'Acre",
+            "alt_names": [],
+            "latitude": 18.333,
+            "longitude": -77.36297,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070050,
+            "name": "Steer Town",
+            "alt_names": [],
+            "latitude": 18.42852,
+            "longitude": -77.17101,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070051,
+            "name": "Sturge Town",
+            "alt_names": [],
+            "latitude": 18.41631,
+            "longitude": -77.31988,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070052,
+            "name": "Walkers Wood",
+            "alt_names": [],
+            "latitude": 18.31939,
+            "longitude": -77.07082,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070053,
+            "name": "Watt Town",
+            "alt_names": [],
+            "latitude": 18.29427,
+            "longitude": -77.41466,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1080070054,
+            "name": "York Castle",
+            "alt_names": [],
+            "latitude": 18.27515,
+            "longitude": -77.22923,
+            "timezone": {
+                "zoneName": "America/Jamaica",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        }
+    ]
+}

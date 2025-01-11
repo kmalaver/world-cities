@@ -1,0 +1,53 @@
+{
+    "id": 201001,
+    "name": "Ajdovščina",
+    "alt_names": [],
+    "state_code": "001",
+    "latitude": 45.8870776,
+    "longitude": 13.9042818,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010010001,
+            "name": "Ajdovščina",
+            "alt_names": [],
+            "latitude": 45.88601,
+            "longitude": 13.90946,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010010002,
+            "name": "Cirkulane",
+            "alt_names": [],
+            "latitude": 46.34408,
+            "longitude": 15.99472,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010010003,
+            "name": "Lokavec",
+            "alt_names": [],
+            "latitude": 45.90167,
+            "longitude": 13.87972,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

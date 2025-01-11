@@ -1,0 +1,39 @@
+{
+    "id": 118007,
+    "name": "Luang Namtha",
+    "alt_names": [],
+    "state_code": "LM",
+    "latitude": 20.9170187,
+    "longitude": 101.1617356,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1180070001,
+            "name": "Luang Namtha",
+            "alt_names": [],
+            "latitude": 20.9486,
+            "longitude": 101.40188,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 1180070002,
+            "name": "Muang Louang Namtha",
+            "alt_names": [],
+            "latitude": 21.00424,
+            "longitude": 101.44785,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

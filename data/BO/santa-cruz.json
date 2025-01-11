@@ -1,0 +1,767 @@
+{
+    "id": 26008,
+    "name": "Santa Cruz",
+    "alt_names": [],
+    "state_code": "S",
+    "latitude": -16.7476037,
+    "longitude": -62.0750998,
+    "type": "department",
+    "cities": [
+        {
+            "id": 260080001,
+            "name": "Abapó",
+            "alt_names": [],
+            "latitude": -18.88279,
+            "longitude": -63.38026,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080002,
+            "name": "Ascención de Guarayos",
+            "alt_names": [],
+            "latitude": -15.89299,
+            "longitude": -63.18855,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080003,
+            "name": "Ascensión",
+            "alt_names": [],
+            "latitude": -15.7,
+            "longitude": -63.08333,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080004,
+            "name": "Boyuibe",
+            "alt_names": [],
+            "latitude": -20.43227,
+            "longitude": -63.28147,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080005,
+            "name": "Buena Vista",
+            "alt_names": [],
+            "latitude": -17.4583,
+            "longitude": -63.67126,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080006,
+            "name": "Camiri",
+            "alt_names": [],
+            "latitude": -20.03849,
+            "longitude": -63.51833,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080007,
+            "name": "Charagua",
+            "alt_names": [],
+            "latitude": -19.79151,
+            "longitude": -63.19864,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080008,
+            "name": "Comarapa",
+            "alt_names": [],
+            "latitude": -17.91537,
+            "longitude": -64.53163,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080009,
+            "name": "Concepción",
+            "alt_names": [],
+            "latitude": -16.43333,
+            "longitude": -60.9,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080010,
+            "name": "Cotoca",
+            "alt_names": [],
+            "latitude": -17.81667,
+            "longitude": -63.05,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080011,
+            "name": "German Busch",
+            "alt_names": [],
+            "latitude": -17.77317,
+            "longitude": -63.19087,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080012,
+            "name": "Guarayos",
+            "alt_names": [],
+            "latitude": -15.82132,
+            "longitude": -63.2428,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080013,
+            "name": "Jorochito",
+            "alt_names": [],
+            "latitude": -18.05514,
+            "longitude": -63.42821,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080014,
+            "name": "La Bélgica",
+            "alt_names": [],
+            "latitude": -17.55,
+            "longitude": -63.21667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080015,
+            "name": "Limoncito",
+            "alt_names": [],
+            "latitude": -18.03104,
+            "longitude": -63.40523,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080016,
+            "name": "Los Negros",
+            "alt_names": [],
+            "latitude": -17.73333,
+            "longitude": -63.43333,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080017,
+            "name": "Mairana",
+            "alt_names": [],
+            "latitude": -18.11919,
+            "longitude": -63.95965,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080018,
+            "name": "Mineros",
+            "alt_names": [],
+            "latitude": -17.11876,
+            "longitude": -63.231,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080019,
+            "name": "Montero",
+            "alt_names": [],
+            "latitude": -17.33866,
+            "longitude": -63.2505,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080020,
+            "name": "Okinawa Número Uno",
+            "alt_names": [],
+            "latitude": -17.23333,
+            "longitude": -62.81667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080021,
+            "name": "Pailón",
+            "alt_names": [],
+            "latitude": -17.65,
+            "longitude": -62.75,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080022,
+            "name": "Paurito",
+            "alt_names": [],
+            "latitude": -17.88333,
+            "longitude": -62.96667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080023,
+            "name": "Portachuelo",
+            "alt_names": [],
+            "latitude": -17.35168,
+            "longitude": -63.39282,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080024,
+            "name": "Provincia Andrés Ibáñez",
+            "alt_names": [],
+            "latitude": -17.75,
+            "longitude": -63.25,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080025,
+            "name": "Provincia Ángel Sandoval",
+            "alt_names": [],
+            "latitude": -17.5,
+            "longitude": -58.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080026,
+            "name": "Provincia Chiquitos",
+            "alt_names": [],
+            "latitude": -18,
+            "longitude": -60,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080027,
+            "name": "Provincia Cordillera",
+            "alt_names": [],
+            "latitude": -19,
+            "longitude": -61.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080028,
+            "name": "Provincia Florida",
+            "alt_names": [],
+            "latitude": -18,
+            "longitude": -63.91667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080029,
+            "name": "Provincia Ichilo",
+            "alt_names": [],
+            "latitude": -17,
+            "longitude": -64,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080030,
+            "name": "Provincia Manuel María Caballero",
+            "alt_names": [],
+            "latitude": -17.83333,
+            "longitude": -64.41667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080031,
+            "name": "Provincia Ñuflo de Chávez",
+            "alt_names": [],
+            "latitude": -15.91667,
+            "longitude": -62.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080032,
+            "name": "Provincia Santiesteban",
+            "alt_names": [],
+            "latitude": -16.5,
+            "longitude": -63.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080033,
+            "name": "Provincia Sara",
+            "alt_names": [],
+            "latitude": -16.83333,
+            "longitude": -63.91667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080034,
+            "name": "Provincia Vallegrande",
+            "alt_names": [],
+            "latitude": -18.5,
+            "longitude": -64.16667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080035,
+            "name": "Provincia Velasco",
+            "alt_names": [],
+            "latitude": -15.5,
+            "longitude": -61,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080036,
+            "name": "Provincia Warnes",
+            "alt_names": [],
+            "latitude": -17.33333,
+            "longitude": -63,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080037,
+            "name": "Puerto Quijarro",
+            "alt_names": [],
+            "latitude": -17.78333,
+            "longitude": -57.76667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080038,
+            "name": "Puesto de Pailas",
+            "alt_names": [],
+            "latitude": -17.65,
+            "longitude": -62.8,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080039,
+            "name": "Roboré",
+            "alt_names": [],
+            "latitude": -18.33473,
+            "longitude": -59.76142,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080040,
+            "name": "Samaipata",
+            "alt_names": [],
+            "latitude": -18.18005,
+            "longitude": -63.87552,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080041,
+            "name": "San Carlos",
+            "alt_names": [],
+            "latitude": -17.4,
+            "longitude": -63.75,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080042,
+            "name": "San Ignacio de Velasco",
+            "alt_names": [],
+            "latitude": -16.36667,
+            "longitude": -60.95,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080043,
+            "name": "San Juan del Surutú",
+            "alt_names": [],
+            "latitude": -17.48333,
+            "longitude": -63.7,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080044,
+            "name": "San Julian",
+            "alt_names": [],
+            "latitude": -17.78333,
+            "longitude": -62.86667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080045,
+            "name": "San Matías",
+            "alt_names": [],
+            "latitude": -16.36667,
+            "longitude": -58.4,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080046,
+            "name": "San Pedro",
+            "alt_names": [],
+            "latitude": -18.28333,
+            "longitude": -59.81667,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080047,
+            "name": "Santa Cruz de la Sierra",
+            "alt_names": [],
+            "latitude": -17.78629,
+            "longitude": -63.18117,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080048,
+            "name": "Santa Rita",
+            "alt_names": [],
+            "latitude": -17.96667,
+            "longitude": -63.35,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080049,
+            "name": "Santa Rosa del Sara",
+            "alt_names": [],
+            "latitude": -17.10916,
+            "longitude": -63.59514,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080050,
+            "name": "Santiago del Torno",
+            "alt_names": [],
+            "latitude": -17.98674,
+            "longitude": -63.38118,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080051,
+            "name": "Urubichá",
+            "alt_names": [],
+            "latitude": -15.39286,
+            "longitude": -62.94661,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080052,
+            "name": "Vallegrande",
+            "alt_names": [],
+            "latitude": -18.48923,
+            "longitude": -64.10609,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080053,
+            "name": "Villa Yapacaní",
+            "alt_names": [],
+            "latitude": -17.4,
+            "longitude": -63.83333,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260080054,
+            "name": "Warnes",
+            "alt_names": [],
+            "latitude": -17.5163,
+            "longitude": -63.16778,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        }
+    ]
+}

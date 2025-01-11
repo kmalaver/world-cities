@@ -1,0 +1,81 @@
+{
+    "id": 73003,
+    "name": "Sandoy",
+    "alt_names": [],
+    "state_code": "SA",
+    "latitude": 61.8365169,
+    "longitude": -6.9630166,
+    "type": "region",
+    "cities": [
+        {
+            "id": 730030001,
+            "name": "Húsavík",
+            "alt_names": [],
+            "latitude": 61.9012,
+            "longitude": -6.8456,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730030002,
+            "name": "Sandur",
+            "alt_names": [],
+            "latitude": 61.9012,
+            "longitude": -6.8456,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730030003,
+            "name": "Skálavík",
+            "alt_names": [],
+            "latitude": 61.9876,
+            "longitude": -6.7654,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730030004,
+            "name": "Skopun",
+            "alt_names": [],
+            "latitude": 62.0123,
+            "longitude": -6.9876,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730030005,
+            "name": "Skúvoy",
+            "alt_names": [],
+            "latitude": 61.9876,
+            "longitude": -6.7654,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        }
+    ]
+}

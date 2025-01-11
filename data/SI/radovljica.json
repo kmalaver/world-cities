@@ -1,0 +1,39 @@
+{
+    "id": 201138,
+    "name": "Radovljica",
+    "alt_names": [],
+    "state_code": "102",
+    "latitude": 46.3355827,
+    "longitude": 14.2094534,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011380001,
+            "name": "Lesce",
+            "alt_names": [],
+            "latitude": 46.36111,
+            "longitude": 14.15778,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011380002,
+            "name": "Radovljica",
+            "alt_names": [],
+            "latitude": 46.34444,
+            "longitude": 14.17444,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

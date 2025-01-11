@@ -1,0 +1,39 @@
+{
+    "id": 201051,
+    "name": "Hrastnik",
+    "alt_names": [],
+    "state_code": "034",
+    "latitude": 46.1417288,
+    "longitude": 15.0844894,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010510001,
+            "name": "Dol pri Hrastniku",
+            "alt_names": [],
+            "latitude": 46.14194,
+            "longitude": 15.11278,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010510002,
+            "name": "Hrastnik",
+            "alt_names": [],
+            "latitude": 46.14611,
+            "longitude": 15.08139,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

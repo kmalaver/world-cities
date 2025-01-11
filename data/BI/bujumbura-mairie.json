@@ -1,0 +1,25 @@
+{
+    "id": 36002,
+    "name": "Bujumbura Mairie",
+    "alt_names": [],
+    "state_code": "BM",
+    "latitude": -3.3884141,
+    "longitude": 29.3482646,
+    "type": "province",
+    "cities": [
+        {
+            "id": 360020001,
+            "name": "Bujumbura",
+            "alt_names": [],
+            "latitude": -3.38193,
+            "longitude": 29.36142,
+            "timezone": {
+                "zoneName": "Africa/Bujumbura",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

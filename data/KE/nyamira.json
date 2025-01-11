@@ -1,0 +1,39 @@
+{
+    "id": 113034,
+    "name": "Nyamira",
+    "alt_names": [],
+    "state_code": "34",
+    "latitude": -0.5669405,
+    "longitude": 34.9341234,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130340001,
+            "name": "Keroka",
+            "alt_names": [],
+            "latitude": -0.77612,
+            "longitude": 34.94678,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130340002,
+            "name": "Nyamira",
+            "alt_names": [],
+            "latitude": -0.56333,
+            "longitude": 34.93583,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

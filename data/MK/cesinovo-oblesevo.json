@@ -1,0 +1,39 @@
+{
+    "id": 162014,
+    "name": "Češinovo-Obleševo",
+    "alt_names": [],
+    "state_code": "81",
+    "latitude": 41.8639316,
+    "longitude": 22.262246,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620140001,
+            "name": "Češinovo",
+            "alt_names": [],
+            "latitude": 41.87148,
+            "longitude": 22.28961,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620140002,
+            "name": "Oblesevo",
+            "alt_names": [],
+            "latitude": 41.88333,
+            "longitude": 22.33389,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

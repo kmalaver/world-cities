@@ -1,0 +1,39 @@
+{
+    "id": 142033,
+    "name": "Taraclia",
+    "alt_names": [],
+    "state_code": "TA",
+    "latitude": 45.898651,
+    "longitude": 28.6671644,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420330001,
+            "name": "Taraclia",
+            "alt_names": [],
+            "latitude": 45.90273,
+            "longitude": 28.66816,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420330002,
+            "name": "Tvardița",
+            "alt_names": [],
+            "latitude": 46.14826,
+            "longitude": 28.96491,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

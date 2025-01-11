@@ -1,0 +1,53 @@
+{
+    "id": 132004,
+    "name": "Kidal",
+    "alt_names": [],
+    "state_code": "8",
+    "latitude": 18.7986832,
+    "longitude": 1.8318334,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1320040001,
+            "name": "Abeïbara",
+            "alt_names": [],
+            "latitude": 19.11667,
+            "longitude": 1.75,
+            "timezone": {
+                "zoneName": "Africa/Bamako",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1320040002,
+            "name": "Cercle d’Abeïbara",
+            "alt_names": [],
+            "latitude": 19.48878,
+            "longitude": 2.20025,
+            "timezone": {
+                "zoneName": "Africa/Bamako",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1320040003,
+            "name": "Kidal",
+            "alt_names": [],
+            "latitude": 18.44111,
+            "longitude": 1.40778,
+            "timezone": {
+                "zoneName": "Africa/Bamako",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

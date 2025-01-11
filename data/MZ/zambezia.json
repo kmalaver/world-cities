@@ -1,0 +1,53 @@
+{
+    "id": 148011,
+    "name": "Zambezia",
+    "alt_names": [],
+    "state_code": "Q",
+    "latitude": -16.5638987,
+    "longitude": 36.6093926,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480110001,
+            "name": "Alto Molócuè",
+            "alt_names": [],
+            "latitude": -15.64932,
+            "longitude": 37.66384,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480110002,
+            "name": "Chinde",
+            "alt_names": [],
+            "latitude": -18.58111,
+            "longitude": 36.45861,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480110003,
+            "name": "Quelimane",
+            "alt_names": [],
+            "latitude": -17.87861,
+            "longitude": 36.88833,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

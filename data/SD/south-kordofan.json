@@ -1,0 +1,81 @@
+{
+    "id": 210015,
+    "name": "South Kordofan",
+    "alt_names": [],
+    "state_code": "KS",
+    "latitude": 11.1990192,
+    "longitude": 29.4179324,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100150001,
+            "name": "Abu Jibeha",
+            "alt_names": [],
+            "latitude": 11.4562,
+            "longitude": 31.2285,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100150002,
+            "name": "Al Fūlah",
+            "alt_names": [],
+            "latitude": 11.73292,
+            "longitude": 28.35786,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100150003,
+            "name": "Dilling",
+            "alt_names": [],
+            "latitude": 12.05,
+            "longitude": 29.65,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100150004,
+            "name": "Kadugli",
+            "alt_names": [],
+            "latitude": 11.01111,
+            "longitude": 29.71833,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100150005,
+            "name": "Talodi",
+            "alt_names": [],
+            "latitude": 10.63246,
+            "longitude": 30.3797,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

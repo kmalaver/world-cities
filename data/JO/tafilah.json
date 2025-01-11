@@ -1,0 +1,39 @@
+{
+    "id": 111011,
+    "name": "Tafilah",
+    "alt_names": [],
+    "state_code": "AT",
+    "latitude": 30.8338063,
+    "longitude": 35.6160513,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1110110001,
+            "name": "Aţ Ţafīlah",
+            "alt_names": [],
+            "latitude": 30.83752,
+            "longitude": 35.60442,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110110002,
+            "name": "Buşayrā",
+            "alt_names": [],
+            "latitude": 30.73256,
+            "longitude": 35.60943,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": 35019,
+    "name": "Hauts-Bassins",
+    "alt_names": [],
+    "state_code": "09",
+    "latitude": 11.4942003,
+    "longitude": -4.2333355,
+    "type": "region",
+    "cities": [
+        {
+            "id": 350190001,
+            "name": "Bobo-Dioulasso",
+            "alt_names": [],
+            "latitude": 11.17715,
+            "longitude": -4.2979,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350190002,
+            "name": "Houndé",
+            "alt_names": [],
+            "latitude": 11.5,
+            "longitude": -3.51667,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350190003,
+            "name": "Province du Houet",
+            "alt_names": [],
+            "latitude": 11.33333,
+            "longitude": -4.25,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350190004,
+            "name": "Province du Kénédougou",
+            "alt_names": [],
+            "latitude": 11.41667,
+            "longitude": -5,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350190005,
+            "name": "Province du Tuy",
+            "alt_names": [],
+            "latitude": 11.41667,
+            "longitude": -3.41667,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

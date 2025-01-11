@@ -1,0 +1,2685 @@
+{
+    "id": 195023,
+    "name": "Vojvodina",
+    "alt_names": [],
+    "state_code": "VO",
+    "latitude": 45.2608651,
+    "longitude": 19.8319338,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1950230001,
+            "name": "Adorjan",
+            "alt_names": [],
+            "latitude": 46.00333,
+            "longitude": 20.04007,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230002,
+            "name": "Aleksandrovo",
+            "alt_names": [],
+            "latitude": 45.63755,
+            "longitude": 20.59288,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230003,
+            "name": "Alibunar",
+            "alt_names": [],
+            "latitude": 45.08083,
+            "longitude": 20.96583,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230004,
+            "name": "Apatin",
+            "alt_names": [],
+            "latitude": 45.6726,
+            "longitude": 18.978,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230005,
+            "name": "Aradac",
+            "alt_names": [],
+            "latitude": 45.38346,
+            "longitude": 20.30137,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230006,
+            "name": "Bačka Palanka",
+            "alt_names": [],
+            "latitude": 45.24966,
+            "longitude": 19.39664,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230007,
+            "name": "Bačka Topola",
+            "alt_names": [],
+            "latitude": 45.81516,
+            "longitude": 19.6318,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230008,
+            "name": "Bački Breg",
+            "alt_names": [],
+            "latitude": 45.92034,
+            "longitude": 18.92944,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230009,
+            "name": "Bački Petrovac",
+            "alt_names": [],
+            "latitude": 45.36056,
+            "longitude": 19.59167,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230010,
+            "name": "Bačko Gradište",
+            "alt_names": [],
+            "latitude": 45.53271,
+            "longitude": 20.03082,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230011,
+            "name": "Bačko Petrovo Selo",
+            "alt_names": [],
+            "latitude": 45.70681,
+            "longitude": 20.07928,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230012,
+            "name": "Banatska Topola",
+            "alt_names": [],
+            "latitude": 45.67248,
+            "longitude": 20.4653,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230013,
+            "name": "Banatski Despotovac",
+            "alt_names": [],
+            "latitude": 45.36606,
+            "longitude": 20.66407,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230014,
+            "name": "Banatski Dvor",
+            "alt_names": [],
+            "latitude": 45.51866,
+            "longitude": 20.51146,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230015,
+            "name": "Banatski Karlovac",
+            "alt_names": [],
+            "latitude": 45.04987,
+            "longitude": 21.018,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230016,
+            "name": "Banatsko Karađorđevo",
+            "alt_names": [],
+            "latitude": 45.58693,
+            "longitude": 20.56421,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230017,
+            "name": "Banatsko Veliko Selo",
+            "alt_names": [],
+            "latitude": 45.81961,
+            "longitude": 20.60772,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230018,
+            "name": "Baranda",
+            "alt_names": [],
+            "latitude": 45.08459,
+            "longitude": 20.44264,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230019,
+            "name": "Barice",
+            "alt_names": [],
+            "latitude": 45.18189,
+            "longitude": 21.08279,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230020,
+            "name": "Bašaid",
+            "alt_names": [],
+            "latitude": 45.64102,
+            "longitude": 20.41434,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230021,
+            "name": "Bečej",
+            "alt_names": [],
+            "latitude": 45.61632,
+            "longitude": 20.03331,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230022,
+            "name": "Bela Crkva",
+            "alt_names": [],
+            "latitude": 44.8975,
+            "longitude": 21.41722,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230023,
+            "name": "Belegiš",
+            "alt_names": [],
+            "latitude": 45.0192,
+            "longitude": 20.33323,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230024,
+            "name": "Belo Blato",
+            "alt_names": [],
+            "latitude": 45.27278,
+            "longitude": 20.375,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230025,
+            "name": "Beška",
+            "alt_names": [],
+            "latitude": 45.13092,
+            "longitude": 20.06698,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230026,
+            "name": "Bočar",
+            "alt_names": [],
+            "latitude": 45.76994,
+            "longitude": 20.2839,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230027,
+            "name": "Bogojevo",
+            "alt_names": [],
+            "latitude": 45.53015,
+            "longitude": 19.13022,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230028,
+            "name": "Boka",
+            "alt_names": [],
+            "latitude": 45.3554,
+            "longitude": 20.82987,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230029,
+            "name": "Bosut",
+            "alt_names": [],
+            "latitude": 44.92977,
+            "longitude": 19.36086,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230030,
+            "name": "Botoš",
+            "alt_names": [],
+            "latitude": 45.30837,
+            "longitude": 20.63514,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230031,
+            "name": "Buđanovci",
+            "alt_names": [],
+            "latitude": 44.89388,
+            "longitude": 19.86344,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230032,
+            "name": "Čelarevo",
+            "alt_names": [],
+            "latitude": 45.26999,
+            "longitude": 19.52484,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230033,
+            "name": "Čenta",
+            "alt_names": [],
+            "latitude": 45.10814,
+            "longitude": 20.38947,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230034,
+            "name": "Čestereg",
+            "alt_names": [],
+            "latitude": 45.56361,
+            "longitude": 20.53194,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230035,
+            "name": "Čoka",
+            "alt_names": [],
+            "latitude": 45.9425,
+            "longitude": 20.14333,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230036,
+            "name": "Čortanovci",
+            "alt_names": [],
+            "latitude": 45.1546,
+            "longitude": 20.01851,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230037,
+            "name": "Crepaja",
+            "alt_names": [],
+            "latitude": 45.00984,
+            "longitude": 20.63702,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230038,
+            "name": "Čurug",
+            "alt_names": [],
+            "latitude": 45.47221,
+            "longitude": 20.06861,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230039,
+            "name": "Debeljača",
+            "alt_names": [],
+            "latitude": 45.0707,
+            "longitude": 20.60153,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230040,
+            "name": "Despotovo",
+            "alt_names": [],
+            "latitude": 45.45983,
+            "longitude": 19.52653,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230041,
+            "name": "Dobrica",
+            "alt_names": [],
+            "latitude": 45.21339,
+            "longitude": 20.84995,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230042,
+            "name": "Doroslovo",
+            "alt_names": [],
+            "latitude": 45.60699,
+            "longitude": 19.18868,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230043,
+            "name": "Ðurđevo",
+            "alt_names": [],
+            "latitude": 45.32591,
+            "longitude": 20.06532,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230044,
+            "name": "Ečka",
+            "alt_names": [],
+            "latitude": 45.32328,
+            "longitude": 20.44294,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230045,
+            "name": "Elemir",
+            "alt_names": [],
+            "latitude": 45.44263,
+            "longitude": 20.30003,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230046,
+            "name": "Farkaždin",
+            "alt_names": [],
+            "latitude": 45.19172,
+            "longitude": 20.47239,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230047,
+            "name": "Gakovo",
+            "alt_names": [],
+            "latitude": 45.90078,
+            "longitude": 19.06138,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230048,
+            "name": "Gardinovci",
+            "alt_names": [],
+            "latitude": 45.20359,
+            "longitude": 20.13558,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230049,
+            "name": "Gložan",
+            "alt_names": [],
+            "latitude": 45.27954,
+            "longitude": 19.56838,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230050,
+            "name": "Golubinci",
+            "alt_names": [],
+            "latitude": 44.98533,
+            "longitude": 20.06339,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230051,
+            "name": "Gornji Breg",
+            "alt_names": [],
+            "latitude": 45.91995,
+            "longitude": 20.01766,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230052,
+            "name": "Grabovci",
+            "alt_names": [],
+            "latitude": 44.76496,
+            "longitude": 19.84489,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230053,
+            "name": "Gudurica",
+            "alt_names": [],
+            "latitude": 45.16816,
+            "longitude": 21.44264,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230054,
+            "name": "Hajdučica",
+            "alt_names": [],
+            "latitude": 45.2501,
+            "longitude": 20.96016,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230055,
+            "name": "Hetin",
+            "alt_names": [],
+            "latitude": 45.66202,
+            "longitude": 20.79138,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230056,
+            "name": "Hrtkovci",
+            "alt_names": [],
+            "latitude": 44.88155,
+            "longitude": 19.76374,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230057,
+            "name": "Idvor",
+            "alt_names": [],
+            "latitude": 45.18895,
+            "longitude": 20.51442,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230058,
+            "name": "Ilandža",
+            "alt_names": [],
+            "latitude": 45.16897,
+            "longitude": 20.92008,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230059,
+            "name": "Inđija",
+            "alt_names": [],
+            "latitude": 45.04816,
+            "longitude": 20.08165,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230060,
+            "name": "Irig",
+            "alt_names": [],
+            "latitude": 45.0523,
+            "longitude": 19.84448,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230061,
+            "name": "Izbište",
+            "alt_names": [],
+            "latitude": 45.02253,
+            "longitude": 21.18388,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230062,
+            "name": "Janošik",
+            "alt_names": [],
+            "latitude": 45.17141,
+            "longitude": 21.00658,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230063,
+            "name": "Jarak",
+            "alt_names": [],
+            "latitude": 44.91843,
+            "longitude": 19.75477,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230064,
+            "name": "Jarkovac",
+            "alt_names": [],
+            "latitude": 45.26985,
+            "longitude": 20.76078,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230065,
+            "name": "Jaša Tomić",
+            "alt_names": [],
+            "latitude": 45.44725,
+            "longitude": 20.85546,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230066,
+            "name": "Jazovo",
+            "alt_names": [],
+            "latitude": 45.89876,
+            "longitude": 20.2213,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230067,
+            "name": "Jermenovci",
+            "alt_names": [],
+            "latitude": 45.18635,
+            "longitude": 21.0455,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230068,
+            "name": "Kanjiža",
+            "alt_names": [],
+            "latitude": 46.06667,
+            "longitude": 20.05,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230069,
+            "name": "Kikinda",
+            "alt_names": [],
+            "latitude": 45.82972,
+            "longitude": 20.46528,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230070,
+            "name": "Kisač",
+            "alt_names": [],
+            "latitude": 45.35421,
+            "longitude": 19.72975,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230071,
+            "name": "Klek",
+            "alt_names": [],
+            "latitude": 45.42254,
+            "longitude": 20.48049,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230072,
+            "name": "Klenak",
+            "alt_names": [],
+            "latitude": 44.78846,
+            "longitude": 19.71004,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230073,
+            "name": "Knićanin",
+            "alt_names": [],
+            "latitude": 45.18675,
+            "longitude": 20.319,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230074,
+            "name": "Kolut",
+            "alt_names": [],
+            "latitude": 45.89292,
+            "longitude": 18.9276,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230075,
+            "name": "Konak",
+            "alt_names": [],
+            "latitude": 45.31575,
+            "longitude": 20.91468,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230076,
+            "name": "Kovačica",
+            "alt_names": [],
+            "latitude": 45.11167,
+            "longitude": 20.62139,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230077,
+            "name": "Kovilj",
+            "alt_names": [],
+            "latitude": 45.23422,
+            "longitude": 20.02327,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230078,
+            "name": "Kovin",
+            "alt_names": [],
+            "latitude": 44.7475,
+            "longitude": 20.97611,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230079,
+            "name": "Kozjak",
+            "alt_names": [],
+            "latitude": 45.18264,
+            "longitude": 20.86381,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230080,
+            "name": "Krajišnik",
+            "alt_names": [],
+            "latitude": 45.45283,
+            "longitude": 20.72976,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230081,
+            "name": "Krčedin",
+            "alt_names": [],
+            "latitude": 45.13871,
+            "longitude": 20.13308,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230082,
+            "name": "Kulpin",
+            "alt_names": [],
+            "latitude": 45.4024,
+            "longitude": 19.58814,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230083,
+            "name": "Kumane",
+            "alt_names": [],
+            "latitude": 45.53946,
+            "longitude": 20.22902,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230084,
+            "name": "Kupinovo",
+            "alt_names": [],
+            "latitude": 44.70708,
+            "longitude": 20.04959,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230085,
+            "name": "Kupusina",
+            "alt_names": [],
+            "latitude": 45.73759,
+            "longitude": 19.01082,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230086,
+            "name": "Kuštilj",
+            "alt_names": [],
+            "latitude": 45.03487,
+            "longitude": 21.37989,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230087,
+            "name": "Lazarevo",
+            "alt_names": [],
+            "latitude": 45.38893,
+            "longitude": 20.53999,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230088,
+            "name": "Ljukovo",
+            "alt_names": [],
+            "latitude": 45.02604,
+            "longitude": 20.02737,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230089,
+            "name": "Lok",
+            "alt_names": [],
+            "latitude": 45.21583,
+            "longitude": 20.21222,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230090,
+            "name": "Lokve",
+            "alt_names": [],
+            "latitude": 45.15198,
+            "longitude": 21.03073,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230091,
+            "name": "Lukićevo",
+            "alt_names": [],
+            "latitude": 45.33815,
+            "longitude": 20.49895,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230092,
+            "name": "Mačvanska Mitrovica",
+            "alt_names": [],
+            "latitude": 44.96739,
+            "longitude": 19.59314,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230093,
+            "name": "Maglić",
+            "alt_names": [],
+            "latitude": 45.36248,
+            "longitude": 19.53211,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230094,
+            "name": "Margita",
+            "alt_names": [],
+            "latitude": 45.21598,
+            "longitude": 21.17527,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230095,
+            "name": "Međa",
+            "alt_names": [],
+            "latitude": 45.53815,
+            "longitude": 20.80677,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230096,
+            "name": "Melenci",
+            "alt_names": [],
+            "latitude": 45.5168,
+            "longitude": 20.31961,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230097,
+            "name": "Mihajlovo",
+            "alt_names": [],
+            "latitude": 45.47085,
+            "longitude": 20.41508,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230098,
+            "name": "Mokrin",
+            "alt_names": [],
+            "latitude": 45.93362,
+            "longitude": 20.41215,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230099,
+            "name": "Mol",
+            "alt_names": [],
+            "latitude": 45.76457,
+            "longitude": 20.13286,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230100,
+            "name": "Mošorin",
+            "alt_names": [],
+            "latitude": 45.30196,
+            "longitude": 20.16919,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230101,
+            "name": "Nakovo",
+            "alt_names": [],
+            "latitude": 45.87503,
+            "longitude": 20.56709,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230102,
+            "name": "Neuzina",
+            "alt_names": [],
+            "latitude": 45.3446,
+            "longitude": 20.71418,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230103,
+            "name": "Nikinci",
+            "alt_names": [],
+            "latitude": 44.85017,
+            "longitude": 19.82321,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230104,
+            "name": "Nikolinci",
+            "alt_names": [],
+            "latitude": 45.05245,
+            "longitude": 21.06695,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230105,
+            "name": "Nova Crnja",
+            "alt_names": [],
+            "latitude": 45.66833,
+            "longitude": 20.605,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230106,
+            "name": "Nova Pazova",
+            "alt_names": [],
+            "latitude": 44.94366,
+            "longitude": 20.21931,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230107,
+            "name": "Novi Banovci",
+            "alt_names": [],
+            "latitude": 44.95691,
+            "longitude": 20.28076,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230108,
+            "name": "Novi Itebej",
+            "alt_names": [],
+            "latitude": 45.55918,
+            "longitude": 20.7003,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230109,
+            "name": "Novi Karlovci",
+            "alt_names": [],
+            "latitude": 45.07636,
+            "longitude": 20.17948,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230110,
+            "name": "Novi Kneževac",
+            "alt_names": [],
+            "latitude": 46.05,
+            "longitude": 20.1,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230111,
+            "name": "Novi Kozarci",
+            "alt_names": [],
+            "latitude": 45.78241,
+            "longitude": 20.62289,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230112,
+            "name": "Novi Sad",
+            "alt_names": [],
+            "latitude": 45.25167,
+            "longitude": 19.83694,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230113,
+            "name": "Novi Slankamen",
+            "alt_names": [],
+            "latitude": 45.12554,
+            "longitude": 20.23914,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230114,
+            "name": "Novo Miloševo",
+            "alt_names": [],
+            "latitude": 45.71916,
+            "longitude": 20.30364,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230115,
+            "name": "Obrovac",
+            "alt_names": [],
+            "latitude": 45.32106,
+            "longitude": 19.35048,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230116,
+            "name": "Opovo",
+            "alt_names": [],
+            "latitude": 45.05222,
+            "longitude": 20.43028,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230117,
+            "name": "Orlovat",
+            "alt_names": [],
+            "latitude": 45.24171,
+            "longitude": 20.58089,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230118,
+            "name": "Ostojićevo",
+            "alt_names": [],
+            "latitude": 45.88863,
+            "longitude": 20.16642,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230119,
+            "name": "Padej",
+            "alt_names": [],
+            "latitude": 45.82756,
+            "longitude": 20.16279,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230120,
+            "name": "Padina",
+            "alt_names": [],
+            "latitude": 45.11988,
+            "longitude": 20.7286,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230121,
+            "name": "Pančevo",
+            "alt_names": [],
+            "latitude": 44.87177,
+            "longitude": 20.64167,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230122,
+            "name": "Pavliš",
+            "alt_names": [],
+            "latitude": 45.10569,
+            "longitude": 21.23952,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230123,
+            "name": "Pećinci",
+            "alt_names": [],
+            "latitude": 44.90889,
+            "longitude": 19.96639,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230124,
+            "name": "Perlez",
+            "alt_names": [],
+            "latitude": 45.20813,
+            "longitude": 20.38197,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230125,
+            "name": "Petrovaradin",
+            "alt_names": [],
+            "latitude": 45.24667,
+            "longitude": 19.87944,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230126,
+            "name": "Plandište",
+            "alt_names": [],
+            "latitude": 45.22722,
+            "longitude": 21.12167,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230127,
+            "name": "Platičevo",
+            "alt_names": [],
+            "latitude": 44.82213,
+            "longitude": 19.79487,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230128,
+            "name": "Prigrevica",
+            "alt_names": [],
+            "latitude": 45.67636,
+            "longitude": 19.08809,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230129,
+            "name": "Putinci",
+            "alt_names": [],
+            "latitude": 44.99259,
+            "longitude": 19.97102,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230130,
+            "name": "Radenković",
+            "alt_names": [],
+            "latitude": 44.92191,
+            "longitude": 19.49543,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230131,
+            "name": "Radojevo",
+            "alt_names": [],
+            "latitude": 45.74617,
+            "longitude": 20.78917,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230132,
+            "name": "Ravni Topolovac",
+            "alt_names": [],
+            "latitude": 45.46082,
+            "longitude": 20.56939,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230133,
+            "name": "Ravnje",
+            "alt_names": [],
+            "latitude": 44.94326,
+            "longitude": 19.4228,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230134,
+            "name": "Ravno Selo",
+            "alt_names": [],
+            "latitude": 45.44967,
+            "longitude": 19.62097,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230135,
+            "name": "Riđica",
+            "alt_names": [],
+            "latitude": 45.99088,
+            "longitude": 19.10635,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230136,
+            "name": "Ruma",
+            "alt_names": [],
+            "latitude": 45.00806,
+            "longitude": 19.82222,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230137,
+            "name": "Rumenka",
+            "alt_names": [],
+            "latitude": 45.294,
+            "longitude": 19.74306,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230138,
+            "name": "Rusko Selo",
+            "alt_names": [],
+            "latitude": 45.76291,
+            "longitude": 20.57117,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230139,
+            "name": "Sajan",
+            "alt_names": [],
+            "latitude": 45.84227,
+            "longitude": 20.27815,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230140,
+            "name": "Šajkaš",
+            "alt_names": [],
+            "latitude": 45.27315,
+            "longitude": 20.09051,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230141,
+            "name": "Sakule",
+            "alt_names": [],
+            "latitude": 45.14667,
+            "longitude": 20.48619,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230142,
+            "name": "Salaš Noćajski",
+            "alt_names": [],
+            "latitude": 44.94722,
+            "longitude": 19.58611,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230143,
+            "name": "Samoš",
+            "alt_names": [],
+            "latitude": 45.20255,
+            "longitude": 20.77392,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230144,
+            "name": "Sanad",
+            "alt_names": [],
+            "latitude": 45.97596,
+            "longitude": 20.10816,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230145,
+            "name": "Šašinci",
+            "alt_names": [],
+            "latitude": 44.96514,
+            "longitude": 19.74151,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230146,
+            "name": "Sečanj",
+            "alt_names": [],
+            "latitude": 45.36667,
+            "longitude": 20.77222,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230147,
+            "name": "Sefkerin",
+            "alt_names": [],
+            "latitude": 45.00501,
+            "longitude": 20.48256,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230148,
+            "name": "Seleuš",
+            "alt_names": [],
+            "latitude": 45.1277,
+            "longitude": 20.91461,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230149,
+            "name": "Senta",
+            "alt_names": [],
+            "latitude": 45.9275,
+            "longitude": 20.07722,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230150,
+            "name": "Šimanovci",
+            "alt_names": [],
+            "latitude": 44.87393,
+            "longitude": 20.09175,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230151,
+            "name": "Sombor",
+            "alt_names": [],
+            "latitude": 45.77417,
+            "longitude": 19.11222,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230152,
+            "name": "Sonta",
+            "alt_names": [],
+            "latitude": 45.59427,
+            "longitude": 19.09719,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230153,
+            "name": "Sremska Mitrovica",
+            "alt_names": [],
+            "latitude": 44.97639,
+            "longitude": 19.61222,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230154,
+            "name": "Sremski Karlovci",
+            "alt_names": [],
+            "latitude": 45.20285,
+            "longitude": 19.93373,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230155,
+            "name": "Srpska Crnja",
+            "alt_names": [],
+            "latitude": 45.72538,
+            "longitude": 20.69008,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230156,
+            "name": "Srpski Itebej",
+            "alt_names": [],
+            "latitude": 45.56715,
+            "longitude": 20.7135,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230157,
+            "name": "Stajićevo",
+            "alt_names": [],
+            "latitude": 45.29489,
+            "longitude": 20.45845,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230158,
+            "name": "Stanišić",
+            "alt_names": [],
+            "latitude": 45.93895,
+            "longitude": 19.16709,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230159,
+            "name": "Stara Pazova",
+            "alt_names": [],
+            "latitude": 44.985,
+            "longitude": 20.16083,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230160,
+            "name": "Stari Banovci",
+            "alt_names": [],
+            "latitude": 44.9842,
+            "longitude": 20.28382,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230161,
+            "name": "Stari Lec",
+            "alt_names": [],
+            "latitude": 45.28401,
+            "longitude": 20.96433,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230162,
+            "name": "Stepanovićevo",
+            "alt_names": [],
+            "latitude": 45.41369,
+            "longitude": 19.7,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230163,
+            "name": "Subotica",
+            "alt_names": [],
+            "latitude": 46.1,
+            "longitude": 19.66667,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230164,
+            "name": "Surduk",
+            "alt_names": [],
+            "latitude": 45.07118,
+            "longitude": 20.3251,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230165,
+            "name": "Sutjeska",
+            "alt_names": [],
+            "latitude": 45.38312,
+            "longitude": 20.6962,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230166,
+            "name": "Taraš",
+            "alt_names": [],
+            "latitude": 45.46737,
+            "longitude": 20.19867,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230167,
+            "name": "Tiszahegyes",
+            "alt_names": [],
+            "latitude": 45.82648,
+            "longitude": 20.31791,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230168,
+            "name": "Titel",
+            "alt_names": [],
+            "latitude": 45.20611,
+            "longitude": 20.29444,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230169,
+            "name": "Toba",
+            "alt_names": [],
+            "latitude": 45.68943,
+            "longitude": 20.55714,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230170,
+            "name": "Tomaševac",
+            "alt_names": [],
+            "latitude": 45.26855,
+            "longitude": 20.62272,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230171,
+            "name": "Torak",
+            "alt_names": [],
+            "latitude": 45.50928,
+            "longitude": 20.609,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230172,
+            "name": "Torda",
+            "alt_names": [],
+            "latitude": 45.58423,
+            "longitude": 20.459,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230173,
+            "name": "Uljma",
+            "alt_names": [],
+            "latitude": 45.04213,
+            "longitude": 21.15393,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230174,
+            "name": "Uzdin",
+            "alt_names": [],
+            "latitude": 45.20512,
+            "longitude": 20.62342,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230175,
+            "name": "Velika Greda",
+            "alt_names": [],
+            "latitude": 45.24376,
+            "longitude": 21.03498,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230176,
+            "name": "Veliki Gaj",
+            "alt_names": [],
+            "latitude": 45.28849,
+            "longitude": 21.17057,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230177,
+            "name": "Veliko Središte",
+            "alt_names": [],
+            "latitude": 45.17919,
+            "longitude": 21.40353,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230178,
+            "name": "Veternik",
+            "alt_names": [],
+            "latitude": 45.25446,
+            "longitude": 19.7588,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230179,
+            "name": "Vilovo",
+            "alt_names": [],
+            "latitude": 45.24859,
+            "longitude": 20.15521,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230180,
+            "name": "Višnjićevo",
+            "alt_names": [],
+            "latitude": 44.96731,
+            "longitude": 19.28993,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230181,
+            "name": "Vladimirovac",
+            "alt_names": [],
+            "latitude": 45.03122,
+            "longitude": 20.86566,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230182,
+            "name": "Vlajkovac",
+            "alt_names": [],
+            "latitude": 45.07207,
+            "longitude": 21.19945,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230183,
+            "name": "Vojka",
+            "alt_names": [],
+            "latitude": 44.93713,
+            "longitude": 20.15236,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230184,
+            "name": "Vojvoda Stepa",
+            "alt_names": [],
+            "latitude": 45.68537,
+            "longitude": 20.65536,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230185,
+            "name": "Vrbas",
+            "alt_names": [],
+            "latitude": 45.57139,
+            "longitude": 19.64083,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230186,
+            "name": "Vrdnik",
+            "alt_names": [],
+            "latitude": 45.12174,
+            "longitude": 19.79227,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230187,
+            "name": "Vršac",
+            "alt_names": [],
+            "latitude": 45.11667,
+            "longitude": 21.30361,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230188,
+            "name": "Žabalj",
+            "alt_names": [],
+            "latitude": 45.37222,
+            "longitude": 20.06389,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230189,
+            "name": "Žitište",
+            "alt_names": [],
+            "latitude": 45.485,
+            "longitude": 20.54972,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230190,
+            "name": "Zmajevo",
+            "alt_names": [],
+            "latitude": 45.45408,
+            "longitude": 19.6905,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1950230191,
+            "name": "Zrenjanin",
+            "alt_names": [],
+            "latitude": 45.38361,
+            "longitude": 20.38194,
+            "timezone": {
+                "zoneName": "Europe/Belgrade",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

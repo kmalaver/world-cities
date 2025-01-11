@@ -1,0 +1,53 @@
+{
+    "id": 203013,
+    "name": "Mudug",
+    "alt_names": [],
+    "state_code": "MU",
+    "latitude": 6.5656726,
+    "longitude": 47.7637565,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030130001,
+            "name": "Gaalkacyo",
+            "alt_names": [],
+            "latitude": 6.76972,
+            "longitude": 47.43083,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030130002,
+            "name": "Hobyo",
+            "alt_names": [],
+            "latitude": 5.3505,
+            "longitude": 48.5268,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030130003,
+            "name": "Xarardheere",
+            "alt_names": [],
+            "latitude": 4.6544,
+            "longitude": 47.8575,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

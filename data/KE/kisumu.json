@@ -1,0 +1,53 @@
+{
+    "id": 113017,
+    "name": "Kisumu",
+    "alt_names": [],
+    "state_code": "17",
+    "latitude": -0.0917016,
+    "longitude": 34.7679568,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130170001,
+            "name": "Ahero",
+            "alt_names": [],
+            "latitude": -0.17359,
+            "longitude": 34.9189,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130170002,
+            "name": "Kisumu",
+            "alt_names": [],
+            "latitude": -0.10221,
+            "longitude": 34.76171,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130170003,
+            "name": "Muhoroni",
+            "alt_names": [],
+            "latitude": -0.15816,
+            "longitude": 35.19645,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

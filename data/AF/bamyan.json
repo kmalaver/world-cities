@@ -1,0 +1,39 @@
+{
+    "id": 1005,
+    "name": "Bamyan",
+    "alt_names": [],
+    "state_code": "BAM",
+    "latitude": 34.8100067,
+    "longitude": 67.8212104,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10050001,
+            "name": "Bāmyān",
+            "alt_names": [],
+            "latitude": 34.82156,
+            "longitude": 67.82734,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10050002,
+            "name": "Panjāb",
+            "alt_names": [],
+            "latitude": 34.38795,
+            "longitude": 67.02327,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

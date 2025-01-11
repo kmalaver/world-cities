@@ -1,0 +1,67 @@
+{
+    "id": 149012,
+    "name": "Sagaing",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 24.428381,
+    "longitude": 95.3939551,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1490120001,
+            "name": "Mawlaik",
+            "alt_names": [],
+            "latitude": 23.64254,
+            "longitude": 94.40478,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490120002,
+            "name": "Monywa",
+            "alt_names": [],
+            "latitude": 22.10856,
+            "longitude": 95.13583,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490120003,
+            "name": "Sagaing",
+            "alt_names": [],
+            "latitude": 21.8787,
+            "longitude": 95.97965,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490120004,
+            "name": "Shwebo",
+            "alt_names": [],
+            "latitude": 22.56925,
+            "longitude": 95.69818,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

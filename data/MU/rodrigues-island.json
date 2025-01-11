@@ -1,0 +1,39 @@
+{
+    "id": 138010,
+    "name": "Rodrigues Island",
+    "alt_names": [],
+    "state_code": "RO",
+    "latitude": -19.7245385,
+    "longitude": 63.4272185,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 1380100001,
+            "name": "Baie aux Huîtres",
+            "alt_names": [],
+            "latitude": -19.69444,
+            "longitude": 63.40833,
+            "timezone": {
+                "zoneName": "Indian/Mauritius",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "MUT",
+                "tzName": "Mauritius Time"
+            }
+        },
+        {
+            "id": 1380100002,
+            "name": "Port Mathurin",
+            "alt_names": [],
+            "latitude": -19.68333,
+            "longitude": 63.41667,
+            "timezone": {
+                "zoneName": "Indian/Mauritius",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "MUT",
+                "tzName": "Mauritius Time"
+            }
+        }
+    ]
+}

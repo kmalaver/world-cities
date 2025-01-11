@@ -1,0 +1,53 @@
+{
+    "id": 113020,
+    "name": "Laikipia",
+    "alt_names": [],
+    "state_code": "20",
+    "latitude": 0.3606063,
+    "longitude": 36.7819505,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130200001,
+            "name": "Nanyuki",
+            "alt_names": [],
+            "latitude": 0.00624,
+            "longitude": 37.07398,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130200002,
+            "name": "Nyahururu",
+            "alt_names": [],
+            "latitude": 0.03813,
+            "longitude": 36.36339,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130200003,
+            "name": "Rumuruti",
+            "alt_names": [],
+            "latitude": 0.2725,
+            "longitude": 36.53806,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

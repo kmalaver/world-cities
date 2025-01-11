@@ -1,0 +1,47 @@
+{
+    "id": 161,
+    "name": "North Korea",
+    "iso3": "PRK",
+    "iso2": "KP",
+    "numeric_code": "408",
+    "phonecode": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "currency_name": "North Korean Won",
+    "currency_symbol": "₩",
+    "tld": ".kp",
+    "native": "북한",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "translations": {
+        "de": "Nordkorea",
+        "es": "Corea del Norte",
+        "fa": "کره جنوبی",
+        "fr": "Corée du Nord",
+        "hr": "Sjeverna Koreja",
+        "it": "Corea del Nord",
+        "ja": "朝鮮民主主義人民共和国",
+        "ko": "조선민주주의인민공화국",
+        "nl": "Noord-Korea",
+        "pl": "Korea Północna",
+        "pt": "Coreia do Norte",
+        "pt-BR": "Coreia do Norte",
+        "ru": "Северная Корея",
+        "tr": "Kuzey Kore",
+        "uk": "Північна Корея",
+        "zh-CN": "朝鲜"
+    },
+    "latitude": 40,
+    "longitude": 127,
+    "emoji": "🇰🇵",
+    "emojiU": "U+1F1F0 U+1F1F5",
+    "timezones": [
+        {
+            "zoneName": "Asia/Pyongyang",
+            "gmtOffset": 32400,
+            "gmtOffsetName": "UTC+09:00",
+            "abbreviation": "KST",
+            "tzName": "Korea Standard Time"
+        }
+    ]
+}

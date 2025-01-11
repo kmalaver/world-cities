@@ -1,0 +1,53 @@
+{
+    "id": 113003,
+    "name": "Bungoma",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 0.5695252,
+    "longitude": 34.5583766,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130030001,
+            "name": "Bungoma",
+            "alt_names": [],
+            "latitude": 0.5635,
+            "longitude": 34.56055,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130030002,
+            "name": "Malikisi",
+            "alt_names": [],
+            "latitude": 0.67694,
+            "longitude": 34.42167,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130030003,
+            "name": "Webuye",
+            "alt_names": [],
+            "latitude": 0.6004,
+            "longitude": 34.77119,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

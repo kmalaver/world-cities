@@ -1,0 +1,39 @@
+{
+    "id": 42011,
+    "name": "Nana-Mambéré",
+    "alt_names": [],
+    "state_code": "NM",
+    "latitude": 5.6932135,
+    "longitude": 15.2194808,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420110001,
+            "name": "Baoro",
+            "alt_names": [],
+            "latitude": 5.66667,
+            "longitude": 15.96667,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420110002,
+            "name": "Bouar",
+            "alt_names": [],
+            "latitude": 5.93404,
+            "longitude": 15.59599,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

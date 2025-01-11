@@ -1,0 +1,39 @@
+{
+    "id": 40012,
+    "name": "Sal",
+    "alt_names": [],
+    "state_code": "SL",
+    "latitude": 26.5958122,
+    "longitude": -80.2045083,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 400120001,
+            "name": "Espargos",
+            "alt_names": [],
+            "latitude": 16.75524,
+            "longitude": -22.9446,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        },
+        {
+            "id": 400120002,
+            "name": "Santa Maria",
+            "alt_names": [],
+            "latitude": 16.59796,
+            "longitude": -22.90509,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        }
+    ]
+}

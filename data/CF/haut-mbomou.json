@@ -1,0 +1,39 @@
+{
+    "id": 42004,
+    "name": "Haut-Mbomou",
+    "alt_names": [],
+    "state_code": "HM",
+    "latitude": 6.2537134,
+    "longitude": 25.4733554,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420040001,
+            "name": "Obo",
+            "alt_names": [],
+            "latitude": 5.39586,
+            "longitude": 26.49211,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420040002,
+            "name": "Zemio",
+            "alt_names": [],
+            "latitude": 5.03144,
+            "longitude": 25.13614,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

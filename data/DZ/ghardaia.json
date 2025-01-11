@@ -1,0 +1,53 @@
+{
+    "id": 4025,
+    "name": "Ghardaïa",
+    "alt_names": [],
+    "state_code": "47",
+    "latitude": 32.4943741,
+    "longitude": 3.64446,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40250001,
+            "name": "Berriane",
+            "alt_names": [],
+            "latitude": 32.82648,
+            "longitude": 3.76689,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40250002,
+            "name": "Ghardaïa",
+            "alt_names": [],
+            "latitude": 32.49094,
+            "longitude": 3.67347,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40250003,
+            "name": "Metlili Chaamba",
+            "alt_names": [],
+            "latitude": 32.26667,
+            "longitude": 3.63333,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 104013,
+    "name": "Maysan",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 31.8734002,
+    "longitude": 47.1362125,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040130001,
+            "name": "‘Alī al Gharbī",
+            "alt_names": [],
+            "latitude": 32.46186,
+            "longitude": 46.68794,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040130002,
+            "name": "Al ‘Amārah",
+            "alt_names": [],
+            "latitude": 31.83561,
+            "longitude": 47.14483,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040130003,
+            "name": "Al-Mejar Al-Kabi District",
+            "alt_names": [],
+            "latitude": 31.4294,
+            "longitude": 47.20355,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

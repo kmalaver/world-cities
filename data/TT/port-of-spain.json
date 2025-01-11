@@ -1,0 +1,39 @@
+{
+    "id": 226008,
+    "name": "Port of Spain",
+    "alt_names": [],
+    "state_code": "POS",
+    "latitude": 10.6603196,
+    "longitude": -61.5085625,
+    "type": "city",
+    "cities": [
+        {
+            "id": 2260080001,
+            "name": "Mucurapo",
+            "alt_names": [],
+            "latitude": 10.66253,
+            "longitude": -61.53697,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260080002,
+            "name": "Port of Spain",
+            "alt_names": [],
+            "latitude": 10.66668,
+            "longitude": -61.51889,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

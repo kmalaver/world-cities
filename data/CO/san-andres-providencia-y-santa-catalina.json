@@ -1,0 +1,39 @@
+{
+    "id": 48027,
+    "name": "San Andrés, Providencia y Santa Catalina",
+    "alt_names": [],
+    "state_code": "SAP",
+    "latitude": 12.5567324,
+    "longitude": -81.7185253,
+    "type": "department",
+    "cities": [
+        {
+            "id": 480270001,
+            "name": "Providencia",
+            "alt_names": [],
+            "latitude": 13.38479,
+            "longitude": -81.37468,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480270002,
+            "name": "San Andrés",
+            "alt_names": [],
+            "latitude": 12.58317,
+            "longitude": -81.70636,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        }
+    ]
+}

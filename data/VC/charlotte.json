@@ -1,0 +1,53 @@
+{
+    "id": 187001,
+    "name": "Charlotte",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 13.2175451,
+    "longitude": -61.1636244,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1870010001,
+            "name": "Biabou",
+            "alt_names": [],
+            "latitude": 13.1943,
+            "longitude": -61.13904,
+            "timezone": {
+                "zoneName": "America/St_Vincent",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1870010002,
+            "name": "Byera Village",
+            "alt_names": [],
+            "latitude": 13.25636,
+            "longitude": -61.11954,
+            "timezone": {
+                "zoneName": "America/St_Vincent",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1870010003,
+            "name": "Georgetown",
+            "alt_names": [],
+            "latitude": 13.28054,
+            "longitude": -61.1185,
+            "timezone": {
+                "zoneName": "America/St_Vincent",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

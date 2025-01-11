@@ -1,0 +1,39 @@
+{
+    "id": 37009,
+    "name": "Kep",
+    "alt_names": [],
+    "state_code": "23",
+    "latitude": 10.536089,
+    "longitude": 104.3559158,
+    "type": "province",
+    "cities": [
+        {
+            "id": 370090001,
+            "name": "Krong Kep",
+            "alt_names": [],
+            "latitude": 10.48291,
+            "longitude": 104.31672,
+            "timezone": {
+                "zoneName": "Asia/Phnom_Penh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 370090002,
+            "name": "Srŏk Dâmnăk Châng’aeur",
+            "alt_names": [],
+            "latitude": 10.53394,
+            "longitude": 104.34855,
+            "timezone": {
+                "zoneName": "Asia/Phnom_Penh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 40002,
+    "name": "Boa Vista",
+    "alt_names": [],
+    "state_code": "BV",
+    "latitude": 38.743466,
+    "longitude": -120.7304297,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 400020001,
+            "name": "Sal Rei",
+            "alt_names": [],
+            "latitude": 16.17611,
+            "longitude": -22.91722,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        }
+    ]
+}

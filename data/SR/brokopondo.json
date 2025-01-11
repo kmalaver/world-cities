@@ -1,0 +1,39 @@
+{
+    "id": 211001,
+    "name": "Brokopondo",
+    "alt_names": [],
+    "state_code": "BR",
+    "latitude": 4.7710247,
+    "longitude": -55.0493375,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2110010001,
+            "name": "Brokopondo",
+            "alt_names": [],
+            "latitude": 5.05594,
+            "longitude": -54.98043,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        },
+        {
+            "id": 2110010002,
+            "name": "Brownsweg",
+            "alt_names": [],
+            "latitude": 5.00435,
+            "longitude": -55.15333,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        }
+    ]
+}

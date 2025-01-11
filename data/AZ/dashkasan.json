@@ -1,0 +1,39 @@
+{
+    "id": 16014,
+    "name": "Dashkasan",
+    "alt_names": [],
+    "state_code": "DAS",
+    "latitude": 40.5202257,
+    "longitude": 46.0779304,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160140001,
+            "name": "Verkhniy Dashkesan",
+            "alt_names": [],
+            "latitude": 40.49357,
+            "longitude": 46.07175,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160140002,
+            "name": "Yukhary-Dashkesan",
+            "alt_names": [],
+            "latitude": 40.52393,
+            "longitude": 46.08186,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

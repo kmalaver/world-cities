@@ -1,0 +1,39 @@
+{
+    "id": 149010,
+    "name": "Naypyidaw",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": 19.9386245,
+    "longitude": 96.1526985,
+    "type": "union territory",
+    "cities": [
+        {
+            "id": 1490100001,
+            "name": "Nay Pyi Taw",
+            "alt_names": [],
+            "latitude": 19.745,
+            "longitude": 96.12972,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490100002,
+            "name": "Pyinmana",
+            "alt_names": [],
+            "latitude": 19.7381,
+            "longitude": 96.20742,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

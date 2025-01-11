@@ -1,0 +1,39 @@
+{
+    "id": 145005,
+    "name": "Budva",
+    "alt_names": [],
+    "state_code": "05",
+    "latitude": 42.314072,
+    "longitude": 18.8313832,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1450050001,
+            "name": "Budva",
+            "alt_names": [],
+            "latitude": 42.28639,
+            "longitude": 18.84,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450050002,
+            "name": "Petrovac na Moru",
+            "alt_names": [],
+            "latitude": 42.20556,
+            "longitude": 18.9425,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

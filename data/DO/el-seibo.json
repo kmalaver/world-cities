@@ -1,0 +1,53 @@
+{
+    "id": 63007,
+    "name": "El Seibo",
+    "alt_names": [],
+    "state_code": "08",
+    "latitude": 18.7658496,
+    "longitude": -69.040668,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630070001,
+            "name": "Miches",
+            "alt_names": [],
+            "latitude": 18.98364,
+            "longitude": -69.0476,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630070002,
+            "name": "Pedro Sánchez",
+            "alt_names": [],
+            "latitude": 18.86375,
+            "longitude": -69.10868,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630070003,
+            "name": "Santa Cruz de El Seibo",
+            "alt_names": [],
+            "latitude": 18.76559,
+            "longitude": -69.03886,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 220006,
+    "name": "Cat Island",
+    "alt_names": [],
+    "state_code": "CI",
+    "latitude": 30.2280136,
+    "longitude": -89.1014933,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2200060001,
+            "name": "Arthur’s Town",
+            "alt_names": [],
+            "latitude": 24.6224,
+            "longitude": -75.67151,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        }
+    ]
+}

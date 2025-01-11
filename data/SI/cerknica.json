@@ -1,0 +1,39 @@
+{
+    "id": 201019,
+    "name": "Cerknica",
+    "alt_names": [],
+    "state_code": "013",
+    "latitude": 45.7966255,
+    "longitude": 14.392177,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010190001,
+            "name": "Cerknica",
+            "alt_names": [],
+            "latitude": 45.79306,
+            "longitude": 14.3625,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010190002,
+            "name": "Rakek",
+            "alt_names": [],
+            "latitude": 45.81333,
+            "longitude": 14.31111,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

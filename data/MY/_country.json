@@ -1,0 +1,54 @@
+{
+    "id": 130,
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "iso2": "MY",
+    "numeric_code": "458",
+    "phonecode": "60",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currency_name": "Malaysian ringgit",
+    "currency_symbol": "RM",
+    "tld": ".my",
+    "native": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "translations": {
+        "de": "Malaysia",
+        "es": "Malasia",
+        "fa": "مالزی",
+        "fr": "Malaisie",
+        "hr": "Malezija",
+        "it": "Malesia",
+        "ja": "マレーシア",
+        "ko": "말레이시아",
+        "nl": "Maleisië",
+        "pl": "Malezja",
+        "pt": "Malásia",
+        "pt-BR": "Malásia",
+        "ru": "Малайзия",
+        "tr": "Malezya",
+        "uk": "Малайзія",
+        "zh-CN": "马来西亚"
+    },
+    "latitude": 2.5,
+    "longitude": 112.5,
+    "emoji": "🇲🇾",
+    "emojiU": "U+1F1F2 U+1F1FE",
+    "timezones": [
+        {
+            "zoneName": "Asia/Kuala_Lumpur",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "MYT",
+            "tzName": "Malaysia Time"
+        },
+        {
+            "zoneName": "Asia/Kuching",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "MYT",
+            "tzName": "Malaysia Time"
+        }
+    ]
+}

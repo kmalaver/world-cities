@@ -1,0 +1,67 @@
+{
+    "id": 48017,
+    "name": "Guaviare",
+    "alt_names": [],
+    "state_code": "GUV",
+    "latitude": 2.043924,
+    "longitude": -72.331113,
+    "type": "department",
+    "cities": [
+        {
+            "id": 480170001,
+            "name": "Calamar",
+            "alt_names": [],
+            "latitude": 1.9596,
+            "longitude": -72.65315,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480170002,
+            "name": "El Retorno",
+            "alt_names": [],
+            "latitude": 2.33022,
+            "longitude": -72.62765,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480170003,
+            "name": "Miraflores",
+            "alt_names": [],
+            "latitude": 1.33667,
+            "longitude": -71.95111,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480170004,
+            "name": "San José del Guaviare",
+            "alt_names": [],
+            "latitude": 2.57286,
+            "longitude": -72.64591,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 65008,
+    "name": "Damietta",
+    "alt_names": [],
+    "state_code": "DT",
+    "latitude": 31.3625799,
+    "longitude": 31.6739371,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650080001,
+            "name": "Az Zarqā",
+            "alt_names": [],
+            "latitude": 31.20864,
+            "longitude": 31.63528,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650080002,
+            "name": "Damietta",
+            "alt_names": [],
+            "latitude": 31.41648,
+            "longitude": 31.81332,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650080003,
+            "name": "Fāraskūr",
+            "alt_names": [],
+            "latitude": 31.32977,
+            "longitude": 31.71507,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

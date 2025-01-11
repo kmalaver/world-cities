@@ -1,0 +1,39 @@
+{
+    "id": 150014,
+    "name": "Zambezi",
+    "alt_names": [],
+    "state_code": "CA",
+    "latitude": -17.8193419,
+    "longitude": 23.9536466,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500140001,
+            "name": "Bagani",
+            "alt_names": [],
+            "latitude": -18.11065,
+            "longitude": 21.61645,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500140002,
+            "name": "Katima Mulilo",
+            "alt_names": [],
+            "latitude": -17.5,
+            "longitude": 24.26667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

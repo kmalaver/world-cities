@@ -1,0 +1,39 @@
+{
+    "id": 120002,
+    "name": "Baalbek-Hermel",
+    "alt_names": [],
+    "state_code": "BH",
+    "latitude": 34.2658556,
+    "longitude": 36.3498097,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200020001,
+            "name": "Baalbek",
+            "alt_names": [],
+            "latitude": 34.00583,
+            "longitude": 36.21806,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200020002,
+            "name": "Caza de Baalbek",
+            "alt_names": [],
+            "latitude": 34.09822,
+            "longitude": 36.27157,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

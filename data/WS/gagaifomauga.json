@@ -1,0 +1,39 @@
+{
+    "id": 190006,
+    "name": "Gaga'ifomauga",
+    "alt_names": [],
+    "state_code": "GI",
+    "latitude": -13.5468007,
+    "longitude": -172.4969331,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1900060001,
+            "name": "Matavai",
+            "alt_names": [],
+            "latitude": -14.03208,
+            "longitude": -171.64768,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900060002,
+            "name": "Safotu",
+            "alt_names": [],
+            "latitude": -13.45132,
+            "longitude": -172.40177,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        }
+    ]
+}

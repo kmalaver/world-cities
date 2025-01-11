@@ -1,0 +1,67 @@
+{
+    "id": 74013,
+    "name": "Northern",
+    "alt_names": [],
+    "state_code": "N",
+    "latitude": 32.8768766,
+    "longitude": -117.2156345,
+    "type": "division",
+    "cities": [
+        {
+            "id": 740130001,
+            "name": "Bua Province",
+            "alt_names": [],
+            "latitude": -16.83333,
+            "longitude": 178.75,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740130002,
+            "name": "Cakaudrove Province",
+            "alt_names": [],
+            "latitude": -16.66667,
+            "longitude": 179.41667,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740130003,
+            "name": "Labasa",
+            "alt_names": [],
+            "latitude": -16.4332,
+            "longitude": 179.36451,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        },
+        {
+            "id": 740130004,
+            "name": "Macuata Province",
+            "alt_names": [],
+            "latitude": -16.5,
+            "longitude": 179.25,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        }
+    ]
+}

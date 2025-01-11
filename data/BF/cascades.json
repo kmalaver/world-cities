@@ -1,0 +1,67 @@
+{
+    "id": 35008,
+    "name": "Cascades",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": 10.4072992,
+    "longitude": -4.5624426,
+    "type": "region",
+    "cities": [
+        {
+            "id": 350080001,
+            "name": "Banfora",
+            "alt_names": [],
+            "latitude": 10.63333,
+            "longitude": -4.76667,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350080002,
+            "name": "Province de la Comoé",
+            "alt_names": [],
+            "latitude": 10.33333,
+            "longitude": -4.41667,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350080003,
+            "name": "Province de la Léraba",
+            "alt_names": [],
+            "latitude": 10.66667,
+            "longitude": -5.2,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 350080004,
+            "name": "Sindou",
+            "alt_names": [],
+            "latitude": 10.66667,
+            "longitude": -5.16667,
+            "timezone": {
+                "zoneName": "Africa/Ouagadougou",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

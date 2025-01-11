@@ -1,0 +1,39 @@
+{
+    "id": 116002,
+    "name": "Al Farwaniyah",
+    "alt_names": [],
+    "state_code": "FA",
+    "latitude": 29.273357,
+    "longitude": 47.9400154,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1160020001,
+            "name": "Al Farwānīyah",
+            "alt_names": [],
+            "latitude": 29.2775,
+            "longitude": 47.95861,
+            "timezone": {
+                "zoneName": "Asia/Kuwait",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1160020002,
+            "name": "Janūb as Surrah",
+            "alt_names": [],
+            "latitude": 29.26917,
+            "longitude": 47.97806,
+            "timezone": {
+                "zoneName": "Asia/Kuwait",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

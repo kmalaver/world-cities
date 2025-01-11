@@ -1,0 +1,39 @@
+{
+    "id": 113025,
+    "name": "Marsabit",
+    "alt_names": [],
+    "state_code": "25",
+    "latitude": 2.4426403,
+    "longitude": 37.9784585,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130250001,
+            "name": "Marsabit",
+            "alt_names": [],
+            "latitude": 2.33468,
+            "longitude": 37.99086,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130250002,
+            "name": "Moyale",
+            "alt_names": [],
+            "latitude": 3.52661,
+            "longitude": 39.0561,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

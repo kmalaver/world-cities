@@ -1,0 +1,795 @@
+{
+    "id": 106004,
+    "name": "Northern",
+    "alt_names": [],
+    "state_code": "Z",
+    "latitude": 36.1511864,
+    "longitude": -95.9951763,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1060040001,
+            "name": "‘Eilabun",
+            "alt_names": [],
+            "latitude": 32.83693,
+            "longitude": 35.40029,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040002,
+            "name": "‘Uzeir",
+            "alt_names": [],
+            "latitude": 32.79212,
+            "longitude": 35.32984,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040003,
+            "name": "Acre",
+            "alt_names": [],
+            "latitude": 32.92814,
+            "longitude": 35.07647,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040004,
+            "name": "Afula",
+            "alt_names": [],
+            "latitude": 32.60907,
+            "longitude": 35.2892,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040005,
+            "name": "Basmat Ṭab‘ūn",
+            "alt_names": [],
+            "latitude": 32.73898,
+            "longitude": 35.15716,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040006,
+            "name": "Beit Jann",
+            "alt_names": [],
+            "latitude": 32.96464,
+            "longitude": 35.38152,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040007,
+            "name": "Bet She’an",
+            "alt_names": [],
+            "latitude": 32.49728,
+            "longitude": 35.49632,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040008,
+            "name": "Bīr el Maksūr",
+            "alt_names": [],
+            "latitude": 32.77732,
+            "longitude": 35.22069,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040009,
+            "name": "Bu‘eina",
+            "alt_names": [],
+            "latitude": 32.80636,
+            "longitude": 35.36486,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040010,
+            "name": "Buqei‘a",
+            "alt_names": [],
+            "latitude": 32.97747,
+            "longitude": 35.33345,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040011,
+            "name": "Dabbūrīya",
+            "alt_names": [],
+            "latitude": 32.69256,
+            "longitude": 35.37123,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040012,
+            "name": "Deir Ḥannā",
+            "alt_names": [],
+            "latitude": 32.86196,
+            "longitude": 35.36365,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040013,
+            "name": "El Mazra‘a",
+            "alt_names": [],
+            "latitude": 32.98338,
+            "longitude": 35.09837,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040014,
+            "name": "Er Reina",
+            "alt_names": [],
+            "latitude": 32.72339,
+            "longitude": 35.31622,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040015,
+            "name": "Esh Sheikh Dannūn",
+            "alt_names": [],
+            "latitude": 32.9941,
+            "longitude": 35.14805,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040016,
+            "name": "Ḥurfeish",
+            "alt_names": [],
+            "latitude": 33.01711,
+            "longitude": 35.34835,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040017,
+            "name": "Iksāl",
+            "alt_names": [],
+            "latitude": 32.68164,
+            "longitude": 35.32365,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040018,
+            "name": "Jīsh",
+            "alt_names": [],
+            "latitude": 33.02216,
+            "longitude": 35.44694,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040019,
+            "name": "Judeida Makr",
+            "alt_names": [],
+            "latitude": 32.9282,
+            "longitude": 35.15705,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040020,
+            "name": "Kābūl",
+            "alt_names": [],
+            "latitude": 32.86856,
+            "longitude": 35.21171,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040021,
+            "name": "Kafr Kammā",
+            "alt_names": [],
+            "latitude": 32.72129,
+            "longitude": 35.44122,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040022,
+            "name": "Kafr Kannā",
+            "alt_names": [],
+            "latitude": 32.7466,
+            "longitude": 35.34242,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040023,
+            "name": "Kafr Mandā",
+            "alt_names": [],
+            "latitude": 32.81034,
+            "longitude": 35.26009,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040024,
+            "name": "Kafr Miṣr",
+            "alt_names": [],
+            "latitude": 32.64521,
+            "longitude": 35.42147,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040025,
+            "name": "Karmi’el",
+            "alt_names": [],
+            "latitude": 32.91708,
+            "longitude": 35.30501,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040026,
+            "name": "Kaukab Abū el Hījā",
+            "alt_names": [],
+            "latitude": 32.83155,
+            "longitude": 35.24848,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040027,
+            "name": "Kefar Rosh HaNiqra",
+            "alt_names": [],
+            "latitude": 33.08607,
+            "longitude": 35.11348,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040028,
+            "name": "Kefar Tavor",
+            "alt_names": [],
+            "latitude": 32.68655,
+            "longitude": 35.42118,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040029,
+            "name": "Kefar Weradim",
+            "alt_names": [],
+            "latitude": 32.99385,
+            "longitude": 35.27793,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040030,
+            "name": "Kfar Yasif",
+            "alt_names": [],
+            "latitude": 32.95451,
+            "longitude": 35.1623,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040031,
+            "name": "maalot Tarshīhā",
+            "alt_names": [],
+            "latitude": 33.01667,
+            "longitude": 35.26667,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040032,
+            "name": "Maghār",
+            "alt_names": [],
+            "latitude": 32.88984,
+            "longitude": 35.40703,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040033,
+            "name": "Metulla",
+            "alt_names": [],
+            "latitude": 33.27918,
+            "longitude": 35.5795,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040034,
+            "name": "Mi‘ilyā",
+            "alt_names": [],
+            "latitude": 33.02781,
+            "longitude": 35.25658,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040035,
+            "name": "Migdal Ha‘Emeq",
+            "alt_names": [],
+            "latitude": 32.67597,
+            "longitude": 35.23986,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040036,
+            "name": "Nahariyya",
+            "alt_names": [],
+            "latitude": 33.00892,
+            "longitude": 35.09814,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040037,
+            "name": "Naḥf",
+            "alt_names": [],
+            "latitude": 32.93444,
+            "longitude": 35.31679,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040038,
+            "name": "Nazareth",
+            "alt_names": [],
+            "latitude": 32.70056,
+            "longitude": 35.29722,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040039,
+            "name": "Nefat ‘Akko",
+            "alt_names": [],
+            "latitude": 32.95,
+            "longitude": 35.23333,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040040,
+            "name": "Nein",
+            "alt_names": [],
+            "latitude": 32.63063,
+            "longitude": 35.34885,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040041,
+            "name": "Pasuta",
+            "alt_names": [],
+            "latitude": 33.04895,
+            "longitude": 35.30893,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040042,
+            "name": "Qiryat Shemona",
+            "alt_names": [],
+            "latitude": 33.20733,
+            "longitude": 35.57212,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040043,
+            "name": "Ramat Yishay",
+            "alt_names": [],
+            "latitude": 32.70444,
+            "longitude": 35.1707,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040044,
+            "name": "Rosh Pinna",
+            "alt_names": [],
+            "latitude": 32.96894,
+            "longitude": 35.54258,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040045,
+            "name": "Rumat Heib",
+            "alt_names": [],
+            "latitude": 32.77802,
+            "longitude": 35.30571,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040046,
+            "name": "Safed",
+            "alt_names": [],
+            "latitude": 32.96465,
+            "longitude": 35.496,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040047,
+            "name": "Sājūr",
+            "alt_names": [],
+            "latitude": 32.94266,
+            "longitude": 35.34136,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040048,
+            "name": "Sakhnīn",
+            "alt_names": [],
+            "latitude": 32.86422,
+            "longitude": 35.29707,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040049,
+            "name": "Sallama",
+            "alt_names": [],
+            "latitude": 32.89443,
+            "longitude": 35.36931,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040050,
+            "name": "Shelomi",
+            "alt_names": [],
+            "latitude": 33.07216,
+            "longitude": 35.14452,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040051,
+            "name": "Shibli",
+            "alt_names": [],
+            "latitude": 32.69464,
+            "longitude": 35.39252,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040052,
+            "name": "Sūlam",
+            "alt_names": [],
+            "latitude": 32.60606,
+            "longitude": 35.33408,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040053,
+            "name": "Tamra",
+            "alt_names": [],
+            "latitude": 32.85301,
+            "longitude": 35.1987,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040054,
+            "name": "Tiberias",
+            "alt_names": [],
+            "latitude": 32.79221,
+            "longitude": 35.53124,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040055,
+            "name": "Timrat",
+            "alt_names": [],
+            "latitude": 32.70302,
+            "longitude": 35.22359,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        },
+        {
+            "id": 1060040056,
+            "name": "Yavne’el",
+            "alt_names": [],
+            "latitude": 32.70619,
+            "longitude": 35.50435,
+            "timezone": {
+                "zoneName": "Asia/Jerusalem",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "IST",
+                "tzName": "Israel Standard Time"
+            }
+        }
+    ]
+}

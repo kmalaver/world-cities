@@ -1,0 +1,39 @@
+{
+    "id": 133022,
+    "name": "Kirkop",
+    "alt_names": [],
+    "state_code": "23",
+    "latitude": 35.8437862,
+    "longitude": 14.4854324,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330220001,
+            "name": "Imsida",
+            "alt_names": [],
+            "latitude": 35.8925,
+            "longitude": 14.48278,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330220002,
+            "name": "Kirkop",
+            "alt_names": [],
+            "latitude": 35.84222,
+            "longitude": 14.48528,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

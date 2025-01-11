@@ -1,0 +1,54 @@
+{
+    "id": 155,
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "numeric_code": "554",
+    "phonecode": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "currency_name": "New Zealand dollar",
+    "currency_symbol": "$",
+    "tld": ".nz",
+    "native": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "translations": {
+        "de": "Neuseeland",
+        "es": "Nueva Zelanda",
+        "fa": "نیوزیلند",
+        "fr": "Nouvelle-Zélande",
+        "hr": "Novi Zeland",
+        "it": "Nuova Zelanda",
+        "ja": "ニュージーランド",
+        "ko": "뉴질랜드",
+        "nl": "Nieuw-Zeeland",
+        "pl": "Nowa Zelandia",
+        "pt": "Nova Zelândia",
+        "pt-BR": "Nova Zelândia",
+        "ru": "Новая Зеландия",
+        "tr": "Yeni Zelanda",
+        "uk": "Нова Зеландія",
+        "zh-CN": "新西兰"
+    },
+    "latitude": -41,
+    "longitude": 174,
+    "emoji": "🇳🇿",
+    "emojiU": "U+1F1F3 U+1F1FF",
+    "timezones": [
+        {
+            "zoneName": "Pacific/Auckland",
+            "gmtOffset": 46800,
+            "gmtOffsetName": "UTC+13:00",
+            "abbreviation": "NZDT",
+            "tzName": "New Zealand Daylight Time"
+        },
+        {
+            "zoneName": "Pacific/Chatham",
+            "gmtOffset": 49500,
+            "gmtOffsetName": "UTC+13:45",
+            "abbreviation": "CHAST",
+            "tzName": "Chatham Standard Time"
+        }
+    ]
+}

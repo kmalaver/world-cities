@@ -1,0 +1,39 @@
+{
+    "id": 111003,
+    "name": "Aqaba",
+    "alt_names": [],
+    "state_code": "AQ",
+    "latitude": 29.532086,
+    "longitude": 35.0062821,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1110030001,
+            "name": "Aqaba",
+            "alt_names": [],
+            "latitude": 29.52667,
+            "longitude": 35.00778,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110030002,
+            "name": "Tala Bay",
+            "alt_names": [],
+            "latitude": 29.40842,
+            "longitude": 34.97918,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

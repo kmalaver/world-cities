@@ -1,0 +1,81 @@
+{
+    "id": 1011,
+    "name": "Helmand",
+    "alt_names": [],
+    "state_code": "HEL",
+    "latitude": 39.2989361,
+    "longitude": -76.6160472,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10110001,
+            "name": "‘Alāqahdārī Dīshū",
+            "alt_names": [],
+            "latitude": 30.43206,
+            "longitude": 63.29802,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10110002,
+            "name": "Gereshk",
+            "alt_names": [],
+            "latitude": 31.82089,
+            "longitude": 64.57005,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10110003,
+            "name": "Lashkar Gāh",
+            "alt_names": [],
+            "latitude": 31.59382,
+            "longitude": 64.37161,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10110004,
+            "name": "Markaz-e Ḩukūmat-e Darwēshān",
+            "alt_names": [],
+            "latitude": 31.13231,
+            "longitude": 64.1934,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10110005,
+            "name": "Sangīn",
+            "alt_names": [],
+            "latitude": 32.07275,
+            "longitude": 64.8359,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

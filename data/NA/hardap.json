@@ -1,0 +1,81 @@
+{
+    "id": 150002,
+    "name": "Hardap",
+    "alt_names": [],
+    "state_code": "HA",
+    "latitude": -24.2310134,
+    "longitude": 17.668887,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500020001,
+            "name": "Aranos",
+            "alt_names": [],
+            "latitude": -24.13333,
+            "longitude": 19.11667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500020002,
+            "name": "Hoachanas",
+            "alt_names": [],
+            "latitude": -23.91667,
+            "longitude": 18.05,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500020003,
+            "name": "Maltahöhe",
+            "alt_names": [],
+            "latitude": -24.83333,
+            "longitude": 16.98333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500020004,
+            "name": "Mariental",
+            "alt_names": [],
+            "latitude": -24.63333,
+            "longitude": 17.96667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500020005,
+            "name": "Rehoboth",
+            "alt_names": [],
+            "latitude": -23.317,
+            "longitude": 17.09,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

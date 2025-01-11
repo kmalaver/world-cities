@@ -1,0 +1,53 @@
+{
+    "id": 223001,
+    "name": "Centrale",
+    "alt_names": [],
+    "state_code": "C",
+    "latitude": 8.6586029,
+    "longitude": 1.0586135,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2230010001,
+            "name": "Sokodé",
+            "alt_names": [],
+            "latitude": 8.98333,
+            "longitude": 1.13333,
+            "timezone": {
+                "zoneName": "Africa/Lome",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 2230010002,
+            "name": "Sotouboua",
+            "alt_names": [],
+            "latitude": 8.5634,
+            "longitude": 0.98399,
+            "timezone": {
+                "zoneName": "Africa/Lome",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 2230010003,
+            "name": "Tchamba",
+            "alt_names": [],
+            "latitude": 9.03333,
+            "longitude": 1.41667,
+            "timezone": {
+                "zoneName": "Africa/Lome",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

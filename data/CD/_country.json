@@ -1,0 +1,54 @@
+{
+    "id": 59,
+    "name": "Democratic Republic of the Congo",
+    "iso3": "COD",
+    "iso2": "CD",
+    "numeric_code": "180",
+    "phonecode": "243",
+    "capital": "Kinshasa",
+    "currency": "CDF",
+    "currency_name": "Congolese Franc",
+    "currency_symbol": "FC",
+    "tld": ".cd",
+    "native": "République démocratique du Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "translations": {
+        "de": "Kongo (Dem. Rep.)",
+        "es": "Congo (Rep. Dem.)",
+        "fa": "جمهوری کنگو",
+        "fr": "Congo (Rép. dém.)",
+        "hr": "Kongo, Demokratska Republika",
+        "it": "Congo (Rep. Dem.)",
+        "ja": "コンゴ民主共和国",
+        "ko": "콩고 민주 공화국",
+        "nl": "Congo [DRC]",
+        "pl": "Demokratyczna Republika Konga",
+        "pt": "RD Congo",
+        "pt-BR": "RD Congo",
+        "ru": "Демократическая Республика Конго",
+        "tr": "Kongo Demokratik Cumhuriyeti",
+        "uk": "Демократична Республіка Конго",
+        "zh-CN": "刚果（金）"
+    },
+    "latitude": 0,
+    "longitude": 25,
+    "emoji": "🇨🇩",
+    "emojiU": "U+1F1E8 U+1F1E9",
+    "timezones": [
+        {
+            "zoneName": "Africa/Kinshasa",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "WAT",
+            "tzName": "West Africa Time"
+        },
+        {
+            "zoneName": "Africa/Lubumbashi",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "CAT",
+            "tzName": "Central Africa Time"
+        }
+    ]
+}

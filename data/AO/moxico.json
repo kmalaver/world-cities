@@ -1,0 +1,67 @@
+{
+    "id": 7015,
+    "name": "Moxico",
+    "alt_names": [],
+    "state_code": "MOX",
+    "latitude": -13.4293579,
+    "longitude": 20.3308814,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70150001,
+            "name": "Léua",
+            "alt_names": [],
+            "latitude": -11.65,
+            "longitude": 20.45,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70150002,
+            "name": "Luau",
+            "alt_names": [],
+            "latitude": -10.70727,
+            "longitude": 22.22466,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70150003,
+            "name": "Luena",
+            "alt_names": [],
+            "latitude": -11.78333,
+            "longitude": 19.91667,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70150004,
+            "name": "Lumeje",
+            "alt_names": [],
+            "latitude": -11.55,
+            "longitude": 20.78333,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

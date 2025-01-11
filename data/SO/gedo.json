@@ -1,0 +1,53 @@
+{
+    "id": 203007,
+    "name": "Gedo",
+    "alt_names": [],
+    "state_code": "GE",
+    "latitude": 3.5039227,
+    "longitude": 42.2362435,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030070001,
+            "name": "Baardheere",
+            "alt_names": [],
+            "latitude": 2.34464,
+            "longitude": 42.27644,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030070002,
+            "name": "Garbahaarrey",
+            "alt_names": [],
+            "latitude": 3.32892,
+            "longitude": 42.22091,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030070003,
+            "name": "Luuq",
+            "alt_names": [],
+            "latitude": 3.80315,
+            "longitude": 42.54417,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

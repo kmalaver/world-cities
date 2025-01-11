@@ -1,0 +1,39 @@
+{
+    "id": 94005,
+    "name": "Essequibo Islands-West Demerara",
+    "alt_names": [],
+    "state_code": "ES",
+    "latitude": 6.5720132,
+    "longitude": -58.4629997,
+    "type": "region",
+    "cities": [
+        {
+            "id": 940050001,
+            "name": "Parika",
+            "alt_names": [],
+            "latitude": 6.83712,
+            "longitude": -58.42941,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        },
+        {
+            "id": 940050002,
+            "name": "Vreed-en-Hoop",
+            "alt_names": [],
+            "latitude": 6.80927,
+            "longitude": -58.19798,
+            "timezone": {
+                "zoneName": "America/Guyana",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "GYT",
+                "tzName": "Guyana Time"
+            }
+        }
+    ]
+}

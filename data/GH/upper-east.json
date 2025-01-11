@@ -1,0 +1,53 @@
+{
+    "id": 83012,
+    "name": "Upper East",
+    "alt_names": [],
+    "state_code": "UE",
+    "latitude": 10.7082499,
+    "longitude": -0.9820668,
+    "type": "region",
+    "cities": [
+        {
+            "id": 830120001,
+            "name": "Bawku",
+            "alt_names": [],
+            "latitude": 11.0616,
+            "longitude": -0.24169,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830120002,
+            "name": "Bolgatanga",
+            "alt_names": [],
+            "latitude": 10.78556,
+            "longitude": -0.85139,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830120003,
+            "name": "Navrongo",
+            "alt_names": [],
+            "latitude": 10.89557,
+            "longitude": -1.0921,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

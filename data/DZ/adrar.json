@@ -1,0 +1,67 @@
+{
+    "id": 4001,
+    "name": "Adrar",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 26.418131,
+    "longitude": -0.6014717,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40010001,
+            "name": "Adrar",
+            "alt_names": [],
+            "latitude": 27.87429,
+            "longitude": -0.29388,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40010002,
+            "name": "Aoulef",
+            "alt_names": [],
+            "latitude": 26.96667,
+            "longitude": 1.08333,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40010003,
+            "name": "Reggane",
+            "alt_names": [],
+            "latitude": 26.71576,
+            "longitude": 0.1714,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40010004,
+            "name": "Timimoun",
+            "alt_names": [],
+            "latitude": 29.26388,
+            "longitude": 0.23098,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

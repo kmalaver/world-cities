@@ -1,0 +1,667 @@
+{
+    "id": 236038,
+    "name": "Nevada",
+    "alt_names": [],
+    "state_code": "NV",
+    "latitude": 38.8026097,
+    "longitude": -116.419389,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2360380001,
+            "name": "Alamo",
+            "alt_names": [],
+            "latitude": 37.36496,
+            "longitude": -115.16446,
+            "timezone": null
+        },
+        {
+            "id": 2360380002,
+            "name": "Battle Mountain",
+            "alt_names": [],
+            "latitude": 40.64213,
+            "longitude": -116.93427,
+            "timezone": null
+        },
+        {
+            "id": 2360380003,
+            "name": "Beatty",
+            "alt_names": [],
+            "latitude": 36.90856,
+            "longitude": -116.75923,
+            "timezone": null
+        },
+        {
+            "id": 2360380004,
+            "name": "Boulder City",
+            "alt_names": [],
+            "latitude": 35.97859,
+            "longitude": -114.83249,
+            "timezone": null
+        },
+        {
+            "id": 2360380005,
+            "name": "Bunkerville",
+            "alt_names": [],
+            "latitude": 36.77303,
+            "longitude": -114.12802,
+            "timezone": null
+        },
+        {
+            "id": 2360380006,
+            "name": "Caliente",
+            "alt_names": [],
+            "latitude": 37.61496,
+            "longitude": -114.51194,
+            "timezone": null
+        },
+        {
+            "id": 2360380007,
+            "name": "Carlin",
+            "alt_names": [],
+            "latitude": 40.71381,
+            "longitude": -116.10397,
+            "timezone": null
+        },
+        {
+            "id": 2360380008,
+            "name": "Carson City",
+            "alt_names": [],
+            "latitude": 39.1638,
+            "longitude": -119.7674,
+            "timezone": null
+        },
+        {
+            "id": 2360380009,
+            "name": "Churchill County",
+            "alt_names": [],
+            "latitude": 39.58088,
+            "longitude": -118.33578,
+            "timezone": null
+        },
+        {
+            "id": 2360380010,
+            "name": "Clark County",
+            "alt_names": [],
+            "latitude": 36.2152,
+            "longitude": -115.01356,
+            "timezone": null
+        },
+        {
+            "id": 2360380011,
+            "name": "Cold Springs",
+            "alt_names": [],
+            "latitude": 39.68019,
+            "longitude": -119.97659,
+            "timezone": null
+        },
+        {
+            "id": 2360380012,
+            "name": "Dayton",
+            "alt_names": [],
+            "latitude": 39.23714,
+            "longitude": -119.59295,
+            "timezone": null
+        },
+        {
+            "id": 2360380013,
+            "name": "Douglas County",
+            "alt_names": [],
+            "latitude": 38.91224,
+            "longitude": -119.61637,
+            "timezone": null
+        },
+        {
+            "id": 2360380014,
+            "name": "East Valley",
+            "alt_names": [],
+            "latitude": 38.9434,
+            "longitude": -119.69923,
+            "timezone": null
+        },
+        {
+            "id": 2360380015,
+            "name": "Elko",
+            "alt_names": [],
+            "latitude": 40.83242,
+            "longitude": -115.76312,
+            "timezone": null
+        },
+        {
+            "id": 2360380016,
+            "name": "Elko County",
+            "alt_names": [],
+            "latitude": 41.14583,
+            "longitude": -115.35776,
+            "timezone": null
+        },
+        {
+            "id": 2360380017,
+            "name": "Ely",
+            "alt_names": [],
+            "latitude": 39.24744,
+            "longitude": -114.88863,
+            "timezone": null
+        },
+        {
+            "id": 2360380018,
+            "name": "Enterprise",
+            "alt_names": [],
+            "latitude": 36.02525,
+            "longitude": -115.24194,
+            "timezone": null
+        },
+        {
+            "id": 2360380019,
+            "name": "Esmeralda County",
+            "alt_names": [],
+            "latitude": 37.7847,
+            "longitude": -117.63237,
+            "timezone": null
+        },
+        {
+            "id": 2360380020,
+            "name": "Eureka",
+            "alt_names": [],
+            "latitude": 39.51271,
+            "longitude": -115.96061,
+            "timezone": null
+        },
+        {
+            "id": 2360380021,
+            "name": "Eureka County",
+            "alt_names": [],
+            "latitude": 39.98389,
+            "longitude": -116.26856,
+            "timezone": null
+        },
+        {
+            "id": 2360380022,
+            "name": "Fallon",
+            "alt_names": [],
+            "latitude": 39.47353,
+            "longitude": -118.77737,
+            "timezone": null
+        },
+        {
+            "id": 2360380023,
+            "name": "Fernley",
+            "alt_names": [],
+            "latitude": 39.60797,
+            "longitude": -119.25183,
+            "timezone": null
+        },
+        {
+            "id": 2360380024,
+            "name": "Gardnerville",
+            "alt_names": [],
+            "latitude": 38.9413,
+            "longitude": -119.74962,
+            "timezone": null
+        },
+        {
+            "id": 2360380025,
+            "name": "Gardnerville Ranchos",
+            "alt_names": [],
+            "latitude": 38.88824,
+            "longitude": -119.74129,
+            "timezone": null
+        },
+        {
+            "id": 2360380026,
+            "name": "Golden Valley",
+            "alt_names": [],
+            "latitude": 39.61547,
+            "longitude": -119.82658,
+            "timezone": null
+        },
+        {
+            "id": 2360380027,
+            "name": "Goldfield",
+            "alt_names": [],
+            "latitude": 37.70854,
+            "longitude": -117.23563,
+            "timezone": null
+        },
+        {
+            "id": 2360380028,
+            "name": "Hawthorne",
+            "alt_names": [],
+            "latitude": 38.52464,
+            "longitude": -118.62458,
+            "timezone": null
+        },
+        {
+            "id": 2360380029,
+            "name": "Henderson",
+            "alt_names": [],
+            "latitude": 36.0397,
+            "longitude": -114.98194,
+            "timezone": null
+        },
+        {
+            "id": 2360380030,
+            "name": "Humboldt County",
+            "alt_names": [],
+            "latitude": 41.40684,
+            "longitude": -118.11197,
+            "timezone": null
+        },
+        {
+            "id": 2360380031,
+            "name": "Incline Village",
+            "alt_names": [],
+            "latitude": 39.2513,
+            "longitude": -119.97297,
+            "timezone": null
+        },
+        {
+            "id": 2360380032,
+            "name": "Indian Hills",
+            "alt_names": [],
+            "latitude": 39.08602,
+            "longitude": -119.78407,
+            "timezone": null
+        },
+        {
+            "id": 2360380033,
+            "name": "Jackpot",
+            "alt_names": [],
+            "latitude": 41.98324,
+            "longitude": -114.67476,
+            "timezone": null
+        },
+        {
+            "id": 2360380034,
+            "name": "Johnson Lane",
+            "alt_names": [],
+            "latitude": 39.04796,
+            "longitude": -119.72212,
+            "timezone": null
+        },
+        {
+            "id": 2360380035,
+            "name": "Kingsbury",
+            "alt_names": [],
+            "latitude": 38.97713,
+            "longitude": -119.90685,
+            "timezone": null
+        },
+        {
+            "id": 2360380036,
+            "name": "Lander County",
+            "alt_names": [],
+            "latitude": 39.93381,
+            "longitude": -117.03791,
+            "timezone": null
+        },
+        {
+            "id": 2360380037,
+            "name": "Las Vegas",
+            "alt_names": [],
+            "latitude": 36.17497,
+            "longitude": -115.13722,
+            "timezone": null
+        },
+        {
+            "id": 2360380038,
+            "name": "Laughlin",
+            "alt_names": [],
+            "latitude": 35.16778,
+            "longitude": -114.57302,
+            "timezone": null
+        },
+        {
+            "id": 2360380039,
+            "name": "Lemmon Valley",
+            "alt_names": [],
+            "latitude": 39.63602,
+            "longitude": -119.84325,
+            "timezone": null
+        },
+        {
+            "id": 2360380040,
+            "name": "Lincoln County",
+            "alt_names": [],
+            "latitude": 37.64335,
+            "longitude": -114.87755,
+            "timezone": null
+        },
+        {
+            "id": 2360380041,
+            "name": "Lovelock",
+            "alt_names": [],
+            "latitude": 40.17935,
+            "longitude": -118.47348,
+            "timezone": null
+        },
+        {
+            "id": 2360380042,
+            "name": "Lyon County",
+            "alt_names": [],
+            "latitude": 39.0204,
+            "longitude": -119.1892,
+            "timezone": null
+        },
+        {
+            "id": 2360380043,
+            "name": "McGill",
+            "alt_names": [],
+            "latitude": 39.40494,
+            "longitude": -114.77863,
+            "timezone": null
+        },
+        {
+            "id": 2360380044,
+            "name": "Mesquite",
+            "alt_names": [],
+            "latitude": 36.80553,
+            "longitude": -114.06719,
+            "timezone": null
+        },
+        {
+            "id": 2360380045,
+            "name": "Minden",
+            "alt_names": [],
+            "latitude": 38.95407,
+            "longitude": -119.76573,
+            "timezone": null
+        },
+        {
+            "id": 2360380046,
+            "name": "Mineral County",
+            "alt_names": [],
+            "latitude": 38.53881,
+            "longitude": -118.43521,
+            "timezone": null
+        },
+        {
+            "id": 2360380047,
+            "name": "Moapa Town",
+            "alt_names": [],
+            "latitude": 36.68219,
+            "longitude": -114.59416,
+            "timezone": null
+        },
+        {
+            "id": 2360380048,
+            "name": "Moapa Valley",
+            "alt_names": [],
+            "latitude": 36.58053,
+            "longitude": -114.47026,
+            "timezone": null
+        },
+        {
+            "id": 2360380049,
+            "name": "Mogul",
+            "alt_names": [],
+            "latitude": 39.5138,
+            "longitude": -119.92603,
+            "timezone": null
+        },
+        {
+            "id": 2360380050,
+            "name": "Nellis Air Force Base",
+            "alt_names": [],
+            "latitude": 36.24607,
+            "longitude": -115.05721,
+            "timezone": null
+        },
+        {
+            "id": 2360380051,
+            "name": "North Las Vegas",
+            "alt_names": [],
+            "latitude": 36.19886,
+            "longitude": -115.1175,
+            "timezone": null
+        },
+        {
+            "id": 2360380052,
+            "name": "Nye County",
+            "alt_names": [],
+            "latitude": 38.04238,
+            "longitude": -116.47193,
+            "timezone": null
+        },
+        {
+            "id": 2360380053,
+            "name": "Pahrump",
+            "alt_names": [],
+            "latitude": 36.20829,
+            "longitude": -115.98391,
+            "timezone": null
+        },
+        {
+            "id": 2360380054,
+            "name": "Paradise",
+            "alt_names": [],
+            "latitude": 36.09719,
+            "longitude": -115.14666,
+            "timezone": null
+        },
+        {
+            "id": 2360380055,
+            "name": "Pershing County",
+            "alt_names": [],
+            "latitude": 40.44036,
+            "longitude": -118.40444,
+            "timezone": null
+        },
+        {
+            "id": 2360380056,
+            "name": "Pioche",
+            "alt_names": [],
+            "latitude": 37.92969,
+            "longitude": -114.45221,
+            "timezone": null
+        },
+        {
+            "id": 2360380057,
+            "name": "Reno",
+            "alt_names": [],
+            "latitude": 39.52963,
+            "longitude": -119.8138,
+            "timezone": null
+        },
+        {
+            "id": 2360380058,
+            "name": "Sandy Valley",
+            "alt_names": [],
+            "latitude": 35.81692,
+            "longitude": -115.63223,
+            "timezone": null
+        },
+        {
+            "id": 2360380059,
+            "name": "Silver Springs",
+            "alt_names": [],
+            "latitude": 39.41547,
+            "longitude": -119.22461,
+            "timezone": null
+        },
+        {
+            "id": 2360380060,
+            "name": "Smith",
+            "alt_names": [],
+            "latitude": 38.80047,
+            "longitude": -119.32738,
+            "timezone": null
+        },
+        {
+            "id": 2360380061,
+            "name": "Smith Valley",
+            "alt_names": [],
+            "latitude": 38.78421,
+            "longitude": -119.34425,
+            "timezone": null
+        },
+        {
+            "id": 2360380062,
+            "name": "Spanish Springs",
+            "alt_names": [],
+            "latitude": 39.64908,
+            "longitude": -119.70741,
+            "timezone": null
+        },
+        {
+            "id": 2360380063,
+            "name": "Sparks",
+            "alt_names": [],
+            "latitude": 39.53491,
+            "longitude": -119.75269,
+            "timezone": null
+        },
+        {
+            "id": 2360380064,
+            "name": "Spring Creek",
+            "alt_names": [],
+            "latitude": 40.72659,
+            "longitude": -115.5859,
+            "timezone": null
+        },
+        {
+            "id": 2360380065,
+            "name": "Spring Valley",
+            "alt_names": [],
+            "latitude": 36.10803,
+            "longitude": -115.245,
+            "timezone": null
+        },
+        {
+            "id": 2360380066,
+            "name": "Stagecoach",
+            "alt_names": [],
+            "latitude": 39.3738,
+            "longitude": -119.37406,
+            "timezone": null
+        },
+        {
+            "id": 2360380067,
+            "name": "Storey County",
+            "alt_names": [],
+            "latitude": 39.44653,
+            "longitude": -119.52917,
+            "timezone": null
+        },
+        {
+            "id": 2360380068,
+            "name": "Summerlin South",
+            "alt_names": [],
+            "latitude": 36.11708,
+            "longitude": -115.33001,
+            "timezone": null
+        },
+        {
+            "id": 2360380069,
+            "name": "Sun Valley",
+            "alt_names": [],
+            "latitude": 39.5963,
+            "longitude": -119.77602,
+            "timezone": null
+        },
+        {
+            "id": 2360380070,
+            "name": "Sunrise Manor",
+            "alt_names": [],
+            "latitude": 36.21108,
+            "longitude": -115.07306,
+            "timezone": null
+        },
+        {
+            "id": 2360380071,
+            "name": "Tonopah",
+            "alt_names": [],
+            "latitude": 38.06716,
+            "longitude": -117.23008,
+            "timezone": null
+        },
+        {
+            "id": 2360380072,
+            "name": "Topaz Ranch Estates",
+            "alt_names": [],
+            "latitude": 38.73565,
+            "longitude": -119.50079,
+            "timezone": null
+        },
+        {
+            "id": 2360380073,
+            "name": "Verdi",
+            "alt_names": [],
+            "latitude": 39.51824,
+            "longitude": -119.98881,
+            "timezone": null
+        },
+        {
+            "id": 2360380074,
+            "name": "Virginia City",
+            "alt_names": [],
+            "latitude": 39.30963,
+            "longitude": -119.64962,
+            "timezone": null
+        },
+        {
+            "id": 2360380075,
+            "name": "Washoe County",
+            "alt_names": [],
+            "latitude": 40.66542,
+            "longitude": -119.6643,
+            "timezone": null
+        },
+        {
+            "id": 2360380076,
+            "name": "Wells",
+            "alt_names": [],
+            "latitude": 41.11159,
+            "longitude": -114.96449,
+            "timezone": null
+        },
+        {
+            "id": 2360380077,
+            "name": "West Wendover",
+            "alt_names": [],
+            "latitude": 40.7391,
+            "longitude": -114.07335,
+            "timezone": null
+        },
+        {
+            "id": 2360380078,
+            "name": "White Pine County",
+            "alt_names": [],
+            "latitude": 39.44216,
+            "longitude": -114.90159,
+            "timezone": null
+        },
+        {
+            "id": 2360380079,
+            "name": "Whitney",
+            "alt_names": [],
+            "latitude": 36.09831,
+            "longitude": -115.0363,
+            "timezone": null
+        },
+        {
+            "id": 2360380080,
+            "name": "Winchester",
+            "alt_names": [],
+            "latitude": 36.12997,
+            "longitude": -115.11889,
+            "timezone": null
+        },
+        {
+            "id": 2360380081,
+            "name": "Winnemucca",
+            "alt_names": [],
+            "latitude": 40.97296,
+            "longitude": -117.73568,
+            "timezone": null
+        },
+        {
+            "id": 2360380082,
+            "name": "Yerington",
+            "alt_names": [],
+            "latitude": 38.98575,
+            "longitude": -119.16293,
+            "timezone": null
+        }
+    ]
+}

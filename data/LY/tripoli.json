@@ -1,0 +1,39 @@
+{
+    "id": 123018,
+    "name": "Tripoli",
+    "alt_names": [],
+    "state_code": "TB",
+    "latitude": 32.6408021,
+    "longitude": 13.2663479,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230180001,
+            "name": "Tagiura",
+            "alt_names": [],
+            "latitude": 32.88167,
+            "longitude": 13.35056,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230180002,
+            "name": "Tripoli",
+            "alt_names": [],
+            "latitude": 32.88743,
+            "longitude": 13.18733,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

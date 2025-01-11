@@ -1,0 +1,53 @@
+{
+    "id": 238015,
+    "name": "Salto",
+    "alt_names": [],
+    "state_code": "SA",
+    "latitude": -31.388028,
+    "longitude": -57.9612455,
+    "type": "department",
+    "cities": [
+        {
+            "id": 2380150001,
+            "name": "Belén",
+            "alt_names": [],
+            "latitude": -30.78716,
+            "longitude": -57.77577,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380150002,
+            "name": "Salto",
+            "alt_names": [],
+            "latitude": -31.38333,
+            "longitude": -57.96667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380150003,
+            "name": "Villa Constitución",
+            "alt_names": [],
+            "latitude": -31.06913,
+            "longitude": -57.84946,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 80009,
+    "name": "Woleu-Ntem",
+    "alt_names": [],
+    "state_code": "9",
+    "latitude": 2.2989827,
+    "longitude": 11.4466914,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800090001,
+            "name": "Bitam",
+            "alt_names": [],
+            "latitude": 2.07597,
+            "longitude": 11.50065,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800090002,
+            "name": "Mitzic",
+            "alt_names": [],
+            "latitude": 0.78205,
+            "longitude": 11.54904,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800090003,
+            "name": "Oyem",
+            "alt_names": [],
+            "latitude": 1.5995,
+            "longitude": 11.57933,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 93003,
+    "name": "Bolama",
+    "alt_names": [],
+    "state_code": "BL",
+    "latitude": 11.1480591,
+    "longitude": -16.1345705,
+    "type": "region",
+    "cities": [
+        {
+            "id": 930030001,
+            "name": "Bolama",
+            "alt_names": [],
+            "latitude": 11.57694,
+            "longitude": -15.47611,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 930030002,
+            "name": "Bubaque",
+            "alt_names": [],
+            "latitude": 11.28333,
+            "longitude": -15.83333,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

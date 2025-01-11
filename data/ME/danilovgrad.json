@@ -1,0 +1,39 @@
+{
+    "id": 145006,
+    "name": "Danilovgrad",
+    "alt_names": [],
+    "state_code": "07",
+    "latitude": 42.58357,
+    "longitude": 19.140438,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1450060001,
+            "name": "Danilovgrad",
+            "alt_names": [],
+            "latitude": 42.55384,
+            "longitude": 19.14608,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450060002,
+            "name": "Spuž",
+            "alt_names": [],
+            "latitude": 42.515,
+            "longitude": 19.195,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "id": 34025,
+    "name": "Veliko Tarnovo",
+    "alt_names": [],
+    "state_code": "04",
+    "latitude": 43.0756539,
+    "longitude": 25.61715,
+    "type": "district",
+    "cities": [
+        {
+            "id": 340250001,
+            "name": "Byala Cherkva",
+            "alt_names": [],
+            "latitude": 43.2,
+            "longitude": 25.3,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250002,
+            "name": "Debelets",
+            "alt_names": [],
+            "latitude": 43.03333,
+            "longitude": 25.61667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250003,
+            "name": "Elena",
+            "alt_names": [],
+            "latitude": 42.93333,
+            "longitude": 25.88333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250004,
+            "name": "Gorna Oryahovitsa",
+            "alt_names": [],
+            "latitude": 43.12778,
+            "longitude": 25.70167,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250005,
+            "name": "Kilifarevo",
+            "alt_names": [],
+            "latitude": 42.98333,
+            "longitude": 25.63333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250006,
+            "name": "Lyaskovets",
+            "alt_names": [],
+            "latitude": 43.11111,
+            "longitude": 25.72833,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250007,
+            "name": "Obshtina Elena",
+            "alt_names": [],
+            "latitude": 42.91667,
+            "longitude": 25.95,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250008,
+            "name": "Obshtina Gorna Oryahovitsa",
+            "alt_names": [],
+            "latitude": 43.21667,
+            "longitude": 25.75,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250009,
+            "name": "Obshtina Lyaskovets",
+            "alt_names": [],
+            "latitude": 43.13333,
+            "longitude": 25.85,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250010,
+            "name": "Obshtina Pavlikeni",
+            "alt_names": [],
+            "latitude": 43.28333,
+            "longitude": 25.35,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250011,
+            "name": "Obshtina Polski Trambesh",
+            "alt_names": [],
+            "latitude": 43.35,
+            "longitude": 25.58333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250012,
+            "name": "Obshtina Strazhitsa",
+            "alt_names": [],
+            "latitude": 43.26667,
+            "longitude": 25.98333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250013,
+            "name": "Obshtina Suhindol",
+            "alt_names": [],
+            "latitude": 43.16667,
+            "longitude": 25.2,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250014,
+            "name": "Obshtina Svishtov",
+            "alt_names": [],
+            "latitude": 43.53333,
+            "longitude": 25.35,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250015,
+            "name": "Obshtina Veliko Tŭrnovo",
+            "alt_names": [],
+            "latitude": 43.08241,
+            "longitude": 25.63202,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250016,
+            "name": "Obshtina Zlataritsa",
+            "alt_names": [],
+            "latitude": 43.06667,
+            "longitude": 25.98333,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250017,
+            "name": "Parvomaytsi",
+            "alt_names": [],
+            "latitude": 43.15,
+            "longitude": 25.65,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250018,
+            "name": "Pavlikeni",
+            "alt_names": [],
+            "latitude": 43.24278,
+            "longitude": 25.32194,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250019,
+            "name": "Polski Trambesh",
+            "alt_names": [],
+            "latitude": 43.37233,
+            "longitude": 25.63525,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250020,
+            "name": "Strazhitsa",
+            "alt_names": [],
+            "latitude": 43.23333,
+            "longitude": 25.96667,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250021,
+            "name": "Suhindol",
+            "alt_names": [],
+            "latitude": 43.19167,
+            "longitude": 25.18111,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250022,
+            "name": "Svishtov",
+            "alt_names": [],
+            "latitude": 43.61875,
+            "longitude": 25.35033,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250023,
+            "name": "Veliko Tŭrnovo",
+            "alt_names": [],
+            "latitude": 43.08124,
+            "longitude": 25.62904,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 340250024,
+            "name": "Zlataritsa",
+            "alt_names": [],
+            "latitude": 43.05,
+            "longitude": 25.9,
+            "timezone": {
+                "zoneName": "Europe/Sofia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 133011,
+    "name": "Għajnsielem",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 36.0247966,
+    "longitude": 14.2802961,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330110001,
+            "name": "Għajnsielem",
+            "alt_names": [],
+            "latitude": 36.02639,
+            "longitude": 14.285,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330110002,
+            "name": "Ħal Għargħur",
+            "alt_names": [],
+            "latitude": 35.92409,
+            "longitude": 14.45118,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

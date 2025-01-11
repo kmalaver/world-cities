@@ -1,0 +1,39 @@
+{
+    "id": 7007,
+    "name": "Cuanza Norte",
+    "alt_names": [],
+    "state_code": "CNO",
+    "latitude": -9.2398513,
+    "longitude": 14.6587821,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70070001,
+            "name": "Camabatela",
+            "alt_names": [],
+            "latitude": -8.18812,
+            "longitude": 15.37495,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70070002,
+            "name": "N’dalatando",
+            "alt_names": [],
+            "latitude": -9.29782,
+            "longitude": 14.91162,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

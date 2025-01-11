@@ -1,0 +1,39 @@
+{
+    "id": 220013,
+    "name": "Freeport",
+    "alt_names": [],
+    "state_code": "FP",
+    "latitude": 42.2966861,
+    "longitude": -89.6212271,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2200130001,
+            "name": "Freeport",
+            "alt_names": [],
+            "latitude": 26.53333,
+            "longitude": -78.7,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        },
+        {
+            "id": 2200130002,
+            "name": "Lucaya",
+            "alt_names": [],
+            "latitude": 26.53333,
+            "longitude": -78.66667,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        }
+    ]
+}

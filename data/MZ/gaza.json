@@ -1,0 +1,67 @@
+{
+    "id": 148002,
+    "name": "Gaza",
+    "alt_names": [],
+    "state_code": "G",
+    "latitude": -23.0221928,
+    "longitude": 32.7181375,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480020001,
+            "name": "Chibuto",
+            "alt_names": [],
+            "latitude": -24.68667,
+            "longitude": 33.53056,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480020002,
+            "name": "Chokwé",
+            "alt_names": [],
+            "latitude": -24.53333,
+            "longitude": 32.98333,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480020003,
+            "name": "Macia",
+            "alt_names": [],
+            "latitude": -25.02694,
+            "longitude": 33.09889,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480020004,
+            "name": "Xai-Xai",
+            "alt_names": [],
+            "latitude": -25.05194,
+            "longitude": 33.64417,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

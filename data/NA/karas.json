@@ -1,0 +1,109 @@
+{
+    "id": 150003,
+    "name": "Karas",
+    "alt_names": [],
+    "state_code": "KA",
+    "latitude": -26.8429645,
+    "longitude": 17.2902839,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500030001,
+            "name": "Bethanie",
+            "alt_names": [],
+            "latitude": -26.48333,
+            "longitude": 17.15,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030002,
+            "name": "Karasburg",
+            "alt_names": [],
+            "latitude": -28.01667,
+            "longitude": 18.75,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030003,
+            "name": "Keetmanshoop",
+            "alt_names": [],
+            "latitude": -26.58333,
+            "longitude": 18.13333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030004,
+            "name": "Lüderitz",
+            "alt_names": [],
+            "latitude": -26.64807,
+            "longitude": 15.15383,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030005,
+            "name": "Oranjemund",
+            "alt_names": [],
+            "latitude": -28.55,
+            "longitude": 16.43333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030006,
+            "name": "Tses",
+            "alt_names": [],
+            "latitude": -25.88333,
+            "longitude": 18,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500030007,
+            "name": "Warmbad",
+            "alt_names": [],
+            "latitude": -28.45,
+            "longitude": 18.73333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

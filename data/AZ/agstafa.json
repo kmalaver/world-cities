@@ -1,0 +1,53 @@
+{
+    "id": 16005,
+    "name": "Agstafa",
+    "alt_names": [],
+    "state_code": "AGA",
+    "latitude": 41.2655933,
+    "longitude": 45.5134291,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160050001,
+            "name": "Aghstafa",
+            "alt_names": [],
+            "latitude": 41.11889,
+            "longitude": 45.45389,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160050002,
+            "name": "Saloğlu",
+            "alt_names": [],
+            "latitude": 41.27524,
+            "longitude": 45.35293,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160050003,
+            "name": "Vurğun",
+            "alt_names": [],
+            "latitude": 41.09524,
+            "longitude": 45.47111,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

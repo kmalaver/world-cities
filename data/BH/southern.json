@@ -1,0 +1,53 @@
+{
+    "id": 17005,
+    "name": "Southern",
+    "alt_names": [],
+    "state_code": "14",
+    "latitude": 25.9381018,
+    "longitude": 50.5756887,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 170050001,
+            "name": "Ar Rifā‘",
+            "alt_names": [],
+            "latitude": 26.13,
+            "longitude": 50.555,
+            "timezone": {
+                "zoneName": "Asia/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 170050002,
+            "name": "Dār Kulayb",
+            "alt_names": [],
+            "latitude": 26.06861,
+            "longitude": 50.50389,
+            "timezone": {
+                "zoneName": "Asia/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 170050003,
+            "name": "Madīnat ‘Īsá",
+            "alt_names": [],
+            "latitude": 26.17361,
+            "longitude": 50.54778,
+            "timezone": {
+                "zoneName": "Asia/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

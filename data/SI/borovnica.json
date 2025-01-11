@@ -1,0 +1,39 @@
+{
+    "id": 201010,
+    "name": "Borovnica",
+    "alt_names": [],
+    "state_code": "005",
+    "latitude": 45.9044525,
+    "longitude": 14.3824189,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010100001,
+            "name": "Borovnica",
+            "alt_names": [],
+            "latitude": 45.91583,
+            "longitude": 14.36306,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010100002,
+            "name": "Makole",
+            "alt_names": [],
+            "latitude": 46.31722,
+            "longitude": 15.66722,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

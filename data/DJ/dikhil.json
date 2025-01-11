@@ -1,0 +1,39 @@
+{
+    "id": 61003,
+    "name": "Dikhil",
+    "alt_names": [],
+    "state_code": "DI",
+    "latitude": 11.1054336,
+    "longitude": 42.3704744,
+    "type": "region",
+    "cities": [
+        {
+            "id": 610030001,
+            "name": "Dikhil",
+            "alt_names": [],
+            "latitude": 11.10454,
+            "longitude": 42.36971,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 610030002,
+            "name": "Gâlâfi",
+            "alt_names": [],
+            "latitude": 11.71583,
+            "longitude": 41.83611,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

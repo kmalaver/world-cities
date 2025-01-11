@@ -1,0 +1,39 @@
+{
+    "id": 4038,
+    "name": "Naama",
+    "alt_names": [],
+    "state_code": "45",
+    "latitude": 33.2667317,
+    "longitude": -0.3128659,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40380001,
+            "name": "Aïn Sefra",
+            "alt_names": [],
+            "latitude": 32.75,
+            "longitude": -0.58333,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40380002,
+            "name": "Naama",
+            "alt_names": [],
+            "latitude": 33.26667,
+            "longitude": -0.31667,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

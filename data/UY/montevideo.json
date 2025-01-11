@@ -1,0 +1,949 @@
+{
+    "id": 238010,
+    "name": "Montevideo",
+    "alt_names": [],
+    "state_code": "MO",
+    "latitude": -34.8181587,
+    "longitude": -56.2138256,
+    "type": "department",
+    "cities": [
+        {
+            "id": 2380100001,
+            "name": "Aires Puros",
+            "alt_names": [],
+            "latitude": -34.852,
+            "longitude": -56.183,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100002,
+            "name": "Arroyo Seco",
+            "alt_names": [],
+            "latitude": -34.804,
+            "longitude": -56.277,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100003,
+            "name": "Atahualpa",
+            "alt_names": [],
+            "latitude": -34.809,
+            "longitude": -56.23,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100004,
+            "name": "Bañados de Carrasco",
+            "alt_names": [],
+            "latitude": -34.821,
+            "longitude": -56.067,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100005,
+            "name": "Barra de Carrasco",
+            "alt_names": [],
+            "latitude": -34.884,
+            "longitude": -56.047,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100006,
+            "name": "Barrio Sur",
+            "alt_names": [],
+            "latitude": -34.908,
+            "longitude": -56.194,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100007,
+            "name": "Bella Italia",
+            "alt_names": [],
+            "latitude": -34.856,
+            "longitude": -56.155,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100008,
+            "name": "Bella Vista",
+            "alt_names": [],
+            "latitude": -34.87527778,
+            "longitude": -56.18666667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100009,
+            "name": "Belvedere",
+            "alt_names": [],
+            "latitude": -34.85155556,
+            "longitude": -56.21611111,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100010,
+            "name": "Buceo",
+            "alt_names": [],
+            "latitude": -34.9,
+            "longitude": -56.13305556,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100011,
+            "name": "Capurro",
+            "alt_names": [],
+            "latitude": -34.905,
+            "longitude": -56.217,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100012,
+            "name": "Carrasco",
+            "alt_names": [],
+            "latitude": -34.88333333,
+            "longitude": -56.06666667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100013,
+            "name": "Carrasco Norte",
+            "alt_names": [],
+            "latitude": -34.868,
+            "longitude": -56.043,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100014,
+            "name": "Casabó",
+            "alt_names": [],
+            "latitude": -34.86388889,
+            "longitude": -56.34111111,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100015,
+            "name": "Casavalle",
+            "alt_names": [],
+            "latitude": -34.843,
+            "longitude": -56.203,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100016,
+            "name": "Centro",
+            "alt_names": [],
+            "latitude": -34.90361111,
+            "longitude": -56.18833333,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100017,
+            "name": "Cerrito",
+            "alt_names": [],
+            "latitude": -34.815,
+            "longitude": -56.225,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100018,
+            "name": "Cerro",
+            "alt_names": [],
+            "latitude": -34.88444444,
+            "longitude": -56.25138889,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100019,
+            "name": "Ciudad Vieja",
+            "alt_names": [],
+            "latitude": -34.908,
+            "longitude": -56.204,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100020,
+            "name": "Colón",
+            "alt_names": [],
+            "latitude": -34.865,
+            "longitude": -56.18,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100021,
+            "name": "Conciliación",
+            "alt_names": [],
+            "latitude": -34.82361111,
+            "longitude": -56.23194444,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100022,
+            "name": "Cordón",
+            "alt_names": [],
+            "latitude": -34.9,
+            "longitude": -56.17858333,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100023,
+            "name": "Flor de Maroñas",
+            "alt_names": [],
+            "latitude": -34.85055556,
+            "longitude": -56.12472222,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100024,
+            "name": "Goes",
+            "alt_names": [],
+            "latitude": -34.875,
+            "longitude": -56.192,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100025,
+            "name": "Ituzaingó",
+            "alt_names": [],
+            "latitude": -34.8475,
+            "longitude": -56.14361111,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100026,
+            "name": "Jacinto Vera",
+            "alt_names": [],
+            "latitude": -34.883,
+            "longitude": -56.166,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100027,
+            "name": "Jardines del Hipódromo",
+            "alt_names": [],
+            "latitude": -34.881,
+            "longitude": -56.153,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100028,
+            "name": "La Blanqueada",
+            "alt_names": [],
+            "latitude": -34.897,
+            "longitude": -56.185,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100029,
+            "name": "La Comercial",
+            "alt_names": [],
+            "latitude": -34.894,
+            "longitude": -56.197,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100030,
+            "name": "La Figurita",
+            "alt_names": [],
+            "latitude": -34.886,
+            "longitude": -56.203,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100031,
+            "name": "La Teja",
+            "alt_names": [],
+            "latitude": -34.862,
+            "longitude": -56.236,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100032,
+            "name": "La Unión",
+            "alt_names": [],
+            "latitude": -34.87861111,
+            "longitude": -56.13583333,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100033,
+            "name": "Larrañaga",
+            "alt_names": [],
+            "latitude": -34.861,
+            "longitude": -56.163,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100034,
+            "name": "Las Acacias",
+            "alt_names": [],
+            "latitude": -34.855,
+            "longitude": -56.17,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100035,
+            "name": "Lezica",
+            "alt_names": [],
+            "latitude": -34.846,
+            "longitude": -56.223,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100036,
+            "name": "Malvín",
+            "alt_names": [],
+            "latitude": -34.89352778,
+            "longitude": -56.09994444,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100037,
+            "name": "Malvín Norte",
+            "alt_names": [],
+            "latitude": -34.878,
+            "longitude": -56.083,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100038,
+            "name": "Manga",
+            "alt_names": [],
+            "latitude": -34.80722222,
+            "longitude": -56.13805556,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100039,
+            "name": "Marconi",
+            "alt_names": [],
+            "latitude": -34.862,
+            "longitude": -56.147,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100040,
+            "name": "Maroñas",
+            "alt_names": [],
+            "latitude": -34.86338889,
+            "longitude": -56.12963889,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100041,
+            "name": "Melilla",
+            "alt_names": [],
+            "latitude": -34.837,
+            "longitude": -56.259,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100042,
+            "name": "Mercado Modelo",
+            "alt_names": [],
+            "latitude": -34.856,
+            "longitude": -56.202,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100043,
+            "name": "Montevideo",
+            "alt_names": [],
+            "latitude": -34.90328,
+            "longitude": -56.18816,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100044,
+            "name": "Nuevo París",
+            "alt_names": [],
+            "latitude": -34.83333333,
+            "longitude": -56.25,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100045,
+            "name": "Pajas Blancas",
+            "alt_names": [],
+            "latitude": -34.80167,
+            "longitude": -56.33417,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100046,
+            "name": "Palermo",
+            "alt_names": [],
+            "latitude": -34.903,
+            "longitude": -56.182,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100047,
+            "name": "Parque Batlle",
+            "alt_names": [],
+            "latitude": -34.9,
+            "longitude": -56.18,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100048,
+            "name": "Parque Rodó",
+            "alt_names": [],
+            "latitude": -34.908,
+            "longitude": -56.171,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100049,
+            "name": "Paso de la Arena",
+            "alt_names": [],
+            "latitude": -34.861,
+            "longitude": -56.239,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100050,
+            "name": "Paso Molino",
+            "alt_names": [],
+            "latitude": -34.85,
+            "longitude": -56.21666667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100051,
+            "name": "Peñarol",
+            "alt_names": [],
+            "latitude": -34.82519444,
+            "longitude": -56.19916667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100052,
+            "name": "Perez Castellanos",
+            "alt_names": [],
+            "latitude": -34.843,
+            "longitude": -56.213,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100053,
+            "name": "Piedras Blancas",
+            "alt_names": [],
+            "latitude": -34.82361111,
+            "longitude": -56.14027778,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100054,
+            "name": "Pocitos",
+            "alt_names": [],
+            "latitude": -34.90833333,
+            "longitude": -56.15,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100055,
+            "name": "Prado",
+            "alt_names": [],
+            "latitude": -34.856,
+            "longitude": -56.204,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100056,
+            "name": "Punta Carretas",
+            "alt_names": [],
+            "latitude": -34.92188889,
+            "longitude": -56.15944444,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100057,
+            "name": "Punta de Rieles",
+            "alt_names": [],
+            "latitude": -34.847,
+            "longitude": -56.252,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100058,
+            "name": "Punta Espinillo",
+            "alt_names": [],
+            "latitude": -34.835,
+            "longitude": -56.286,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100059,
+            "name": "Punta Gorda",
+            "alt_names": [],
+            "latitude": -34.88647222,
+            "longitude": -56.08983333,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100060,
+            "name": "Reducto",
+            "alt_names": [],
+            "latitude": -34.87831944,
+            "longitude": -56.18957778,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100061,
+            "name": "Santiago Vázquez",
+            "alt_names": [],
+            "latitude": -34.79028,
+            "longitude": -56.35,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100062,
+            "name": "Sayago",
+            "alt_names": [],
+            "latitude": -34.83583333,
+            "longitude": -56.2125,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100063,
+            "name": "Tres Cruces",
+            "alt_names": [],
+            "latitude": -34.89583333,
+            "longitude": -56.16805556,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100064,
+            "name": "Tres Ombues",
+            "alt_names": [],
+            "latitude": -34.766,
+            "longitude": -56.33,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100065,
+            "name": "Villa Española",
+            "alt_names": [],
+            "latitude": -34.86388889,
+            "longitude": -56.14472222,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100066,
+            "name": "Villa García",
+            "alt_names": [],
+            "latitude": -34.78111,
+            "longitude": -56.05333,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380100067,
+            "name": "Villa Muñoz",
+            "alt_names": [],
+            "latitude": -34.88781389,
+            "longitude": -56.17701389,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        }
+    ]
+}

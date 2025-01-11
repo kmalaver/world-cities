@@ -1,0 +1,39 @@
+{
+    "id": 22005,
+    "name": "Stann Creek",
+    "alt_names": [],
+    "state_code": "SC",
+    "latitude": 16.8116631,
+    "longitude": -88.4016041,
+    "type": "district",
+    "cities": [
+        {
+            "id": 220050001,
+            "name": "Dangriga",
+            "alt_names": [],
+            "latitude": 16.9697,
+            "longitude": -88.23313,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220050002,
+            "name": "Placencia",
+            "alt_names": [],
+            "latitude": 16.51419,
+            "longitude": -88.36647,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        }
+    ]
+}

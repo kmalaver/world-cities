@@ -1,0 +1,25 @@
+{
+    "id": 1024,
+    "name": "Nuristan",
+    "alt_names": [],
+    "state_code": "NUR",
+    "latitude": 35.3250223,
+    "longitude": 70.9071236,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10240001,
+            "name": "Pārūn",
+            "alt_names": [],
+            "latitude": 35.42064,
+            "longitude": 70.92261,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

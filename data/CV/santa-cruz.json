@@ -1,0 +1,39 @@
+{
+    "id": 40015,
+    "name": "Santa Cruz",
+    "alt_names": [],
+    "state_code": "CR",
+    "latitude": 36.9741171,
+    "longitude": -122.0307963,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 400150001,
+            "name": "Pedra Badejo",
+            "alt_names": [],
+            "latitude": 15.1375,
+            "longitude": -23.53083,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        },
+        {
+            "id": 400150002,
+            "name": "Santa Cruz",
+            "alt_names": [],
+            "latitude": 15.13333,
+            "longitude": -23.56667,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        }
+    ]
+}

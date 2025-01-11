@@ -1,0 +1,53 @@
+{
+    "id": 122012,
+    "name": "Nimba",
+    "alt_names": [],
+    "state_code": "NI",
+    "latitude": 7.6166667,
+    "longitude": -8.4166667,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1220120001,
+            "name": "Ganta",
+            "alt_names": [],
+            "latitude": 7.30222,
+            "longitude": -8.53083,
+            "timezone": {
+                "zoneName": "Africa/Monrovia",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1220120002,
+            "name": "New Yekepa",
+            "alt_names": [],
+            "latitude": 7.57944,
+            "longitude": -8.53778,
+            "timezone": {
+                "zoneName": "Africa/Monrovia",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1220120003,
+            "name": "Sanniquellie",
+            "alt_names": [],
+            "latitude": 7.36215,
+            "longitude": -8.71326,
+            "timezone": {
+                "zoneName": "Africa/Monrovia",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 63009,
+    "name": "Hato Mayor",
+    "alt_names": [],
+    "state_code": "30",
+    "latitude": 18.7635799,
+    "longitude": -69.2557637,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630090001,
+            "name": "El Valle",
+            "alt_names": [],
+            "latitude": 18.93333,
+            "longitude": -69.38333,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630090002,
+            "name": "Guayabo Dulce",
+            "alt_names": [],
+            "latitude": 18.65,
+            "longitude": -69.28333,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630090003,
+            "name": "Hato Mayor del Rey",
+            "alt_names": [],
+            "latitude": 18.76278,
+            "longitude": -69.25681,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630090004,
+            "name": "Sabana de la Mar",
+            "alt_names": [],
+            "latitude": 19.03333,
+            "longitude": -69.41667,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

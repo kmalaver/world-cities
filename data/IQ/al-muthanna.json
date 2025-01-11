@@ -1,0 +1,39 @@
+{
+    "id": 104002,
+    "name": "Al Muthanna",
+    "alt_names": [],
+    "state_code": "MU",
+    "latitude": 29.9133171,
+    "longitude": 45.2993862,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040020001,
+            "name": "Ar Rumaythah",
+            "alt_names": [],
+            "latitude": 31.52845,
+            "longitude": 45.20377,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040020002,
+            "name": "As Samawah",
+            "alt_names": [],
+            "latitude": 31.33198,
+            "longitude": 45.2944,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

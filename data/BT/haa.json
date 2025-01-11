@@ -1,0 +1,53 @@
+{
+    "id": 25005,
+    "name": "Haa ",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 27.2651669,
+    "longitude": 89.1705998,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250050001,
+            "name": "Ha",
+            "alt_names": [],
+            "latitude": 27.38747,
+            "longitude": 89.28074,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250050002,
+            "name": "Naktsang",
+            "alt_names": [],
+            "latitude": 27.3833,
+            "longitude": 89.2667,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250050003,
+            "name": "Sangkari",
+            "alt_names": [],
+            "latitude": 27.3,
+            "longitude": 89.3167,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

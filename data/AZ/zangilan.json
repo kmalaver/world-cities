@@ -1,0 +1,39 @@
+{
+    "id": 16073,
+    "name": "Zangilan",
+    "alt_names": [],
+    "state_code": "ZAN",
+    "latitude": 39.0856899,
+    "longitude": 46.6524728,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160730001,
+            "name": "Mincivan",
+            "alt_names": [],
+            "latitude": 39.03023,
+            "longitude": 46.72329,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160730002,
+            "name": "Zangilan",
+            "alt_names": [],
+            "latitude": 39.08371,
+            "longitude": 46.65988,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

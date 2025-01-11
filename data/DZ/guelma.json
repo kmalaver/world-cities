@@ -1,0 +1,53 @@
+{
+    "id": 4026,
+    "name": "Guelma",
+    "alt_names": [],
+    "state_code": "24",
+    "latitude": 36.4627444,
+    "longitude": 7.4330833,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40260001,
+            "name": "Boumahra Ahmed",
+            "alt_names": [],
+            "latitude": 36.45833,
+            "longitude": 7.51389,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40260002,
+            "name": "Guelma",
+            "alt_names": [],
+            "latitude": 36.46214,
+            "longitude": 7.42608,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40260003,
+            "name": "Héliopolis",
+            "alt_names": [],
+            "latitude": 36.50361,
+            "longitude": 7.44278,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

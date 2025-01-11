@@ -1,0 +1,25 @@
+{
+    "id": 210005,
+    "name": "East Darfur",
+    "alt_names": [],
+    "state_code": "DE",
+    "latitude": 14.3782747,
+    "longitude": 24.9042208,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100050001,
+            "name": "El Daein",
+            "alt_names": [],
+            "latitude": 11.46186,
+            "longitude": 26.12583,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

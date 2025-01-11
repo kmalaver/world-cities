@@ -1,0 +1,39 @@
+{
+    "id": 203005,
+    "name": "Bay",
+    "alt_names": [],
+    "state_code": "BY",
+    "latitude": 37.0365534,
+    "longitude": -95.6174767,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030050001,
+            "name": "Baidoa",
+            "alt_names": [],
+            "latitude": 3.11383,
+            "longitude": 43.6498,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030050002,
+            "name": "Buurhakaba",
+            "alt_names": [],
+            "latitude": 2.80257,
+            "longitude": 44.07805,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

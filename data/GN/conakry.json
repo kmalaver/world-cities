@@ -1,0 +1,39 @@
+{
+    "id": 92005,
+    "name": "Conakry",
+    "alt_names": [],
+    "state_code": "C",
+    "latitude": 9.6411855,
+    "longitude": -13.5784012,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 920050001,
+            "name": "Camayenne",
+            "alt_names": [],
+            "latitude": 9.535,
+            "longitude": -13.68778,
+            "timezone": {
+                "zoneName": "Africa/Conakry",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 920050002,
+            "name": "Conakry",
+            "alt_names": [],
+            "latitude": 9.53795,
+            "longitude": -13.67729,
+            "timezone": {
+                "zoneName": "Africa/Conakry",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 122011,
+    "name": "Montserrado",
+    "alt_names": [],
+    "state_code": "MO",
+    "latitude": 6.5525815,
+    "longitude": -10.5296115,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1220110001,
+            "name": "Bensonville",
+            "alt_names": [],
+            "latitude": 6.44716,
+            "longitude": -10.61283,
+            "timezone": {
+                "zoneName": "Africa/Monrovia",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1220110002,
+            "name": "Monrovia",
+            "alt_names": [],
+            "latitude": 6.30054,
+            "longitude": -10.7969,
+            "timezone": {
+                "zoneName": "Africa/Monrovia",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

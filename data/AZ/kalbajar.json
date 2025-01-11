@@ -1,0 +1,39 @@
+{
+    "id": 16028,
+    "name": "Kalbajar",
+    "alt_names": [],
+    "state_code": "KAL",
+    "latitude": 40.1024329,
+    "longitude": 46.0364872,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160280001,
+            "name": "Kerbakhiar",
+            "alt_names": [],
+            "latitude": 40.10984,
+            "longitude": 46.04446,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160280002,
+            "name": "Vank",
+            "alt_names": [],
+            "latitude": 40.05275,
+            "longitude": 46.54419,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

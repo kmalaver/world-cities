@@ -1,0 +1,53 @@
+{
+    "id": 210003,
+    "name": "Blue Nile",
+    "alt_names": [],
+    "state_code": "NB",
+    "latitude": 47.598673,
+    "longitude": -122.334419,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100030001,
+            "name": "Ad-Damazin",
+            "alt_names": [],
+            "latitude": 11.7891,
+            "longitude": 34.3592,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100030002,
+            "name": "Ar Ruseris",
+            "alt_names": [],
+            "latitude": 11.8659,
+            "longitude": 34.3869,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100030003,
+            "name": "Kurmuk",
+            "alt_names": [],
+            "latitude": 10.55,
+            "longitude": 34.28333,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

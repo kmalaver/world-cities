@@ -1,0 +1,39 @@
+{
+    "id": 16019,
+    "name": "Goranboy",
+    "alt_names": [],
+    "state_code": "GOR",
+    "latitude": 40.5380506,
+    "longitude": 46.5990891,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160190001,
+            "name": "Goranboy",
+            "alt_names": [],
+            "latitude": 40.61028,
+            "longitude": 46.78972,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160190002,
+            "name": "Qızılhacılı",
+            "alt_names": [],
+            "latitude": 40.57362,
+            "longitude": 46.849,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

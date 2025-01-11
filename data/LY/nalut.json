@@ -1,0 +1,39 @@
+{
+    "id": 123014,
+    "name": "Nalut",
+    "alt_names": [],
+    "state_code": "NL",
+    "latitude": 31.8742348,
+    "longitude": 10.9750484,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230140001,
+            "name": "Ghadāmis",
+            "alt_names": [],
+            "latitude": 30.13366,
+            "longitude": 9.50072,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230140002,
+            "name": "Nālūt",
+            "alt_names": [],
+            "latitude": 31.86848,
+            "longitude": 10.9812,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

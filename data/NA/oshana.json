@@ -1,0 +1,53 @@
+{
+    "id": 150011,
+    "name": "Oshana",
+    "alt_names": [],
+    "state_code": "ON",
+    "latitude": -18.4305064,
+    "longitude": 15.6881788,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500110001,
+            "name": "Ondangwa",
+            "alt_names": [],
+            "latitude": -17.91667,
+            "longitude": 15.95,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500110002,
+            "name": "Ongwediva",
+            "alt_names": [],
+            "latitude": -17.78333,
+            "longitude": 15.76667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500110003,
+            "name": "Oshakati",
+            "alt_names": [],
+            "latitude": -17.78833,
+            "longitude": 15.70436,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

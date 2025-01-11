@@ -1,0 +1,39 @@
+{
+    "id": 178003,
+    "name": "Al Rayyan",
+    "alt_names": [],
+    "state_code": "RA",
+    "latitude": 25.2522551,
+    "longitude": 51.4388713,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1780030001,
+            "name": "Ar Rayyān",
+            "alt_names": [],
+            "latitude": 25.29194,
+            "longitude": 51.42444,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1780030002,
+            "name": "Umm Bāb",
+            "alt_names": [],
+            "latitude": 25.21417,
+            "longitude": 50.80722,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

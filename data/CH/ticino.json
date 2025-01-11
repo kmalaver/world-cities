@@ -1,0 +1,893 @@
+{
+    "id": 214021,
+    "name": "Ticino",
+    "alt_names": [],
+    "state_code": "TI",
+    "latitude": 46.331734,
+    "longitude": 8.8004529,
+    "type": "canton",
+    "cities": [
+        {
+            "id": 2140210001,
+            "name": "Acquarossa",
+            "alt_names": [],
+            "latitude": 46.45473,
+            "longitude": 8.94261,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210002,
+            "name": "Agno",
+            "alt_names": [],
+            "latitude": 45.99863,
+            "longitude": 8.9003,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210003,
+            "name": "Airolo",
+            "alt_names": [],
+            "latitude": 46.52855,
+            "longitude": 8.61189,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210004,
+            "name": "Arzo",
+            "alt_names": [],
+            "latitude": 45.87606,
+            "longitude": 8.94103,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210005,
+            "name": "Ascona",
+            "alt_names": [],
+            "latitude": 46.15451,
+            "longitude": 8.77327,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210006,
+            "name": "Balerna",
+            "alt_names": [],
+            "latitude": 45.84638,
+            "longitude": 9.00724,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210007,
+            "name": "Bellinzona",
+            "alt_names": [],
+            "latitude": 46.19278,
+            "longitude": 9.01703,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210008,
+            "name": "Bellinzona District",
+            "alt_names": [],
+            "latitude": 46.18858,
+            "longitude": 9.00254,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210009,
+            "name": "Biasca",
+            "alt_names": [],
+            "latitude": 46.35972,
+            "longitude": 8.96965,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210010,
+            "name": "Bioggio",
+            "alt_names": [],
+            "latitude": 46.01357,
+            "longitude": 8.91103,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210011,
+            "name": "Blenio District",
+            "alt_names": [],
+            "latitude": 46.47613,
+            "longitude": 8.94609,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210012,
+            "name": "Bodio",
+            "alt_names": [],
+            "latitude": 46.37808,
+            "longitude": 8.90991,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210013,
+            "name": "Brissago",
+            "alt_names": [],
+            "latitude": 46.12013,
+            "longitude": 8.71181,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210014,
+            "name": "Cadempino",
+            "alt_names": [],
+            "latitude": 46.03672,
+            "longitude": 8.93403,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210015,
+            "name": "Cadenazzo",
+            "alt_names": [],
+            "latitude": 46.15172,
+            "longitude": 8.94719,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210016,
+            "name": "Cadro",
+            "alt_names": [],
+            "latitude": 46.04595,
+            "longitude": 8.98725,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210017,
+            "name": "Camorino",
+            "alt_names": [],
+            "latitude": 46.16483,
+            "longitude": 9.00547,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210018,
+            "name": "Canobbio",
+            "alt_names": [],
+            "latitude": 46.03592,
+            "longitude": 8.96605,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210019,
+            "name": "Caslano",
+            "alt_names": [],
+            "latitude": 45.97364,
+            "longitude": 8.87739,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210020,
+            "name": "Castel San Pietro",
+            "alt_names": [],
+            "latitude": 45.86211,
+            "longitude": 9.00843,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210021,
+            "name": "Cevio",
+            "alt_names": [],
+            "latitude": 46.31479,
+            "longitude": 8.60332,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210022,
+            "name": "Chiasso",
+            "alt_names": [],
+            "latitude": 45.83203,
+            "longitude": 9.03119,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210023,
+            "name": "Claro",
+            "alt_names": [],
+            "latitude": 46.25763,
+            "longitude": 9.02252,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210024,
+            "name": "Comano",
+            "alt_names": [],
+            "latitude": 46.03635,
+            "longitude": 8.95526,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210025,
+            "name": "Cugnasco",
+            "alt_names": [],
+            "latitude": 46.17473,
+            "longitude": 8.91684,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210026,
+            "name": "Faido",
+            "alt_names": [],
+            "latitude": 46.477,
+            "longitude": 8.80125,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210027,
+            "name": "Giubiasco",
+            "alt_names": [],
+            "latitude": 46.17246,
+            "longitude": 9.00793,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210028,
+            "name": "Gordola",
+            "alt_names": [],
+            "latitude": 46.18256,
+            "longitude": 8.86657,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210029,
+            "name": "Gravesano",
+            "alt_names": [],
+            "latitude": 46.04208,
+            "longitude": 8.91832,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210030,
+            "name": "Lavertezzo",
+            "alt_names": [],
+            "latitude": 46.25893,
+            "longitude": 8.83756,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210031,
+            "name": "Leventina District",
+            "alt_names": [],
+            "latitude": 46.46912,
+            "longitude": 8.75539,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210032,
+            "name": "Ligornetto",
+            "alt_names": [],
+            "latitude": 45.86161,
+            "longitude": 8.95166,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210033,
+            "name": "Locarno",
+            "alt_names": [],
+            "latitude": 46.17086,
+            "longitude": 8.79953,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210034,
+            "name": "Locarno District",
+            "alt_names": [],
+            "latitude": 46.18033,
+            "longitude": 8.75991,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210035,
+            "name": "Lodrino",
+            "alt_names": [],
+            "latitude": 46.30016,
+            "longitude": 8.97986,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210036,
+            "name": "Losone",
+            "alt_names": [],
+            "latitude": 46.16866,
+            "longitude": 8.75928,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210037,
+            "name": "Lugano",
+            "alt_names": [],
+            "latitude": 46.01008,
+            "longitude": 8.96004,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210038,
+            "name": "Lugano District",
+            "alt_names": [],
+            "latitude": 46.02322,
+            "longitude": 8.93802,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210039,
+            "name": "Lumino",
+            "alt_names": [],
+            "latitude": 46.2302,
+            "longitude": 9.0642,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210040,
+            "name": "Magadino",
+            "alt_names": [],
+            "latitude": 46.14892,
+            "longitude": 8.8561,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210041,
+            "name": "Malvaglia",
+            "alt_names": [],
+            "latitude": 46.40588,
+            "longitude": 8.9819,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210042,
+            "name": "Massagno",
+            "alt_names": [],
+            "latitude": 46.01257,
+            "longitude": 8.94354,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210043,
+            "name": "Melano",
+            "alt_names": [],
+            "latitude": 45.92202,
+            "longitude": 8.98435,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210044,
+            "name": "Melide",
+            "alt_names": [],
+            "latitude": 45.95455,
+            "longitude": 8.94725,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210045,
+            "name": "Mendrisio",
+            "alt_names": [],
+            "latitude": 45.87019,
+            "longitude": 8.9816,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210046,
+            "name": "Mendrisio District",
+            "alt_names": [],
+            "latitude": 45.86592,
+            "longitude": 8.99931,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210047,
+            "name": "Minusio",
+            "alt_names": [],
+            "latitude": 46.17769,
+            "longitude": 8.81473,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210048,
+            "name": "Montagnola",
+            "alt_names": [],
+            "latitude": 45.98323,
+            "longitude": 8.91786,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210049,
+            "name": "Monte Carasso",
+            "alt_names": [],
+            "latitude": 46.18649,
+            "longitude": 8.99892,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210050,
+            "name": "Morbio Inferiore",
+            "alt_names": [],
+            "latitude": 45.84915,
+            "longitude": 9.01907,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210051,
+            "name": "Muralto",
+            "alt_names": [],
+            "latitude": 46.17323,
+            "longitude": 8.80219,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210052,
+            "name": "Novazzano",
+            "alt_names": [],
+            "latitude": 45.84073,
+            "longitude": 8.98236,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210053,
+            "name": "Pregassona",
+            "alt_names": [],
+            "latitude": 46.02021,
+            "longitude": 8.97429,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210054,
+            "name": "Pura",
+            "alt_names": [],
+            "latitude": 45.98647,
+            "longitude": 8.86877,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210055,
+            "name": "Riva San Vitale",
+            "alt_names": [],
+            "latitude": 45.90123,
+            "longitude": 8.97167,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210056,
+            "name": "Riviera District",
+            "alt_names": [],
+            "latitude": 46.30926,
+            "longitude": 8.98148,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210057,
+            "name": "Sementina",
+            "alt_names": [],
+            "latitude": 46.18363,
+            "longitude": 8.99162,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210058,
+            "name": "Sorengo",
+            "alt_names": [],
+            "latitude": 45.99766,
+            "longitude": 8.93783,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210059,
+            "name": "Stabio",
+            "alt_names": [],
+            "latitude": 45.84846,
+            "longitude": 8.93642,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210060,
+            "name": "Tesserete",
+            "alt_names": [],
+            "latitude": 46.06813,
+            "longitude": 8.96501,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210061,
+            "name": "Vallemaggia District",
+            "alt_names": [],
+            "latitude": 46.35483,
+            "longitude": 8.6054,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210062,
+            "name": "Verscio",
+            "alt_names": [],
+            "latitude": 46.18482,
+            "longitude": 8.73224,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140210063,
+            "name": "Viganello",
+            "alt_names": [],
+            "latitude": 46.01342,
+            "longitude": 8.96879,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 149003,
+    "name": "Chin",
+    "alt_names": [],
+    "state_code": "14",
+    "latitude": 22.0086978,
+    "longitude": 93.5812692,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1490030001,
+            "name": "Falam",
+            "alt_names": [],
+            "latitude": 22.91335,
+            "longitude": 93.67779,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490030002,
+            "name": "Hakha",
+            "alt_names": [],
+            "latitude": 22.64452,
+            "longitude": 93.61076,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

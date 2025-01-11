@@ -1,0 +1,39 @@
+{
+    "id": 167006,
+    "name": "Koror",
+    "alt_names": [],
+    "state_code": "150",
+    "latitude": 7.3375646,
+    "longitude": 134.4889469,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1670060001,
+            "name": "Koror",
+            "alt_names": [],
+            "latitude": 7.33978,
+            "longitude": 134.47326,
+            "timezone": {
+                "zoneName": "Pacific/Palau",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "PWT",
+                "tzName": "Palau Time"
+            }
+        },
+        {
+            "id": 1670060002,
+            "name": "Koror Town",
+            "alt_names": [],
+            "latitude": 7.34257,
+            "longitude": 134.47888,
+            "timezone": {
+                "zoneName": "Pacific/Palau",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "PWT",
+                "tzName": "Palau Time"
+            }
+        }
+    ]
+}

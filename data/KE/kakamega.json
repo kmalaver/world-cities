@@ -1,0 +1,53 @@
+{
+    "id": 113011,
+    "name": "Kakamega",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 0.307894,
+    "longitude": 34.7740793,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130110001,
+            "name": "Butere",
+            "alt_names": [],
+            "latitude": 0.20694,
+            "longitude": 34.49006,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130110002,
+            "name": "Kakamega",
+            "alt_names": [],
+            "latitude": 0.28422,
+            "longitude": 34.75229,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130110003,
+            "name": "Mumias",
+            "alt_names": [],
+            "latitude": 0.33474,
+            "longitude": 34.48796,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

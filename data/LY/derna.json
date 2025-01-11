@@ -1,0 +1,39 @@
+{
+    "id": 123003,
+    "name": "Derna",
+    "alt_names": [],
+    "state_code": "DR",
+    "latitude": 32.755613,
+    "longitude": 22.6377432,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230030001,
+            "name": "Al Qubbah",
+            "alt_names": [],
+            "latitude": 32.75684,
+            "longitude": 22.24106,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230030002,
+            "name": "Darnah",
+            "alt_names": [],
+            "latitude": 32.76704,
+            "longitude": 22.63669,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

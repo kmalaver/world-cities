@@ -1,0 +1,39 @@
+{
+    "id": 211002,
+    "name": "Commewijne",
+    "alt_names": [],
+    "state_code": "CM",
+    "latitude": 5.740211,
+    "longitude": -54.8731219,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2110020001,
+            "name": "Mariënburg",
+            "alt_names": [],
+            "latitude": 5.87722,
+            "longitude": -55.04322,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        },
+        {
+            "id": 2110020002,
+            "name": "Nieuw Amsterdam",
+            "alt_names": [],
+            "latitude": 5.88573,
+            "longitude": -55.08871,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        }
+    ]
+}

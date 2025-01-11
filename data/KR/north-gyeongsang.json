@@ -1,0 +1,501 @@
+{
+    "id": 206010,
+    "name": "North Gyeongsang",
+    "alt_names": [],
+    "state_code": "47",
+    "latitude": 36.4919,
+    "longitude": 128.8889,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2060100001,
+            "name": "Andong",
+            "alt_names": [],
+            "latitude": 36.56636,
+            "longitude": 128.72275,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100002,
+            "name": "Andong-si",
+            "alt_names": [],
+            "latitude": 36.56667,
+            "longitude": 128.71667,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100003,
+            "name": "Bonghwa-gun",
+            "alt_names": [],
+            "latitude": 36.88951,
+            "longitude": 128.73573,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100004,
+            "name": "Cheongdo-gun",
+            "alt_names": [],
+            "latitude": 35.67166,
+            "longitude": 128.78509,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100005,
+            "name": "Cheongsong gun",
+            "alt_names": [],
+            "latitude": 36.43351,
+            "longitude": 129.057,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100006,
+            "name": "Cheongsong-gun",
+            "alt_names": [],
+            "latitude": 36.43288,
+            "longitude": 129.05159,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100007,
+            "name": "Chilgok-gun",
+            "alt_names": [],
+            "latitude": 36.01512,
+            "longitude": 128.46138,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100008,
+            "name": "Eisen",
+            "alt_names": [],
+            "latitude": 36.82167,
+            "longitude": 128.63083,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100009,
+            "name": "Gimcheon",
+            "alt_names": [],
+            "latitude": 36.12176,
+            "longitude": 128.11981,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100010,
+            "name": "Gimcheon-si",
+            "alt_names": [],
+            "latitude": 36.14481,
+            "longitude": 128.11157,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100011,
+            "name": "Goryeong-gun",
+            "alt_names": [],
+            "latitude": 35.74959,
+            "longitude": 128.29707,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100012,
+            "name": "Gumi-si",
+            "alt_names": [],
+            "latitude": 36.21009,
+            "longitude": 128.35442,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100013,
+            "name": "Gunwi-gun",
+            "alt_names": [],
+            "latitude": 36.16995,
+            "longitude": 128.64705,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100014,
+            "name": "Gyeongju",
+            "alt_names": [],
+            "latitude": 35.84278,
+            "longitude": 129.21167,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100015,
+            "name": "Gyeongsan-si",
+            "alt_names": [],
+            "latitude": 35.83333,
+            "longitude": 128.8,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100016,
+            "name": "Hayang",
+            "alt_names": [],
+            "latitude": 35.91333,
+            "longitude": 128.82,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100017,
+            "name": "Heunghae",
+            "alt_names": [],
+            "latitude": 36.10945,
+            "longitude": 129.34517,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100018,
+            "name": "Jenzan",
+            "alt_names": [],
+            "latitude": 36.24083,
+            "longitude": 128.2975,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100019,
+            "name": "Kunwi",
+            "alt_names": [],
+            "latitude": 36.23472,
+            "longitude": 128.57278,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100020,
+            "name": "Mungyeong",
+            "alt_names": [],
+            "latitude": 36.59458,
+            "longitude": 128.19946,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100021,
+            "name": "Mungyeong-si",
+            "alt_names": [],
+            "latitude": 36.58755,
+            "longitude": 128.18624,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100022,
+            "name": "Pohang",
+            "alt_names": [],
+            "latitude": 36.02917,
+            "longitude": 129.36481,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100023,
+            "name": "Pohang-si",
+            "alt_names": [],
+            "latitude": 36.08333,
+            "longitude": 129.36667,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100024,
+            "name": "Sangju",
+            "alt_names": [],
+            "latitude": 36.41528,
+            "longitude": 128.16056,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100025,
+            "name": "Seongju-gun",
+            "alt_names": [],
+            "latitude": 35.91888,
+            "longitude": 128.28838,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100026,
+            "name": "Uiseong-gun",
+            "alt_names": [],
+            "latitude": 36.36122,
+            "longitude": 128.61517,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100027,
+            "name": "Uljin-gun",
+            "alt_names": [],
+            "latitude": 36.91968,
+            "longitude": 129.31966,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100028,
+            "name": "Ulleung-gun",
+            "alt_names": [],
+            "latitude": 37.50442,
+            "longitude": 130.86084,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100029,
+            "name": "Waegwan",
+            "alt_names": [],
+            "latitude": 35.99251,
+            "longitude": 128.39785,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100030,
+            "name": "Yecheon-gun",
+            "alt_names": [],
+            "latitude": 36.65272,
+            "longitude": 128.43007,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100031,
+            "name": "Yeongcheon-si",
+            "alt_names": [],
+            "latitude": 36,
+            "longitude": 129,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100032,
+            "name": "Yeongdeok-gun",
+            "alt_names": [],
+            "latitude": 36.48125,
+            "longitude": 129.31078,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100033,
+            "name": "Yeongju-si",
+            "alt_names": [],
+            "latitude": 36.87459,
+            "longitude": 128.58631,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100034,
+            "name": "Yeongyang-gun",
+            "alt_names": [],
+            "latitude": 36.69592,
+            "longitude": 129.14196,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060100035,
+            "name": "Yeonil",
+            "alt_names": [],
+            "latitude": 35.99526,
+            "longitude": 129.35162,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        }
+    ]
+}

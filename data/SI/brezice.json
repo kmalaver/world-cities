@@ -1,0 +1,39 @@
+{
+    "id": 201014,
+    "name": "Brežice",
+    "alt_names": [],
+    "state_code": "009",
+    "latitude": 45.9041096,
+    "longitude": 15.5943639,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010140001,
+            "name": "Brežice",
+            "alt_names": [],
+            "latitude": 45.90333,
+            "longitude": 15.59111,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010140002,
+            "name": "Poljčane",
+            "alt_names": [],
+            "latitude": 46.31194,
+            "longitude": 15.57917,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 67002,
+    "name": "Bioko Norte",
+    "alt_names": [],
+    "state_code": "BN",
+    "latitude": 3.6595072,
+    "longitude": 8.7921836,
+    "type": "province",
+    "cities": [
+        {
+            "id": 670020001,
+            "name": "Malabo",
+            "alt_names": [],
+            "latitude": 3.75578,
+            "longitude": 8.78166,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 670020002,
+            "name": "Rebola",
+            "alt_names": [],
+            "latitude": 3.71667,
+            "longitude": 8.83333,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 670020003,
+            "name": "Santiago de Baney",
+            "alt_names": [],
+            "latitude": 3.6992,
+            "longitude": 8.9084,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": 168,
+    "name": "Palestinian Territory Occupied",
+    "iso3": "PSE",
+    "iso2": "PS",
+    "numeric_code": "275",
+    "phonecode": "970",
+    "capital": "East Jerusalem",
+    "currency": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "tld": ".ps",
+    "native": "فلسطين",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "translations": {
+        "de": "Palästina",
+        "es": "Palestina",
+        "fa": "فلسطین",
+        "fr": "Palestine",
+        "hr": "Palestina",
+        "it": "Palestina",
+        "ja": "パレスチナ",
+        "ko": "팔레스타인 영토",
+        "nl": "Palestijnse gebieden",
+        "pl": "Okupowane terytorium palestyńskie",
+        "pt": "Palestina",
+        "pt-BR": "Palestina",
+        "ru": "Оккупированная палестинская территория",
+        "tr": "Filistin",
+        "uk": "Окупована палестинська територія",
+        "zh-CN": "巴勒斯坦"
+    },
+    "latitude": 31.9,
+    "longitude": 35.2,
+    "emoji": "🇵🇸",
+    "emojiU": "U+1F1F5 U+1F1F8",
+    "timezones": [
+        {
+            "zoneName": "Asia/Gaza",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        },
+        {
+            "zoneName": "Asia/Hebron",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        }
+    ]
+}

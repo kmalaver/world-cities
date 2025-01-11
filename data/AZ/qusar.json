@@ -1,0 +1,39 @@
+{
+    "id": 16050,
+    "name": "Qusar",
+    "alt_names": [],
+    "state_code": "QUS",
+    "latitude": 41.4266886,
+    "longitude": 48.4345577,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160500001,
+            "name": "Qusar",
+            "alt_names": [],
+            "latitude": 41.4275,
+            "longitude": 48.4302,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160500002,
+            "name": "Samur",
+            "alt_names": [],
+            "latitude": 41.63671,
+            "longitude": 48.43028,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

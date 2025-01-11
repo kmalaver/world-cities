@@ -1,0 +1,67 @@
+{
+    "id": 228013,
+    "name": "Bartın",
+    "alt_names": [],
+    "state_code": "74",
+    "latitude": 41.5810509,
+    "longitude": 32.4609794,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2280130001,
+            "name": "Amasra",
+            "alt_names": [],
+            "latitude": 41.74633,
+            "longitude": 32.38633,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280130002,
+            "name": "Kurucaşile",
+            "alt_names": [],
+            "latitude": 41.83781,
+            "longitude": 32.71621,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280130003,
+            "name": "Merkez",
+            "alt_names": [],
+            "latitude": 41.63583,
+            "longitude": 32.3375,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280130004,
+            "name": "Ulus",
+            "alt_names": [],
+            "latitude": 41.59373,
+            "longitude": 32.65066,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

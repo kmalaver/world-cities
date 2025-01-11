@@ -1,0 +1,39 @@
+{
+    "id": 123013,
+    "name": "Murzuq",
+    "alt_names": [],
+    "state_code": "MQ",
+    "latitude": 25.9182262,
+    "longitude": 13.9260001,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230130001,
+            "name": "Al Qaţrūn",
+            "alt_names": [],
+            "latitude": 24.95139,
+            "longitude": 14.64861,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230130002,
+            "name": "Murzuq",
+            "alt_names": [],
+            "latitude": 25.91552,
+            "longitude": 13.91839,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

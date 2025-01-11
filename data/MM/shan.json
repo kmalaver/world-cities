@@ -1,0 +1,53 @@
+{
+    "id": 149013,
+    "name": "Shan",
+    "alt_names": [],
+    "state_code": "17",
+    "latitude": 22.0361985,
+    "longitude": 98.1338558,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1490130001,
+            "name": "Lashio",
+            "alt_names": [],
+            "latitude": 22.9359,
+            "longitude": 97.7498,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490130002,
+            "name": "Tachilek",
+            "alt_names": [],
+            "latitude": 20.4475,
+            "longitude": 99.88083,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490130003,
+            "name": "Taunggyi",
+            "alt_names": [],
+            "latitude": 20.78919,
+            "longitude": 97.03776,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 17003,
+    "name": "Muharraq",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": 26.2685653,
+    "longitude": 50.6482517,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 170030001,
+            "name": "Al Ḩadd",
+            "alt_names": [],
+            "latitude": 26.24556,
+            "longitude": 50.65417,
+            "timezone": {
+                "zoneName": "Asia/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 170030002,
+            "name": "Al Muharraq",
+            "alt_names": [],
+            "latitude": 26.25722,
+            "longitude": 50.61194,
+            "timezone": {
+                "zoneName": "Asia/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

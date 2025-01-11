@@ -1,0 +1,39 @@
+{
+    "id": 142001,
+    "name": "Anenii Noi",
+    "alt_names": [],
+    "state_code": "AN",
+    "latitude": 46.8795663,
+    "longitude": 29.2312175,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420010001,
+            "name": "Anenii Noi",
+            "alt_names": [],
+            "latitude": 46.87839,
+            "longitude": 29.23483,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420010002,
+            "name": "Varniţa",
+            "alt_names": [],
+            "latitude": 46.86606,
+            "longitude": 29.46636,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

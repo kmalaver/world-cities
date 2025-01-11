@@ -1,0 +1,39 @@
+{
+    "id": 93001,
+    "name": "Bafatá",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 12.1735243,
+    "longitude": -14.652952,
+    "type": "region",
+    "cities": [
+        {
+            "id": 930010001,
+            "name": "Bafatá",
+            "alt_names": [],
+            "latitude": 12.16583,
+            "longitude": -14.66167,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 930010002,
+            "name": "Contuboel Sector",
+            "alt_names": [],
+            "latitude": 12.555,
+            "longitude": -14.641,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

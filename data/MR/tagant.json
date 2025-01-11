@@ -1,0 +1,53 @@
+{
+    "id": 137013,
+    "name": "Tagant",
+    "alt_names": [],
+    "state_code": "09",
+    "latitude": 18.5467527,
+    "longitude": -9.9018131,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370130001,
+            "name": "Moudjeria",
+            "alt_names": [],
+            "latitude": 17.9795514,
+            "longitude": -13.3979534,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370130002,
+            "name": "Tichit",
+            "alt_names": [],
+            "latitude": 18.4968626,
+            "longitude": -12.1219935,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370130003,
+            "name": "Tijigja",
+            "alt_names": [],
+            "latitude": 18.5164787,
+            "longitude": -12.9826476,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 178002,
+    "name": "Al Khor",
+    "alt_names": [],
+    "state_code": "KH",
+    "latitude": 25.6804078,
+    "longitude": 51.4968502,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1780020001,
+            "name": "Al Ghuwayrīyah",
+            "alt_names": [],
+            "latitude": 25.82882,
+            "longitude": 51.24567,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1780020002,
+            "name": "Al Khawr",
+            "alt_names": [],
+            "latitude": 25.68389,
+            "longitude": 51.50583,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

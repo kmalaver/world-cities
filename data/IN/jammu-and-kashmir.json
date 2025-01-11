@@ -1,0 +1,767 @@
+{
+    "id": 101014,
+    "name": "Jammu and Kashmir",
+    "alt_names": [],
+    "state_code": "JK",
+    "latitude": 33.277839,
+    "longitude": 75.3412179,
+    "type": "union territory",
+    "cities": [
+        {
+            "id": 1010140001,
+            "name": "Akhnur",
+            "alt_names": [],
+            "latitude": 32.86667,
+            "longitude": 74.73333,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140002,
+            "name": "Anantnag",
+            "alt_names": [],
+            "latitude": 33.73068,
+            "longitude": 75.15418,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140003,
+            "name": "Awantipur",
+            "alt_names": [],
+            "latitude": 33.91978,
+            "longitude": 75.01515,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140004,
+            "name": "Badgam",
+            "alt_names": [],
+            "latitude": 33.89001,
+            "longitude": 74.66297,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140005,
+            "name": "Bandipore",
+            "alt_names": [],
+            "latitude": 34.50404,
+            "longitude": 74.82832,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140006,
+            "name": "Banihal",
+            "alt_names": [],
+            "latitude": 33.43647,
+            "longitude": 75.19684,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140007,
+            "name": "Baramula",
+            "alt_names": [],
+            "latitude": 34.19287,
+            "longitude": 74.3692,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140008,
+            "name": "Batoti",
+            "alt_names": [],
+            "latitude": 33.11826,
+            "longitude": 75.30889,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140009,
+            "name": "Bhadarwah",
+            "alt_names": [],
+            "latitude": 32.97941,
+            "longitude": 75.71723,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140010,
+            "name": "Bijbehara",
+            "alt_names": [],
+            "latitude": 33.79378,
+            "longitude": 75.107,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140011,
+            "name": "Bishnah",
+            "alt_names": [],
+            "latitude": 32.6106,
+            "longitude": 74.85557,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140012,
+            "name": "Doda",
+            "alt_names": [],
+            "latitude": 33.14916,
+            "longitude": 75.54746,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140013,
+            "name": "Ganderbal",
+            "alt_names": [],
+            "latitude": 34.29467,
+            "longitude": 75.19996,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140014,
+            "name": "Gho Brahmanan de",
+            "alt_names": [],
+            "latitude": 32.5559,
+            "longitude": 74.9539,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140015,
+            "name": "Hajan",
+            "alt_names": [],
+            "latitude": 34.29895,
+            "longitude": 74.61681,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140016,
+            "name": "Hiranagar",
+            "alt_names": [],
+            "latitude": 32.45493,
+            "longitude": 75.27187,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140017,
+            "name": "Jammu",
+            "alt_names": [],
+            "latitude": 32.75,
+            "longitude": 74.83333,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140018,
+            "name": "Jaurian",
+            "alt_names": [],
+            "latitude": 32.83255,
+            "longitude": 74.57612,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140019,
+            "name": "Kathua",
+            "alt_names": [],
+            "latitude": 32.58333,
+            "longitude": 75.5,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140020,
+            "name": "Katra",
+            "alt_names": [],
+            "latitude": 32.99167,
+            "longitude": 74.93195,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140021,
+            "name": "Khaur",
+            "alt_names": [],
+            "latitude": 32.6027,
+            "longitude": 74.80918,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140022,
+            "name": "Kishtwar",
+            "alt_names": [],
+            "latitude": 33.52958,
+            "longitude": 76.01462,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140023,
+            "name": "Kud",
+            "alt_names": [],
+            "latitude": 33.07246,
+            "longitude": 75.28727,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140024,
+            "name": "Kulgam",
+            "alt_names": [],
+            "latitude": 33.64456,
+            "longitude": 75.01923,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140025,
+            "name": "Kupwara",
+            "alt_names": [],
+            "latitude": 34.53193,
+            "longitude": 74.26605,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140026,
+            "name": "Ladakh",
+            "alt_names": [],
+            "latitude": 34.33333,
+            "longitude": 77.41667,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140027,
+            "name": "Magam",
+            "alt_names": [],
+            "latitude": 34.09256,
+            "longitude": 74.59016,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140028,
+            "name": "Nawanshahr",
+            "alt_names": [],
+            "latitude": 32.76505,
+            "longitude": 74.52772,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140029,
+            "name": "Noria",
+            "alt_names": [],
+            "latitude": 32.52095,
+            "longitude": 74.79845,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140030,
+            "name": "Padam",
+            "alt_names": [],
+            "latitude": 33.46659,
+            "longitude": 76.88488,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140031,
+            "name": "Pahlgam",
+            "alt_names": [],
+            "latitude": 34.01592,
+            "longitude": 75.31899,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140032,
+            "name": "Parol",
+            "alt_names": [],
+            "latitude": 32.34598,
+            "longitude": 75.43441,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140033,
+            "name": "Pattan",
+            "alt_names": [],
+            "latitude": 34.16125,
+            "longitude": 74.55634,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140034,
+            "name": "Pulwama",
+            "alt_names": [],
+            "latitude": 33.87405,
+            "longitude": 74.89955,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140035,
+            "name": "Punch",
+            "alt_names": [],
+            "latitude": 33.70178,
+            "longitude": 74.19916,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140036,
+            "name": "Qazigund",
+            "alt_names": [],
+            "latitude": 33.63828,
+            "longitude": 75.14261,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140037,
+            "name": "Rajaori",
+            "alt_names": [],
+            "latitude": 33.37526,
+            "longitude": 74.3092,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140038,
+            "name": "Rajauri",
+            "alt_names": [],
+            "latitude": 33.25,
+            "longitude": 74.25,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140039,
+            "name": "Ramban",
+            "alt_names": [],
+            "latitude": 33.32301,
+            "longitude": 75.1861,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140040,
+            "name": "Ramgarh",
+            "alt_names": [],
+            "latitude": 33.40379,
+            "longitude": 74.22388,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140041,
+            "name": "Ramnagar",
+            "alt_names": [],
+            "latitude": 32.80728,
+            "longitude": 75.31119,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140042,
+            "name": "Riasi",
+            "alt_names": [],
+            "latitude": 33.08115,
+            "longitude": 74.83242,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140043,
+            "name": "Samba",
+            "alt_names": [],
+            "latitude": 32.57523,
+            "longitude": 75.10929,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140044,
+            "name": "Shupiyan",
+            "alt_names": [],
+            "latitude": 33.73067,
+            "longitude": 74.81869,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140045,
+            "name": "Sopur",
+            "alt_names": [],
+            "latitude": 34.28671,
+            "longitude": 74.47228,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140046,
+            "name": "Soyibug",
+            "alt_names": [],
+            "latitude": 34.07677,
+            "longitude": 74.7057,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140047,
+            "name": "Srinagar",
+            "alt_names": [],
+            "latitude": 34.08565,
+            "longitude": 74.80555,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140048,
+            "name": "Sumbal",
+            "alt_names": [],
+            "latitude": 34.23072,
+            "longitude": 74.6472,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140049,
+            "name": "Thang",
+            "alt_names": [],
+            "latitude": 34.9274,
+            "longitude": 76.79336,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140050,
+            "name": "Thanna Mandi",
+            "alt_names": [],
+            "latitude": 33.54204,
+            "longitude": 74.381,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140051,
+            "name": "Tral",
+            "alt_names": [],
+            "latitude": 33.92708,
+            "longitude": 75.11585,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140052,
+            "name": "Tsrar Sharif",
+            "alt_names": [],
+            "latitude": 33.86319,
+            "longitude": 74.76524,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140053,
+            "name": "Udhampur",
+            "alt_names": [],
+            "latitude": 33,
+            "longitude": 75.16667,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010140054,
+            "name": "Uri",
+            "alt_names": [],
+            "latitude": 34.08064,
+            "longitude": 74.05088,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

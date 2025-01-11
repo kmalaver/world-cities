@@ -1,0 +1,67 @@
+{
+    "id": 48033,
+    "name": "Vichada",
+    "alt_names": [],
+    "state_code": "VID",
+    "latitude": 4.4234452,
+    "longitude": -69.2877535,
+    "type": "department",
+    "cities": [
+        {
+            "id": 480330001,
+            "name": "Cumaribo",
+            "alt_names": [],
+            "latitude": 4.44552,
+            "longitude": -69.79897,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480330002,
+            "name": "La Primavera",
+            "alt_names": [],
+            "latitude": 5.49056,
+            "longitude": -70.40917,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480330003,
+            "name": "Puerto Carreño",
+            "alt_names": [],
+            "latitude": 6.18903,
+            "longitude": -67.48588,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        },
+        {
+            "id": 480330004,
+            "name": "Santa Rosalia",
+            "alt_names": [],
+            "latitude": 5.13356,
+            "longitude": -70.86233,
+            "timezone": {
+                "zoneName": "America/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        }
+    ]
+}

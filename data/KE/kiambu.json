@@ -1,0 +1,67 @@
+{
+    "id": 113013,
+    "name": "Kiambu",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": -1.0313701,
+    "longitude": 36.8680791,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130130001,
+            "name": "Kiambu",
+            "alt_names": [],
+            "latitude": -1.17139,
+            "longitude": 36.83556,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130130002,
+            "name": "Kikuyu",
+            "alt_names": [],
+            "latitude": -1.24627,
+            "longitude": 36.66291,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130130003,
+            "name": "Limuru",
+            "alt_names": [],
+            "latitude": -1.1136,
+            "longitude": 36.64205,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130130004,
+            "name": "Thika",
+            "alt_names": [],
+            "latitude": -1.03326,
+            "longitude": 37.06933,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

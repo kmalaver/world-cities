@@ -1,0 +1,39 @@
+{
+    "id": 133044,
+    "name": "Rabat",
+    "alt_names": [],
+    "state_code": "46",
+    "latitude": 33.9715904,
+    "longitude": -6.8498129,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330440001,
+            "name": "Baħrija",
+            "alt_names": [],
+            "latitude": 35.894722,
+            "longitude": 14.348333,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330440002,
+            "name": "Binġemma",
+            "alt_names": [],
+            "latitude": 35.902778,
+            "longitude": 14.377778,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

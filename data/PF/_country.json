@@ -1,0 +1,61 @@
+{
+    "id": 78,
+    "name": "French Polynesia",
+    "iso3": "PYF",
+    "iso2": "PF",
+    "numeric_code": "258",
+    "phonecode": "689",
+    "capital": "Papeete",
+    "currency": "XPF",
+    "currency_name": "CFP franc",
+    "currency_symbol": "₣",
+    "tld": ".pf",
+    "native": "Polynésie française",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "translations": {
+        "de": "Französisch-Polynesien",
+        "es": "Polinesia Francesa",
+        "fa": "پلی‌نزی فرانسه",
+        "fr": "Polynésie française",
+        "hr": "Francuska Polinezija",
+        "it": "Polinesia Francese",
+        "ja": "フランス領ポリネシア",
+        "ko": "프랑스령 폴리네시아",
+        "nl": "Frans-Polynesië",
+        "pl": "Polinezja Francuska",
+        "pt": "Polinésia Francesa",
+        "pt-BR": "Polinésia Francesa",
+        "ru": "Французская Полинезия",
+        "tr": "Fransiz Polinezyasi",
+        "uk": "Французька Полінезія",
+        "zh-CN": "法属波利尼西亚"
+    },
+    "latitude": -15,
+    "longitude": -140,
+    "emoji": "🇵🇫",
+    "emojiU": "U+1F1F5 U+1F1EB",
+    "timezones": [
+        {
+            "zoneName": "Pacific/Gambier",
+            "gmtOffset": -32400,
+            "gmtOffsetName": "UTC-09:00",
+            "abbreviation": "GAMT",
+            "tzName": "Gambier Islands Time"
+        },
+        {
+            "zoneName": "Pacific/Marquesas",
+            "gmtOffset": -34200,
+            "gmtOffsetName": "UTC-09:30",
+            "abbreviation": "MART",
+            "tzName": "Marquesas Islands Time"
+        },
+        {
+            "zoneName": "Pacific/Tahiti",
+            "gmtOffset": -36000,
+            "gmtOffsetName": "UTC-10:00",
+            "abbreviation": "TAHT",
+            "tzName": "Tahiti Time"
+        }
+    ]
+}

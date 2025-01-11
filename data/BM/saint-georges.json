@@ -1,0 +1,39 @@
+{
+    "id": 24005,
+    "name": "Saint George's",
+    "alt_names": [],
+    "state_code": "SGE",
+    "latitude": 17.1257759,
+    "longitude": -62.5619811,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 240050001,
+            "name": "St. George's",
+            "alt_names": [],
+            "latitude": 32.381,
+            "longitude": -64.674,
+            "timezone": {
+                "zoneName": "Atlantic/Bermuda",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 240050002,
+            "name": "Tucker’s Town",
+            "alt_names": [],
+            "latitude": 32.3328,
+            "longitude": 64.6881,
+            "timezone": {
+                "zoneName": "Atlantic/Bermuda",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

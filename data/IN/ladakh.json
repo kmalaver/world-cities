@@ -1,0 +1,39 @@
+{
+    "id": 101018,
+    "name": "Ladakh",
+    "alt_names": [],
+    "state_code": "LA",
+    "latitude": 34.2268475,
+    "longitude": 77.5619419,
+    "type": "union territory",
+    "cities": [
+        {
+            "id": 1010180001,
+            "name": "Kargil",
+            "alt_names": [],
+            "latitude": 34.55765,
+            "longitude": 76.12622,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010180002,
+            "name": "Leh",
+            "alt_names": [],
+            "latitude": 34.16504,
+            "longitude": 77.58402,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

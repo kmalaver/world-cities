@@ -1,0 +1,25 @@
+{
+    "id": 40020,
+    "name": "São Vicente",
+    "alt_names": [],
+    "state_code": "SV",
+    "latitude": -23.9607157,
+    "longitude": -46.3962022,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 400200001,
+            "name": "Mindelo",
+            "alt_names": [],
+            "latitude": 16.89014,
+            "longitude": -24.98042,
+            "timezone": {
+                "zoneName": "Atlantic/Cape_Verde",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "CVT",
+                "tzName": "Cape Verde Time"
+            }
+        }
+    ]
+}

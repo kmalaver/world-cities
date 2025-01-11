@@ -1,0 +1,39 @@
+{
+    "id": 43015,
+    "name": "Mayo-Kebbi Ouest",
+    "alt_names": [],
+    "state_code": "MO",
+    "latitude": 10.4113014,
+    "longitude": 15.5943388,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430150001,
+            "name": "Mboursou Léré",
+            "alt_names": [],
+            "latitude": 9.7639,
+            "longitude": 14.1539,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430150002,
+            "name": "Pala",
+            "alt_names": [],
+            "latitude": 9.3642,
+            "longitude": 14.9046,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

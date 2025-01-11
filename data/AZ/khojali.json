@@ -1,0 +1,39 @@
+{
+    "id": 16032,
+    "name": "Khojali",
+    "alt_names": [],
+    "state_code": "XCI",
+    "latitude": 39.9132553,
+    "longitude": 46.794305,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160320001,
+            "name": "Askyaran",
+            "alt_names": [],
+            "latitude": 39.9391,
+            "longitude": 46.83161,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160320002,
+            "name": "Xocalı",
+            "alt_names": [],
+            "latitude": 39.91297,
+            "longitude": 46.79028,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 16055,
+    "name": "Samukh",
+    "alt_names": [],
+    "state_code": "SMX",
+    "latitude": 40.7604631,
+    "longitude": 46.4063181,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160550001,
+            "name": "Qarayeri",
+            "alt_names": [],
+            "latitude": 40.78674,
+            "longitude": 46.31365,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160550002,
+            "name": "Qırmızı Samux",
+            "alt_names": [],
+            "latitude": 40.93972,
+            "longitude": 46.37889,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160550003,
+            "name": "Samux",
+            "alt_names": [],
+            "latitude": 40.76485,
+            "longitude": 46.40868,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

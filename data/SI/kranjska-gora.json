@@ -1,0 +1,39 @@
+{
+    "id": 201074,
+    "name": "Kranjska Gora",
+    "alt_names": [],
+    "state_code": "053",
+    "latitude": 46.4845293,
+    "longitude": 13.7857145,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010740001,
+            "name": "Kranjska Gora",
+            "alt_names": [],
+            "latitude": 46.45689,
+            "longitude": 13.77824,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010740002,
+            "name": "Mojstrana",
+            "alt_names": [],
+            "latitude": 46.42383,
+            "longitude": 13.8752,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

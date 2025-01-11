@@ -1,0 +1,39 @@
+{
+    "id": 62009,
+    "name": "Saint Paul",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 38.86146,
+    "longitude": -90.7435619,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 620090001,
+            "name": "Mahaut",
+            "alt_names": [],
+            "latitude": 15.36357,
+            "longitude": -61.39701,
+            "timezone": {
+                "zoneName": "America/Dominica",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 620090002,
+            "name": "Pont Cassé",
+            "alt_names": [],
+            "latitude": 15.36667,
+            "longitude": -61.35,
+            "timezone": {
+                "zoneName": "America/Dominica",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

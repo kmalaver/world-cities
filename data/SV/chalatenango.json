@@ -1,0 +1,39 @@
+{
+    "id": 66003,
+    "name": "Chalatenango",
+    "alt_names": [],
+    "state_code": "CH",
+    "latitude": 14.1916648,
+    "longitude": -89.1705998,
+    "type": "department",
+    "cities": [
+        {
+            "id": 660030001,
+            "name": "Chalatenango",
+            "alt_names": [],
+            "latitude": 14.03333,
+            "longitude": -88.93333,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        },
+        {
+            "id": 660030002,
+            "name": "Nueva Concepción",
+            "alt_names": [],
+            "latitude": 14.13333,
+            "longitude": -89.3,
+            "timezone": {
+                "zoneName": "America/El_Salvador",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 133023,
+    "name": "Lija",
+    "alt_names": [],
+    "state_code": "24",
+    "latitude": 49.180076,
+    "longitude": -123.103317,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330230001,
+            "name": "Ħal Lija",
+            "alt_names": [],
+            "latitude": 35.90056,
+            "longitude": 14.44639,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330230002,
+            "name": "Imtarfa",
+            "alt_names": [],
+            "latitude": 35.89333,
+            "longitude": 14.39889,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

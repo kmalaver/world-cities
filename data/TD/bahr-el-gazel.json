@@ -1,0 +1,25 @@
+{
+    "id": 43001,
+    "name": "Bahr el Gazel",
+    "alt_names": [],
+    "state_code": "BG",
+    "latitude": 14.7702266,
+    "longitude": 16.912251,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430010001,
+            "name": "Moussoro",
+            "alt_names": [],
+            "latitude": 13.64143,
+            "longitude": 16.48941,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

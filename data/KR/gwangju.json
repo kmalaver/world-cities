@@ -1,0 +1,53 @@
+{
+    "id": 206005,
+    "name": "Gwangju",
+    "alt_names": [],
+    "state_code": "29",
+    "latitude": 35.1595454,
+    "longitude": 126.8526012,
+    "type": "metropolitan city",
+    "cities": [
+        {
+            "id": 2060050001,
+            "name": "Gwangju",
+            "alt_names": [],
+            "latitude": 35.15472,
+            "longitude": 126.91556,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060050002,
+            "name": "Gwangsan-gu",
+            "alt_names": [],
+            "latitude": 35.16158,
+            "longitude": 126.8081,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060050003,
+            "name": "Masan",
+            "alt_names": [],
+            "latitude": 35.12725,
+            "longitude": 126.83149,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        }
+    ]
+}

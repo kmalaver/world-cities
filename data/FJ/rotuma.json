@@ -1,0 +1,25 @@
+{
+    "id": 74016,
+    "name": "Rotuma",
+    "alt_names": [],
+    "state_code": "R",
+    "latitude": -12.5025069,
+    "longitude": 177.0724164,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 740160001,
+            "name": "Rotuma",
+            "alt_names": [],
+            "latitude": -12.5025069,
+            "longitude": 177.0724164,
+            "timezone": {
+                "zoneName": "Pacific/Fiji",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "FJT",
+                "tzName": "Fiji Time"
+            }
+        }
+    ]
+}

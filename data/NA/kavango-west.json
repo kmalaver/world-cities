@@ -1,0 +1,25 @@
+{
+    "id": 150005,
+    "name": "Kavango West",
+    "alt_names": [],
+    "state_code": "KW",
+    "latitude": -18.271048,
+    "longitude": 18.4276047,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500050001,
+            "name": "Kavango West",
+            "alt_names": [],
+            "latitude": -18.271048,
+            "longitude": 18.4276047,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

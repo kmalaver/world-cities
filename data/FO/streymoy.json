@@ -1,0 +1,67 @@
+{
+    "id": 73004,
+    "name": "Streymoy",
+    "alt_names": [],
+    "state_code": "ST",
+    "latitude": 62.123382,
+    "longitude": -7.3264108,
+    "type": "region",
+    "cities": [
+        {
+            "id": 730040001,
+            "name": "Kvívík",
+            "alt_names": [],
+            "latitude": 62.1456,
+            "longitude": -7.2098,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730040002,
+            "name": "Sunda",
+            "alt_names": [],
+            "latitude": 62.1345,
+            "longitude": -7.0987,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730040003,
+            "name": "Tórshavn",
+            "alt_names": [],
+            "latitude": 62,
+            "longitude": -7,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730040004,
+            "name": "Vestmanna",
+            "alt_names": [],
+            "latitude": 62.1567,
+            "longitude": -7.2345,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        }
+    ]
+}

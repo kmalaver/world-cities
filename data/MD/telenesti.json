@@ -1,0 +1,39 @@
+{
+    "id": 142034,
+    "name": "Telenești",
+    "alt_names": [],
+    "state_code": "TE",
+    "latitude": 47.4983962,
+    "longitude": 28.3676019,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420340001,
+            "name": "Mîndreşti",
+            "alt_names": [],
+            "latitude": 47.50525,
+            "longitude": 28.27687,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420340002,
+            "name": "Teleneşti",
+            "alt_names": [],
+            "latitude": 47.5011,
+            "longitude": 28.36536,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 245002,
+    "name": "Saint John",
+    "alt_names": [],
+    "state_code": "SJ",
+    "latitude": 18.3356169,
+    "longitude": -64.80028,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2450020001,
+            "name": "Central",
+            "alt_names": [],
+            "latitude": 18.3356838,
+            "longitude": -64.7947078,
+            "timezone": {
+                "zoneName": "America/St_Thomas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2450020002,
+            "name": "Coral Bay",
+            "alt_names": [],
+            "latitude": 18.3480089,
+            "longitude": -64.7219682,
+            "timezone": {
+                "zoneName": "America/St_Thomas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2450020003,
+            "name": "Cruz Bay",
+            "alt_names": [],
+            "latitude": 18.3182037,
+            "longitude": -64.8024211,
+            "timezone": {
+                "zoneName": "America/St_Thomas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2450020004,
+            "name": "East End",
+            "alt_names": [],
+            "latitude": 18.3403647,
+            "longitude": -64.6806266,
+            "timezone": {
+                "zoneName": "America/St_Thomas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

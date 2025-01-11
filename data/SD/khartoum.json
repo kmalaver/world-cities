@@ -1,0 +1,39 @@
+{
+    "id": 210007,
+    "name": "Khartoum",
+    "alt_names": [],
+    "state_code": "KH",
+    "latitude": 15.5006544,
+    "longitude": 32.5598994,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100070001,
+            "name": "Khartoum",
+            "alt_names": [],
+            "latitude": 15.55177,
+            "longitude": 32.53241,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100070002,
+            "name": "Omdurman",
+            "alt_names": [],
+            "latitude": 15.64453,
+            "longitude": 32.47773,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

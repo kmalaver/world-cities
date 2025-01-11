@@ -1,0 +1,39 @@
+{
+    "id": 119033,
+    "name": "Saldus",
+    "alt_names": [],
+    "state_code": "088",
+    "latitude": 56.6665088,
+    "longitude": 22.4935493,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1190330001,
+            "name": "Brocēni",
+            "alt_names": [],
+            "latitude": 56.6789,
+            "longitude": 22.56945,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1190330002,
+            "name": "Saldus",
+            "alt_names": [],
+            "latitude": 56.66363,
+            "longitude": 22.48807,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

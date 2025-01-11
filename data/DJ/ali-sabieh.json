@@ -1,0 +1,53 @@
+{
+    "id": 61001,
+    "name": "Ali Sabieh",
+    "alt_names": [],
+    "state_code": "AS",
+    "latitude": 11.1928973,
+    "longitude": 42.941698,
+    "type": "region",
+    "cities": [
+        {
+            "id": 610010001,
+            "name": "'Ali Sabieh",
+            "alt_names": [],
+            "latitude": 11.15583,
+            "longitude": 42.7125,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 610010002,
+            "name": "Goubétto",
+            "alt_names": [],
+            "latitude": 11.42389,
+            "longitude": 43.00028,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 610010003,
+            "name": "Holhol",
+            "alt_names": [],
+            "latitude": 11.31028,
+            "longitude": 42.92944,
+            "timezone": {
+                "zoneName": "Africa/Djibouti",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

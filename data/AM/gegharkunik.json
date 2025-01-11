@@ -1,0 +1,515 @@
+{
+    "id": 12004,
+    "name": "Gegharkunik",
+    "alt_names": [],
+    "state_code": "GR",
+    "latitude": 40.3526426,
+    "longitude": 45.1260414,
+    "type": "region",
+    "cities": [
+        {
+            "id": 120040001,
+            "name": "Akunk’",
+            "alt_names": [],
+            "latitude": 40.15886,
+            "longitude": 45.72568,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040002,
+            "name": "Astghadzor",
+            "alt_names": [],
+            "latitude": 40.12231,
+            "longitude": 45.35553,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040003,
+            "name": "Chambarak",
+            "alt_names": [],
+            "latitude": 40.59655,
+            "longitude": 45.35498,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040004,
+            "name": "Ddmashen",
+            "alt_names": [],
+            "latitude": 40.57028,
+            "longitude": 44.82295,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040005,
+            "name": "Drakhtik",
+            "alt_names": [],
+            "latitude": 40.56497,
+            "longitude": 45.2367,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040006,
+            "name": "Dzoragyugh",
+            "alt_names": [],
+            "latitude": 40.16957,
+            "longitude": 45.18337,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040007,
+            "name": "Gagarin",
+            "alt_names": [],
+            "latitude": 40.54026,
+            "longitude": 44.86962,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040008,
+            "name": "Gandzak",
+            "alt_names": [],
+            "latitude": 40.31472,
+            "longitude": 45.11139,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040009,
+            "name": "Gavarr",
+            "alt_names": [],
+            "latitude": 40.35398,
+            "longitude": 45.12386,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040010,
+            "name": "Geghamasar",
+            "alt_names": [],
+            "latitude": 40.31091,
+            "longitude": 45.67924,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040011,
+            "name": "Geghamavan",
+            "alt_names": [],
+            "latitude": 40.5625,
+            "longitude": 44.88892,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040012,
+            "name": "Karanlukh",
+            "alt_names": [],
+            "latitude": 40.10444,
+            "longitude": 45.28972,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040013,
+            "name": "Karchaghbyur",
+            "alt_names": [],
+            "latitude": 40.17048,
+            "longitude": 45.57785,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040014,
+            "name": "Lanjaghbyur",
+            "alt_names": [],
+            "latitude": 40.26947,
+            "longitude": 45.14447,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040015,
+            "name": "Lchap’",
+            "alt_names": [],
+            "latitude": 40.45569,
+            "longitude": 45.07507,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040016,
+            "name": "Lchashen",
+            "alt_names": [],
+            "latitude": 40.51947,
+            "longitude": 44.93048,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040017,
+            "name": "Lichk’",
+            "alt_names": [],
+            "latitude": 40.15933,
+            "longitude": 45.23467,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040018,
+            "name": "Madina",
+            "alt_names": [],
+            "latitude": 40.07637,
+            "longitude": 45.25507,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040019,
+            "name": "Martuni",
+            "alt_names": [],
+            "latitude": 40.08333,
+            "longitude": 45.25,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040020,
+            "name": "Mets Masrik",
+            "alt_names": [],
+            "latitude": 40.21948,
+            "longitude": 45.76391,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040021,
+            "name": "Nerk’in Getashen",
+            "alt_names": [],
+            "latitude": 40.14172,
+            "longitude": 45.27087,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040022,
+            "name": "Noratus",
+            "alt_names": [],
+            "latitude": 40.37793,
+            "longitude": 45.18048,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040023,
+            "name": "Sarukhan",
+            "alt_names": [],
+            "latitude": 40.29169,
+            "longitude": 45.13068,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040024,
+            "name": "Sevan",
+            "alt_names": [],
+            "latitude": 40.5473,
+            "longitude": 44.94171,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040025,
+            "name": "Tsovagyugh",
+            "alt_names": [],
+            "latitude": 40.63348,
+            "longitude": 44.96112,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040026,
+            "name": "Tsovak",
+            "alt_names": [],
+            "latitude": 40.18254,
+            "longitude": 45.63286,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040027,
+            "name": "Tsovasar",
+            "alt_names": [],
+            "latitude": 40.1382,
+            "longitude": 45.19096,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040028,
+            "name": "Tsovazard",
+            "alt_names": [],
+            "latitude": 40.4751,
+            "longitude": 45.05011,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040029,
+            "name": "Tsovinar",
+            "alt_names": [],
+            "latitude": 40.15959,
+            "longitude": 45.46786,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040030,
+            "name": "Vaghashen",
+            "alt_names": [],
+            "latitude": 40.13611,
+            "longitude": 45.33069,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040031,
+            "name": "Vahan",
+            "alt_names": [],
+            "latitude": 40.57549,
+            "longitude": 45.39769,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040032,
+            "name": "Vardenik",
+            "alt_names": [],
+            "latitude": 40.13348,
+            "longitude": 45.44311,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040033,
+            "name": "Vardenis",
+            "alt_names": [],
+            "latitude": 40.18329,
+            "longitude": 45.73053,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040034,
+            "name": "Varser",
+            "alt_names": [],
+            "latitude": 40.55548,
+            "longitude": 44.90832,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040035,
+            "name": "Verin Getashen",
+            "alt_names": [],
+            "latitude": 40.13068,
+            "longitude": 45.25293,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        },
+        {
+            "id": 120040036,
+            "name": "Yeranos",
+            "alt_names": [],
+            "latitude": 40.20428,
+            "longitude": 45.19209,
+            "timezone": {
+                "zoneName": "Asia/Yerevan",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AMT",
+                "tzName": "Armenia Time"
+            }
+        }
+    ]
+}

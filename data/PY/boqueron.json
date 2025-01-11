@@ -1,0 +1,53 @@
+{
+    "id": 171005,
+    "name": "Boquerón",
+    "alt_names": [],
+    "state_code": "19",
+    "latitude": -21.7449254,
+    "longitude": -60.9540073,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1710050001,
+            "name": "Colonia Menno",
+            "alt_names": [],
+            "latitude": -22.36667,
+            "longitude": -59.81667,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710050002,
+            "name": "Colonia Neuland",
+            "alt_names": [],
+            "latitude": -22.66667,
+            "longitude": -60.11667,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710050003,
+            "name": "Filadelfia",
+            "alt_names": [],
+            "latitude": -22.33936,
+            "longitude": -60.03157,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        }
+    ]
+}

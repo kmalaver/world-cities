@@ -1,0 +1,81 @@
+{
+    "id": 29009,
+    "name": "South-East",
+    "alt_names": [],
+    "state_code": "SE",
+    "latitude": 31.2163798,
+    "longitude": -82.3527044,
+    "type": "district",
+    "cities": [
+        {
+            "id": 290090001,
+            "name": "Gaborone",
+            "alt_names": [],
+            "latitude": -24.76234,
+            "longitude": 25.7995,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290090002,
+            "name": "Janeng",
+            "alt_names": [],
+            "latitude": -25.41667,
+            "longitude": 25.55,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290090003,
+            "name": "Kopong",
+            "alt_names": [],
+            "latitude": -24.48333,
+            "longitude": 25.88333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290090004,
+            "name": "Otse",
+            "alt_names": [],
+            "latitude": -25.01667,
+            "longitude": 25.73333,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290090005,
+            "name": "Ramotswa",
+            "alt_names": [],
+            "latitude": -24.87158,
+            "longitude": 25.86989,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

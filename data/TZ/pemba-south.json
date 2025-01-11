@@ -1,0 +1,53 @@
+{
+    "id": 218019,
+    "name": "Pemba South",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": -5.3146961,
+    "longitude": 39.7549511,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2180190001,
+            "name": "Chake Chake",
+            "alt_names": [],
+            "latitude": -5.24586,
+            "longitude": 39.76659,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180190002,
+            "name": "Mtambile",
+            "alt_names": [],
+            "latitude": -5.38333,
+            "longitude": 39.7,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180190003,
+            "name": "Uwelini",
+            "alt_names": [],
+            "latitude": -5.4,
+            "longitude": 39.68333,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

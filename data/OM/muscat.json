@@ -1,0 +1,53 @@
+{
+    "id": 165013,
+    "name": "Muscat",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 23.5880307,
+    "longitude": 58.3828717,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1650130001,
+            "name": "Bawshar",
+            "alt_names": [],
+            "latitude": 23.57769,
+            "longitude": 58.39982,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 1650130002,
+            "name": "Muscat",
+            "alt_names": [],
+            "latitude": 23.58413,
+            "longitude": 58.40778,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 1650130003,
+            "name": "Seeb",
+            "alt_names": [],
+            "latitude": 23.67027,
+            "longitude": 58.18911,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

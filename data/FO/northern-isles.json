@@ -1,0 +1,81 @@
+{
+    "id": 73002,
+    "name": "Northern Isles",
+    "alt_names": [],
+    "state_code": "NO",
+    "latitude": 62.2805689,
+    "longitude": 6.7017061,
+    "type": "region",
+    "cities": [
+        {
+            "id": 730020001,
+            "name": "Fugloy",
+            "alt_names": [],
+            "latitude": 62.4567,
+            "longitude": -6.7234,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730020002,
+            "name": "Hvannasund",
+            "alt_names": [],
+            "latitude": 62.3456,
+            "longitude": -6.789,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730020003,
+            "name": "Klaksvík",
+            "alt_names": [],
+            "latitude": 62.221,
+            "longitude": -6.58,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730020004,
+            "name": "Kunoy",
+            "alt_names": [],
+            "latitude": 62.3456,
+            "longitude": -6.8901,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        },
+        {
+            "id": 730020005,
+            "name": "Viðareiði",
+            "alt_names": [],
+            "latitude": 62.4567,
+            "longitude": -6.7234,
+            "timezone": {
+                "zoneName": "Atlantic/Faroe",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        }
+    ]
+}

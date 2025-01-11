@@ -1,0 +1,81 @@
+{
+    "id": 111001,
+    "name": "Ajloun",
+    "alt_names": [],
+    "state_code": "AJ",
+    "latitude": 32.3325584,
+    "longitude": 35.7516844,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1110010001,
+            "name": "‘Ajlūn",
+            "alt_names": [],
+            "latitude": 32.33326,
+            "longitude": 35.75279,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110010002,
+            "name": "‘Anjarah",
+            "alt_names": [],
+            "latitude": 32.3063,
+            "longitude": 35.75653,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110010003,
+            "name": "‘Ayn Jannah",
+            "alt_names": [],
+            "latitude": 32.33466,
+            "longitude": 35.7637,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110010004,
+            "name": "Ḩalāwah",
+            "alt_names": [],
+            "latitude": 32.38433,
+            "longitude": 35.66167,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1110010005,
+            "name": "Şakhrah",
+            "alt_names": [],
+            "latitude": 32.37087,
+            "longitude": 35.84267,
+            "timezone": {
+                "zoneName": "Asia/Amman",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

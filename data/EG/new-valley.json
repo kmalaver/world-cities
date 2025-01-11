@@ -1,0 +1,39 @@
+{
+    "id": 65018,
+    "name": "New Valley",
+    "alt_names": [],
+    "state_code": "WAD",
+    "latitude": 24.5455638,
+    "longitude": 27.1735316,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650180001,
+            "name": "Al Khārijah",
+            "alt_names": [],
+            "latitude": 25.45141,
+            "longitude": 30.54635,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650180002,
+            "name": "Qaşr al Farāfirah",
+            "alt_names": [],
+            "latitude": 27.0568,
+            "longitude": 27.96979,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

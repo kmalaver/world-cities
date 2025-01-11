@@ -1,0 +1,39 @@
+{
+    "id": 142009,
+    "name": "Căușeni",
+    "alt_names": [],
+    "state_code": "CS",
+    "latitude": 46.6554715,
+    "longitude": 29.4091222,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420090001,
+            "name": "Căuşeni",
+            "alt_names": [],
+            "latitude": 46.63674,
+            "longitude": 29.41114,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420090002,
+            "name": "Chiţcani",
+            "alt_names": [],
+            "latitude": 46.78296,
+            "longitude": 29.61682,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

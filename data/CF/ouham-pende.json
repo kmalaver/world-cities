@@ -1,0 +1,53 @@
+{
+    "id": 42015,
+    "name": "Ouham-Pendé",
+    "alt_names": [],
+    "state_code": "OP",
+    "latitude": 6.4850984,
+    "longitude": 16.1580937,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420150001,
+            "name": "Bocaranga",
+            "alt_names": [],
+            "latitude": 6.76546,
+            "longitude": 15.77873,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420150002,
+            "name": "Bozoum",
+            "alt_names": [],
+            "latitude": 6.31933,
+            "longitude": 16.37992,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420150003,
+            "name": "Paoua",
+            "alt_names": [],
+            "latitude": 7.24269,
+            "longitude": 16.44059,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

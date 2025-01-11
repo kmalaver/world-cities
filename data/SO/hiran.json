@@ -1,0 +1,53 @@
+{
+    "id": 203008,
+    "name": "Hiran",
+    "alt_names": [],
+    "state_code": "HI",
+    "latitude": 4.321015,
+    "longitude": 45.2993862,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030080001,
+            "name": "Beledweyne",
+            "alt_names": [],
+            "latitude": 4.73583,
+            "longitude": 45.20361,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030080002,
+            "name": "Buulobarde",
+            "alt_names": [],
+            "latitude": 3.85375,
+            "longitude": 45.56744,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030080003,
+            "name": "Jalalaqsi",
+            "alt_names": [],
+            "latitude": 3.3766,
+            "longitude": 45.5996,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

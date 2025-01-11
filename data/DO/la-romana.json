@@ -1,0 +1,39 @@
+{
+    "id": 63013,
+    "name": "La Romana",
+    "alt_names": [],
+    "state_code": "12",
+    "latitude": 18.4310271,
+    "longitude": -68.9837373,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630130001,
+            "name": "Guaymate",
+            "alt_names": [],
+            "latitude": 18.58793,
+            "longitude": -68.97867,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630130002,
+            "name": "La Romana",
+            "alt_names": [],
+            "latitude": 18.42733,
+            "longitude": -68.97285,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

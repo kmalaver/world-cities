@@ -1,0 +1,53 @@
+{
+    "id": 22004,
+    "name": "Orange Walk",
+    "alt_names": [],
+    "state_code": "OW",
+    "latitude": 17.760353,
+    "longitude": -88.864698,
+    "type": "district",
+    "cities": [
+        {
+            "id": 220040001,
+            "name": "Hopelchén",
+            "alt_names": [],
+            "latitude": 17.8,
+            "longitude": -89.1,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220040002,
+            "name": "Orange Walk",
+            "alt_names": [],
+            "latitude": 18.08124,
+            "longitude": -88.56328,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220040003,
+            "name": "Shipyard",
+            "alt_names": [],
+            "latitude": 17.89382,
+            "longitude": -88.65452,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        }
+    ]
+}

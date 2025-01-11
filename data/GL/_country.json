@@ -1,0 +1,68 @@
+{
+    "id": 86,
+    "name": "Greenland",
+    "iso3": "GRL",
+    "iso2": "GL",
+    "numeric_code": "304",
+    "phonecode": "299",
+    "capital": "Nuuk",
+    "currency": "DKK",
+    "currency_name": "Danish krone",
+    "currency_symbol": "Kr.",
+    "tld": ".gl",
+    "native": "Kalaallit Nunaat",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "translations": {
+        "de": "Grönland",
+        "es": "Groenlandia",
+        "fa": "گرینلند",
+        "fr": "Groenland",
+        "hr": "Grenland",
+        "it": "Groenlandia",
+        "ja": "グリーンランド",
+        "ko": "그린란드",
+        "nl": "Groenland",
+        "pl": "Grenlandia",
+        "pt": "Gronelândia",
+        "pt-BR": "Groelândia",
+        "ru": "Гренландия",
+        "tr": "Grönland",
+        "uk": "Гренландія",
+        "zh-CN": "格陵兰岛"
+    },
+    "latitude": 72,
+    "longitude": -40,
+    "emoji": "🇬🇱",
+    "emojiU": "U+1F1EC U+1F1F1",
+    "timezones": [
+        {
+            "zoneName": "America/Danmarkshavn",
+            "gmtOffset": 0,
+            "gmtOffsetName": "UTC±00",
+            "abbreviation": "GMT",
+            "tzName": "Greenwich Mean Time"
+        },
+        {
+            "zoneName": "America/Nuuk",
+            "gmtOffset": -10800,
+            "gmtOffsetName": "UTC-03:00",
+            "abbreviation": "WGT",
+            "tzName": "West Greenland Time"
+        },
+        {
+            "zoneName": "America/Scoresbysund",
+            "gmtOffset": -3600,
+            "gmtOffsetName": "UTC-01:00",
+            "abbreviation": "EGT",
+            "tzName": "Eastern Greenland Time"
+        },
+        {
+            "zoneName": "America/Thule",
+            "gmtOffset": -14400,
+            "gmtOffsetName": "UTC-04:00",
+            "abbreviation": "AST",
+            "tzName": "Atlantic Standard Time"
+        }
+    ]
+}

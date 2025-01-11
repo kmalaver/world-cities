@@ -1,0 +1,39 @@
+{
+    "id": 161007,
+    "name": "Rason",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 42.2569063,
+    "longitude": 130.2977186,
+    "type": "special city",
+    "cities": [
+        {
+            "id": 1610070001,
+            "name": "Sŏnbong",
+            "alt_names": [],
+            "latitude": 42.35118,
+            "longitude": 130.38307,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 1610070002,
+            "name": "Ungsang-nodongjagu",
+            "alt_names": [],
+            "latitude": 42.35778,
+            "longitude": 130.46222,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        }
+    ]
+}

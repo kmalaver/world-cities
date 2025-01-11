@@ -1,0 +1,53 @@
+{
+    "id": 25008,
+    "name": "Paro ",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 27.4285949,
+    "longitude": 89.4166516,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250080001,
+            "name": "Paro",
+            "alt_names": [],
+            "latitude": 27.4305,
+            "longitude": 89.41334,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250080002,
+            "name": "Suchha",
+            "alt_names": [],
+            "latitude": 27.2333,
+            "longitude": 89.45,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250080003,
+            "name": "Tshalunang",
+            "alt_names": [],
+            "latitude": 27.4333,
+            "longitude": 89.65,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

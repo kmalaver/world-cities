@@ -1,0 +1,39 @@
+{
+    "id": 142006,
+    "name": "Cahul",
+    "alt_names": [],
+    "state_code": "CA",
+    "latitude": 45.8939404,
+    "longitude": 28.1890275,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420060001,
+            "name": "Cahul",
+            "alt_names": [],
+            "latitude": 45.90425,
+            "longitude": 28.19929,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420060002,
+            "name": "Giurgiuleşti",
+            "alt_names": [],
+            "latitude": 45.48167,
+            "longitude": 28.19722,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

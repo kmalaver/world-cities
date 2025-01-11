@@ -1,0 +1,81 @@
+{
+    "id": 100004,
+    "name": "Northwestern",
+    "alt_names": [],
+    "state_code": "5",
+    "latitude": 41.9133932,
+    "longitude": -73.0471688,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1000040001,
+            "name": "Akrahreppur",
+            "alt_names": [],
+            "latitude": 65.35505,
+            "longitude": -18.79572,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000040002,
+            "name": "Húnaþing Vestra",
+            "alt_names": [],
+            "latitude": 65.25,
+            "longitude": -20.91667,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000040003,
+            "name": "Sauðárkrókur",
+            "alt_names": [],
+            "latitude": 65.74611,
+            "longitude": -19.63944,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000040004,
+            "name": "Skagabyggð",
+            "alt_names": [],
+            "latitude": 65.95,
+            "longitude": -20.25,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1000040005,
+            "name": "Sveitarfélagið Skagafjörður",
+            "alt_names": [],
+            "latitude": 65.50018,
+            "longitude": -19.44566,
+            "timezone": {
+                "zoneName": "Atlantic/Reykjavik",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

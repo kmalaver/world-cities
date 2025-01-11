@@ -1,0 +1,39 @@
+{
+    "id": 4044,
+    "name": "Saïda",
+    "alt_names": [],
+    "state_code": "20",
+    "latitude": 34.8415207,
+    "longitude": 0.1456055,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40440001,
+            "name": "’Aïn el Hadjar",
+            "alt_names": [],
+            "latitude": 34.75846,
+            "longitude": 0.14528,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40440002,
+            "name": "Saïda",
+            "alt_names": [],
+            "latitude": 34.83033,
+            "longitude": 0.15171,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

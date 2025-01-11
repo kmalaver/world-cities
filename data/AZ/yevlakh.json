@@ -1,0 +1,39 @@
+{
+    "id": 16072,
+    "name": "Yevlakh",
+    "alt_names": [],
+    "state_code": "YEV",
+    "latitude": 40.6196638,
+    "longitude": 47.1500324,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160720001,
+            "name": "Aran",
+            "alt_names": [],
+            "latitude": 40.62528,
+            "longitude": 46.97556,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160720002,
+            "name": "Qaramanlı",
+            "alt_names": [],
+            "latitude": 40.48135,
+            "longitude": 46.99339,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

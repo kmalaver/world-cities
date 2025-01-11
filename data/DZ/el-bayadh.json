@@ -1,0 +1,53 @@
+{
+    "id": 4020,
+    "name": "El Bayadh",
+    "alt_names": [],
+    "state_code": "32",
+    "latitude": 32.7148824,
+    "longitude": 0.9056623,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40200001,
+            "name": "Brezina",
+            "alt_names": [],
+            "latitude": 33.09892,
+            "longitude": 1.26082,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40200002,
+            "name": "El Abiodh Sidi Cheikh",
+            "alt_names": [],
+            "latitude": 32.893,
+            "longitude": 0.54839,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40200003,
+            "name": "El Bayadh",
+            "alt_names": [],
+            "latitude": 33.68318,
+            "longitude": 1.01927,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,823 @@
+{
+    "id": 169012,
+    "name": "Panamá Oeste",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 9.1196751,
+    "longitude": -79.2902133,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1690120001,
+            "name": "Alto del Espino",
+            "alt_names": [],
+            "latitude": 8.84213,
+            "longitude": -79.84551,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120002,
+            "name": "Altos de San Francisco",
+            "alt_names": [],
+            "latitude": 8.86167,
+            "longitude": -79.79,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120003,
+            "name": "Arenosa",
+            "alt_names": [],
+            "latitude": 9.03978,
+            "longitude": -79.95128,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120004,
+            "name": "Arosemena",
+            "alt_names": [],
+            "latitude": 8.97091,
+            "longitude": -79.96641,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120005,
+            "name": "Arraiján",
+            "alt_names": [],
+            "latitude": 8.95187,
+            "longitude": -79.66011,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120006,
+            "name": "Bejuco",
+            "alt_names": [],
+            "latitude": 8.60037,
+            "longitude": -79.88988,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120007,
+            "name": "Buenos Aires",
+            "alt_names": [],
+            "latitude": 8.63146,
+            "longitude": -79.94775,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120008,
+            "name": "Cabuya",
+            "alt_names": [],
+            "latitude": 8.57472,
+            "longitude": -79.92714,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120009,
+            "name": "Caimito",
+            "alt_names": [],
+            "latitude": 8.81143,
+            "longitude": -79.94738,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120010,
+            "name": "Capira",
+            "alt_names": [],
+            "latitude": 8.75636,
+            "longitude": -79.87996,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120011,
+            "name": "Cermeño",
+            "alt_names": [],
+            "latitude": 8.74082,
+            "longitude": -79.85299,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120012,
+            "name": "Cerro Cama",
+            "alt_names": [],
+            "latitude": 9.02802,
+            "longitude": -79.90744,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120013,
+            "name": "Chame",
+            "alt_names": [],
+            "latitude": 8.57753,
+            "longitude": -79.88595,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120014,
+            "name": "Cirí de Los Sotos",
+            "alt_names": [],
+            "latitude": 8.97206,
+            "longitude": -80.09209,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120015,
+            "name": "Distrito Arraiján",
+            "alt_names": [],
+            "latitude": 8.95,
+            "longitude": -79.7,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120016,
+            "name": "Distrito de Capira",
+            "alt_names": [],
+            "latitude": 8.76228,
+            "longitude": -79.88275,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120017,
+            "name": "Distrito de Chame",
+            "alt_names": [],
+            "latitude": 8.6,
+            "longitude": -79.91667,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120018,
+            "name": "Distrito de La Chorrera",
+            "alt_names": [],
+            "latitude": 8.95,
+            "longitude": -79.85,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120019,
+            "name": "Distrito de San Carlos",
+            "alt_names": [],
+            "latitude": 8.53196,
+            "longitude": -80.06906,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120020,
+            "name": "El Cacao",
+            "alt_names": [],
+            "latitude": 8.76134,
+            "longitude": -80.01294,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120021,
+            "name": "El Coco",
+            "alt_names": [],
+            "latitude": 8.87009,
+            "longitude": -79.80415,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120022,
+            "name": "El Espavé",
+            "alt_names": [],
+            "latitude": 8.66161,
+            "longitude": -79.87584,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120023,
+            "name": "El Espino",
+            "alt_names": [],
+            "latitude": 8.83795,
+            "longitude": -79.84925,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120024,
+            "name": "El Higo",
+            "alt_names": [],
+            "latitude": 8.44731,
+            "longitude": -80.03603,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120025,
+            "name": "El Líbano",
+            "alt_names": [],
+            "latitude": 8.61685,
+            "longitude": -79.83483,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120026,
+            "name": "Guadalupe",
+            "alt_names": [],
+            "latitude": 8.85452,
+            "longitude": -79.81408,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120027,
+            "name": "Guayabito",
+            "alt_names": [],
+            "latitude": 8.54828,
+            "longitude": -80.0135,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120028,
+            "name": "Hato Montaña",
+            "alt_names": [],
+            "latitude": 8.91938,
+            "longitude": -79.73915,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120029,
+            "name": "La Chorrera",
+            "alt_names": [],
+            "latitude": 8.88028,
+            "longitude": -79.78333,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120030,
+            "name": "La Ermita",
+            "alt_names": [],
+            "latitude": 8.45622,
+            "longitude": -80.06835,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120031,
+            "name": "La Herradura",
+            "alt_names": [],
+            "latitude": 8.84848,
+            "longitude": -79.80404,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120032,
+            "name": "La Laguna",
+            "alt_names": [],
+            "latitude": 9.04404,
+            "longitude": -79.84215,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120033,
+            "name": "La Mitra",
+            "alt_names": [],
+            "latitude": 8.84091,
+            "longitude": -79.78648,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120034,
+            "name": "La Pesa",
+            "alt_names": [],
+            "latitude": 8.85073,
+            "longitude": -79.82374,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120035,
+            "name": "Las Colinas",
+            "alt_names": [],
+            "latitude": 8.55,
+            "longitude": -80.08333,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120036,
+            "name": "Las Lajas",
+            "alt_names": [],
+            "latitude": 8.54963,
+            "longitude": -79.93521,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120037,
+            "name": "Las Uvas",
+            "alt_names": [],
+            "latitude": 8.45937,
+            "longitude": -80.00075,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120038,
+            "name": "Llano Largo",
+            "alt_names": [],
+            "latitude": 8.83463,
+            "longitude": -79.80765,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120039,
+            "name": "Los Llanitos",
+            "alt_names": [],
+            "latitude": 8.59787,
+            "longitude": -80.09503,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120040,
+            "name": "Mendoza",
+            "alt_names": [],
+            "latitude": 9.01471,
+            "longitude": -79.85073,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120041,
+            "name": "Nueva Arenosa",
+            "alt_names": [],
+            "latitude": 8.86944,
+            "longitude": -79.99472,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120042,
+            "name": "Nueva Gorgona",
+            "alt_names": [],
+            "latitude": 8.55,
+            "longitude": -79.87547,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120043,
+            "name": "Nuevo Arraiján",
+            "alt_names": [],
+            "latitude": 8.92453,
+            "longitude": -79.72004,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120044,
+            "name": "Nuevo Emperador",
+            "alt_names": [],
+            "latitude": 9.00273,
+            "longitude": -79.73141,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120045,
+            "name": "Playa Leona",
+            "alt_names": [],
+            "latitude": 8.78389,
+            "longitude": -79.77547,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120046,
+            "name": "Potrero Grande",
+            "alt_names": [],
+            "latitude": 8.88051,
+            "longitude": -79.82795,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120047,
+            "name": "Puerto Caimito",
+            "alt_names": [],
+            "latitude": 8.87022,
+            "longitude": -79.71423,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120048,
+            "name": "Río Congo",
+            "alt_names": [],
+            "latitude": 8.96666,
+            "longitude": -79.76105,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120049,
+            "name": "San Carlos",
+            "alt_names": [],
+            "latitude": 8.47323,
+            "longitude": -79.96104,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120050,
+            "name": "San José",
+            "alt_names": [],
+            "latitude": 8.93333,
+            "longitude": -79.73333,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120051,
+            "name": "San Vicente de Bique",
+            "alt_names": [],
+            "latitude": 8.91143,
+            "longitude": -79.6736,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120052,
+            "name": "Santa Clara",
+            "alt_names": [],
+            "latitude": 9.02875,
+            "longitude": -79.75443,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120053,
+            "name": "Santa Rita",
+            "alt_names": [],
+            "latitude": 8.85681,
+            "longitude": -79.87954,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120054,
+            "name": "Sorá",
+            "alt_names": [],
+            "latitude": 8.63191,
+            "longitude": -80.00888,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120055,
+            "name": "Veracruz",
+            "alt_names": [],
+            "latitude": 8.88988,
+            "longitude": -79.62603,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120056,
+            "name": "Villa Carmen",
+            "alt_names": [],
+            "latitude": 8.79832,
+            "longitude": -79.86929,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120057,
+            "name": "Villa Rosario",
+            "alt_names": [],
+            "latitude": 8.77379,
+            "longitude": -79.87547,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 1690120058,
+            "name": "Vista Alegre",
+            "alt_names": [],
+            "latitude": 8.92772,
+            "longitude": -79.7028,
+            "timezone": {
+                "zoneName": "America/Panama",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 137015,
+    "name": "Trarza",
+    "alt_names": [],
+    "state_code": "06",
+    "latitude": 17.8664964,
+    "longitude": -14.6587821,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370150001,
+            "name": "Legat",
+            "alt_names": [],
+            "latitude": 16.75,
+            "longitude": -14.83333333,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370150002,
+            "name": "Rosso",
+            "alt_names": [],
+            "latitude": 16.51378,
+            "longitude": -15.80503,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370150003,
+            "name": "Tékane",
+            "alt_names": [],
+            "latitude": 16.60175,
+            "longitude": -15.34866,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

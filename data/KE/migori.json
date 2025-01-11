@@ -1,0 +1,39 @@
+{
+    "id": 113027,
+    "name": "Migori",
+    "alt_names": [],
+    "state_code": "27",
+    "latitude": -0.9365702,
+    "longitude": 34.4198243,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130270001,
+            "name": "Kihancha",
+            "alt_names": [],
+            "latitude": -1.19347,
+            "longitude": 34.61967,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130270002,
+            "name": "Migori",
+            "alt_names": [],
+            "latitude": -1.06343,
+            "longitude": 34.47313,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

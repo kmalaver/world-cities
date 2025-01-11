@@ -1,0 +1,53 @@
+{
+    "id": 80006,
+    "name": "Ogooué-Ivindo",
+    "alt_names": [],
+    "state_code": "6",
+    "latitude": 0.8818311,
+    "longitude": 13.1740348,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800060001,
+            "name": "Booué",
+            "alt_names": [],
+            "latitude": -0.09207,
+            "longitude": 11.93846,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800060002,
+            "name": "Makokou",
+            "alt_names": [],
+            "latitude": 0.57381,
+            "longitude": 12.86419,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800060003,
+            "name": "Zadie",
+            "alt_names": [],
+            "latitude": 0.92582,
+            "longitude": 13.90813,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 16004,
+    "name": "Aghjabadi",
+    "alt_names": [],
+    "state_code": "AGC",
+    "latitude": 28.7891841,
+    "longitude": 77.5160788,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160040001,
+            "name": "Agdzhabedy",
+            "alt_names": [],
+            "latitude": 40.05015,
+            "longitude": 47.45937,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160040002,
+            "name": "Avşar",
+            "alt_names": [],
+            "latitude": 39.97389,
+            "longitude": 47.42389,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

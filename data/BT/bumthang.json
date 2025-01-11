@@ -1,0 +1,39 @@
+{
+    "id": 25001,
+    "name": "Bumthang ",
+    "alt_names": [],
+    "state_code": "33",
+    "latitude": 27.641839,
+    "longitude": 90.6773046,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250010001,
+            "name": "Jakar",
+            "alt_names": [],
+            "latitude": 27.54918,
+            "longitude": 90.7525,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250010002,
+            "name": "Tang Valley",
+            "alt_names": [],
+            "latitude": 27.5025242,
+            "longitude": 90.7449544,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

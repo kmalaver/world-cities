@@ -1,0 +1,39 @@
+{
+    "id": 210014,
+    "name": "South Darfur",
+    "alt_names": [],
+    "state_code": "DS",
+    "latitude": 11.6488639,
+    "longitude": 24.9042208,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100140001,
+            "name": "Gereida",
+            "alt_names": [],
+            "latitude": 11.27543,
+            "longitude": 25.14026,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100140002,
+            "name": "Nyala",
+            "alt_names": [],
+            "latitude": 12.04888,
+            "longitude": 24.88069,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

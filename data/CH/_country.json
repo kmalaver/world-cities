@@ -1,0 +1,47 @@
+{
+    "id": 214,
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "iso2": "CH",
+    "numeric_code": "756",
+    "phonecode": "41",
+    "capital": "Bern",
+    "currency": "CHF",
+    "currency_name": "Swiss franc",
+    "currency_symbol": "CHf",
+    "tld": ".ch",
+    "native": "Schweiz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "translations": {
+        "de": "Schweiz",
+        "es": "Suiza",
+        "fa": "سوئیس",
+        "fr": "Suisse",
+        "hr": "Švicarska",
+        "it": "Svizzera",
+        "ja": "スイス",
+        "ko": "스위스",
+        "nl": "Zwitserland",
+        "pl": "Szwajcaria",
+        "pt": "Suíça",
+        "pt-BR": "Suíça",
+        "ru": "Швейцария",
+        "tr": "İsviçre",
+        "uk": "Швейцарія",
+        "zh-CN": "瑞士"
+    },
+    "latitude": 47,
+    "longitude": 8,
+    "emoji": "🇨🇭",
+    "emojiU": "U+1F1E8 U+1F1ED",
+    "timezones": [
+        {
+            "zoneName": "Europe/Zurich",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        }
+    ]
+}

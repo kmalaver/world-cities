@@ -1,0 +1,39 @@
+{
+    "id": 42001,
+    "name": "Bamingui-Bangoran",
+    "alt_names": [],
+    "state_code": "BB",
+    "latitude": 8.2733455,
+    "longitude": 20.7122465,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420010001,
+            "name": "Bamingui",
+            "alt_names": [],
+            "latitude": 7.88897,
+            "longitude": 20.04875,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420010002,
+            "name": "Ndélé",
+            "alt_names": [],
+            "latitude": 8.74287,
+            "longitude": 20.89108,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

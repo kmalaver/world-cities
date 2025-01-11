@@ -1,0 +1,109 @@
+{
+    "id": 210001,
+    "name": "Al Jazirah",
+    "alt_names": [],
+    "state_code": "GZ",
+    "latitude": 14.8859611,
+    "longitude": 33.438353,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100010001,
+            "name": "Al Hasaheisa",
+            "alt_names": [],
+            "latitude": 14.75264,
+            "longitude": 33.29836,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010002,
+            "name": "Al Hilāliyya",
+            "alt_names": [],
+            "latitude": 14.9398,
+            "longitude": 33.234,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010003,
+            "name": "Al Kiremit al ‘Arakiyyīn",
+            "alt_names": [],
+            "latitude": 14.3476,
+            "longitude": 32.9437,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010004,
+            "name": "Al Manāqil",
+            "alt_names": [],
+            "latitude": 14.2459,
+            "longitude": 32.9891,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010005,
+            "name": "Al Masallamiyya",
+            "alt_names": [],
+            "latitude": 14.5748,
+            "longitude": 33.3373,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010006,
+            "name": "Wad Medani",
+            "alt_names": [],
+            "latitude": 14.40118,
+            "longitude": 33.51989,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100010007,
+            "name": "Wad Rāwah",
+            "alt_names": [],
+            "latitude": 15.16028,
+            "longitude": 33.13972,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

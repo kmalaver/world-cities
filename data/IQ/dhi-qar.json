@@ -1,0 +1,53 @@
+{
+    "id": 104007,
+    "name": "Dhi Qar",
+    "alt_names": [],
+    "state_code": "DQ",
+    "latitude": 31.1042292,
+    "longitude": 46.3624686,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040070001,
+            "name": "Ash Shaţrah",
+            "alt_names": [],
+            "latitude": 31.40906,
+            "longitude": 46.1727,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040070002,
+            "name": "Nāḩiyat al Fuhūd",
+            "alt_names": [],
+            "latitude": 30.96972,
+            "longitude": 46.72278,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040070003,
+            "name": "Nasiriyah",
+            "alt_names": [],
+            "latitude": 31.05799,
+            "longitude": 46.25726,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

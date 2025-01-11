@@ -1,0 +1,39 @@
+{
+    "id": 42010,
+    "name": "Nana-Grébizi",
+    "alt_names": [],
+    "state_code": "KB",
+    "latitude": 7.1848607,
+    "longitude": 19.3783206,
+    "type": "economic prefecture",
+    "cities": [
+        {
+            "id": 420100001,
+            "name": "Kaga Bandoro",
+            "alt_names": [],
+            "latitude": 6.98961,
+            "longitude": 19.18744,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420100002,
+            "name": "Kaga-Bandoro",
+            "alt_names": [],
+            "latitude": 7.23774,
+            "longitude": 19.21819,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

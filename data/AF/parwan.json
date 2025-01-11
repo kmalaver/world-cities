@@ -1,0 +1,39 @@
+{
+    "id": 1028,
+    "name": "Parwan",
+    "alt_names": [],
+    "state_code": "PAR",
+    "latitude": 34.9630977,
+    "longitude": 68.8108849,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10280001,
+            "name": "Charikar",
+            "alt_names": [],
+            "latitude": 35.01361,
+            "longitude": 69.17139,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10280002,
+            "name": "Jabal os Saraj",
+            "alt_names": [],
+            "latitude": 35.11833,
+            "longitude": 69.23778,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

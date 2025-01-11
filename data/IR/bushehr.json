@@ -1,0 +1,641 @@
+{
+    "id": 103003,
+    "name": "Bushehr",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": 28.7620739,
+    "longitude": 51.5150077,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1030030001,
+            "name": "Ab Pakhsh",
+            "alt_names": [],
+            "latitude": 29.3678855,
+            "longitude": 51.0514067,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030002,
+            "name": "Abad",
+            "alt_names": [],
+            "latitude": 29.0299414,
+            "longitude": 51.2343548,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030003,
+            "name": "Ahram",
+            "alt_names": [],
+            "latitude": 28.8826,
+            "longitude": 51.2746,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030004,
+            "name": "Alishahr",
+            "alt_names": [],
+            "latitude": 28.9307929,
+            "longitude": 51.0560846,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030005,
+            "name": "Anarestan",
+            "alt_names": [],
+            "latitude": 28.0324211,
+            "longitude": 52.0589518,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030006,
+            "name": "Asaluyeh",
+            "alt_names": [],
+            "latitude": 27.45,
+            "longitude": 52.73333,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030007,
+            "name": "Baduleh",
+            "alt_names": [],
+            "latitude": 28.3972136,
+            "longitude": 51.4933276,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030008,
+            "name": "Banak",
+            "alt_names": [],
+            "latitude": 27.8625981,
+            "longitude": 52.0010374,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030009,
+            "name": "Bandar Bushehr",
+            "alt_names": [],
+            "latitude": 28.9109022,
+            "longitude": 50.8300213,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030010,
+            "name": "Bandar Deylam",
+            "alt_names": [],
+            "latitude": 30.0609711,
+            "longitude": 50.1461718,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030011,
+            "name": "Bandar Ganaveh",
+            "alt_names": [],
+            "latitude": 29.5791,
+            "longitude": 50.517,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030012,
+            "name": "Bandar Rig",
+            "alt_names": [],
+            "latitude": 29.4841739,
+            "longitude": 50.6186914,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030013,
+            "name": "Bandar-e Kangan",
+            "alt_names": [],
+            "latitude": 27.8328872,
+            "longitude": 52.0370751,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030014,
+            "name": "BandarSiraf",
+            "alt_names": [],
+            "latitude": 27.664428,
+            "longitude": 52.3255203,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030015,
+            "name": "Bardestan",
+            "alt_names": [],
+            "latitude": 27.870064,
+            "longitude": 51.9412563,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030016,
+            "name": "Borazjan",
+            "alt_names": [],
+            "latitude": 29.2699,
+            "longitude": 51.2188,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030017,
+            "name": "Bord Khun",
+            "alt_names": [],
+            "latitude": 28.0642175,
+            "longitude": 51.4734279,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030018,
+            "name": "Boshkan",
+            "alt_names": [],
+            "latitude": 28.8316659,
+            "longitude": 51.6911458,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030019,
+            "name": "Bushehr",
+            "alt_names": [],
+            "latitude": 28.96887,
+            "longitude": 50.83657,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030020,
+            "name": "Choghadak",
+            "alt_names": [],
+            "latitude": 28.9800495,
+            "longitude": 51.0075768,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030021,
+            "name": "Dalaki",
+            "alt_names": [],
+            "latitude": 29.4302345,
+            "longitude": 51.2827956,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030022,
+            "name": "Dashtestan",
+            "alt_names": [],
+            "latitude": 29.28333,
+            "longitude": 51.25,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030023,
+            "name": "Dashti",
+            "alt_names": [],
+            "latitude": 28.48685,
+            "longitude": 51.56182,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030024,
+            "name": "Dayyer",
+            "alt_names": [],
+            "latitude": 27.8428687,
+            "longitude": 51.9183272,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030025,
+            "name": "Delvar",
+            "alt_names": [],
+            "latitude": 28.752796,
+            "longitude": 51.0519216,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030026,
+            "name": "Deylam",
+            "alt_names": [],
+            "latitude": 30.02286,
+            "longitude": 50.35595,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030027,
+            "name": "Dorahak",
+            "alt_names": [],
+            "latitude": 27.9485962,
+            "longitude": 51.9529294,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030028,
+            "name": "Genaveh",
+            "alt_names": [],
+            "latitude": 29.64574,
+            "longitude": 50.64699,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030029,
+            "name": "Imam Hassan",
+            "alt_names": [],
+            "latitude": 29.8425,
+            "longitude": 50.263056,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030030,
+            "name": "Jam",
+            "alt_names": [],
+            "latitude": 27.8157256,
+            "longitude": 52.3099845,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030031,
+            "name": "Kaki",
+            "alt_names": [],
+            "latitude": 28.3416275,
+            "longitude": 51.5062664,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030032,
+            "name": "Kalameh",
+            "alt_names": [],
+            "latitude": 28.9404761,
+            "longitude": 51.4517747,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030033,
+            "name": "Kangan",
+            "alt_names": [],
+            "latitude": 27.7133,
+            "longitude": 52.26862,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030034,
+            "name": "Kharg",
+            "alt_names": [],
+            "latitude": 29.240592,
+            "longitude": 50.2742281,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030035,
+            "name": "Khark",
+            "alt_names": [],
+            "latitude": 29.26139,
+            "longitude": 50.33056,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030036,
+            "name": "Khormoj",
+            "alt_names": [],
+            "latitude": 28.6484069,
+            "longitude": 51.3509552,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030037,
+            "name": "Konar Torshan",
+            "alt_names": [],
+            "latitude": 28.0780152,
+            "longitude": 51.7425425,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030038,
+            "name": "Nakhl Taghi",
+            "alt_names": [],
+            "latitude": 27.5003525,
+            "longitude": 52.5763438,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030039,
+            "name": "Riz",
+            "alt_names": [],
+            "latitude": 28.0515676,
+            "longitude": 52.0643592,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030040,
+            "name": "Sadabad",
+            "alt_names": [],
+            "latitude": 29.3858015,
+            "longitude": 51.1117458,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030041,
+            "name": "Shaban Kareh",
+            "alt_names": [],
+            "latitude": 29.4708158,
+            "longitude": 50.9754895,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030042,
+            "name": "Shonbeh",
+            "alt_names": [],
+            "latitude": 28.3959397,
+            "longitude": 51.7543388,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030043,
+            "name": "Tang Eram",
+            "alt_names": [],
+            "latitude": 29.1533226,
+            "longitude": 51.5183258,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030044,
+            "name": "Tangestan",
+            "alt_names": [],
+            "latitude": 28.88333,
+            "longitude": 51.26667,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        },
+        {
+            "id": 1030030045,
+            "name": "Vahdatiyeh",
+            "alt_names": [],
+            "latitude": 29.4864514,
+            "longitude": 51.2183044,
+            "timezone": {
+                "zoneName": "Asia/Tehran",
+                "gmtOffset": 12600,
+                "gmtOffsetName": "UTC+03:30",
+                "abbreviation": "IRDT",
+                "tzName": "Iran Daylight Time"
+            }
+        }
+    ]
+}

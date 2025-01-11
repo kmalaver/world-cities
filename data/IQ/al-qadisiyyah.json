@@ -1,0 +1,81 @@
+{
+    "id": 104003,
+    "name": "Al-Qādisiyyah",
+    "alt_names": [],
+    "state_code": "QA",
+    "latitude": 32.043691,
+    "longitude": 45.1494505,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040030001,
+            "name": "‘Afak",
+            "alt_names": [],
+            "latitude": 32.0643,
+            "longitude": 45.24743,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040030002,
+            "name": "Ad Dīwānīyah",
+            "alt_names": [],
+            "latitude": 31.99289,
+            "longitude": 44.92552,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040030003,
+            "name": "Ash Shāmīyah",
+            "alt_names": [],
+            "latitude": 31.96257,
+            "longitude": 44.60075,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040030004,
+            "name": "Nāḩiyat ash Shināfīyah",
+            "alt_names": [],
+            "latitude": 31.58376,
+            "longitude": 44.64675,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040030005,
+            "name": "Nahiyat Ghammas",
+            "alt_names": [],
+            "latitude": 31.74311,
+            "longitude": 44.6196,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

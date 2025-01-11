@@ -1,0 +1,39 @@
+{
+    "id": 201201,
+    "name": "Vrhnika",
+    "alt_names": [],
+    "state_code": "140",
+    "latitude": 45.9502719,
+    "longitude": 14.3276422,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2012010001,
+            "name": "Verd",
+            "alt_names": [],
+            "latitude": 45.95667,
+            "longitude": 14.30583,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2012010002,
+            "name": "Vrhnika",
+            "alt_names": [],
+            "latitude": 45.9635,
+            "longitude": 14.29484,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

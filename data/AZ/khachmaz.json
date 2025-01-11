@@ -1,0 +1,39 @@
+{
+    "id": 16030,
+    "name": "Khachmaz",
+    "alt_names": [],
+    "state_code": "XAC",
+    "latitude": 41.4591168,
+    "longitude": 48.8020626,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160300001,
+            "name": "Xaçmaz",
+            "alt_names": [],
+            "latitude": 41.46426,
+            "longitude": 48.80565,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160300002,
+            "name": "Xudat",
+            "alt_names": [],
+            "latitude": 41.63052,
+            "longitude": 48.68161,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

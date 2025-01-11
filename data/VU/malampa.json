@@ -1,0 +1,39 @@
+{
+    "id": 240001,
+    "name": "Malampa",
+    "alt_names": [],
+    "state_code": "MAP",
+    "latitude": -16.4011405,
+    "longitude": 167.6077865,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2400010001,
+            "name": "Lakatoro",
+            "alt_names": [],
+            "latitude": -16.09992,
+            "longitude": 167.41636,
+            "timezone": {
+                "zoneName": "Pacific/Efate",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "VUT",
+                "tzName": "Vanuatu Time"
+            }
+        },
+        {
+            "id": 2400010002,
+            "name": "Norsup",
+            "alt_names": [],
+            "latitude": -16.06536,
+            "longitude": 167.39714,
+            "timezone": {
+                "zoneName": "Pacific/Efate",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "VUT",
+                "tzName": "Vanuatu Time"
+            }
+        }
+    ]
+}

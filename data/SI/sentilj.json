@@ -1,0 +1,39 @@
+{
+    "id": 201154,
+    "name": "Šentilj",
+    "alt_names": [],
+    "state_code": "118",
+    "latitude": 46.6862839,
+    "longitude": 15.7103567,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011540001,
+            "name": "Selnica ob Muri",
+            "alt_names": [],
+            "latitude": 46.68333,
+            "longitude": 15.7,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011540002,
+            "name": "Šentilj v Slov. Goricah",
+            "alt_names": [],
+            "latitude": 46.68167,
+            "longitude": 15.64806,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

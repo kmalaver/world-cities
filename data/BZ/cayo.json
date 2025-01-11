@@ -1,0 +1,67 @@
+{
+    "id": 22002,
+    "name": "Cayo",
+    "alt_names": [],
+    "state_code": "CY",
+    "latitude": 17.0984445,
+    "longitude": -88.9413865,
+    "type": "district",
+    "cities": [
+        {
+            "id": 220020001,
+            "name": "Belmopan",
+            "alt_names": [],
+            "latitude": 17.25,
+            "longitude": -88.76667,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220020002,
+            "name": "Benque Viejo el Carmen",
+            "alt_names": [],
+            "latitude": 17.075,
+            "longitude": -89.13917,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220020003,
+            "name": "San Ignacio",
+            "alt_names": [],
+            "latitude": 17.1588,
+            "longitude": -89.0696,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220020004,
+            "name": "Valley of Peace",
+            "alt_names": [],
+            "latitude": 17.33472,
+            "longitude": -88.83472,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        }
+    ]
+}

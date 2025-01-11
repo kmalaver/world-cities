@@ -1,0 +1,67 @@
+{
+    "id": 145002,
+    "name": "Bar",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": 42.1278119,
+    "longitude": 19.140438,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1450020001,
+            "name": "Bar",
+            "alt_names": [],
+            "latitude": 42.09306,
+            "longitude": 19.10028,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450020002,
+            "name": "Stari Bar",
+            "alt_names": [],
+            "latitude": 42.097,
+            "longitude": 19.136,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450020003,
+            "name": "Šušanj",
+            "alt_names": [],
+            "latitude": 42.11556,
+            "longitude": 19.08833,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1450020004,
+            "name": "Sutomore",
+            "alt_names": [],
+            "latitude": 42.14278,
+            "longitude": 19.04667,
+            "timezone": {
+                "zoneName": "Europe/Podgorica",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

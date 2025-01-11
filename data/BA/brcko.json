@@ -1,0 +1,39 @@
+{
+    "id": 28002,
+    "name": "Brčko",
+    "alt_names": [],
+    "state_code": "BRC",
+    "latitude": 44.8405944,
+    "longitude": 18.742153,
+    "type": "district",
+    "cities": [
+        {
+            "id": 280020001,
+            "name": "Brčko",
+            "alt_names": [],
+            "latitude": 44.86995,
+            "longitude": 18.81012,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 280020002,
+            "name": "Brka",
+            "alt_names": [],
+            "latitude": 44.82837,
+            "longitude": 18.7242,
+            "timezone": {
+                "zoneName": "Europe/Sarajevo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

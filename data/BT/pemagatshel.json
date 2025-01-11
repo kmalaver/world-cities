@@ -1,0 +1,39 @@
+{
+    "id": 25009,
+    "name": "Pemagatshel ",
+    "alt_names": [],
+    "state_code": "43",
+    "latitude": 27.002382,
+    "longitude": 91.3469247,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250090001,
+            "name": "Nganglam",
+            "alt_names": [],
+            "latitude": 26.841811,
+            "longitude": 91.2424849,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250090002,
+            "name": "Pemagatshel",
+            "alt_names": [],
+            "latitude": 27.03795,
+            "longitude": 91.40305,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

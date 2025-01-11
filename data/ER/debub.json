@@ -1,0 +1,53 @@
+{
+    "id": 68002,
+    "name": "Debub",
+    "alt_names": [],
+    "state_code": "DU",
+    "latitude": 14.9478692,
+    "longitude": 39.1543677,
+    "type": "region",
+    "cities": [
+        {
+            "id": 680020001,
+            "name": "Adi Keyh",
+            "alt_names": [],
+            "latitude": 14.84444,
+            "longitude": 39.37722,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 680020002,
+            "name": "Dek’emhāre",
+            "alt_names": [],
+            "latitude": 15.07,
+            "longitude": 39.0475,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 680020003,
+            "name": "Mendefera",
+            "alt_names": [],
+            "latitude": 14.88722,
+            "longitude": 38.81528,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

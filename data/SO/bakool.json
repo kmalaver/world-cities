@@ -1,0 +1,67 @@
+{
+    "id": 203002,
+    "name": "Bakool",
+    "alt_names": [],
+    "state_code": "BK",
+    "latitude": 4.3657221,
+    "longitude": 44.0960311,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030020001,
+            "name": "Tayeeglow",
+            "alt_names": [],
+            "latitude": 4.01897,
+            "longitude": 44.51111,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030020002,
+            "name": "Waajid",
+            "alt_names": [],
+            "latitude": 3.80958,
+            "longitude": 43.24627,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030020003,
+            "name": "Xuddur",
+            "alt_names": [],
+            "latitude": 4.12129,
+            "longitude": 43.88945,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030020004,
+            "name": "Yeed",
+            "alt_names": [],
+            "latitude": 4.55,
+            "longitude": 43.03333,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

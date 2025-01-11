@@ -1,0 +1,53 @@
+{
+    "id": 63022,
+    "name": "Samaná",
+    "alt_names": [],
+    "state_code": "20",
+    "latitude": 19.2058371,
+    "longitude": -69.3362949,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630220001,
+            "name": "Las Terrenas",
+            "alt_names": [],
+            "latitude": 19.31102,
+            "longitude": -69.5428,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630220002,
+            "name": "Samaná",
+            "alt_names": [],
+            "latitude": 19.20561,
+            "longitude": -69.33685,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630220003,
+            "name": "Sánchez",
+            "alt_names": [],
+            "latitude": 19.2281,
+            "longitude": -69.6137,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

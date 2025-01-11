@@ -1,0 +1,53 @@
+{
+    "id": 166004,
+    "name": "Gilgit-Baltistan",
+    "alt_names": [],
+    "state_code": "GB",
+    "latitude": 35.8025667,
+    "longitude": 74.9831808,
+    "type": "administered area",
+    "cities": [
+        {
+            "id": 1660040001,
+            "name": "Barishal",
+            "alt_names": [],
+            "latitude": 36.32162,
+            "longitude": 74.69502,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660040002,
+            "name": "Gilgit",
+            "alt_names": [],
+            "latitude": 35.91869,
+            "longitude": 74.31245,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        },
+        {
+            "id": 1660040003,
+            "name": "Skardu",
+            "alt_names": [],
+            "latitude": 35.29787,
+            "longitude": 75.63372,
+            "timezone": {
+                "zoneName": "Asia/Karachi",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "PKT",
+                "tzName": "Pakistan Standard Time"
+            }
+        }
+    ]
+}

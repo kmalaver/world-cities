@@ -1,0 +1,81 @@
+{
+    "id": 23003,
+    "name": "Atlantique",
+    "alt_names": [],
+    "state_code": "AQ",
+    "latitude": 6.6588391,
+    "longitude": 2.2236667,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230030001,
+            "name": "Abomey-Calavi",
+            "alt_names": [],
+            "latitude": 6.44852,
+            "longitude": 2.35566,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230030002,
+            "name": "Allada",
+            "alt_names": [],
+            "latitude": 6.66547,
+            "longitude": 2.15138,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230030003,
+            "name": "Hévié",
+            "alt_names": [],
+            "latitude": 6.41667,
+            "longitude": 2.25,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230030004,
+            "name": "Hinvi",
+            "alt_names": [],
+            "latitude": 6.76667,
+            "longitude": 2.16667,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230030005,
+            "name": "Ouidah",
+            "alt_names": [],
+            "latitude": 6.36307,
+            "longitude": 2.08506,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

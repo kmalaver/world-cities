@@ -1,0 +1,67 @@
+{
+    "id": 228048,
+    "name": "Kilis",
+    "alt_names": [],
+    "state_code": "79",
+    "latitude": 36.8204775,
+    "longitude": 37.1687339,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2280480001,
+            "name": "Elbeyli",
+            "alt_names": [],
+            "latitude": 36.67417,
+            "longitude": 37.46667,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280480002,
+            "name": "Merkez",
+            "alt_names": [],
+            "latitude": 36.71611,
+            "longitude": 37.115,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280480003,
+            "name": "Musabeyli",
+            "alt_names": [],
+            "latitude": 36.88639,
+            "longitude": 36.91861,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 2280480004,
+            "name": "Polateli",
+            "alt_names": [],
+            "latitude": 36.83694,
+            "longitude": 37.15083,
+            "timezone": {
+                "zoneName": "Europe/Istanbul",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

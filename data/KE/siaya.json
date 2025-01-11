@@ -1,0 +1,53 @@
+{
+    "id": 113038,
+    "name": "Siaya",
+    "alt_names": [],
+    "state_code": "38",
+    "latitude": -0.0617328,
+    "longitude": 34.2421597,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130380001,
+            "name": "Bondo",
+            "alt_names": [],
+            "latitude": 0.23522,
+            "longitude": 34.28086,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130380002,
+            "name": "Siaya",
+            "alt_names": [],
+            "latitude": 0.0607,
+            "longitude": 34.28806,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130380003,
+            "name": "Yala",
+            "alt_names": [],
+            "latitude": 0.09438,
+            "longitude": 34.53602,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

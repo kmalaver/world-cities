@@ -1,0 +1,53 @@
+{
+    "id": 43021,
+    "name": "Tandjilé",
+    "alt_names": [],
+    "state_code": "TA",
+    "latitude": 9.6625729,
+    "longitude": 16.7234639,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430210001,
+            "name": "Béré",
+            "alt_names": [],
+            "latitude": 9.3202,
+            "longitude": 16.1552,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430210002,
+            "name": "Kelo",
+            "alt_names": [],
+            "latitude": 9.30859,
+            "longitude": 15.80658,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430210003,
+            "name": "Laï",
+            "alt_names": [],
+            "latitude": 9.3972,
+            "longitude": 16.30066,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

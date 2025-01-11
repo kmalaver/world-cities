@@ -1,0 +1,39 @@
+{
+    "id": 133005,
+    "name": "Birżebbuġa",
+    "alt_names": [],
+    "state_code": "05",
+    "latitude": 35.8135989,
+    "longitude": 14.5247463,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330050001,
+            "name": "Birżebbuġa",
+            "alt_names": [],
+            "latitude": 35.82583,
+            "longitude": 14.52694,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330050002,
+            "name": "Ħal Far",
+            "alt_names": [],
+            "latitude": 35.811349,
+            "longitude": 14.510686,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

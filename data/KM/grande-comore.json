@@ -1,0 +1,571 @@
+{
+    "id": 49002,
+    "name": "Grande Comore",
+    "alt_names": [],
+    "state_code": "G",
+    "latitude": -11.7167338,
+    "longitude": 43.3680788,
+    "type": "island",
+    "cities": [
+        {
+            "id": 490020001,
+            "name": "Bahani",
+            "alt_names": [],
+            "latitude": -11.63972,
+            "longitude": 43.28417,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020002,
+            "name": "Bambadjani",
+            "alt_names": [],
+            "latitude": -11.47861,
+            "longitude": 43.37722,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020003,
+            "name": "Bouni",
+            "alt_names": [],
+            "latitude": -11.48694,
+            "longitude": 43.38833,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020004,
+            "name": "Chezani",
+            "alt_names": [],
+            "latitude": -11.4314,
+            "longitude": 43.39625,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020005,
+            "name": "Chindini",
+            "alt_names": [],
+            "latitude": -11.92328,
+            "longitude": 43.49109,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020006,
+            "name": "Chouani",
+            "alt_names": [],
+            "latitude": -11.8233,
+            "longitude": 43.29429,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020007,
+            "name": "Dembéni",
+            "alt_names": [],
+            "latitude": -11.87361,
+            "longitude": 43.39778,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020008,
+            "name": "Douniani",
+            "alt_names": [],
+            "latitude": -11.42111,
+            "longitude": 43.28889,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020009,
+            "name": "Dzahadjou",
+            "alt_names": [],
+            "latitude": -11.85287,
+            "longitude": 43.34987,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020010,
+            "name": "Foumbouni",
+            "alt_names": [],
+            "latitude": -11.86537,
+            "longitude": 43.49529,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020011,
+            "name": "Hantsindzi",
+            "alt_names": [],
+            "latitude": -11.43178,
+            "longitude": 43.41102,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020012,
+            "name": "Héroumbili",
+            "alt_names": [],
+            "latitude": -11.54389,
+            "longitude": 43.37972,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020013,
+            "name": "Itsandra",
+            "alt_names": [],
+            "latitude": -11.67111,
+            "longitude": 43.25472,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020014,
+            "name": "Itsandzéni",
+            "alt_names": [],
+            "latitude": -11.47278,
+            "longitude": 43.38444,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020015,
+            "name": "Ivouani",
+            "alt_names": [],
+            "latitude": -11.39157,
+            "longitude": 43.39454,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020016,
+            "name": "Koua",
+            "alt_names": [],
+            "latitude": -11.42083,
+            "longitude": 43.27639,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020017,
+            "name": "Madjeouéni",
+            "alt_names": [],
+            "latitude": -11.82167,
+            "longitude": 43.27806,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020018,
+            "name": "Mandza",
+            "alt_names": [],
+            "latitude": -11.41806,
+            "longitude": 43.29528,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020019,
+            "name": "Mavingouni",
+            "alt_names": [],
+            "latitude": -11.71639,
+            "longitude": 43.2525,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020020,
+            "name": "Mbéni",
+            "alt_names": [],
+            "latitude": -11.50139,
+            "longitude": 43.3775,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020021,
+            "name": "Mitsamiouli",
+            "alt_names": [],
+            "latitude": -11.38472,
+            "longitude": 43.28444,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020022,
+            "name": "Mitsoudjé",
+            "alt_names": [],
+            "latitude": -11.81209,
+            "longitude": 43.28043,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020023,
+            "name": "Mnoungou",
+            "alt_names": [],
+            "latitude": -11.51778,
+            "longitude": 43.37389,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020024,
+            "name": "Mohoro",
+            "alt_names": [],
+            "latitude": -11.82701,
+            "longitude": 43.45436,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020025,
+            "name": "Moroni",
+            "alt_names": [],
+            "latitude": -11.70216,
+            "longitude": 43.25506,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020026,
+            "name": "Mtsamdou",
+            "alt_names": [],
+            "latitude": -11.60694,
+            "longitude": 43.38056,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020027,
+            "name": "Mvouni",
+            "alt_names": [],
+            "latitude": -11.71611,
+            "longitude": 43.26472,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020028,
+            "name": "Nioumamilima",
+            "alt_names": [],
+            "latitude": -11.85461,
+            "longitude": 43.44607,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020029,
+            "name": "Ntsaouéni",
+            "alt_names": [],
+            "latitude": -11.46583,
+            "longitude": 43.26278,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020030,
+            "name": "Ntsoudjini",
+            "alt_names": [],
+            "latitude": -11.65972,
+            "longitude": 43.26139,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020031,
+            "name": "Ouellah",
+            "alt_names": [],
+            "latitude": -11.39028,
+            "longitude": 43.33194,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020032,
+            "name": "Ouhozi",
+            "alt_names": [],
+            "latitude": -11.405,
+            "longitude": 43.28222,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020033,
+            "name": "Ourovéni",
+            "alt_names": [],
+            "latitude": -11.91375,
+            "longitude": 43.49804,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020034,
+            "name": "Oussivo",
+            "alt_names": [],
+            "latitude": -11.585,
+            "longitude": 43.26722,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020035,
+            "name": "Salimani",
+            "alt_names": [],
+            "latitude": -11.8115,
+            "longitude": 43.26823,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020036,
+            "name": "Séléa",
+            "alt_names": [],
+            "latitude": -11.78444,
+            "longitude": 43.26083,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020037,
+            "name": "Singani",
+            "alt_names": [],
+            "latitude": -11.84784,
+            "longitude": 43.31731,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020038,
+            "name": "Tsidjé",
+            "alt_names": [],
+            "latitude": -11.69806,
+            "longitude": 43.26194,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020039,
+            "name": "Vanadjou",
+            "alt_names": [],
+            "latitude": -11.6075,
+            "longitude": 43.27611,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 490020040,
+            "name": "Vanambouani",
+            "alt_names": [],
+            "latitude": -11.61139,
+            "longitude": 43.25306,
+            "timezone": {
+                "zoneName": "Indian/Comoro",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

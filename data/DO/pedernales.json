@@ -1,0 +1,53 @@
+{
+    "id": 63019,
+    "name": "Pedernales",
+    "alt_names": [],
+    "state_code": "16",
+    "latitude": 17.8537626,
+    "longitude": -71.3303209,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630190001,
+            "name": "Juancho",
+            "alt_names": [],
+            "latitude": 17.85782,
+            "longitude": -71.29311,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630190002,
+            "name": "Oviedo",
+            "alt_names": [],
+            "latitude": 17.80136,
+            "longitude": -71.401,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630190003,
+            "name": "Pedernales",
+            "alt_names": [],
+            "latitude": 18.08333,
+            "longitude": -71.6,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

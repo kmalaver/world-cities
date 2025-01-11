@@ -1,0 +1,47 @@
+{
+    "id": 216,
+    "name": "Taiwan",
+    "iso3": "TWN",
+    "iso2": "TW",
+    "numeric_code": "158",
+    "phonecode": "886",
+    "capital": "Taipei",
+    "currency": "TWD",
+    "currency_name": "New Taiwan dollar",
+    "currency_symbol": "$",
+    "tld": ".tw",
+    "native": "臺灣",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "translations": {
+        "de": "Taiwan",
+        "es": "Taiwán",
+        "fa": "تایوان",
+        "fr": "Taïwan",
+        "hr": "Tajvan",
+        "it": "Taiwan",
+        "ja": "台湾（中華民国）",
+        "ko": "대만",
+        "nl": "Taiwan",
+        "pl": "Tajwan",
+        "pt": "Taiwan",
+        "pt-BR": "Taiwan",
+        "ru": "Тайвань",
+        "tr": "Tayvan",
+        "uk": "Тайвань",
+        "zh-CN": "中国台湾"
+    },
+    "latitude": 23.5,
+    "longitude": 121,
+    "emoji": "🇹🇼",
+    "emojiU": "U+1F1F9 U+1F1FC",
+    "timezones": [
+        {
+            "zoneName": "Asia/Taipei",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "CST",
+            "tzName": "China Standard Time"
+        }
+    ]
+}

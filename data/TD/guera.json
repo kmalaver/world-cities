@@ -1,0 +1,53 @@
+{
+    "id": 43007,
+    "name": "Guéra",
+    "alt_names": [],
+    "state_code": "GR",
+    "latitude": 11.1219015,
+    "longitude": 18.4276047,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430070001,
+            "name": "Bitkine",
+            "alt_names": [],
+            "latitude": 11.9801,
+            "longitude": 18.2138,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430070002,
+            "name": "Melfi",
+            "alt_names": [],
+            "latitude": 11.0598,
+            "longitude": 17.9355,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430070003,
+            "name": "Mongo",
+            "alt_names": [],
+            "latitude": 12.18441,
+            "longitude": 18.69303,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

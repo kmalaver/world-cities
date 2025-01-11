@@ -1,0 +1,4323 @@
+{
+    "id": 14008,
+    "name": "Western Australia",
+    "alt_names": [],
+    "state_code": "WA",
+    "latitude": -27.6728168,
+    "longitude": 121.6283098,
+    "type": "state",
+    "cities": [
+        {
+            "id": 140080001,
+            "name": "Abbey",
+            "alt_names": [],
+            "latitude": -33.66364,
+            "longitude": 115.25635,
+            "timezone": null
+        },
+        {
+            "id": 140080002,
+            "name": "Albany",
+            "alt_names": [],
+            "latitude": -34.7099,
+            "longitude": 118.12345,
+            "timezone": null
+        },
+        {
+            "id": 140080003,
+            "name": "Albany city centre",
+            "alt_names": [],
+            "latitude": -35.02479,
+            "longitude": 117.88472,
+            "timezone": null
+        },
+        {
+            "id": 140080004,
+            "name": "Alexander Heights",
+            "alt_names": [],
+            "latitude": -31.82758,
+            "longitude": 115.86501,
+            "timezone": null
+        },
+        {
+            "id": 140080005,
+            "name": "Alfred Cove",
+            "alt_names": [],
+            "latitude": -32.03316,
+            "longitude": 115.81259,
+            "timezone": null
+        },
+        {
+            "id": 140080006,
+            "name": "Alkimos",
+            "alt_names": [],
+            "latitude": -31.63039,
+            "longitude": 115.68638,
+            "timezone": null
+        },
+        {
+            "id": 140080007,
+            "name": "Applecross",
+            "alt_names": [],
+            "latitude": -32.01667,
+            "longitude": 115.83333,
+            "timezone": null
+        },
+        {
+            "id": 140080008,
+            "name": "Ardross",
+            "alt_names": [],
+            "latitude": -32.02696,
+            "longitude": 115.83548,
+            "timezone": null
+        },
+        {
+            "id": 140080009,
+            "name": "Armadale",
+            "alt_names": [],
+            "latitude": -32.17887,
+            "longitude": 116.1275,
+            "timezone": null
+        },
+        {
+            "id": 140080010,
+            "name": "Ascot",
+            "alt_names": [],
+            "latitude": -31.93818,
+            "longitude": 115.92258,
+            "timezone": null
+        },
+        {
+            "id": 140080011,
+            "name": "Ashburton",
+            "alt_names": [],
+            "latitude": -22.27674,
+            "longitude": 116.90057,
+            "timezone": null
+        },
+        {
+            "id": 140080012,
+            "name": "Ashby",
+            "alt_names": [],
+            "latitude": -31.73255,
+            "longitude": 115.79768,
+            "timezone": null
+        },
+        {
+            "id": 140080013,
+            "name": "Ashfield",
+            "alt_names": [],
+            "latitude": -31.91721,
+            "longitude": 115.93796,
+            "timezone": null
+        },
+        {
+            "id": 140080014,
+            "name": "Attadale",
+            "alt_names": [],
+            "latitude": -32.02489,
+            "longitude": 115.802,
+            "timezone": null
+        },
+        {
+            "id": 140080015,
+            "name": "Atwell",
+            "alt_names": [],
+            "latitude": -32.14346,
+            "longitude": 115.86528,
+            "timezone": null
+        },
+        {
+            "id": 140080016,
+            "name": "Aubin Grove",
+            "alt_names": [],
+            "latitude": -32.16714,
+            "longitude": 115.86264,
+            "timezone": null
+        },
+        {
+            "id": 140080017,
+            "name": "Augusta",
+            "alt_names": [],
+            "latitude": -34.31566,
+            "longitude": 115.15922,
+            "timezone": null
+        },
+        {
+            "id": 140080018,
+            "name": "Augusta-Margaret River Shire",
+            "alt_names": [],
+            "latitude": -34.1152,
+            "longitude": 115.32277,
+            "timezone": null
+        },
+        {
+            "id": 140080019,
+            "name": "Australind",
+            "alt_names": [],
+            "latitude": -33.2792,
+            "longitude": 115.71504,
+            "timezone": null
+        },
+        {
+            "id": 140080020,
+            "name": "Aveley",
+            "alt_names": [],
+            "latitude": -31.78132,
+            "longitude": 115.98959,
+            "timezone": null
+        },
+        {
+            "id": 140080021,
+            "name": "Badgingarra",
+            "alt_names": [],
+            "latitude": -30.4436733,
+            "longitude": 115.4747145,
+            "timezone": null
+        },
+        {
+            "id": 140080022,
+            "name": "Bakers Hill",
+            "alt_names": [],
+            "latitude": -31.74692,
+            "longitude": 116.45866,
+            "timezone": null
+        },
+        {
+            "id": 140080023,
+            "name": "Balcatta",
+            "alt_names": [],
+            "latitude": -31.87501,
+            "longitude": 115.82839,
+            "timezone": null
+        },
+        {
+            "id": 140080024,
+            "name": "Baldivis",
+            "alt_names": [],
+            "latitude": -32.32889,
+            "longitude": 115.83047,
+            "timezone": null
+        },
+        {
+            "id": 140080025,
+            "name": "Balga",
+            "alt_names": [],
+            "latitude": -31.85497,
+            "longitude": 115.83986,
+            "timezone": null
+        },
+        {
+            "id": 140080026,
+            "name": "Ballajura",
+            "alt_names": [],
+            "latitude": -31.84062,
+            "longitude": 115.89549,
+            "timezone": null
+        },
+        {
+            "id": 140080027,
+            "name": "Banjup",
+            "alt_names": [],
+            "latitude": -32.14179,
+            "longitude": 115.88671,
+            "timezone": null
+        },
+        {
+            "id": 140080028,
+            "name": "Banksia Grove",
+            "alt_names": [],
+            "latitude": -31.69615,
+            "longitude": 115.80501,
+            "timezone": null
+        },
+        {
+            "id": 140080029,
+            "name": "Bassendean",
+            "alt_names": [],
+            "latitude": -31.90584,
+            "longitude": 115.94501,
+            "timezone": null
+        },
+        {
+            "id": 140080030,
+            "name": "Bateman",
+            "alt_names": [],
+            "latitude": -32.05547,
+            "longitude": 115.84737,
+            "timezone": null
+        },
+        {
+            "id": 140080031,
+            "name": "Baynton",
+            "alt_names": [],
+            "latitude": -20.75164,
+            "longitude": 116.80139,
+            "timezone": null
+        },
+        {
+            "id": 140080032,
+            "name": "Bayonet Head",
+            "alt_names": [],
+            "latitude": -34.97305,
+            "longitude": 117.93446,
+            "timezone": null
+        },
+        {
+            "id": 140080033,
+            "name": "Bayswater",
+            "alt_names": [],
+            "latitude": -31.91181,
+            "longitude": 115.9087,
+            "timezone": null
+        },
+        {
+            "id": 140080034,
+            "name": "Beachlands",
+            "alt_names": [],
+            "latitude": -28.7857,
+            "longitude": 114.60192,
+            "timezone": null
+        },
+        {
+            "id": 140080035,
+            "name": "Beaconsfield",
+            "alt_names": [],
+            "latitude": -32.06748,
+            "longitude": 115.76401,
+            "timezone": null
+        },
+        {
+            "id": 140080036,
+            "name": "Beckenham",
+            "alt_names": [],
+            "latitude": -32.02481,
+            "longitude": 115.95989,
+            "timezone": null
+        },
+        {
+            "id": 140080037,
+            "name": "Bedford",
+            "alt_names": [],
+            "latitude": -31.91132,
+            "longitude": 115.8892,
+            "timezone": null
+        },
+        {
+            "id": 140080038,
+            "name": "Bedfordale",
+            "alt_names": [],
+            "latitude": -32.17406,
+            "longitude": 116.0504,
+            "timezone": null
+        },
+        {
+            "id": 140080039,
+            "name": "Beechboro",
+            "alt_names": [],
+            "latitude": -31.86515,
+            "longitude": 115.93661,
+            "timezone": null
+        },
+        {
+            "id": 140080040,
+            "name": "Beeliar",
+            "alt_names": [],
+            "latitude": -32.13339,
+            "longitude": 115.80637,
+            "timezone": null
+        },
+        {
+            "id": 140080041,
+            "name": "Beldon",
+            "alt_names": [],
+            "latitude": -31.77466,
+            "longitude": 115.7627,
+            "timezone": null
+        },
+        {
+            "id": 140080042,
+            "name": "Bellevue",
+            "alt_names": [],
+            "latitude": -31.90116,
+            "longitude": 116.02762,
+            "timezone": null
+        },
+        {
+            "id": 140080043,
+            "name": "Belmont",
+            "alt_names": [],
+            "latitude": -31.95458,
+            "longitude": 115.94218,
+            "timezone": null
+        },
+        {
+            "id": 140080044,
+            "name": "Bennett Springs",
+            "alt_names": [],
+            "latitude": -31.85941,
+            "longitude": 115.94512,
+            "timezone": null
+        },
+        {
+            "id": 140080045,
+            "name": "Bentley",
+            "alt_names": [],
+            "latitude": -32.00224,
+            "longitude": 115.92473,
+            "timezone": null
+        },
+        {
+            "id": 140080046,
+            "name": "Beresford",
+            "alt_names": [],
+            "latitude": -28.75754,
+            "longitude": 114.61965,
+            "timezone": null
+        },
+        {
+            "id": 140080047,
+            "name": "Bertram",
+            "alt_names": [],
+            "latitude": -32.24369,
+            "longitude": 115.84572,
+            "timezone": null
+        },
+        {
+            "id": 140080048,
+            "name": "Beverley",
+            "alt_names": [],
+            "latitude": -32.10839,
+            "longitude": 116.92736,
+            "timezone": null
+        },
+        {
+            "id": 140080049,
+            "name": "Bibra Lake",
+            "alt_names": [],
+            "latitude": -32.09764,
+            "longitude": 115.81921,
+            "timezone": null
+        },
+        {
+            "id": 140080050,
+            "name": "Bicton",
+            "alt_names": [],
+            "latitude": -32.02778,
+            "longitude": 115.78333,
+            "timezone": null
+        },
+        {
+            "id": 140080051,
+            "name": "Bilingurr",
+            "alt_names": [],
+            "latitude": -17.90909,
+            "longitude": 122.22921,
+            "timezone": null
+        },
+        {
+            "id": 140080052,
+            "name": "Bindoon",
+            "alt_names": [],
+            "latitude": -31.38663,
+            "longitude": 116.09664,
+            "timezone": null
+        },
+        {
+            "id": 140080053,
+            "name": "Binningup",
+            "alt_names": [],
+            "latitude": -33.1483,
+            "longitude": 115.69519,
+            "timezone": null
+        },
+        {
+            "id": 140080054,
+            "name": "Bluff Point",
+            "alt_names": [],
+            "latitude": -28.7374,
+            "longitude": 114.62278,
+            "timezone": null
+        },
+        {
+            "id": 140080055,
+            "name": "Boddington",
+            "alt_names": [],
+            "latitude": -32.79195,
+            "longitude": 116.41883,
+            "timezone": null
+        },
+        {
+            "id": 140080056,
+            "name": "Booragoon",
+            "alt_names": [],
+            "latitude": -32.03945,
+            "longitude": 115.83369,
+            "timezone": null
+        },
+        {
+            "id": 140080057,
+            "name": "Boulder",
+            "alt_names": [],
+            "latitude": -30.78204,
+            "longitude": 121.4912,
+            "timezone": null
+        },
+        {
+            "id": 140080058,
+            "name": "Boyanup",
+            "alt_names": [],
+            "latitude": -33.48295,
+            "longitude": 115.72838,
+            "timezone": null
+        },
+        {
+            "id": 140080059,
+            "name": "Boyup Brook",
+            "alt_names": [],
+            "latitude": -33.88555,
+            "longitude": 116.51885,
+            "timezone": null
+        },
+        {
+            "id": 140080060,
+            "name": "Brabham",
+            "alt_names": [],
+            "latitude": -31.82728,
+            "longitude": 115.97417,
+            "timezone": null
+        },
+        {
+            "id": 140080061,
+            "name": "Brentwood",
+            "alt_names": [],
+            "latitude": -32.04347,
+            "longitude": 115.85246,
+            "timezone": null
+        },
+        {
+            "id": 140080062,
+            "name": "Bridgetown",
+            "alt_names": [],
+            "latitude": -33.96242,
+            "longitude": 116.13598,
+            "timezone": null
+        },
+        {
+            "id": 140080063,
+            "name": "Bridgetown-Greenbushes",
+            "alt_names": [],
+            "latitude": -33.99234,
+            "longitude": 116.22502,
+            "timezone": null
+        },
+        {
+            "id": 140080064,
+            "name": "Broadwater",
+            "alt_names": [],
+            "latitude": -33.66304,
+            "longitude": 115.2842,
+            "timezone": null
+        },
+        {
+            "id": 140080065,
+            "name": "Brockman",
+            "alt_names": [],
+            "latitude": -24.88126,
+            "longitude": 113.65365,
+            "timezone": null
+        },
+        {
+            "id": 140080066,
+            "name": "Brookdale",
+            "alt_names": [],
+            "latitude": -32.16696,
+            "longitude": 116.00193,
+            "timezone": null
+        },
+        {
+            "id": 140080067,
+            "name": "Brookton",
+            "alt_names": [],
+            "latitude": -32.35533,
+            "longitude": 116.99994,
+            "timezone": null
+        },
+        {
+            "id": 140080068,
+            "name": "Broome",
+            "alt_names": [],
+            "latitude": -17.94041,
+            "longitude": 122.64038,
+            "timezone": null
+        },
+        {
+            "id": 140080069,
+            "name": "Broomehill-Tambellup",
+            "alt_names": [],
+            "latitude": -34.0132,
+            "longitude": 117.65297,
+            "timezone": null
+        },
+        {
+            "id": 140080070,
+            "name": "Bruce Rock",
+            "alt_names": [],
+            "latitude": -31.96651,
+            "longitude": 118.02385,
+            "timezone": null
+        },
+        {
+            "id": 140080071,
+            "name": "Brunswick",
+            "alt_names": [],
+            "latitude": -33.2324,
+            "longitude": 115.86282,
+            "timezone": null
+        },
+        {
+            "id": 140080072,
+            "name": "Bulgarra",
+            "alt_names": [],
+            "latitude": -20.72584,
+            "longitude": 116.85673,
+            "timezone": null
+        },
+        {
+            "id": 140080073,
+            "name": "Bull Creek",
+            "alt_names": [],
+            "latitude": -32.05625,
+            "longitude": 115.86242,
+            "timezone": null
+        },
+        {
+            "id": 140080074,
+            "name": "Bullsbrook",
+            "alt_names": [],
+            "latitude": -31.66905,
+            "longitude": 115.9999,
+            "timezone": null
+        },
+        {
+            "id": 140080075,
+            "name": "Bunbury",
+            "alt_names": [],
+            "latitude": -33.32711,
+            "longitude": 115.64137,
+            "timezone": null
+        },
+        {
+            "id": 140080076,
+            "name": "Burns Beach",
+            "alt_names": [],
+            "latitude": -31.7206,
+            "longitude": 115.7205,
+            "timezone": null
+        },
+        {
+            "id": 140080077,
+            "name": "Burswood",
+            "alt_names": [],
+            "latitude": -31.95872,
+            "longitude": 115.90396,
+            "timezone": null
+        },
+        {
+            "id": 140080078,
+            "name": "Busselton",
+            "alt_names": [],
+            "latitude": -33.68477,
+            "longitude": 115.3708,
+            "timezone": null
+        },
+        {
+            "id": 140080079,
+            "name": "Busselton city cenre",
+            "alt_names": [],
+            "latitude": -33.65078,
+            "longitude": 115.34932,
+            "timezone": null
+        },
+        {
+            "id": 140080080,
+            "name": "Butler",
+            "alt_names": [],
+            "latitude": -31.64298,
+            "longitude": 115.70431,
+            "timezone": null
+        },
+        {
+            "id": 140080081,
+            "name": "Byford",
+            "alt_names": [],
+            "latitude": -32.22099,
+            "longitude": 116.009,
+            "timezone": null
+        },
+        {
+            "id": 140080082,
+            "name": "Cable Beach",
+            "alt_names": [],
+            "latitude": -17.96098,
+            "longitude": 122.21269,
+            "timezone": null
+        },
+        {
+            "id": 140080083,
+            "name": "Calista",
+            "alt_names": [],
+            "latitude": -32.241,
+            "longitude": 115.79763,
+            "timezone": null
+        },
+        {
+            "id": 140080084,
+            "name": "Cambridge",
+            "alt_names": [],
+            "latitude": -31.93542,
+            "longitude": 115.79887,
+            "timezone": null
+        },
+        {
+            "id": 140080085,
+            "name": "Camillo",
+            "alt_names": [],
+            "latitude": -32.11292,
+            "longitude": 116.00205,
+            "timezone": null
+        },
+        {
+            "id": 140080086,
+            "name": "Canning",
+            "alt_names": [],
+            "latitude": -32.04923,
+            "longitude": 115.91943,
+            "timezone": null
+        },
+        {
+            "id": 140080087,
+            "name": "Canning Vale",
+            "alt_names": [],
+            "latitude": -32.05799,
+            "longitude": 115.91814,
+            "timezone": null
+        },
+        {
+            "id": 140080088,
+            "name": "Cannington",
+            "alt_names": [],
+            "latitude": -32.01625,
+            "longitude": 115.93648,
+            "timezone": null
+        },
+        {
+            "id": 140080089,
+            "name": "Capel",
+            "alt_names": [],
+            "latitude": -33.52704,
+            "longitude": 115.61813,
+            "timezone": null
+        },
+        {
+            "id": 140080090,
+            "name": "Cardup",
+            "alt_names": [],
+            "latitude": -32.25802,
+            "longitude": 115.98512,
+            "timezone": null
+        },
+        {
+            "id": 140080091,
+            "name": "Carey Park",
+            "alt_names": [],
+            "latitude": -33.34878,
+            "longitude": 115.6493,
+            "timezone": null
+        },
+        {
+            "id": 140080092,
+            "name": "Carine",
+            "alt_names": [],
+            "latitude": -31.8523,
+            "longitude": 115.78258,
+            "timezone": null
+        },
+        {
+            "id": 140080093,
+            "name": "Carlisle",
+            "alt_names": [],
+            "latitude": -31.97945,
+            "longitude": 115.91808,
+            "timezone": null
+        },
+        {
+            "id": 140080094,
+            "name": "Carnamah",
+            "alt_names": [],
+            "latitude": -29.80411,
+            "longitude": 115.59402,
+            "timezone": null
+        },
+        {
+            "id": 140080095,
+            "name": "Carnarvon",
+            "alt_names": [],
+            "latitude": -24.88258,
+            "longitude": 113.65713,
+            "timezone": null
+        },
+        {
+            "id": 140080096,
+            "name": "Carramar",
+            "alt_names": [],
+            "latitude": -31.69023,
+            "longitude": 115.77159,
+            "timezone": null
+        },
+        {
+            "id": 140080097,
+            "name": "Castletown",
+            "alt_names": [],
+            "latitude": -33.83237,
+            "longitude": 121.91563,
+            "timezone": null
+        },
+        {
+            "id": 140080098,
+            "name": "Casuarina",
+            "alt_names": [],
+            "latitude": -32.24143,
+            "longitude": 115.8698,
+            "timezone": null
+        },
+        {
+            "id": 140080099,
+            "name": "Cataby",
+            "alt_names": [],
+            "latitude": -30.7274473,
+            "longitude": 115.432016,
+            "timezone": null
+        },
+        {
+            "id": 140080100,
+            "name": "Caversham",
+            "alt_names": [],
+            "latitude": -31.88333,
+            "longitude": 115.96667,
+            "timezone": null
+        },
+        {
+            "id": 140080101,
+            "name": "Cervantes",
+            "alt_names": [],
+            "latitude": -30.5026475,
+            "longitude": 115.0541767,
+            "timezone": null
+        },
+        {
+            "id": 140080102,
+            "name": "Champion Lakes",
+            "alt_names": [],
+            "latitude": -32.11913,
+            "longitude": 115.98617,
+            "timezone": null
+        },
+        {
+            "id": 140080103,
+            "name": "Chapman Valley",
+            "alt_names": [],
+            "latitude": -28.27249,
+            "longitude": 115.02794,
+            "timezone": null
+        },
+        {
+            "id": 140080104,
+            "name": "Chidlow",
+            "alt_names": [],
+            "latitude": -31.86094,
+            "longitude": 116.27243,
+            "timezone": null
+        },
+        {
+            "id": 140080105,
+            "name": "Chittering",
+            "alt_names": [],
+            "latitude": -31.35829,
+            "longitude": 116.05131,
+            "timezone": null
+        },
+        {
+            "id": 140080106,
+            "name": "Churchlands",
+            "alt_names": [],
+            "latitude": -31.92142,
+            "longitude": 115.79322,
+            "timezone": null
+        },
+        {
+            "id": 140080107,
+            "name": "City Beach",
+            "alt_names": [],
+            "latitude": -31.9344,
+            "longitude": 115.76174,
+            "timezone": null
+        },
+        {
+            "id": 140080108,
+            "name": "City of Cockburn",
+            "alt_names": [],
+            "latitude": -32.10264,
+            "longitude": 115.84431,
+            "timezone": null
+        },
+        {
+            "id": 140080109,
+            "name": "City of Perth",
+            "alt_names": [],
+            "latitude": -31.94978,
+            "longitude": 115.85383,
+            "timezone": null
+        },
+        {
+            "id": 140080110,
+            "name": "Claremont",
+            "alt_names": [],
+            "latitude": -31.98127,
+            "longitude": 115.77942,
+            "timezone": null
+        },
+        {
+            "id": 140080111,
+            "name": "Clarkson",
+            "alt_names": [],
+            "latitude": -31.68282,
+            "longitude": 115.7247,
+            "timezone": null
+        },
+        {
+            "id": 140080112,
+            "name": "Cloverdale",
+            "alt_names": [],
+            "latitude": -31.96281,
+            "longitude": 115.94428,
+            "timezone": null
+        },
+        {
+            "id": 140080113,
+            "name": "Cockburn Central",
+            "alt_names": [],
+            "latitude": -32.12133,
+            "longitude": 115.84776,
+            "timezone": null
+        },
+        {
+            "id": 140080114,
+            "name": "College Grove",
+            "alt_names": [],
+            "latitude": -33.37587,
+            "longitude": 115.65906,
+            "timezone": null
+        },
+        {
+            "id": 140080115,
+            "name": "Collie",
+            "alt_names": [],
+            "latitude": -33.27353,
+            "longitude": 116.16558,
+            "timezone": null
+        },
+        {
+            "id": 140080116,
+            "name": "Como",
+            "alt_names": [],
+            "latitude": -31.99119,
+            "longitude": 115.86336,
+            "timezone": null
+        },
+        {
+            "id": 140080117,
+            "name": "Connolly",
+            "alt_names": [],
+            "latitude": -31.74864,
+            "longitude": 115.75053,
+            "timezone": null
+        },
+        {
+            "id": 140080118,
+            "name": "Coodanup",
+            "alt_names": [],
+            "latitude": -32.55187,
+            "longitude": 115.75352,
+            "timezone": null
+        },
+        {
+            "id": 140080119,
+            "name": "Coogee",
+            "alt_names": [],
+            "latitude": -32.11934,
+            "longitude": 115.7665,
+            "timezone": null
+        },
+        {
+            "id": 140080120,
+            "name": "Coolbellup",
+            "alt_names": [],
+            "latitude": -32.08124,
+            "longitude": 115.80606,
+            "timezone": null
+        },
+        {
+            "id": 140080121,
+            "name": "Coolbinia",
+            "alt_names": [],
+            "latitude": -31.9147,
+            "longitude": 115.84894,
+            "timezone": null
+        },
+        {
+            "id": 140080122,
+            "name": "Coolgardie",
+            "alt_names": [],
+            "latitude": -31.01438,
+            "longitude": 121.20462,
+            "timezone": null
+        },
+        {
+            "id": 140080123,
+            "name": "Cooloongup",
+            "alt_names": [],
+            "latitude": -32.31506,
+            "longitude": 115.77772,
+            "timezone": null
+        },
+        {
+            "id": 140080124,
+            "name": "Coorow",
+            "alt_names": [],
+            "latitude": -29.97865,
+            "longitude": 115.65613,
+            "timezone": null
+        },
+        {
+            "id": 140080125,
+            "name": "Corrigin",
+            "alt_names": [],
+            "latitude": -32.37599,
+            "longitude": 117.81023,
+            "timezone": null
+        },
+        {
+            "id": 140080126,
+            "name": "Cottesloe",
+            "alt_names": [],
+            "latitude": -31.99905,
+            "longitude": 115.76089,
+            "timezone": null
+        },
+        {
+            "id": 140080127,
+            "name": "Cowaramup",
+            "alt_names": [],
+            "latitude": -33.85036,
+            "longitude": 115.10379,
+            "timezone": null
+        },
+        {
+            "id": 140080128,
+            "name": "Craigie",
+            "alt_names": [],
+            "latitude": -31.78727,
+            "longitude": 115.76989,
+            "timezone": null
+        },
+        {
+            "id": 140080129,
+            "name": "Cranbrook",
+            "alt_names": [],
+            "latitude": -34.33414,
+            "longitude": 117.32898,
+            "timezone": null
+        },
+        {
+            "id": 140080130,
+            "name": "Crawley",
+            "alt_names": [],
+            "latitude": -31.98418,
+            "longitude": 115.81603,
+            "timezone": null
+        },
+        {
+            "id": 140080131,
+            "name": "Cuballing",
+            "alt_names": [],
+            "latitude": -32.74026,
+            "longitude": 117.15497,
+            "timezone": null
+        },
+        {
+            "id": 140080132,
+            "name": "Cue",
+            "alt_names": [],
+            "latitude": -27.22633,
+            "longitude": 118.00496,
+            "timezone": null
+        },
+        {
+            "id": 140080133,
+            "name": "Cunderdin",
+            "alt_names": [],
+            "latitude": -31.61259,
+            "longitude": 117.11803,
+            "timezone": null
+        },
+        {
+            "id": 140080134,
+            "name": "Currambine",
+            "alt_names": [],
+            "latitude": -31.73306,
+            "longitude": 115.74766,
+            "timezone": null
+        },
+        {
+            "id": 140080135,
+            "name": "Daglish",
+            "alt_names": [],
+            "latitude": -31.95177,
+            "longitude": 115.8088,
+            "timezone": null
+        },
+        {
+            "id": 140080136,
+            "name": "Dalkeith",
+            "alt_names": [],
+            "latitude": -31.99517,
+            "longitude": 115.7998,
+            "timezone": null
+        },
+        {
+            "id": 140080137,
+            "name": "Dalwallinu",
+            "alt_names": [],
+            "latitude": -30.12998,
+            "longitude": 116.98401,
+            "timezone": null
+        },
+        {
+            "id": 140080138,
+            "name": "Dalyellup",
+            "alt_names": [],
+            "latitude": -33.40844,
+            "longitude": 115.61506,
+            "timezone": null
+        },
+        {
+            "id": 140080139,
+            "name": "Dampier",
+            "alt_names": [],
+            "latitude": -20.66275,
+            "longitude": 116.71256,
+            "timezone": null
+        },
+        {
+            "id": 140080140,
+            "name": "Dampier Peninsula",
+            "alt_names": [],
+            "latitude": -16.93241,
+            "longitude": 122.86559,
+            "timezone": null
+        },
+        {
+            "id": 140080141,
+            "name": "Dandaragan",
+            "alt_names": [],
+            "latitude": -30.54142,
+            "longitude": 115.46132,
+            "timezone": null
+        },
+        {
+            "id": 140080142,
+            "name": "Darch",
+            "alt_names": [],
+            "latitude": -31.81255,
+            "longitude": 115.8458,
+            "timezone": null
+        },
+        {
+            "id": 140080143,
+            "name": "Dardanup",
+            "alt_names": [],
+            "latitude": -33.41611,
+            "longitude": 115.8741,
+            "timezone": null
+        },
+        {
+            "id": 140080144,
+            "name": "Darling Downs",
+            "alt_names": [],
+            "latitude": -32.19442,
+            "longitude": 115.99187,
+            "timezone": null
+        },
+        {
+            "id": 140080145,
+            "name": "Darlington",
+            "alt_names": [],
+            "latitude": -31.91906,
+            "longitude": 116.0812,
+            "timezone": null
+        },
+        {
+            "id": 140080146,
+            "name": "Dawesville",
+            "alt_names": [],
+            "latitude": -32.63229,
+            "longitude": 115.62904,
+            "timezone": null
+        },
+        {
+            "id": 140080147,
+            "name": "Dayton",
+            "alt_names": [],
+            "latitude": -31.85251,
+            "longitude": 115.97494,
+            "timezone": null
+        },
+        {
+            "id": 140080148,
+            "name": "Denham",
+            "alt_names": [],
+            "latitude": -25.92679,
+            "longitude": 113.53327,
+            "timezone": null
+        },
+        {
+            "id": 140080149,
+            "name": "Denmark",
+            "alt_names": [],
+            "latitude": -34.93473,
+            "longitude": 117.37518,
+            "timezone": null
+        },
+        {
+            "id": 140080150,
+            "name": "Derby",
+            "alt_names": [],
+            "latitude": -17.30295,
+            "longitude": 123.62864,
+            "timezone": null
+        },
+        {
+            "id": 140080151,
+            "name": "Derby-West Kimberley",
+            "alt_names": [],
+            "latitude": -17.50447,
+            "longitude": 125.28014,
+            "timezone": null
+        },
+        {
+            "id": 140080152,
+            "name": "Dianella",
+            "alt_names": [],
+            "latitude": -31.88822,
+            "longitude": 115.87186,
+            "timezone": null
+        },
+        {
+            "id": 140080153,
+            "name": "Djugun",
+            "alt_names": [],
+            "latitude": -17.95395,
+            "longitude": 122.22792,
+            "timezone": null
+        },
+        {
+            "id": 140080154,
+            "name": "Dongara",
+            "alt_names": [],
+            "latitude": -29.25818,
+            "longitude": 114.93276,
+            "timezone": null
+        },
+        {
+            "id": 140080155,
+            "name": "Donnybrook",
+            "alt_names": [],
+            "latitude": -33.5713,
+            "longitude": 115.82446,
+            "timezone": null
+        },
+        {
+            "id": 140080156,
+            "name": "Donnybrook-Balingup",
+            "alt_names": [],
+            "latitude": -33.70217,
+            "longitude": 115.97778,
+            "timezone": null
+        },
+        {
+            "id": 140080157,
+            "name": "Doubleview",
+            "alt_names": [],
+            "latitude": -31.89627,
+            "longitude": 115.78155,
+            "timezone": null
+        },
+        {
+            "id": 140080158,
+            "name": "Dowerin",
+            "alt_names": [],
+            "latitude": -31.11328,
+            "longitude": 117.10566,
+            "timezone": null
+        },
+        {
+            "id": 140080159,
+            "name": "Drummond Cove",
+            "alt_names": [],
+            "latitude": -28.67379,
+            "longitude": 114.6128,
+            "timezone": null
+        },
+        {
+            "id": 140080160,
+            "name": "Dudley Park",
+            "alt_names": [],
+            "latitude": -32.55221,
+            "longitude": 115.731,
+            "timezone": null
+        },
+        {
+            "id": 140080161,
+            "name": "Dumbleyung Shire",
+            "alt_names": [],
+            "latitude": -33.2178,
+            "longitude": 117.9875,
+            "timezone": null
+        },
+        {
+            "id": 140080162,
+            "name": "Duncraig",
+            "alt_names": [],
+            "latitude": -31.83291,
+            "longitude": 115.7759,
+            "timezone": null
+        },
+        {
+            "id": 140080163,
+            "name": "Dundas",
+            "alt_names": [],
+            "latitude": -32.12502,
+            "longitude": 124.50582,
+            "timezone": null
+        },
+        {
+            "id": 140080164,
+            "name": "Dunsborough",
+            "alt_names": [],
+            "latitude": -33.61476,
+            "longitude": 115.10445,
+            "timezone": null
+        },
+        {
+            "id": 140080165,
+            "name": "East Bunbury",
+            "alt_names": [],
+            "latitude": -33.33619,
+            "longitude": 115.66041,
+            "timezone": null
+        },
+        {
+            "id": 140080166,
+            "name": "East Cannington",
+            "alt_names": [],
+            "latitude": -32.0098,
+            "longitude": 115.95503,
+            "timezone": null
+        },
+        {
+            "id": 140080167,
+            "name": "East Carnarvon",
+            "alt_names": [],
+            "latitude": -24.86397,
+            "longitude": 113.67768,
+            "timezone": null
+        },
+        {
+            "id": 140080168,
+            "name": "East Fremantle",
+            "alt_names": [],
+            "latitude": -32.03654,
+            "longitude": 115.76714,
+            "timezone": null
+        },
+        {
+            "id": 140080169,
+            "name": "East Perth",
+            "alt_names": [],
+            "latitude": -31.95872,
+            "longitude": 115.87109,
+            "timezone": null
+        },
+        {
+            "id": 140080170,
+            "name": "East Pilbara",
+            "alt_names": [],
+            "latitude": -21.61331,
+            "longitude": 123.71368,
+            "timezone": null
+        },
+        {
+            "id": 140080171,
+            "name": "East Victoria Park",
+            "alt_names": [],
+            "latitude": -31.98894,
+            "longitude": 115.90388,
+            "timezone": null
+        },
+        {
+            "id": 140080172,
+            "name": "Eaton",
+            "alt_names": [],
+            "latitude": -33.31664,
+            "longitude": 115.70503,
+            "timezone": null
+        },
+        {
+            "id": 140080173,
+            "name": "Eden Hill",
+            "alt_names": [],
+            "latitude": -31.88908,
+            "longitude": 115.94675,
+            "timezone": null
+        },
+        {
+            "id": 140080174,
+            "name": "Edgewater",
+            "alt_names": [],
+            "latitude": -31.76547,
+            "longitude": 115.78223,
+            "timezone": null
+        },
+        {
+            "id": 140080175,
+            "name": "Eglinton",
+            "alt_names": [],
+            "latitude": -31.58677,
+            "longitude": 115.68878,
+            "timezone": null
+        },
+        {
+            "id": 140080176,
+            "name": "Ellenbrook",
+            "alt_names": [],
+            "latitude": -31.76737,
+            "longitude": 115.96936,
+            "timezone": null
+        },
+        {
+            "id": 140080177,
+            "name": "Embleton",
+            "alt_names": [],
+            "latitude": -31.90355,
+            "longitude": 115.90902,
+            "timezone": null
+        },
+        {
+            "id": 140080178,
+            "name": "Erskine",
+            "alt_names": [],
+            "latitude": -32.55717,
+            "longitude": 115.70657,
+            "timezone": null
+        },
+        {
+            "id": 140080179,
+            "name": "Esperance",
+            "alt_names": [],
+            "latitude": -33.85919,
+            "longitude": 121.89164,
+            "timezone": null
+        },
+        {
+            "id": 140080180,
+            "name": "Esperance Shire",
+            "alt_names": [],
+            "latitude": -33.5197,
+            "longitude": 122.15586,
+            "timezone": null
+        },
+        {
+            "id": 140080181,
+            "name": "Exmouth",
+            "alt_names": [],
+            "latitude": -22.03643,
+            "longitude": 114.04358,
+            "timezone": null
+        },
+        {
+            "id": 140080182,
+            "name": "Falcon",
+            "alt_names": [],
+            "latitude": -32.58244,
+            "longitude": 115.66199,
+            "timezone": null
+        },
+        {
+            "id": 140080183,
+            "name": "Ferndale",
+            "alt_names": [],
+            "latitude": -32.03494,
+            "longitude": 115.92233,
+            "timezone": null
+        },
+        {
+            "id": 140080184,
+            "name": "Fitzroy Crossing",
+            "alt_names": [],
+            "latitude": -18.19714,
+            "longitude": 125.56663,
+            "timezone": null
+        },
+        {
+            "id": 140080185,
+            "name": "Floreat",
+            "alt_names": [],
+            "latitude": -31.93862,
+            "longitude": 115.79211,
+            "timezone": null
+        },
+        {
+            "id": 140080186,
+            "name": "Forrestdale",
+            "alt_names": [],
+            "latitude": -32.1552,
+            "longitude": 115.93417,
+            "timezone": null
+        },
+        {
+            "id": 140080187,
+            "name": "Forrestfield",
+            "alt_names": [],
+            "latitude": -31.98277,
+            "longitude": 116.00673,
+            "timezone": null
+        },
+        {
+            "id": 140080188,
+            "name": "Fremantle",
+            "alt_names": [],
+            "latitude": -32.05165,
+            "longitude": 115.76379,
+            "timezone": null
+        },
+        {
+            "id": 140080189,
+            "name": "Garden Island",
+            "alt_names": [],
+            "latitude": -32.24264,
+            "longitude": 115.69505,
+            "timezone": null
+        },
+        {
+            "id": 140080190,
+            "name": "Gelorup",
+            "alt_names": [],
+            "latitude": -33.42425,
+            "longitude": 115.64094,
+            "timezone": null
+        },
+        {
+            "id": 140080191,
+            "name": "Geographe",
+            "alt_names": [],
+            "latitude": -33.63974,
+            "longitude": 115.38358,
+            "timezone": null
+        },
+        {
+            "id": 140080192,
+            "name": "Geraldton",
+            "alt_names": [],
+            "latitude": -28.77897,
+            "longitude": 114.61459,
+            "timezone": null
+        },
+        {
+            "id": 140080193,
+            "name": "Geraldton city centre",
+            "alt_names": [],
+            "latitude": -28.77754,
+            "longitude": 114.61494,
+            "timezone": null
+        },
+        {
+            "id": 140080194,
+            "name": "Gidgegannup",
+            "alt_names": [],
+            "latitude": -31.75441,
+            "longitude": 116.18746,
+            "timezone": null
+        },
+        {
+            "id": 140080195,
+            "name": "Gingin",
+            "alt_names": [],
+            "latitude": -31.18435,
+            "longitude": 115.65944,
+            "timezone": null
+        },
+        {
+            "id": 140080196,
+            "name": "Girrawheen",
+            "alt_names": [],
+            "latitude": -31.84103,
+            "longitude": 115.83978,
+            "timezone": null
+        },
+        {
+            "id": 140080197,
+            "name": "Glen Forrest",
+            "alt_names": [],
+            "latitude": -31.91929,
+            "longitude": 116.10726,
+            "timezone": null
+        },
+        {
+            "id": 140080198,
+            "name": "Glen Iris",
+            "alt_names": [],
+            "latitude": -33.33713,
+            "longitude": 115.6743,
+            "timezone": null
+        },
+        {
+            "id": 140080199,
+            "name": "Glendalough",
+            "alt_names": [],
+            "latitude": -31.91991,
+            "longitude": 115.81945,
+            "timezone": null
+        },
+        {
+            "id": 140080200,
+            "name": "Gnangara",
+            "alt_names": [],
+            "latitude": -31.77612,
+            "longitude": 115.86623,
+            "timezone": null
+        },
+        {
+            "id": 140080201,
+            "name": "Gnowangerup",
+            "alt_names": [],
+            "latitude": -34.08658,
+            "longitude": 118.29832,
+            "timezone": null
+        },
+        {
+            "id": 140080202,
+            "name": "Golden Bay",
+            "alt_names": [],
+            "latitude": -32.42505,
+            "longitude": 115.76099,
+            "timezone": null
+        },
+        {
+            "id": 140080203,
+            "name": "Goomalling",
+            "alt_names": [],
+            "latitude": -31.23457,
+            "longitude": 116.79142,
+            "timezone": null
+        },
+        {
+            "id": 140080204,
+            "name": "Gooseberry Hill",
+            "alt_names": [],
+            "latitude": -31.95444,
+            "longitude": 116.0492,
+            "timezone": null
+        },
+        {
+            "id": 140080205,
+            "name": "Gosnells",
+            "alt_names": [],
+            "latitude": -32.06763,
+            "longitude": 116.00203,
+            "timezone": null
+        },
+        {
+            "id": 140080206,
+            "name": "Grasmere",
+            "alt_names": [],
+            "latitude": -35.01806,
+            "longitude": 117.75556,
+            "timezone": null
+        },
+        {
+            "id": 140080207,
+            "name": "Green Head",
+            "alt_names": [],
+            "latitude": -30.0774961,
+            "longitude": 114.9585129,
+            "timezone": null
+        },
+        {
+            "id": 140080208,
+            "name": "Greenfields",
+            "alt_names": [],
+            "latitude": -32.52429,
+            "longitude": 115.76315,
+            "timezone": null
+        },
+        {
+            "id": 140080209,
+            "name": "Greenmount",
+            "alt_names": [],
+            "latitude": -31.90072,
+            "longitude": 116.0495,
+            "timezone": null
+        },
+        {
+            "id": 140080210,
+            "name": "Greenwood",
+            "alt_names": [],
+            "latitude": -31.82723,
+            "longitude": 115.80247,
+            "timezone": null
+        },
+        {
+            "id": 140080211,
+            "name": "Guildford",
+            "alt_names": [],
+            "latitude": -31.9,
+            "longitude": 115.96667,
+            "timezone": null
+        },
+        {
+            "id": 140080212,
+            "name": "Gwelup",
+            "alt_names": [],
+            "latitude": -31.87163,
+            "longitude": 115.79484,
+            "timezone": null
+        },
+        {
+            "id": 140080213,
+            "name": "Halls Creek",
+            "alt_names": [],
+            "latitude": -19.00069,
+            "longitude": 127.45204,
+            "timezone": null
+        },
+        {
+            "id": 140080214,
+            "name": "Halls Head",
+            "alt_names": [],
+            "latitude": -32.54315,
+            "longitude": 115.69665,
+            "timezone": null
+        },
+        {
+            "id": 140080215,
+            "name": "Hamersley",
+            "alt_names": [],
+            "latitude": -31.84898,
+            "longitude": 115.80757,
+            "timezone": null
+        },
+        {
+            "id": 140080216,
+            "name": "Hamilton Hill",
+            "alt_names": [],
+            "latitude": -32.08451,
+            "longitude": 115.77946,
+            "timezone": null
+        },
+        {
+            "id": 140080217,
+            "name": "Hammond Park",
+            "alt_names": [],
+            "latitude": -32.16853,
+            "longitude": 115.8504,
+            "timezone": null
+        },
+        {
+            "id": 140080218,
+            "name": "Hannans",
+            "alt_names": [],
+            "latitude": -30.71909,
+            "longitude": 121.4548,
+            "timezone": null
+        },
+        {
+            "id": 140080219,
+            "name": "Harrisdale",
+            "alt_names": [],
+            "latitude": -32.11084,
+            "longitude": 115.93563,
+            "timezone": null
+        },
+        {
+            "id": 140080220,
+            "name": "Harvey",
+            "alt_names": [],
+            "latitude": -33.14976,
+            "longitude": 115.93376,
+            "timezone": null
+        },
+        {
+            "id": 140080221,
+            "name": "Heathridge",
+            "alt_names": [],
+            "latitude": -31.76244,
+            "longitude": 115.75895,
+            "timezone": null
+        },
+        {
+            "id": 140080222,
+            "name": "Helena Valley",
+            "alt_names": [],
+            "latitude": -31.91938,
+            "longitude": 116.03982,
+            "timezone": null
+        },
+        {
+            "id": 140080223,
+            "name": "Henley Brook",
+            "alt_names": [],
+            "latitude": -31.81393,
+            "longitude": 115.98807,
+            "timezone": null
+        },
+        {
+            "id": 140080224,
+            "name": "Herne Hill",
+            "alt_names": [],
+            "latitude": -31.82553,
+            "longitude": 116.0227,
+            "timezone": null
+        },
+        {
+            "id": 140080225,
+            "name": "High Wycombe",
+            "alt_names": [],
+            "latitude": -31.94444,
+            "longitude": 116.0034,
+            "timezone": null
+        },
+        {
+            "id": 140080226,
+            "name": "Highgate",
+            "alt_names": [],
+            "latitude": -31.93971,
+            "longitude": 115.87015,
+            "timezone": null
+        },
+        {
+            "id": 140080227,
+            "name": "Hilbert",
+            "alt_names": [],
+            "latitude": -32.17818,
+            "longitude": 115.9849,
+            "timezone": null
+        },
+        {
+            "id": 140080228,
+            "name": "Hill River",
+            "alt_names": [],
+            "latitude": -30.2574411,
+            "longitude": 115.1536518,
+            "timezone": null
+        },
+        {
+            "id": 140080229,
+            "name": "Hillarys",
+            "alt_names": [],
+            "latitude": -31.80698,
+            "longitude": 115.74045,
+            "timezone": null
+        },
+        {
+            "id": 140080230,
+            "name": "Hillman",
+            "alt_names": [],
+            "latitude": -32.28327,
+            "longitude": 115.76364,
+            "timezone": null
+        },
+        {
+            "id": 140080231,
+            "name": "Hilton",
+            "alt_names": [],
+            "latitude": -32.06208,
+            "longitude": 115.78049,
+            "timezone": null
+        },
+        {
+            "id": 140080232,
+            "name": "Hocking",
+            "alt_names": [],
+            "latitude": -31.77012,
+            "longitude": 115.81832,
+            "timezone": null
+        },
+        {
+            "id": 140080233,
+            "name": "Huntingdale",
+            "alt_names": [],
+            "latitude": -32.08318,
+            "longitude": 115.96614,
+            "timezone": null
+        },
+        {
+            "id": 140080234,
+            "name": "Iluka",
+            "alt_names": [],
+            "latitude": -31.73554,
+            "longitude": 115.73058,
+            "timezone": null
+        },
+        {
+            "id": 140080235,
+            "name": "Inglewood",
+            "alt_names": [],
+            "latitude": -31.91663,
+            "longitude": 115.8798,
+            "timezone": null
+        },
+        {
+            "id": 140080236,
+            "name": "Innaloo",
+            "alt_names": [],
+            "latitude": -31.89272,
+            "longitude": 115.79508,
+            "timezone": null
+        },
+        {
+            "id": 140080237,
+            "name": "Irwin",
+            "alt_names": [],
+            "latitude": -29.34192,
+            "longitude": 115.04561,
+            "timezone": null
+        },
+        {
+            "id": 140080238,
+            "name": "Jandakot",
+            "alt_names": [],
+            "latitude": -32.10158,
+            "longitude": 115.87083,
+            "timezone": null
+        },
+        {
+            "id": 140080239,
+            "name": "Jane Brook",
+            "alt_names": [],
+            "latitude": -31.86368,
+            "longitude": 116.05039,
+            "timezone": null
+        },
+        {
+            "id": 140080240,
+            "name": "Jarrahdale",
+            "alt_names": [],
+            "latitude": -32.3358,
+            "longitude": 116.05951,
+            "timezone": null
+        },
+        {
+            "id": 140080241,
+            "name": "Jerramungup",
+            "alt_names": [],
+            "latitude": -34.0305,
+            "longitude": 119.11369,
+            "timezone": null
+        },
+        {
+            "id": 140080242,
+            "name": "Jindalee",
+            "alt_names": [],
+            "latitude": -31.64938,
+            "longitude": 115.69496,
+            "timezone": null
+        },
+        {
+            "id": 140080243,
+            "name": "Jolimont",
+            "alt_names": [],
+            "latitude": -31.94564,
+            "longitude": 115.80947,
+            "timezone": null
+        },
+        {
+            "id": 140080244,
+            "name": "Joondalup",
+            "alt_names": [],
+            "latitude": -31.77962,
+            "longitude": 115.76498,
+            "timezone": null
+        },
+        {
+            "id": 140080245,
+            "name": "Joondanna",
+            "alt_names": [],
+            "latitude": -31.90767,
+            "longitude": 115.84233,
+            "timezone": null
+        },
+        {
+            "id": 140080246,
+            "name": "Jurien Bay",
+            "alt_names": [],
+            "latitude": -30.30591,
+            "longitude": 115.03825,
+            "timezone": null
+        },
+        {
+            "id": 140080247,
+            "name": "Kalamunda",
+            "alt_names": [],
+            "latitude": -32.00398,
+            "longitude": 116.13292,
+            "timezone": null
+        },
+        {
+            "id": 140080248,
+            "name": "Kalbarri",
+            "alt_names": [],
+            "latitude": -27.7105,
+            "longitude": 114.16505,
+            "timezone": null
+        },
+        {
+            "id": 140080249,
+            "name": "Kalgoorlie",
+            "alt_names": [],
+            "latitude": -30.74614,
+            "longitude": 121.4742,
+            "timezone": null
+        },
+        {
+            "id": 140080250,
+            "name": "Kalgoorlie/Boulder",
+            "alt_names": [],
+            "latitude": -30.77632,
+            "longitude": 124.92347,
+            "timezone": null
+        },
+        {
+            "id": 140080251,
+            "name": "Kallaroo",
+            "alt_names": [],
+            "latitude": -31.79098,
+            "longitude": 115.75298,
+            "timezone": null
+        },
+        {
+            "id": 140080252,
+            "name": "Kambalda East",
+            "alt_names": [],
+            "latitude": -31.2055,
+            "longitude": 121.67011,
+            "timezone": null
+        },
+        {
+            "id": 140080253,
+            "name": "Kambalda West",
+            "alt_names": [],
+            "latitude": -31.20169,
+            "longitude": 121.6306,
+            "timezone": null
+        },
+        {
+            "id": 140080254,
+            "name": "Karawara",
+            "alt_names": [],
+            "latitude": -32.0086,
+            "longitude": 115.88114,
+            "timezone": null
+        },
+        {
+            "id": 140080255,
+            "name": "Kardinya",
+            "alt_names": [],
+            "latitude": -32.06561,
+            "longitude": 115.81483,
+            "timezone": null
+        },
+        {
+            "id": 140080256,
+            "name": "Karnup",
+            "alt_names": [],
+            "latitude": -32.41894,
+            "longitude": 115.79267,
+            "timezone": null
+        },
+        {
+            "id": 140080257,
+            "name": "Karratha",
+            "alt_names": [],
+            "latitude": -20.73765,
+            "longitude": 116.84629,
+            "timezone": null
+        },
+        {
+            "id": 140080258,
+            "name": "Karrinyup",
+            "alt_names": [],
+            "latitude": -31.87233,
+            "longitude": 115.77684,
+            "timezone": null
+        },
+        {
+            "id": 140080259,
+            "name": "Katanning",
+            "alt_names": [],
+            "latitude": -33.62476,
+            "longitude": 117.63965,
+            "timezone": null
+        },
+        {
+            "id": 140080260,
+            "name": "Kellerberrin",
+            "alt_names": [],
+            "latitude": -31.57709,
+            "longitude": 117.80561,
+            "timezone": null
+        },
+        {
+            "id": 140080261,
+            "name": "Kelmscott",
+            "alt_names": [],
+            "latitude": -32.12434,
+            "longitude": 116.0259,
+            "timezone": null
+        },
+        {
+            "id": 140080262,
+            "name": "Kent Shire",
+            "alt_names": [],
+            "latitude": -33.53881,
+            "longitude": 118.66993,
+            "timezone": null
+        },
+        {
+            "id": 140080263,
+            "name": "Kenwick",
+            "alt_names": [],
+            "latitude": -32.03333,
+            "longitude": 115.96667,
+            "timezone": null
+        },
+        {
+            "id": 140080264,
+            "name": "Kewdale",
+            "alt_names": [],
+            "latitude": -31.97886,
+            "longitude": 115.95159,
+            "timezone": null
+        },
+        {
+            "id": 140080265,
+            "name": "Kiara",
+            "alt_names": [],
+            "latitude": -31.88156,
+            "longitude": 115.93893,
+            "timezone": null
+        },
+        {
+            "id": 140080266,
+            "name": "Kingsley",
+            "alt_names": [],
+            "latitude": -31.81036,
+            "longitude": 115.80077,
+            "timezone": null
+        },
+        {
+            "id": 140080267,
+            "name": "Kinross",
+            "alt_names": [],
+            "latitude": -31.71868,
+            "longitude": 115.73839,
+            "timezone": null
+        },
+        {
+            "id": 140080268,
+            "name": "Kojonup",
+            "alt_names": [],
+            "latitude": -33.92546,
+            "longitude": 117.03982,
+            "timezone": null
+        },
+        {
+            "id": 140080269,
+            "name": "Kondinin",
+            "alt_names": [],
+            "latitude": -32.48431,
+            "longitude": 119.0242,
+            "timezone": null
+        },
+        {
+            "id": 140080270,
+            "name": "Koondoola",
+            "alt_names": [],
+            "latitude": -31.84145,
+            "longitude": 115.86654,
+            "timezone": null
+        },
+        {
+            "id": 140080271,
+            "name": "Koorda",
+            "alt_names": [],
+            "latitude": -30.60412,
+            "longitude": 117.40736,
+            "timezone": null
+        },
+        {
+            "id": 140080272,
+            "name": "Kulin",
+            "alt_names": [],
+            "latitude": -32.66096,
+            "longitude": 118.57544,
+            "timezone": null
+        },
+        {
+            "id": 140080273,
+            "name": "Kununurra",
+            "alt_names": [],
+            "latitude": -15.77825,
+            "longitude": 128.74208,
+            "timezone": null
+        },
+        {
+            "id": 140080274,
+            "name": "Kwinana",
+            "alt_names": [],
+            "latitude": -32.23391,
+            "longitude": 115.82785,
+            "timezone": null
+        },
+        {
+            "id": 140080275,
+            "name": "Lake Grace",
+            "alt_names": [],
+            "latitude": -33.1291,
+            "longitude": 119.42041,
+            "timezone": null
+        },
+        {
+            "id": 140080276,
+            "name": "Lakelands",
+            "alt_names": [],
+            "latitude": -32.47157,
+            "longitude": 115.77291,
+            "timezone": null
+        },
+        {
+            "id": 140080277,
+            "name": "Lamington",
+            "alt_names": [],
+            "latitude": -30.73425,
+            "longitude": 121.46163,
+            "timezone": null
+        },
+        {
+            "id": 140080278,
+            "name": "Lancelin",
+            "alt_names": [],
+            "latitude": -31.0223127,
+            "longitude": 115.3239809,
+            "timezone": null
+        },
+        {
+            "id": 140080279,
+            "name": "Landsdale",
+            "alt_names": [],
+            "latitude": -31.8075,
+            "longitude": 115.86599,
+            "timezone": null
+        },
+        {
+            "id": 140080280,
+            "name": "Langford",
+            "alt_names": [],
+            "latitude": -32.04092,
+            "longitude": 115.94157,
+            "timezone": null
+        },
+        {
+            "id": 140080281,
+            "name": "Lathlain",
+            "alt_names": [],
+            "latitude": -31.96755,
+            "longitude": 115.90631,
+            "timezone": null
+        },
+        {
+            "id": 140080282,
+            "name": "Laverton",
+            "alt_names": [],
+            "latitude": -27.93793,
+            "longitude": 125.27127,
+            "timezone": null
+        },
+        {
+            "id": 140080283,
+            "name": "Leda",
+            "alt_names": [],
+            "latitude": -32.26766,
+            "longitude": 115.7993,
+            "timezone": null
+        },
+        {
+            "id": 140080284,
+            "name": "Leederville",
+            "alt_names": [],
+            "latitude": -31.93628,
+            "longitude": 115.8419,
+            "timezone": null
+        },
+        {
+            "id": 140080285,
+            "name": "Leeman",
+            "alt_names": [],
+            "latitude": -29.9873579,
+            "longitude": 114.9578904,
+            "timezone": null
+        },
+        {
+            "id": 140080286,
+            "name": "Leeming",
+            "alt_names": [],
+            "latitude": -32.07511,
+            "longitude": 115.86613,
+            "timezone": null
+        },
+        {
+            "id": 140080287,
+            "name": "Leinster",
+            "alt_names": [],
+            "latitude": -27.92028,
+            "longitude": 120.6967,
+            "timezone": null
+        },
+        {
+            "id": 140080288,
+            "name": "Leonora",
+            "alt_names": [],
+            "latitude": -28.39424,
+            "longitude": 121.2596,
+            "timezone": null
+        },
+        {
+            "id": 140080289,
+            "name": "Leschenault",
+            "alt_names": [],
+            "latitude": -33.24519,
+            "longitude": 115.7251,
+            "timezone": null
+        },
+        {
+            "id": 140080290,
+            "name": "Lesmurdie",
+            "alt_names": [],
+            "latitude": -32.00199,
+            "longitude": 116.04821,
+            "timezone": null
+        },
+        {
+            "id": 140080291,
+            "name": "Little Grove",
+            "alt_names": [],
+            "latitude": -35.06803,
+            "longitude": 117.87197,
+            "timezone": null
+        },
+        {
+            "id": 140080292,
+            "name": "Lockridge",
+            "alt_names": [],
+            "latitude": -31.88168,
+            "longitude": 115.95031,
+            "timezone": null
+        },
+        {
+            "id": 140080293,
+            "name": "Lockyer",
+            "alt_names": [],
+            "latitude": -35.00567,
+            "longitude": 117.85875,
+            "timezone": null
+        },
+        {
+            "id": 140080294,
+            "name": "Lower Chittering",
+            "alt_names": [],
+            "latitude": -31.58333,
+            "longitude": 116.11667,
+            "timezone": null
+        },
+        {
+            "id": 140080295,
+            "name": "Lower King",
+            "alt_names": [],
+            "latitude": -34.95778,
+            "longitude": 117.93833,
+            "timezone": null
+        },
+        {
+            "id": 140080296,
+            "name": "Lynwood",
+            "alt_names": [],
+            "latitude": -32.04013,
+            "longitude": 115.92888,
+            "timezone": null
+        },
+        {
+            "id": 140080297,
+            "name": "Maddington",
+            "alt_names": [],
+            "latitude": -32.05,
+            "longitude": 115.98333,
+            "timezone": null
+        },
+        {
+            "id": 140080298,
+            "name": "Madeley",
+            "alt_names": [],
+            "latitude": -31.8111,
+            "longitude": 115.82814,
+            "timezone": null
+        },
+        {
+            "id": 140080299,
+            "name": "Madora Bay",
+            "alt_names": [],
+            "latitude": -32.46951,
+            "longitude": 115.75264,
+            "timezone": null
+        },
+        {
+            "id": 140080300,
+            "name": "Maida Vale",
+            "alt_names": [],
+            "latitude": -31.95187,
+            "longitude": 116.02764,
+            "timezone": null
+        },
+        {
+            "id": 140080301,
+            "name": "Malaga",
+            "alt_names": [],
+            "latitude": -31.8581429,
+            "longitude": 115.8798645,
+            "timezone": null
+        },
+        {
+            "id": 140080302,
+            "name": "Mandurah",
+            "alt_names": [],
+            "latitude": -32.5269,
+            "longitude": 115.7217,
+            "timezone": null
+        },
+        {
+            "id": 140080303,
+            "name": "Mandurah city centre",
+            "alt_names": [],
+            "latitude": -32.52644,
+            "longitude": 115.73361,
+            "timezone": null
+        },
+        {
+            "id": 140080304,
+            "name": "Manjimup",
+            "alt_names": [],
+            "latitude": -34.59789,
+            "longitude": 116.26566,
+            "timezone": null
+        },
+        {
+            "id": 140080305,
+            "name": "Manning",
+            "alt_names": [],
+            "latitude": -32.01594,
+            "longitude": 115.86714,
+            "timezone": null
+        },
+        {
+            "id": 140080306,
+            "name": "Marangaroo",
+            "alt_names": [],
+            "latitude": -31.82711,
+            "longitude": 115.83843,
+            "timezone": null
+        },
+        {
+            "id": 140080307,
+            "name": "Marble Bar",
+            "alt_names": [],
+            "latitude": -21.17067,
+            "longitude": 119.74441,
+            "timezone": null
+        },
+        {
+            "id": 140080308,
+            "name": "Margaret River",
+            "alt_names": [],
+            "latitude": -33.95504,
+            "longitude": 115.07599,
+            "timezone": null
+        },
+        {
+            "id": 140080309,
+            "name": "Marmion",
+            "alt_names": [],
+            "latitude": -31.84158,
+            "longitude": 115.75692,
+            "timezone": null
+        },
+        {
+            "id": 140080310,
+            "name": "Martin",
+            "alt_names": [],
+            "latitude": -32.07549,
+            "longitude": 116.04536,
+            "timezone": null
+        },
+        {
+            "id": 140080311,
+            "name": "Maylands",
+            "alt_names": [],
+            "latitude": -31.93097,
+            "longitude": 115.89486,
+            "timezone": null
+        },
+        {
+            "id": 140080312,
+            "name": "McKail",
+            "alt_names": [],
+            "latitude": -34.98533,
+            "longitude": 117.8301,
+            "timezone": null
+        },
+        {
+            "id": 140080313,
+            "name": "Meadow Springs",
+            "alt_names": [],
+            "latitude": -32.49718,
+            "longitude": 115.75334,
+            "timezone": null
+        },
+        {
+            "id": 140080314,
+            "name": "Medina",
+            "alt_names": [],
+            "latitude": -32.23406,
+            "longitude": 115.79901,
+            "timezone": null
+        },
+        {
+            "id": 140080315,
+            "name": "Meekatharra",
+            "alt_names": [],
+            "latitude": -25.3033,
+            "longitude": 118.99974,
+            "timezone": null
+        },
+        {
+            "id": 140080316,
+            "name": "Melville",
+            "alt_names": [],
+            "latitude": -32.04325,
+            "longitude": 115.83408,
+            "timezone": null
+        },
+        {
+            "id": 140080317,
+            "name": "Menora",
+            "alt_names": [],
+            "latitude": -31.91889,
+            "longitude": 115.86208,
+            "timezone": null
+        },
+        {
+            "id": 140080318,
+            "name": "Menzies",
+            "alt_names": [],
+            "latitude": -29.39176,
+            "longitude": 123.71878,
+            "timezone": null
+        },
+        {
+            "id": 140080319,
+            "name": "Merredin",
+            "alt_names": [],
+            "latitude": -31.46054,
+            "longitude": 118.38509,
+            "timezone": null
+        },
+        {
+            "id": 140080320,
+            "name": "Merriwa",
+            "alt_names": [],
+            "latitude": -31.66494,
+            "longitude": 115.71273,
+            "timezone": null
+        },
+        {
+            "id": 140080321,
+            "name": "Middle Swan",
+            "alt_names": [],
+            "latitude": -31.85,
+            "longitude": 116.01667,
+            "timezone": null
+        },
+        {
+            "id": 140080322,
+            "name": "Midland",
+            "alt_names": [],
+            "latitude": -31.88909,
+            "longitude": 116.0107,
+            "timezone": null
+        },
+        {
+            "id": 140080323,
+            "name": "Midvale",
+            "alt_names": [],
+            "latitude": -31.88881,
+            "longitude": 116.03288,
+            "timezone": null
+        },
+        {
+            "id": 140080324,
+            "name": "Millars Well",
+            "alt_names": [],
+            "latitude": -20.74168,
+            "longitude": 116.81731,
+            "timezone": null
+        },
+        {
+            "id": 140080325,
+            "name": "Millbridge",
+            "alt_names": [],
+            "latitude": -33.30617,
+            "longitude": 115.735,
+            "timezone": null
+        },
+        {
+            "id": 140080326,
+            "name": "Mindarie",
+            "alt_names": [],
+            "latitude": -31.68932,
+            "longitude": 115.70698,
+            "timezone": null
+        },
+        {
+            "id": 140080327,
+            "name": "Mingenew",
+            "alt_names": [],
+            "latitude": -29.14515,
+            "longitude": 115.50123,
+            "timezone": null
+        },
+        {
+            "id": 140080328,
+            "name": "Mira Mar",
+            "alt_names": [],
+            "latitude": -35.01517,
+            "longitude": 117.90096,
+            "timezone": null
+        },
+        {
+            "id": 140080329,
+            "name": "Mirrabooka",
+            "alt_names": [],
+            "latitude": -31.85963,
+            "longitude": 115.86587,
+            "timezone": null
+        },
+        {
+            "id": 140080330,
+            "name": "Moora",
+            "alt_names": [],
+            "latitude": -30.51218,
+            "longitude": 116.2098,
+            "timezone": null
+        },
+        {
+            "id": 140080331,
+            "name": "Morawa",
+            "alt_names": [],
+            "latitude": -29.03545,
+            "longitude": 116.05643,
+            "timezone": null
+        },
+        {
+            "id": 140080332,
+            "name": "Morley",
+            "alt_names": [],
+            "latitude": -31.88775,
+            "longitude": 115.9099,
+            "timezone": null
+        },
+        {
+            "id": 140080333,
+            "name": "Mosman Park",
+            "alt_names": [],
+            "latitude": -32.01421,
+            "longitude": 115.76613,
+            "timezone": null
+        },
+        {
+            "id": 140080334,
+            "name": "Mount Barker",
+            "alt_names": [],
+            "latitude": -34.63084,
+            "longitude": 117.66606,
+            "timezone": null
+        },
+        {
+            "id": 140080335,
+            "name": "Mount Claremont",
+            "alt_names": [],
+            "latitude": -31.96177,
+            "longitude": 115.78337,
+            "timezone": null
+        },
+        {
+            "id": 140080336,
+            "name": "Mount Hawthorn",
+            "alt_names": [],
+            "latitude": -31.92,
+            "longitude": 115.83509,
+            "timezone": null
+        },
+        {
+            "id": 140080337,
+            "name": "Mount Helena",
+            "alt_names": [],
+            "latitude": -31.87606,
+            "longitude": 116.21025,
+            "timezone": null
+        },
+        {
+            "id": 140080338,
+            "name": "Mount Lawley",
+            "alt_names": [],
+            "latitude": -31.93439,
+            "longitude": 115.8716,
+            "timezone": null
+        },
+        {
+            "id": 140080339,
+            "name": "Mount Magnet",
+            "alt_names": [],
+            "latitude": -28.29082,
+            "longitude": 117.96655,
+            "timezone": null
+        },
+        {
+            "id": 140080340,
+            "name": "Mount Marshall",
+            "alt_names": [],
+            "latitude": -30.29376,
+            "longitude": 118.00063,
+            "timezone": null
+        },
+        {
+            "id": 140080341,
+            "name": "Mount Melville",
+            "alt_names": [],
+            "latitude": -35.02216,
+            "longitude": 117.87137,
+            "timezone": null
+        },
+        {
+            "id": 140080342,
+            "name": "Mount Nasura",
+            "alt_names": [],
+            "latitude": -32.1378,
+            "longitude": 116.02473,
+            "timezone": null
+        },
+        {
+            "id": 140080343,
+            "name": "Mount Pleasant",
+            "alt_names": [],
+            "latitude": -32.03974,
+            "longitude": 115.84993,
+            "timezone": null
+        },
+        {
+            "id": 140080344,
+            "name": "Mount Richon",
+            "alt_names": [],
+            "latitude": -32.17349,
+            "longitude": 116.02137,
+            "timezone": null
+        },
+        {
+            "id": 140080345,
+            "name": "Mount Tarcoola",
+            "alt_names": [],
+            "latitude": -28.79859,
+            "longitude": 114.6253,
+            "timezone": null
+        },
+        {
+            "id": 140080346,
+            "name": "Muchea",
+            "alt_names": [],
+            "latitude": -31.5493638,
+            "longitude": 115.870362,
+            "timezone": null
+        },
+        {
+            "id": 140080347,
+            "name": "Mukinbudin",
+            "alt_names": [],
+            "latitude": -30.63684,
+            "longitude": 118.28648,
+            "timezone": null
+        },
+        {
+            "id": 140080348,
+            "name": "Mullaloo",
+            "alt_names": [],
+            "latitude": -31.77896,
+            "longitude": 115.73676,
+            "timezone": null
+        },
+        {
+            "id": 140080349,
+            "name": "Mundaring",
+            "alt_names": [],
+            "latitude": -31.88456,
+            "longitude": 116.21551,
+            "timezone": null
+        },
+        {
+            "id": 140080350,
+            "name": "Mundijong",
+            "alt_names": [],
+            "latitude": -32.29217,
+            "longitude": 115.98564,
+            "timezone": null
+        },
+        {
+            "id": 140080351,
+            "name": "Munster",
+            "alt_names": [],
+            "latitude": -32.13647,
+            "longitude": 115.78302,
+            "timezone": null
+        },
+        {
+            "id": 140080352,
+            "name": "Murchison",
+            "alt_names": [],
+            "latitude": -27.00893,
+            "longitude": 116.41205,
+            "timezone": null
+        },
+        {
+            "id": 140080353,
+            "name": "Murdoch",
+            "alt_names": [],
+            "latitude": -32.06987,
+            "longitude": 115.83757,
+            "timezone": null
+        },
+        {
+            "id": 140080354,
+            "name": "Murray",
+            "alt_names": [],
+            "latitude": -32.62391,
+            "longitude": 115.96538,
+            "timezone": null
+        },
+        {
+            "id": 140080355,
+            "name": "Myaree",
+            "alt_names": [],
+            "latitude": -32.04,
+            "longitude": 115.81761,
+            "timezone": null
+        },
+        {
+            "id": 140080356,
+            "name": "Nannup",
+            "alt_names": [],
+            "latitude": -34.13466,
+            "longitude": 115.67375,
+            "timezone": null
+        },
+        {
+            "id": 140080357,
+            "name": "Narembeen",
+            "alt_names": [],
+            "latitude": -32.02206,
+            "longitude": 118.6899,
+            "timezone": null
+        },
+        {
+            "id": 140080358,
+            "name": "Narrogin",
+            "alt_names": [],
+            "latitude": -32.93282,
+            "longitude": 117.17763,
+            "timezone": null
+        },
+        {
+            "id": 140080359,
+            "name": "Nedlands",
+            "alt_names": [],
+            "latitude": -31.97994,
+            "longitude": 115.79942,
+            "timezone": null
+        },
+        {
+            "id": 140080360,
+            "name": "Newman",
+            "alt_names": [],
+            "latitude": -23.35644,
+            "longitude": 119.73553,
+            "timezone": null
+        },
+        {
+            "id": 140080361,
+            "name": "Ngaanyatjarraku",
+            "alt_names": [],
+            "latitude": -25.08871,
+            "longitude": 126.83494,
+            "timezone": null
+        },
+        {
+            "id": 140080362,
+            "name": "Nickol",
+            "alt_names": [],
+            "latitude": -20.74558,
+            "longitude": 116.7954,
+            "timezone": null
+        },
+        {
+            "id": 140080363,
+            "name": "Nollamara",
+            "alt_names": [],
+            "latitude": -31.88016,
+            "longitude": 115.84543,
+            "timezone": null
+        },
+        {
+            "id": 140080364,
+            "name": "Noranda",
+            "alt_names": [],
+            "latitude": -31.87333,
+            "longitude": 115.89901,
+            "timezone": null
+        },
+        {
+            "id": 140080365,
+            "name": "North Beach",
+            "alt_names": [],
+            "latitude": -31.86298,
+            "longitude": 115.75624,
+            "timezone": null
+        },
+        {
+            "id": 140080366,
+            "name": "North Coogee",
+            "alt_names": [],
+            "latitude": -32.09505,
+            "longitude": 115.75972,
+            "timezone": null
+        },
+        {
+            "id": 140080367,
+            "name": "North Fremantle",
+            "alt_names": [],
+            "latitude": -32.03333,
+            "longitude": 115.75,
+            "timezone": null
+        },
+        {
+            "id": 140080368,
+            "name": "North Lake",
+            "alt_names": [],
+            "latitude": -32.0819,
+            "longitude": 115.83567,
+            "timezone": null
+        },
+        {
+            "id": 140080369,
+            "name": "North Perth",
+            "alt_names": [],
+            "latitude": -31.92724,
+            "longitude": 115.85276,
+            "timezone": null
+        },
+        {
+            "id": 140080370,
+            "name": "Northam",
+            "alt_names": [],
+            "latitude": -31.69898,
+            "longitude": 116.64964,
+            "timezone": null
+        },
+        {
+            "id": 140080371,
+            "name": "Northampton Shire",
+            "alt_names": [],
+            "latitude": -28.04956,
+            "longitude": 114.49589,
+            "timezone": null
+        },
+        {
+            "id": 140080372,
+            "name": "Northbridge",
+            "alt_names": [],
+            "latitude": -31.94784,
+            "longitude": 115.85881,
+            "timezone": null
+        },
+        {
+            "id": 140080373,
+            "name": "Nullagine",
+            "alt_names": [],
+            "latitude": -21.88972,
+            "longitude": 120.1114,
+            "timezone": null
+        },
+        {
+            "id": 140080374,
+            "name": "Nulsen",
+            "alt_names": [],
+            "latitude": -33.85696,
+            "longitude": 121.87499,
+            "timezone": null
+        },
+        {
+            "id": 140080375,
+            "name": "Nungarin",
+            "alt_names": [],
+            "latitude": -31.13714,
+            "longitude": 118.21768,
+            "timezone": null
+        },
+        {
+            "id": 140080376,
+            "name": "Oakford",
+            "alt_names": [],
+            "latitude": -32.20094,
+            "longitude": 115.93391,
+            "timezone": null
+        },
+        {
+            "id": 140080377,
+            "name": "Ocean Reef",
+            "alt_names": [],
+            "latitude": -31.75871,
+            "longitude": 115.73601,
+            "timezone": null
+        },
+        {
+            "id": 140080378,
+            "name": "Onslow",
+            "alt_names": [],
+            "latitude": -21.63764,
+            "longitude": 115.11221,
+            "timezone": null
+        },
+        {
+            "id": 140080379,
+            "name": "Orana",
+            "alt_names": [],
+            "latitude": -34.99601,
+            "longitude": 117.85925,
+            "timezone": null
+        },
+        {
+            "id": 140080380,
+            "name": "Orelia",
+            "alt_names": [],
+            "latitude": -32.2333,
+            "longitude": 115.82227,
+            "timezone": null
+        },
+        {
+            "id": 140080381,
+            "name": "Osborne Park",
+            "alt_names": [],
+            "latitude": -31.90066,
+            "longitude": 115.81083,
+            "timezone": null
+        },
+        {
+            "id": 140080382,
+            "name": "Padbury",
+            "alt_names": [],
+            "latitude": -31.80645,
+            "longitude": 115.7688,
+            "timezone": null
+        },
+        {
+            "id": 140080383,
+            "name": "Palmyra",
+            "alt_names": [],
+            "latitude": -32.04502,
+            "longitude": 115.78589,
+            "timezone": null
+        },
+        {
+            "id": 140080384,
+            "name": "Paraburdoo",
+            "alt_names": [],
+            "latitude": -23.20417,
+            "longitude": 117.66973,
+            "timezone": null
+        },
+        {
+            "id": 140080385,
+            "name": "Parkerville",
+            "alt_names": [],
+            "latitude": -31.87472,
+            "longitude": 116.138,
+            "timezone": null
+        },
+        {
+            "id": 140080386,
+            "name": "Parkwood",
+            "alt_names": [],
+            "latitude": -32.04913,
+            "longitude": 115.91838,
+            "timezone": null
+        },
+        {
+            "id": 140080387,
+            "name": "Parmelia",
+            "alt_names": [],
+            "latitude": -32.25784,
+            "longitude": 115.82208,
+            "timezone": null
+        },
+        {
+            "id": 140080388,
+            "name": "Pearce",
+            "alt_names": [],
+            "latitude": -31.66667,
+            "longitude": 116.01667,
+            "timezone": null
+        },
+        {
+            "id": 140080389,
+            "name": "Pearsall",
+            "alt_names": [],
+            "latitude": -31.78117,
+            "longitude": 115.81823,
+            "timezone": null
+        },
+        {
+            "id": 140080390,
+            "name": "Pegs Creek",
+            "alt_names": [],
+            "latitude": -20.7383,
+            "longitude": 116.83278,
+            "timezone": null
+        },
+        {
+            "id": 140080391,
+            "name": "Pemberton",
+            "alt_names": [],
+            "latitude": -34.44311,
+            "longitude": 116.03689,
+            "timezone": null
+        },
+        {
+            "id": 140080392,
+            "name": "Peppermint Grove",
+            "alt_names": [],
+            "latitude": -31.99885,
+            "longitude": 115.76697,
+            "timezone": null
+        },
+        {
+            "id": 140080393,
+            "name": "Perenjori",
+            "alt_names": [],
+            "latitude": -29.39784,
+            "longitude": 116.53543,
+            "timezone": null
+        },
+        {
+            "id": 140080394,
+            "name": "Perth",
+            "alt_names": [],
+            "latitude": -31.95224,
+            "longitude": 115.8614,
+            "timezone": null
+        },
+        {
+            "id": 140080395,
+            "name": "Perth city centre",
+            "alt_names": [],
+            "latitude": -31.95289,
+            "longitude": 115.85152,
+            "timezone": null
+        },
+        {
+            "id": 140080396,
+            "name": "Piara Waters",
+            "alt_names": [],
+            "latitude": -32.13344,
+            "longitude": 115.91634,
+            "timezone": null
+        },
+        {
+            "id": 140080397,
+            "name": "Piccadilly",
+            "alt_names": [],
+            "latitude": -30.7428,
+            "longitude": 121.46418,
+            "timezone": null
+        },
+        {
+            "id": 140080398,
+            "name": "Pingelly",
+            "alt_names": [],
+            "latitude": -32.53174,
+            "longitude": 117.20004,
+            "timezone": null
+        },
+        {
+            "id": 140080399,
+            "name": "Pinjarra",
+            "alt_names": [],
+            "latitude": -32.6298,
+            "longitude": 115.87351,
+            "timezone": null
+        },
+        {
+            "id": 140080400,
+            "name": "Plantagenet Shire",
+            "alt_names": [],
+            "latitude": -34.62508,
+            "longitude": 117.59753,
+            "timezone": null
+        },
+        {
+            "id": 140080401,
+            "name": "Port Denison",
+            "alt_names": [],
+            "latitude": -29.27367,
+            "longitude": 114.92068,
+            "timezone": null
+        },
+        {
+            "id": 140080402,
+            "name": "Port Hedland",
+            "alt_names": [],
+            "latitude": -20.79258,
+            "longitude": 118.63264,
+            "timezone": null
+        },
+        {
+            "id": 140080403,
+            "name": "Port Kennedy",
+            "alt_names": [],
+            "latitude": -32.37342,
+            "longitude": 115.7515,
+            "timezone": null
+        },
+        {
+            "id": 140080404,
+            "name": "Quairading",
+            "alt_names": [],
+            "latitude": -32.01462,
+            "longitude": 117.39835,
+            "timezone": null
+        },
+        {
+            "id": 140080405,
+            "name": "Queens Park",
+            "alt_names": [],
+            "latitude": -32.00314,
+            "longitude": 115.94621,
+            "timezone": null
+        },
+        {
+            "id": 140080406,
+            "name": "Quindalup",
+            "alt_names": [],
+            "latitude": -33.6356,
+            "longitude": 115.14899,
+            "timezone": null
+        },
+        {
+            "id": 140080407,
+            "name": "Quinns Rocks",
+            "alt_names": [],
+            "latitude": -31.67379,
+            "longitude": 115.70372,
+            "timezone": null
+        },
+        {
+            "id": 140080408,
+            "name": "Rangeway",
+            "alt_names": [],
+            "latitude": -28.78665,
+            "longitude": 114.63059,
+            "timezone": null
+        },
+        {
+            "id": 140080409,
+            "name": "Ravensthorpe",
+            "alt_names": [],
+            "latitude": -33.68375,
+            "longitude": 120.15338,
+            "timezone": null
+        },
+        {
+            "id": 140080410,
+            "name": "Ravenswood",
+            "alt_names": [],
+            "latitude": -32.5824,
+            "longitude": 115.8315,
+            "timezone": null
+        },
+        {
+            "id": 140080411,
+            "name": "Redcliffe",
+            "alt_names": [],
+            "latitude": -31.93845,
+            "longitude": 115.94645,
+            "timezone": null
+        },
+        {
+            "id": 140080412,
+            "name": "Regans Ford",
+            "alt_names": [],
+            "latitude": -30.9555288,
+            "longitude": 115.6073405,
+            "timezone": null
+        },
+        {
+            "id": 140080413,
+            "name": "Ridgewood",
+            "alt_names": [],
+            "latitude": -31.6615,
+            "longitude": 115.72261,
+            "timezone": null
+        },
+        {
+            "id": 140080414,
+            "name": "Riverton",
+            "alt_names": [],
+            "latitude": -32.03468,
+            "longitude": 115.89856,
+            "timezone": null
+        },
+        {
+            "id": 140080415,
+            "name": "Rivervale",
+            "alt_names": [],
+            "latitude": -31.95546,
+            "longitude": 115.91306,
+            "timezone": null
+        },
+        {
+            "id": 140080416,
+            "name": "Rockingham",
+            "alt_names": [],
+            "latitude": -32.28239,
+            "longitude": 115.73238,
+            "timezone": null
+        },
+        {
+            "id": 140080417,
+            "name": "Rockingham city centre",
+            "alt_names": [],
+            "latitude": -32.28407,
+            "longitude": 115.7354,
+            "timezone": null
+        },
+        {
+            "id": 140080418,
+            "name": "Roebuck",
+            "alt_names": [],
+            "latitude": -18.1713,
+            "longitude": 122.50116,
+            "timezone": null
+        },
+        {
+            "id": 140080419,
+            "name": "Roleystone",
+            "alt_names": [],
+            "latitude": -32.11458,
+            "longitude": 116.0706,
+            "timezone": null
+        },
+        {
+            "id": 140080420,
+            "name": "Rossmoyne",
+            "alt_names": [],
+            "latitude": -32.03965,
+            "longitude": 115.86781,
+            "timezone": null
+        },
+        {
+            "id": 140080421,
+            "name": "Safety Bay",
+            "alt_names": [],
+            "latitude": -32.30463,
+            "longitude": 115.74213,
+            "timezone": null
+        },
+        {
+            "id": 140080422,
+            "name": "Salter Point",
+            "alt_names": [],
+            "latitude": -32.02384,
+            "longitude": 115.86582,
+            "timezone": null
+        },
+        {
+            "id": 140080423,
+            "name": "Samson",
+            "alt_names": [],
+            "latitude": -32.06996,
+            "longitude": 115.7977,
+            "timezone": null
+        },
+        {
+            "id": 140080424,
+            "name": "Sandstone",
+            "alt_names": [],
+            "latitude": -28.42189,
+            "longitude": 118.98846,
+            "timezone": null
+        },
+        {
+            "id": 140080425,
+            "name": "Scarborough",
+            "alt_names": [],
+            "latitude": -31.89578,
+            "longitude": 115.76431,
+            "timezone": null
+        },
+        {
+            "id": 140080426,
+            "name": "Secret Harbour",
+            "alt_names": [],
+            "latitude": -32.40589,
+            "longitude": 115.75852,
+            "timezone": null
+        },
+        {
+            "id": 140080427,
+            "name": "Serpentine",
+            "alt_names": [],
+            "latitude": -32.36051,
+            "longitude": 115.97723,
+            "timezone": null
+        },
+        {
+            "id": 140080428,
+            "name": "Serpentine-Jarrahdale",
+            "alt_names": [],
+            "latitude": -32.32452,
+            "longitude": 116.04507,
+            "timezone": null
+        },
+        {
+            "id": 140080429,
+            "name": "Seville Grove",
+            "alt_names": [],
+            "latitude": -32.13645,
+            "longitude": 115.98905,
+            "timezone": null
+        },
+        {
+            "id": 140080430,
+            "name": "Shark Bay",
+            "alt_names": [],
+            "latitude": -26.38916,
+            "longitude": 114.21845,
+            "timezone": null
+        },
+        {
+            "id": 140080431,
+            "name": "Shelley",
+            "alt_names": [],
+            "latitude": -32.02957,
+            "longitude": 115.88664,
+            "timezone": null
+        },
+        {
+            "id": 140080432,
+            "name": "Shenton Park",
+            "alt_names": [],
+            "latitude": -31.95575,
+            "longitude": 115.79807,
+            "timezone": null
+        },
+        {
+            "id": 140080433,
+            "name": "Shoalwater",
+            "alt_names": [],
+            "latitude": -32.29088,
+            "longitude": 115.71101,
+            "timezone": null
+        },
+        {
+            "id": 140080434,
+            "name": "Silver Sands",
+            "alt_names": [],
+            "latitude": -32.50857,
+            "longitude": 115.73599,
+            "timezone": null
+        },
+        {
+            "id": 140080435,
+            "name": "Sinagra",
+            "alt_names": [],
+            "latitude": -31.74261,
+            "longitude": 115.80633,
+            "timezone": null
+        },
+        {
+            "id": 140080436,
+            "name": "Singleton",
+            "alt_names": [],
+            "latitude": -32.44403,
+            "longitude": 115.75725,
+            "timezone": null
+        },
+        {
+            "id": 140080437,
+            "name": "Somerville",
+            "alt_names": [],
+            "latitude": -30.76979,
+            "longitude": 121.45438,
+            "timezone": null
+        },
+        {
+            "id": 140080438,
+            "name": "Sorrento",
+            "alt_names": [],
+            "latitude": -31.82533,
+            "longitude": 115.75248,
+            "timezone": null
+        },
+        {
+            "id": 140080439,
+            "name": "South Bunbury",
+            "alt_names": [],
+            "latitude": -33.3491,
+            "longitude": 115.63359,
+            "timezone": null
+        },
+        {
+            "id": 140080440,
+            "name": "South Carnarvon",
+            "alt_names": [],
+            "latitude": -24.89348,
+            "longitude": 113.65846,
+            "timezone": null
+        },
+        {
+            "id": 140080441,
+            "name": "South Fremantle",
+            "alt_names": [],
+            "latitude": -32.06907,
+            "longitude": 115.75453,
+            "timezone": null
+        },
+        {
+            "id": 140080442,
+            "name": "South Guildford",
+            "alt_names": [],
+            "latitude": -31.9122,
+            "longitude": 115.96825,
+            "timezone": null
+        },
+        {
+            "id": 140080443,
+            "name": "South Hedland",
+            "alt_names": [],
+            "latitude": -20.40655,
+            "longitude": 118.60069,
+            "timezone": null
+        },
+        {
+            "id": 140080444,
+            "name": "South Kalgoorlie",
+            "alt_names": [],
+            "latitude": -30.76507,
+            "longitude": 121.47334,
+            "timezone": null
+        },
+        {
+            "id": 140080445,
+            "name": "South Lake",
+            "alt_names": [],
+            "latitude": -32.11125,
+            "longitude": 115.83873,
+            "timezone": null
+        },
+        {
+            "id": 140080446,
+            "name": "South Perth",
+            "alt_names": [],
+            "latitude": -31.99884,
+            "longitude": 115.87222,
+            "timezone": null
+        },
+        {
+            "id": 140080447,
+            "name": "South Yunderup",
+            "alt_names": [],
+            "latitude": -32.5851,
+            "longitude": 115.78015,
+            "timezone": null
+        },
+        {
+            "id": 140080448,
+            "name": "Southern River",
+            "alt_names": [],
+            "latitude": -32.10658,
+            "longitude": 115.95896,
+            "timezone": null
+        },
+        {
+            "id": 140080449,
+            "name": "Spalding",
+            "alt_names": [],
+            "latitude": -28.73525,
+            "longitude": 114.63651,
+            "timezone": null
+        },
+        {
+            "id": 140080450,
+            "name": "Spearwood",
+            "alt_names": [],
+            "latitude": -32.10534,
+            "longitude": 115.77797,
+            "timezone": null
+        },
+        {
+            "id": 140080451,
+            "name": "Spencer Park",
+            "alt_names": [],
+            "latitude": -35.00515,
+            "longitude": 117.90005,
+            "timezone": null
+        },
+        {
+            "id": 140080452,
+            "name": "St George Ranges",
+            "alt_names": [],
+            "latitude": -18.98204,
+            "longitude": 125.00873,
+            "timezone": null
+        },
+        {
+            "id": 140080453,
+            "name": "St James",
+            "alt_names": [],
+            "latitude": -32.00004,
+            "longitude": 115.9098,
+            "timezone": null
+        },
+        {
+            "id": 140080454,
+            "name": "Stirling",
+            "alt_names": [],
+            "latitude": -31.8794,
+            "longitude": 115.80929,
+            "timezone": null
+        },
+        {
+            "id": 140080455,
+            "name": "Stoneville",
+            "alt_names": [],
+            "latitude": -30.86667,
+            "longitude": 121.76667,
+            "timezone": null
+        },
+        {
+            "id": 140080456,
+            "name": "Strathalbyn",
+            "alt_names": [],
+            "latitude": -28.75168,
+            "longitude": 114.64576,
+            "timezone": null
+        },
+        {
+            "id": 140080457,
+            "name": "Stratton",
+            "alt_names": [],
+            "latitude": -31.86828,
+            "longitude": 116.04066,
+            "timezone": null
+        },
+        {
+            "id": 140080458,
+            "name": "Subiaco",
+            "alt_names": [],
+            "latitude": -31.95964,
+            "longitude": 115.81564,
+            "timezone": null
+        },
+        {
+            "id": 140080459,
+            "name": "Success",
+            "alt_names": [],
+            "latitude": -32.14281,
+            "longitude": 115.84999,
+            "timezone": null
+        },
+        {
+            "id": 140080460,
+            "name": "Sunset Beach",
+            "alt_names": [],
+            "latitude": -28.71907,
+            "longitude": 114.62297,
+            "timezone": null
+        },
+        {
+            "id": 140080461,
+            "name": "Swan",
+            "alt_names": [],
+            "latitude": -31.77039,
+            "longitude": 116.08746,
+            "timezone": null
+        },
+        {
+            "id": 140080462,
+            "name": "Swan View",
+            "alt_names": [],
+            "latitude": -31.88333,
+            "longitude": 116.05,
+            "timezone": null
+        },
+        {
+            "id": 140080463,
+            "name": "Swanbourne",
+            "alt_names": [],
+            "latitude": -31.96878,
+            "longitude": 115.7673,
+            "timezone": null
+        },
+        {
+            "id": 140080464,
+            "name": "Tammin",
+            "alt_names": [],
+            "latitude": -31.60512,
+            "longitude": 117.48306,
+            "timezone": null
+        },
+        {
+            "id": 140080465,
+            "name": "Tapping",
+            "alt_names": [],
+            "latitude": -31.71947,
+            "longitude": 115.79559,
+            "timezone": null
+        },
+        {
+            "id": 140080466,
+            "name": "Tarcoola Beach",
+            "alt_names": [],
+            "latitude": -28.81001,
+            "longitude": 114.62236,
+            "timezone": null
+        },
+        {
+            "id": 140080467,
+            "name": "Telfer",
+            "alt_names": [],
+            "latitude": -21.21169,
+            "longitude": 123.26175,
+            "timezone": null
+        },
+        {
+            "id": 140080468,
+            "name": "The Vines",
+            "alt_names": [],
+            "latitude": -31.75492,
+            "longitude": 116.00238,
+            "timezone": null
+        },
+        {
+            "id": 140080469,
+            "name": "Thornlie",
+            "alt_names": [],
+            "latitude": -32.06003,
+            "longitude": 115.955,
+            "timezone": null
+        },
+        {
+            "id": 140080470,
+            "name": "Three Springs",
+            "alt_names": [],
+            "latitude": -29.51386,
+            "longitude": 115.63158,
+            "timezone": null
+        },
+        {
+            "id": 140080471,
+            "name": "Tom Price",
+            "alt_names": [],
+            "latitude": -22.6939,
+            "longitude": 117.7931,
+            "timezone": null
+        },
+        {
+            "id": 140080472,
+            "name": "Toodyay",
+            "alt_names": [],
+            "latitude": -31.46991,
+            "longitude": 116.38804,
+            "timezone": null
+        },
+        {
+            "id": 140080473,
+            "name": "Trayning",
+            "alt_names": [],
+            "latitude": -31.16681,
+            "longitude": 117.83812,
+            "timezone": null
+        },
+        {
+            "id": 140080474,
+            "name": "Trigg",
+            "alt_names": [],
+            "latitude": -31.86939,
+            "longitude": 115.7571,
+            "timezone": null
+        },
+        {
+            "id": 140080475,
+            "name": "Tuart Hill",
+            "alt_names": [],
+            "latitude": -31.89808,
+            "longitude": 115.83495,
+            "timezone": null
+        },
+        {
+            "id": 140080476,
+            "name": "Two Rocks",
+            "alt_names": [],
+            "latitude": -31.49985,
+            "longitude": 115.58737,
+            "timezone": null
+        },
+        {
+            "id": 140080477,
+            "name": "Upper Gascoyne",
+            "alt_names": [],
+            "latitude": -24.71935,
+            "longitude": 116.33876,
+            "timezone": null
+        },
+        {
+            "id": 140080478,
+            "name": "Usher",
+            "alt_names": [],
+            "latitude": -33.37982,
+            "longitude": 115.6292,
+            "timezone": null
+        },
+        {
+            "id": 140080479,
+            "name": "Utakarra",
+            "alt_names": [],
+            "latitude": -28.78333,
+            "longitude": 114.65,
+            "timezone": null
+        },
+        {
+            "id": 140080480,
+            "name": "Vasse",
+            "alt_names": [],
+            "latitude": -33.69337,
+            "longitude": 115.2678,
+            "timezone": null
+        },
+        {
+            "id": 140080481,
+            "name": "Victoria Park",
+            "alt_names": [],
+            "latitude": -31.97651,
+            "longitude": 115.90592,
+            "timezone": null
+        },
+        {
+            "id": 140080482,
+            "name": "Victoria Plains",
+            "alt_names": [],
+            "latitude": -31.01632,
+            "longitude": 116.28546,
+            "timezone": null
+        },
+        {
+            "id": 140080483,
+            "name": "Vincent",
+            "alt_names": [],
+            "latitude": -31.93138,
+            "longitude": 115.85412,
+            "timezone": null
+        },
+        {
+            "id": 140080484,
+            "name": "Viveash",
+            "alt_names": [],
+            "latitude": -31.87861,
+            "longitude": 115.99661,
+            "timezone": null
+        },
+        {
+            "id": 140080485,
+            "name": "Waggrakine",
+            "alt_names": [],
+            "latitude": -28.71883,
+            "longitude": 114.63924,
+            "timezone": null
+        },
+        {
+            "id": 140080486,
+            "name": "Wagin",
+            "alt_names": [],
+            "latitude": -33.27501,
+            "longitude": 117.38554,
+            "timezone": null
+        },
+        {
+            "id": 140080487,
+            "name": "Waikiki",
+            "alt_names": [],
+            "latitude": -32.31606,
+            "longitude": 115.7546,
+            "timezone": null
+        },
+        {
+            "id": 140080488,
+            "name": "Wandering",
+            "alt_names": [],
+            "latitude": -32.52589,
+            "longitude": 116.56668,
+            "timezone": null
+        },
+        {
+            "id": 140080489,
+            "name": "Wandi",
+            "alt_names": [],
+            "latitude": -32.1943,
+            "longitude": 115.8763,
+            "timezone": null
+        },
+        {
+            "id": 140080490,
+            "name": "Wandina",
+            "alt_names": [],
+            "latitude": -28.81938,
+            "longitude": 114.63464,
+            "timezone": null
+        },
+        {
+            "id": 140080491,
+            "name": "Wannanup",
+            "alt_names": [],
+            "latitude": -32.59946,
+            "longitude": 115.64488,
+            "timezone": null
+        },
+        {
+            "id": 140080492,
+            "name": "Wanneroo",
+            "alt_names": [],
+            "latitude": -31.65293,
+            "longitude": 115.72211,
+            "timezone": null
+        },
+        {
+            "id": 140080493,
+            "name": "Warnbro",
+            "alt_names": [],
+            "latitude": -32.34017,
+            "longitude": 115.7473,
+            "timezone": null
+        },
+        {
+            "id": 140080494,
+            "name": "Waroona",
+            "alt_names": [],
+            "latitude": -32.84916,
+            "longitude": 115.90429,
+            "timezone": null
+        },
+        {
+            "id": 140080495,
+            "name": "Warwick",
+            "alt_names": [],
+            "latitude": -31.83974,
+            "longitude": 115.80855,
+            "timezone": null
+        },
+        {
+            "id": 140080496,
+            "name": "Waterford",
+            "alt_names": [],
+            "latitude": -32.01574,
+            "longitude": 115.88662,
+            "timezone": null
+        },
+        {
+            "id": 140080497,
+            "name": "Watermans Bay",
+            "alt_names": [],
+            "latitude": -31.84915,
+            "longitude": 115.7559,
+            "timezone": null
+        },
+        {
+            "id": 140080498,
+            "name": "Wattle Grove",
+            "alt_names": [],
+            "latitude": -32.00672,
+            "longitude": 116.00046,
+            "timezone": null
+        },
+        {
+            "id": 140080499,
+            "name": "Wellard",
+            "alt_names": [],
+            "latitude": -32.26667,
+            "longitude": 115.83333,
+            "timezone": null
+        },
+        {
+            "id": 140080500,
+            "name": "Wembley",
+            "alt_names": [],
+            "latitude": -31.93308,
+            "longitude": 115.81783,
+            "timezone": null
+        },
+        {
+            "id": 140080501,
+            "name": "Wembley Downs",
+            "alt_names": [],
+            "latitude": -31.91169,
+            "longitude": 115.77358,
+            "timezone": null
+        },
+        {
+            "id": 140080502,
+            "name": "West Arthur",
+            "alt_names": [],
+            "latitude": -33.44057,
+            "longitude": 116.68597,
+            "timezone": null
+        },
+        {
+            "id": 140080503,
+            "name": "West Beach",
+            "alt_names": [],
+            "latitude": -33.87464,
+            "longitude": 121.89013,
+            "timezone": null
+        },
+        {
+            "id": 140080504,
+            "name": "West Busselton",
+            "alt_names": [],
+            "latitude": -33.65792,
+            "longitude": 115.32293,
+            "timezone": null
+        },
+        {
+            "id": 140080505,
+            "name": "West Lamington",
+            "alt_names": [],
+            "latitude": -30.74707,
+            "longitude": 121.45248,
+            "timezone": null
+        },
+        {
+            "id": 140080506,
+            "name": "West Leederville",
+            "alt_names": [],
+            "latitude": -31.94141,
+            "longitude": 115.83117,
+            "timezone": null
+        },
+        {
+            "id": 140080507,
+            "name": "West Perth",
+            "alt_names": [],
+            "latitude": -31.94896,
+            "longitude": 115.84199,
+            "timezone": null
+        },
+        {
+            "id": 140080508,
+            "name": "Westminster",
+            "alt_names": [],
+            "latitude": -31.86744,
+            "longitude": 115.83919,
+            "timezone": null
+        },
+        {
+            "id": 140080509,
+            "name": "Westonia",
+            "alt_names": [],
+            "latitude": -30.88436,
+            "longitude": 118.72974,
+            "timezone": null
+        },
+        {
+            "id": 140080510,
+            "name": "White Gum Valley",
+            "alt_names": [],
+            "latitude": -32.06031,
+            "longitude": 115.77058,
+            "timezone": null
+        },
+        {
+            "id": 140080511,
+            "name": "Wickepin",
+            "alt_names": [],
+            "latitude": -32.82211,
+            "longitude": 117.63996,
+            "timezone": null
+        },
+        {
+            "id": 140080512,
+            "name": "Wickham",
+            "alt_names": [],
+            "latitude": -20.67474,
+            "longitude": 117.13784,
+            "timezone": null
+        },
+        {
+            "id": 140080513,
+            "name": "Willagee",
+            "alt_names": [],
+            "latitude": -32.05196,
+            "longitude": 115.80533,
+            "timezone": null
+        },
+        {
+            "id": 140080514,
+            "name": "Willetton",
+            "alt_names": [],
+            "latitude": -32.05251,
+            "longitude": 115.88782,
+            "timezone": null
+        },
+        {
+            "id": 140080515,
+            "name": "Williams",
+            "alt_names": [],
+            "latitude": -33.05217,
+            "longitude": 116.70943,
+            "timezone": null
+        },
+        {
+            "id": 140080516,
+            "name": "Wilson",
+            "alt_names": [],
+            "latitude": -32.02058,
+            "longitude": 115.91181,
+            "timezone": null
+        },
+        {
+            "id": 140080517,
+            "name": "Wiluna",
+            "alt_names": [],
+            "latitude": -25.3663,
+            "longitude": 121.93243,
+            "timezone": null
+        },
+        {
+            "id": 140080518,
+            "name": "Winthrop",
+            "alt_names": [],
+            "latitude": -32.05216,
+            "longitude": 115.82972,
+            "timezone": null
+        },
+        {
+            "id": 140080519,
+            "name": "Withers",
+            "alt_names": [],
+            "latitude": -33.36807,
+            "longitude": 115.6305,
+            "timezone": null
+        },
+        {
+            "id": 140080520,
+            "name": "Wongan-Ballidu",
+            "alt_names": [],
+            "latitude": -30.73138,
+            "longitude": 116.84854,
+            "timezone": null
+        },
+        {
+            "id": 140080521,
+            "name": "Wonthella",
+            "alt_names": [],
+            "latitude": -28.76689,
+            "longitude": 114.63338,
+            "timezone": null
+        },
+        {
+            "id": 140080522,
+            "name": "Woodanilling",
+            "alt_names": [],
+            "latitude": -33.51937,
+            "longitude": 117.3358,
+            "timezone": null
+        },
+        {
+            "id": 140080523,
+            "name": "Woodbridge",
+            "alt_names": [],
+            "latitude": -31.88695,
+            "longitude": 115.99196,
+            "timezone": null
+        },
+        {
+            "id": 140080524,
+            "name": "Woodridge",
+            "alt_names": [],
+            "latitude": -31.3314368,
+            "longitude": 115.5825247,
+            "timezone": null
+        },
+        {
+            "id": 140080525,
+            "name": "Woodvale",
+            "alt_names": [],
+            "latitude": -31.78928,
+            "longitude": 115.79676,
+            "timezone": null
+        },
+        {
+            "id": 140080526,
+            "name": "Wooroloo",
+            "alt_names": [],
+            "latitude": -31.8038,
+            "longitude": 116.31311,
+            "timezone": null
+        },
+        {
+            "id": 140080527,
+            "name": "Woorree",
+            "alt_names": [],
+            "latitude": -28.76677,
+            "longitude": 114.65806,
+            "timezone": null
+        },
+        {
+            "id": 140080528,
+            "name": "Wundowie",
+            "alt_names": [],
+            "latitude": -31.76163,
+            "longitude": 116.3799,
+            "timezone": null
+        },
+        {
+            "id": 140080529,
+            "name": "Wyalkatchem",
+            "alt_names": [],
+            "latitude": -31.19528,
+            "longitude": 117.44682,
+            "timezone": null
+        },
+        {
+            "id": 140080530,
+            "name": "Wyndham-East Kimberley",
+            "alt_names": [],
+            "latitude": -15.51291,
+            "longitude": 126.58779,
+            "timezone": null
+        },
+        {
+            "id": 140080531,
+            "name": "Yakamia",
+            "alt_names": [],
+            "latitude": -35.00392,
+            "longitude": 117.87828,
+            "timezone": null
+        },
+        {
+            "id": 140080532,
+            "name": "Yalgoo",
+            "alt_names": [],
+            "latitude": -28.48787,
+            "longitude": 117.15818,
+            "timezone": null
+        },
+        {
+            "id": 140080533,
+            "name": "Yallingup",
+            "alt_names": [],
+            "latitude": -33.64592,
+            "longitude": 115.03514,
+            "timezone": null
+        },
+        {
+            "id": 140080534,
+            "name": "Yalyalup",
+            "alt_names": [],
+            "latitude": -33.67496,
+            "longitude": 115.41449,
+            "timezone": null
+        },
+        {
+            "id": 140080535,
+            "name": "Yanchep",
+            "alt_names": [],
+            "latitude": -31.54678,
+            "longitude": 115.63171,
+            "timezone": null
+        },
+        {
+            "id": 140080536,
+            "name": "Yangebup",
+            "alt_names": [],
+            "latitude": -32.12065,
+            "longitude": 115.81623,
+            "timezone": null
+        },
+        {
+            "id": 140080537,
+            "name": "Yilgarn",
+            "alt_names": [],
+            "latitude": -30.90938,
+            "longitude": 119.25881,
+            "timezone": null
+        },
+        {
+            "id": 140080538,
+            "name": "Yokine",
+            "alt_names": [],
+            "latitude": -31.90113,
+            "longitude": 115.85319,
+            "timezone": null
+        },
+        {
+            "id": 140080539,
+            "name": "York",
+            "alt_names": [],
+            "latitude": -31.88809,
+            "longitude": 116.7678,
+            "timezone": null
+        }
+    ]
+}

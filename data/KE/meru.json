@@ -1,0 +1,39 @@
+{
+    "id": 113026,
+    "name": "Meru",
+    "alt_names": [],
+    "state_code": "26",
+    "latitude": 0.3557174,
+    "longitude": 37.8087693,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130260001,
+            "name": "Maua",
+            "alt_names": [],
+            "latitude": 0.2332,
+            "longitude": 37.94086,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130260002,
+            "name": "Meru",
+            "alt_names": [],
+            "latitude": 0.04626,
+            "longitude": 37.65587,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

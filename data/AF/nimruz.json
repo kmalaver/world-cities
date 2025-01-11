@@ -1,0 +1,67 @@
+{
+    "id": 1023,
+    "name": "Nimruz",
+    "alt_names": [],
+    "state_code": "NIM",
+    "latitude": 31.0261488,
+    "longitude": 62.4504154,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10230001,
+            "name": "Khāsh",
+            "alt_names": [],
+            "latitude": 31.52919,
+            "longitude": 62.79055,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10230002,
+            "name": "Mīrābād",
+            "alt_names": [],
+            "latitude": 30.43624,
+            "longitude": 61.8383,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10230003,
+            "name": "Rūdbār",
+            "alt_names": [],
+            "latitude": 30.15,
+            "longitude": 62.6,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10230004,
+            "name": "Zaranj",
+            "alt_names": [],
+            "latitude": 30.95962,
+            "longitude": 61.86037,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

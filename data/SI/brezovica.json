@@ -1,0 +1,81 @@
+{
+    "id": 201015,
+    "name": "Brezovica",
+    "alt_names": [],
+    "state_code": "008",
+    "latitude": 45.9559351,
+    "longitude": 14.4349952,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010150001,
+            "name": "Brezovica pri Ljubljani",
+            "alt_names": [],
+            "latitude": 46.03333,
+            "longitude": 14.4,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010150002,
+            "name": "Notranje Gorice",
+            "alt_names": [],
+            "latitude": 45.9875,
+            "longitude": 14.39889,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010150003,
+            "name": "Opština Ljubljana-Vič-Rudnik",
+            "alt_names": [],
+            "latitude": 46.03333,
+            "longitude": 14.41667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010150004,
+            "name": "Rečica ob Savinji",
+            "alt_names": [],
+            "latitude": 46.31667,
+            "longitude": 14.91667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010150005,
+            "name": "Vnanje Gorice",
+            "alt_names": [],
+            "latitude": 46.00722,
+            "longitude": 14.42194,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

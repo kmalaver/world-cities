@@ -1,0 +1,39 @@
+{
+    "id": 16010,
+    "name": "Balakan",
+    "alt_names": [],
+    "state_code": "BAL",
+    "latitude": 41.7037509,
+    "longitude": 46.4044213,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160100001,
+            "name": "Belokany",
+            "alt_names": [],
+            "latitude": 41.72626,
+            "longitude": 46.40478,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160100002,
+            "name": "Qabaqçöl",
+            "alt_names": [],
+            "latitude": 41.75259,
+            "longitude": 46.27052,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

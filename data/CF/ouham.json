@@ -1,0 +1,67 @@
+{
+    "id": 42014,
+    "name": "Ouham",
+    "alt_names": [],
+    "state_code": "AC",
+    "latitude": 7.090911,
+    "longitude": 17.668887,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420140001,
+            "name": "Batangafo",
+            "alt_names": [],
+            "latitude": 7.30082,
+            "longitude": 18.2833,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420140002,
+            "name": "Bossangoa",
+            "alt_names": [],
+            "latitude": 6.49263,
+            "longitude": 17.45518,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420140003,
+            "name": "Bouca",
+            "alt_names": [],
+            "latitude": 6.50734,
+            "longitude": 18.2767,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420140004,
+            "name": "Kabo",
+            "alt_names": [],
+            "latitude": 7.69937,
+            "longitude": 18.62903,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

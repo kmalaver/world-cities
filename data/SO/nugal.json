@@ -1,0 +1,39 @@
+{
+    "id": 203014,
+    "name": "Nugal",
+    "alt_names": [],
+    "state_code": "NU",
+    "latitude": 43.2793861,
+    "longitude": 17.0339205,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030140001,
+            "name": "Eyl",
+            "alt_names": [],
+            "latitude": 7.9803,
+            "longitude": 49.8164,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030140002,
+            "name": "Garoowe",
+            "alt_names": [],
+            "latitude": 8.40207,
+            "longitude": 48.48284,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": 218009,
+    "name": "Kilimanjaro",
+    "alt_names": [],
+    "state_code": "09",
+    "latitude": -4.1336927,
+    "longitude": 37.8087693,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2180090001,
+            "name": "Hedaru",
+            "alt_names": [],
+            "latitude": -4.5,
+            "longitude": 37.9,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180090002,
+            "name": "Machame",
+            "alt_names": [],
+            "latitude": -3.20611,
+            "longitude": 37.2263889,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180090003,
+            "name": "Marangu",
+            "alt_names": [],
+            "latitude": -3.28333,
+            "longitude": 37.51667,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180090004,
+            "name": "Moshi",
+            "alt_names": [],
+            "latitude": -3.35,
+            "longitude": 37.33333,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180090005,
+            "name": "Same",
+            "alt_names": [],
+            "latitude": -4.22199,
+            "longitude": 37.88278,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

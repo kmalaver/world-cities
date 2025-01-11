@@ -1,0 +1,25 @@
+{
+    "id": 21002,
+    "name": "Brussels-Capital ",
+    "alt_names": [],
+    "state_code": "BRU",
+    "latitude": 50.8503463,
+    "longitude": 4.3517211,
+    "type": "region",
+    "cities": [
+        {
+            "id": 210020001,
+            "name": "Brussels",
+            "alt_names": [],
+            "latitude": 50.85045,
+            "longitude": 4.34878,
+            "timezone": {
+                "zoneName": "Europe/Brussels",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 4,
+    "name": "Algeria",
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "numeric_code": "012",
+    "phonecode": "213",
+    "capital": "Algiers",
+    "currency": "DZD",
+    "currency_name": "Algerian dinar",
+    "currency_symbol": "دج",
+    "tld": ".dz",
+    "native": "الجزائر",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "translations": {
+        "de": "Algerien",
+        "es": "Argelia",
+        "fa": "الجزایر",
+        "fr": "Algérie",
+        "hr": "Alžir",
+        "it": "Algeria",
+        "ja": "アルジェリア",
+        "ko": "알제리",
+        "nl": "Algerije",
+        "pl": "Algieria",
+        "pt": "Argélia",
+        "pt-BR": "Argélia",
+        "ru": "Алжир",
+        "tr": "Cezayir",
+        "uk": "Алжир",
+        "zh-CN": "阿尔及利亚"
+    },
+    "latitude": 28,
+    "longitude": 3,
+    "emoji": "🇩🇿",
+    "emojiU": "U+1F1E9 U+1F1FF",
+    "timezones": [
+        {
+            "zoneName": "Africa/Algiers",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        }
+    ]
+}

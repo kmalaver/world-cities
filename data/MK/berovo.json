@@ -1,0 +1,53 @@
+{
+    "id": 162003,
+    "name": "Berovo",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 41.6661929,
+    "longitude": 22.762883,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620030001,
+            "name": "Berovo",
+            "alt_names": [],
+            "latitude": 41.70306,
+            "longitude": 22.85778,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620030002,
+            "name": "Rusinovo",
+            "alt_names": [],
+            "latitude": 41.68728,
+            "longitude": 22.80849,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620030003,
+            "name": "Vladimirovo",
+            "alt_names": [],
+            "latitude": 41.71,
+            "longitude": 22.79278,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

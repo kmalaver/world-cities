@@ -1,0 +1,779 @@
+{
+    "id": 236060,
+    "name": "Vermont",
+    "alt_names": [],
+    "state_code": "VT",
+    "latitude": 44.5588028,
+    "longitude": -72.5778415,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2360600001,
+            "name": "Addison",
+            "alt_names": [],
+            "latitude": 44.08867,
+            "longitude": -73.30262,
+            "timezone": null
+        },
+        {
+            "id": 2360600002,
+            "name": "Addison County",
+            "alt_names": [],
+            "latitude": 44.03091,
+            "longitude": -73.14094,
+            "timezone": null
+        },
+        {
+            "id": 2360600003,
+            "name": "Arlington",
+            "alt_names": [],
+            "latitude": 43.0748,
+            "longitude": -73.154,
+            "timezone": null
+        },
+        {
+            "id": 2360600004,
+            "name": "Barre",
+            "alt_names": [],
+            "latitude": 44.19701,
+            "longitude": -72.50205,
+            "timezone": null
+        },
+        {
+            "id": 2360600005,
+            "name": "Bellows Falls",
+            "alt_names": [],
+            "latitude": 43.13341,
+            "longitude": -72.44398,
+            "timezone": null
+        },
+        {
+            "id": 2360600006,
+            "name": "Bennington",
+            "alt_names": [],
+            "latitude": 42.87813,
+            "longitude": -73.19677,
+            "timezone": null
+        },
+        {
+            "id": 2360600007,
+            "name": "Bennington County",
+            "alt_names": [],
+            "latitude": 43.03546,
+            "longitude": -73.09295,
+            "timezone": null
+        },
+        {
+            "id": 2360600008,
+            "name": "Brandon",
+            "alt_names": [],
+            "latitude": 43.79812,
+            "longitude": -73.08761,
+            "timezone": null
+        },
+        {
+            "id": 2360600009,
+            "name": "Brattleboro",
+            "alt_names": [],
+            "latitude": 42.85092,
+            "longitude": -72.55787,
+            "timezone": null
+        },
+        {
+            "id": 2360600010,
+            "name": "Bridport",
+            "alt_names": [],
+            "latitude": 43.98506,
+            "longitude": -73.31262,
+            "timezone": null
+        },
+        {
+            "id": 2360600011,
+            "name": "Bristol",
+            "alt_names": [],
+            "latitude": 44.13339,
+            "longitude": -73.07901,
+            "timezone": null
+        },
+        {
+            "id": 2360600012,
+            "name": "Burlington",
+            "alt_names": [],
+            "latitude": 44.47588,
+            "longitude": -73.21207,
+            "timezone": null
+        },
+        {
+            "id": 2360600013,
+            "name": "Caledonia County",
+            "alt_names": [],
+            "latitude": 44.46472,
+            "longitude": -72.10219,
+            "timezone": null
+        },
+        {
+            "id": 2360600014,
+            "name": "Castleton",
+            "alt_names": [],
+            "latitude": 43.61062,
+            "longitude": -73.17983,
+            "timezone": null
+        },
+        {
+            "id": 2360600015,
+            "name": "Charlotte",
+            "alt_names": [],
+            "latitude": 44.30977,
+            "longitude": -73.26096,
+            "timezone": null
+        },
+        {
+            "id": 2360600016,
+            "name": "Chelsea",
+            "alt_names": [],
+            "latitude": 43.98979,
+            "longitude": -72.4476,
+            "timezone": null
+        },
+        {
+            "id": 2360600017,
+            "name": "Chester",
+            "alt_names": [],
+            "latitude": 43.26285,
+            "longitude": -72.59509,
+            "timezone": null
+        },
+        {
+            "id": 2360600018,
+            "name": "Chittenden",
+            "alt_names": [],
+            "latitude": 43.70784,
+            "longitude": -72.94816,
+            "timezone": null
+        },
+        {
+            "id": 2360600019,
+            "name": "Chittenden County",
+            "alt_names": [],
+            "latitude": 44.46098,
+            "longitude": -73.08092,
+            "timezone": null
+        },
+        {
+            "id": 2360600020,
+            "name": "Clarendon",
+            "alt_names": [],
+            "latitude": 43.51618,
+            "longitude": -72.96983,
+            "timezone": null
+        },
+        {
+            "id": 2360600021,
+            "name": "Colchester",
+            "alt_names": [],
+            "latitude": 44.54394,
+            "longitude": -73.14791,
+            "timezone": null
+        },
+        {
+            "id": 2360600022,
+            "name": "Danby",
+            "alt_names": [],
+            "latitude": 43.34618,
+            "longitude": -72.99538,
+            "timezone": null
+        },
+        {
+            "id": 2360600023,
+            "name": "Dover",
+            "alt_names": [],
+            "latitude": 42.94369,
+            "longitude": -72.80399,
+            "timezone": null
+        },
+        {
+            "id": 2360600024,
+            "name": "Enosburg Falls",
+            "alt_names": [],
+            "latitude": 44.90699,
+            "longitude": -72.80652,
+            "timezone": null
+        },
+        {
+            "id": 2360600025,
+            "name": "Essex County",
+            "alt_names": [],
+            "latitude": 44.72779,
+            "longitude": -71.73605,
+            "timezone": null
+        },
+        {
+            "id": 2360600026,
+            "name": "Essex Junction",
+            "alt_names": [],
+            "latitude": 44.49061,
+            "longitude": -73.11096,
+            "timezone": null
+        },
+        {
+            "id": 2360600027,
+            "name": "Fair Haven",
+            "alt_names": [],
+            "latitude": 43.59479,
+            "longitude": -73.26567,
+            "timezone": null
+        },
+        {
+            "id": 2360600028,
+            "name": "Ferrisburgh",
+            "alt_names": [],
+            "latitude": 44.20561,
+            "longitude": -73.24623,
+            "timezone": null
+        },
+        {
+            "id": 2360600029,
+            "name": "Franklin County",
+            "alt_names": [],
+            "latitude": 44.85748,
+            "longitude": -72.912,
+            "timezone": null
+        },
+        {
+            "id": 2360600030,
+            "name": "Grand Isle County",
+            "alt_names": [],
+            "latitude": 44.79683,
+            "longitude": -73.29483,
+            "timezone": null
+        },
+        {
+            "id": 2360600031,
+            "name": "Guildhall",
+            "alt_names": [],
+            "latitude": 44.56506,
+            "longitude": -71.55981,
+            "timezone": null
+        },
+        {
+            "id": 2360600032,
+            "name": "Hardwick",
+            "alt_names": [],
+            "latitude": 44.50478,
+            "longitude": -72.36816,
+            "timezone": null
+        },
+        {
+            "id": 2360600033,
+            "name": "Hartford",
+            "alt_names": [],
+            "latitude": 43.66063,
+            "longitude": -72.33842,
+            "timezone": null
+        },
+        {
+            "id": 2360600034,
+            "name": "Hinesburg",
+            "alt_names": [],
+            "latitude": 44.32922,
+            "longitude": -73.11068,
+            "timezone": null
+        },
+        {
+            "id": 2360600035,
+            "name": "Hyde Park",
+            "alt_names": [],
+            "latitude": 44.59394,
+            "longitude": -72.61651,
+            "timezone": null
+        },
+        {
+            "id": 2360600036,
+            "name": "Jamaica",
+            "alt_names": [],
+            "latitude": 43.10036,
+            "longitude": -72.77843,
+            "timezone": null
+        },
+        {
+            "id": 2360600037,
+            "name": "Jericho",
+            "alt_names": [],
+            "latitude": 44.50394,
+            "longitude": -72.99763,
+            "timezone": null
+        },
+        {
+            "id": 2360600038,
+            "name": "Johnson",
+            "alt_names": [],
+            "latitude": 44.63561,
+            "longitude": -72.6804,
+            "timezone": null
+        },
+        {
+            "id": 2360600039,
+            "name": "Lamoille County",
+            "alt_names": [],
+            "latitude": 44.60576,
+            "longitude": -72.64145,
+            "timezone": null
+        },
+        {
+            "id": 2360600040,
+            "name": "Leicester",
+            "alt_names": [],
+            "latitude": 43.86673,
+            "longitude": -73.10789,
+            "timezone": null
+        },
+        {
+            "id": 2360600041,
+            "name": "Lincoln",
+            "alt_names": [],
+            "latitude": 44.10589,
+            "longitude": -72.99706,
+            "timezone": null
+        },
+        {
+            "id": 2360600042,
+            "name": "Londonderry",
+            "alt_names": [],
+            "latitude": 43.22646,
+            "longitude": -72.80649,
+            "timezone": null
+        },
+        {
+            "id": 2360600043,
+            "name": "Lunenburg",
+            "alt_names": [],
+            "latitude": 44.46311,
+            "longitude": -71.68203,
+            "timezone": null
+        },
+        {
+            "id": 2360600044,
+            "name": "Lyndon",
+            "alt_names": [],
+            "latitude": 44.51422,
+            "longitude": -72.01093,
+            "timezone": null
+        },
+        {
+            "id": 2360600045,
+            "name": "Lyndonville",
+            "alt_names": [],
+            "latitude": 44.53367,
+            "longitude": -72.00315,
+            "timezone": null
+        },
+        {
+            "id": 2360600046,
+            "name": "Manchester Center",
+            "alt_names": [],
+            "latitude": 43.17702,
+            "longitude": -73.05705,
+            "timezone": null
+        },
+        {
+            "id": 2360600047,
+            "name": "Mendon",
+            "alt_names": [],
+            "latitude": 43.65198,
+            "longitude": -72.9278,
+            "timezone": null
+        },
+        {
+            "id": 2360600048,
+            "name": "Middlebury (village)",
+            "alt_names": [],
+            "latitude": 44.01553,
+            "longitude": -73.16937,
+            "timezone": null
+        },
+        {
+            "id": 2360600049,
+            "name": "Milton",
+            "alt_names": [],
+            "latitude": 44.63977,
+            "longitude": -73.11041,
+            "timezone": null
+        },
+        {
+            "id": 2360600050,
+            "name": "Montgomery",
+            "alt_names": [],
+            "latitude": 44.90255,
+            "longitude": -72.63818,
+            "timezone": null
+        },
+        {
+            "id": 2360600051,
+            "name": "Montpelier",
+            "alt_names": [],
+            "latitude": 44.26006,
+            "longitude": -72.57539,
+            "timezone": null
+        },
+        {
+            "id": 2360600052,
+            "name": "Moretown",
+            "alt_names": [],
+            "latitude": 44.25089,
+            "longitude": -72.76095,
+            "timezone": null
+        },
+        {
+            "id": 2360600053,
+            "name": "Morristown",
+            "alt_names": [],
+            "latitude": 44.55727,
+            "longitude": -72.62373,
+            "timezone": null
+        },
+        {
+            "id": 2360600054,
+            "name": "Morrisville",
+            "alt_names": [],
+            "latitude": 44.56172,
+            "longitude": -72.59845,
+            "timezone": null
+        },
+        {
+            "id": 2360600055,
+            "name": "Mount Holly",
+            "alt_names": [],
+            "latitude": 43.45229,
+            "longitude": -72.82482,
+            "timezone": null
+        },
+        {
+            "id": 2360600056,
+            "name": "Newfane",
+            "alt_names": [],
+            "latitude": 42.98564,
+            "longitude": -72.65593,
+            "timezone": null
+        },
+        {
+            "id": 2360600057,
+            "name": "Newport",
+            "alt_names": [],
+            "latitude": 44.93644,
+            "longitude": -72.2051,
+            "timezone": null
+        },
+        {
+            "id": 2360600058,
+            "name": "North Bennington",
+            "alt_names": [],
+            "latitude": 42.93036,
+            "longitude": -73.24261,
+            "timezone": null
+        },
+        {
+            "id": 2360600059,
+            "name": "North Hero",
+            "alt_names": [],
+            "latitude": 44.83125,
+            "longitude": -73.27323,
+            "timezone": null
+        },
+        {
+            "id": 2360600060,
+            "name": "Northfield",
+            "alt_names": [],
+            "latitude": 44.15117,
+            "longitude": -72.6565,
+            "timezone": null
+        },
+        {
+            "id": 2360600061,
+            "name": "Orange County",
+            "alt_names": [],
+            "latitude": 44.0056,
+            "longitude": -72.37661,
+            "timezone": null
+        },
+        {
+            "id": 2360600062,
+            "name": "Orleans County",
+            "alt_names": [],
+            "latitude": 44.82881,
+            "longitude": -72.24381,
+            "timezone": null
+        },
+        {
+            "id": 2360600063,
+            "name": "Pawlet",
+            "alt_names": [],
+            "latitude": 43.34674,
+            "longitude": -73.17622,
+            "timezone": null
+        },
+        {
+            "id": 2360600064,
+            "name": "Poultney",
+            "alt_names": [],
+            "latitude": 43.51701,
+            "longitude": -73.23622,
+            "timezone": null
+        },
+        {
+            "id": 2360600065,
+            "name": "Pownal",
+            "alt_names": [],
+            "latitude": 42.76564,
+            "longitude": -73.23594,
+            "timezone": null
+        },
+        {
+            "id": 2360600066,
+            "name": "Randolph",
+            "alt_names": [],
+            "latitude": 43.92507,
+            "longitude": -72.66594,
+            "timezone": null
+        },
+        {
+            "id": 2360600067,
+            "name": "Richford",
+            "alt_names": [],
+            "latitude": 44.99699,
+            "longitude": -72.67124,
+            "timezone": null
+        },
+        {
+            "id": 2360600068,
+            "name": "Rockingham",
+            "alt_names": [],
+            "latitude": 43.18758,
+            "longitude": -72.48898,
+            "timezone": null
+        },
+        {
+            "id": 2360600069,
+            "name": "Rutland",
+            "alt_names": [],
+            "latitude": 43.61062,
+            "longitude": -72.97261,
+            "timezone": null
+        },
+        {
+            "id": 2360600070,
+            "name": "Rutland County",
+            "alt_names": [],
+            "latitude": 43.58009,
+            "longitude": -73.03661,
+            "timezone": null
+        },
+        {
+            "id": 2360600071,
+            "name": "Saint Albans",
+            "alt_names": [],
+            "latitude": 44.81088,
+            "longitude": -73.08319,
+            "timezone": null
+        },
+        {
+            "id": 2360600072,
+            "name": "Saint Johnsbury",
+            "alt_names": [],
+            "latitude": 44.41922,
+            "longitude": -72.01509,
+            "timezone": null
+        },
+        {
+            "id": 2360600073,
+            "name": "Salisbury",
+            "alt_names": [],
+            "latitude": 43.89645,
+            "longitude": -73.09984,
+            "timezone": null
+        },
+        {
+            "id": 2360600074,
+            "name": "South Barre",
+            "alt_names": [],
+            "latitude": 44.17701,
+            "longitude": -72.50566,
+            "timezone": null
+        },
+        {
+            "id": 2360600075,
+            "name": "South Burlington",
+            "alt_names": [],
+            "latitude": 44.46699,
+            "longitude": -73.17096,
+            "timezone": null
+        },
+        {
+            "id": 2360600076,
+            "name": "Springfield",
+            "alt_names": [],
+            "latitude": 43.29841,
+            "longitude": -72.48231,
+            "timezone": null
+        },
+        {
+            "id": 2360600077,
+            "name": "St Johnsbury",
+            "alt_names": [],
+            "latitude": 44.42526,
+            "longitude": -72.01512,
+            "timezone": null
+        },
+        {
+            "id": 2360600078,
+            "name": "Starksboro",
+            "alt_names": [],
+            "latitude": 44.22728,
+            "longitude": -73.05734,
+            "timezone": null
+        },
+        {
+            "id": 2360600079,
+            "name": "Stowe",
+            "alt_names": [],
+            "latitude": 44.46533,
+            "longitude": -72.68456,
+            "timezone": null
+        },
+        {
+            "id": 2360600080,
+            "name": "Swanton",
+            "alt_names": [],
+            "latitude": 44.9181,
+            "longitude": -73.1243,
+            "timezone": null
+        },
+        {
+            "id": 2360600081,
+            "name": "Townshend",
+            "alt_names": [],
+            "latitude": 43.0473,
+            "longitude": -72.66759,
+            "timezone": null
+        },
+        {
+            "id": 2360600082,
+            "name": "Vergennes",
+            "alt_names": [],
+            "latitude": 44.16728,
+            "longitude": -73.25401,
+            "timezone": null
+        },
+        {
+            "id": 2360600083,
+            "name": "Washington",
+            "alt_names": [],
+            "latitude": 44.10562,
+            "longitude": -72.4326,
+            "timezone": null
+        },
+        {
+            "id": 2360600084,
+            "name": "Washington County",
+            "alt_names": [],
+            "latitude": 44.27342,
+            "longitude": -72.6149,
+            "timezone": null
+        },
+        {
+            "id": 2360600085,
+            "name": "Waterbury",
+            "alt_names": [],
+            "latitude": 44.33783,
+            "longitude": -72.75623,
+            "timezone": null
+        },
+        {
+            "id": 2360600086,
+            "name": "West Brattleboro",
+            "alt_names": [],
+            "latitude": 42.85592,
+            "longitude": -72.60315,
+            "timezone": null
+        },
+        {
+            "id": 2360600087,
+            "name": "West Rutland",
+            "alt_names": [],
+            "latitude": 43.59312,
+            "longitude": -73.04511,
+            "timezone": null
+        },
+        {
+            "id": 2360600088,
+            "name": "White River Junction",
+            "alt_names": [],
+            "latitude": 43.64896,
+            "longitude": -72.31926,
+            "timezone": null
+        },
+        {
+            "id": 2360600089,
+            "name": "Wilder",
+            "alt_names": [],
+            "latitude": 43.67285,
+            "longitude": -72.3087,
+            "timezone": null
+        },
+        {
+            "id": 2360600090,
+            "name": "Williamstown",
+            "alt_names": [],
+            "latitude": 44.12173,
+            "longitude": -72.54149,
+            "timezone": null
+        },
+        {
+            "id": 2360600091,
+            "name": "Williston",
+            "alt_names": [],
+            "latitude": 44.43755,
+            "longitude": -73.06818,
+            "timezone": null
+        },
+        {
+            "id": 2360600092,
+            "name": "Windham County",
+            "alt_names": [],
+            "latitude": 42.99059,
+            "longitude": -72.71384,
+            "timezone": null
+        },
+        {
+            "id": 2360600093,
+            "name": "Windsor",
+            "alt_names": [],
+            "latitude": 43.48035,
+            "longitude": -72.38481,
+            "timezone": null
+        },
+        {
+            "id": 2360600094,
+            "name": "Windsor County",
+            "alt_names": [],
+            "latitude": 43.58,
+            "longitude": -72.58624,
+            "timezone": null
+        },
+        {
+            "id": 2360600095,
+            "name": "Winooski",
+            "alt_names": [],
+            "latitude": 44.49144,
+            "longitude": -73.18568,
+            "timezone": null
+        },
+        {
+            "id": 2360600096,
+            "name": "Woodstock",
+            "alt_names": [],
+            "latitude": 43.62424,
+            "longitude": -72.51843,
+            "timezone": null
+        }
+    ]
+}

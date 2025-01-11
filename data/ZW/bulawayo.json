@@ -1,0 +1,25 @@
+{
+    "id": 250001,
+    "name": "Bulawayo",
+    "alt_names": [],
+    "state_code": "BU",
+    "latitude": -20.1489505,
+    "longitude": 28.5331038,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2500010001,
+            "name": "Bulawayo",
+            "alt_names": [],
+            "latitude": -20.15,
+            "longitude": 28.58333,
+            "timezone": {
+                "zoneName": "Africa/Harare",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

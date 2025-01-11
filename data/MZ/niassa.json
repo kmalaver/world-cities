@@ -1,0 +1,53 @@
+{
+    "id": 148008,
+    "name": "Niassa",
+    "alt_names": [],
+    "state_code": "A",
+    "latitude": -12.7826202,
+    "longitude": 36.6093926,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480080001,
+            "name": "Cuamba",
+            "alt_names": [],
+            "latitude": -14.80306,
+            "longitude": 36.53722,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480080002,
+            "name": "Lichinga",
+            "alt_names": [],
+            "latitude": -13.31278,
+            "longitude": 35.24056,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480080003,
+            "name": "Mandimba",
+            "alt_names": [],
+            "latitude": -14.3525,
+            "longitude": 35.65056,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

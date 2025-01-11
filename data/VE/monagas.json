@@ -1,0 +1,67 @@
+{
+    "id": 242017,
+    "name": "Monagas",
+    "alt_names": [],
+    "state_code": "N",
+    "latitude": 9.3241652,
+    "longitude": -63.0147578,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2420170001,
+            "name": "Caripito",
+            "alt_names": [],
+            "latitude": 10.11135,
+            "longitude": -63.09985,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420170002,
+            "name": "Maturín",
+            "alt_names": [],
+            "latitude": 9.74569,
+            "longitude": -63.18323,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420170003,
+            "name": "Municipio Maturín",
+            "alt_names": [],
+            "latitude": 9.4,
+            "longitude": -63.03333,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420170004,
+            "name": "Municipio Uracoa",
+            "alt_names": [],
+            "latitude": 8.9996,
+            "longitude": -62.35164,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

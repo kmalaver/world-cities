@@ -1,0 +1,53 @@
+{
+    "id": 243005,
+    "name": "Bạc Liêu",
+    "alt_names": [],
+    "state_code": "55",
+    "latitude": 9.2940027,
+    "longitude": 105.7215663,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2430050001,
+            "name": "Bạc Liêu",
+            "alt_names": [],
+            "latitude": 9.29414,
+            "longitude": 105.72776,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430050002,
+            "name": "Huyện Giá Rai",
+            "alt_names": [],
+            "latitude": 9.27162,
+            "longitude": 105.40017,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430050003,
+            "name": "Huyện Hồng Dân",
+            "alt_names": [],
+            "latitude": 9.53822,
+            "longitude": 105.42242,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

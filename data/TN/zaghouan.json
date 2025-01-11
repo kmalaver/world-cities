@@ -1,0 +1,39 @@
+{
+    "id": 227024,
+    "name": "Zaghouan",
+    "alt_names": [],
+    "state_code": "22",
+    "latitude": 36.4091188,
+    "longitude": 10.1423172,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 2270240001,
+            "name": "El Fahs",
+            "alt_names": [],
+            "latitude": 36.37419,
+            "longitude": 9.90651,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2270240002,
+            "name": "Zaghouan",
+            "alt_names": [],
+            "latitude": 36.40291,
+            "longitude": 10.14292,
+            "timezone": {
+                "zoneName": "Africa/Tunis",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

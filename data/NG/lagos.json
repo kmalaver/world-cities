@@ -1,0 +1,515 @@
+{
+    "id": 158025,
+    "name": "Lagos",
+    "alt_names": [],
+    "state_code": "LA",
+    "latitude": 6.5243793,
+    "longitude": 3.3792057,
+    "type": "state",
+    "cities": [
+        {
+            "id": 1580250001,
+            "name": "Abule Egba",
+            "alt_names": [],
+            "latitude": 6.6507441,
+            "longitude": 3.2655451,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250002,
+            "name": "Agege",
+            "alt_names": [],
+            "latitude": 6.6152236,
+            "longitude": 3.300297,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250003,
+            "name": "Alimosho",
+            "alt_names": [],
+            "latitude": 6.5889,
+            "longitude": 3.2485,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250004,
+            "name": "Amuwo-Odofin",
+            "alt_names": [],
+            "latitude": 6.4467434,
+            "longitude": 3.196826,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250005,
+            "name": "Apapa",
+            "alt_names": [],
+            "latitude": 6.4488,
+            "longitude": 3.35901,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250006,
+            "name": "Badagry",
+            "alt_names": [],
+            "latitude": 6.41502,
+            "longitude": 2.88132,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250007,
+            "name": "Bariga",
+            "alt_names": [],
+            "latitude": 6.5393123,
+            "longitude": 3.3762706,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250008,
+            "name": "Ebute Ikorodu",
+            "alt_names": [],
+            "latitude": 6.60086,
+            "longitude": 3.48818,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250009,
+            "name": "Ebute Metta",
+            "alt_names": [],
+            "latitude": 6.4843759,
+            "longitude": 3.3759168,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250010,
+            "name": "Ejirin",
+            "alt_names": [],
+            "latitude": 6.61423,
+            "longitude": 3.90019,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250011,
+            "name": "Epe",
+            "alt_names": [],
+            "latitude": 6.58412,
+            "longitude": 3.98336,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250012,
+            "name": "Eti-Osa",
+            "alt_names": [],
+            "latitude": 6.468124,
+            "longitude": 3.3709378,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250013,
+            "name": "Festac",
+            "alt_names": [],
+            "latitude": 6.4717833,
+            "longitude": 3.2649387,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250014,
+            "name": "Ibeju-Lekki",
+            "alt_names": [],
+            "latitude": 6.4576436,
+            "longitude": 3.623244,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250015,
+            "name": "Idimu",
+            "alt_names": [],
+            "latitude": 6.5833798,
+            "longitude": 3.2044278,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250016,
+            "name": "Ifako-Ijaiye",
+            "alt_names": [],
+            "latitude": 6.6830972,
+            "longitude": 3.2207917,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250017,
+            "name": "Igando",
+            "alt_names": [],
+            "latitude": 6.5513239,
+            "longitude": 3.2218113,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250018,
+            "name": "Ijora",
+            "alt_names": [],
+            "latitude": 6.4633045,
+            "longitude": 3.3406241,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250019,
+            "name": "Ikeja",
+            "alt_names": [],
+            "latitude": 6.59651,
+            "longitude": 3.34205,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250020,
+            "name": "Ikorodu",
+            "alt_names": [],
+            "latitude": 6.61526,
+            "longitude": 3.5069,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250021,
+            "name": "Ipaja",
+            "alt_names": [],
+            "latitude": 6.609832,
+            "longitude": 3.2229994,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250022,
+            "name": "Isheri-Olofin",
+            "alt_names": [],
+            "latitude": 6.5809203,
+            "longitude": 3.2741728,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250023,
+            "name": "Lagos",
+            "alt_names": [],
+            "latitude": 6.45407,
+            "longitude": 3.39467,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250024,
+            "name": "Lagos Island",
+            "alt_names": [],
+            "latitude": 6.4499982,
+            "longitude": 3.3999984,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250025,
+            "name": "Lekki",
+            "alt_names": [],
+            "latitude": 6.5114813,
+            "longitude": 3.4445381,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250026,
+            "name": "Makoko",
+            "alt_names": [],
+            "latitude": 6.49611,
+            "longitude": 3.38778,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250027,
+            "name": "Mushin",
+            "alt_names": [],
+            "latitude": 6.5356324,
+            "longitude": 3.3302253,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250028,
+            "name": "Ogba",
+            "alt_names": [],
+            "latitude": 6.6230624,
+            "longitude": 3.3341836,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250029,
+            "name": "Ojo",
+            "alt_names": [],
+            "latitude": 6.4620213,
+            "longitude": 3.0796915,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250030,
+            "name": "Ojodu Berger",
+            "alt_names": [],
+            "latitude": 6.6454523,
+            "longitude": 3.3663973,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250031,
+            "name": "Ojota",
+            "alt_names": [],
+            "latitude": 6.5851656,
+            "longitude": 3.3709254,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250032,
+            "name": "Oshodi-Isolo",
+            "alt_names": [],
+            "latitude": 6.5365483,
+            "longitude": 3.2755143,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250033,
+            "name": "Shomolu",
+            "alt_names": [],
+            "latitude": 6.5375955,
+            "longitude": 3.3650645,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250034,
+            "name": "Surulere",
+            "alt_names": [],
+            "latitude": 6.4900983,
+            "longitude": 3.3025143,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250035,
+            "name": "Victoria Island",
+            "alt_names": [],
+            "latitude": 6.429984,
+            "longitude": 3.4022449,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 1580250036,
+            "name": "Yaba",
+            "alt_names": [],
+            "latitude": 6.5059457,
+            "longitude": 3.3601286,
+            "timezone": {
+                "zoneName": "Africa/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

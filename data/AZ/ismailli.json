@@ -1,0 +1,39 @@
+{
+    "id": 16024,
+    "name": "Ismailli",
+    "alt_names": [],
+    "state_code": "ISM",
+    "latitude": 40.7429936,
+    "longitude": 48.2125556,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160240001,
+            "name": "Basqal",
+            "alt_names": [],
+            "latitude": 40.7552,
+            "longitude": 48.39104,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160240002,
+            "name": "İsmayıllı",
+            "alt_names": [],
+            "latitude": 40.78485,
+            "longitude": 48.15141,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

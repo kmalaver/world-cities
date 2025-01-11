@@ -1,0 +1,39 @@
+{
+    "id": 201013,
+    "name": "Brda",
+    "alt_names": [],
+    "state_code": "007",
+    "latitude": 45.9975652,
+    "longitude": 13.5270474,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010130001,
+            "name": "Dobrovo",
+            "alt_names": [],
+            "latitude": 45.99639,
+            "longitude": 13.52639,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010130002,
+            "name": "Mokronog",
+            "alt_names": [],
+            "latitude": 45.93417,
+            "longitude": 15.14083,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

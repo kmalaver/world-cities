@@ -1,0 +1,39 @@
+{
+    "id": 22001,
+    "name": "Belize",
+    "alt_names": [],
+    "state_code": "BZ",
+    "latitude": 17.5677679,
+    "longitude": -88.4016041,
+    "type": "district",
+    "cities": [
+        {
+            "id": 220010001,
+            "name": "Belize City",
+            "alt_names": [],
+            "latitude": 17.49952,
+            "longitude": -88.19756,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        },
+        {
+            "id": 220010002,
+            "name": "San Pedro",
+            "alt_names": [],
+            "latitude": 17.91598,
+            "longitude": -87.9659,
+            "timezone": {
+                "zoneName": "America/Belize",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America)"
+            }
+        }
+    ]
+}

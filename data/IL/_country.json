@@ -1,0 +1,47 @@
+{
+    "id": 106,
+    "name": "Israel",
+    "iso3": "ISR",
+    "iso2": "IL",
+    "numeric_code": "376",
+    "phonecode": "972",
+    "capital": "Jerusalem",
+    "currency": "ILS",
+    "currency_name": "Israeli new shekel",
+    "currency_symbol": "₪",
+    "tld": ".il",
+    "native": "יִשְׂרָאֵל",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "translations": {
+        "de": "Israel",
+        "es": "Israel",
+        "fa": "اسرائیل",
+        "fr": "Israël",
+        "hr": "Izrael",
+        "it": "Israele",
+        "ja": "イスラエル",
+        "ko": "이스라엘",
+        "nl": "Israël",
+        "pl": "Izrael",
+        "pt": "Israel",
+        "pt-BR": "Israel",
+        "ru": "Израиль",
+        "tr": "İsrail",
+        "uk": "Ізраїль",
+        "zh-CN": "以色列"
+    },
+    "latitude": 31.5,
+    "longitude": 34.75,
+    "emoji": "🇮🇱",
+    "emojiU": "U+1F1EE U+1F1F1",
+    "timezones": [
+        {
+            "zoneName": "Asia/Jerusalem",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "IST",
+            "tzName": "Israel Standard Time"
+        }
+    ]
+}

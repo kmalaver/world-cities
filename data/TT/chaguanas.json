@@ -1,0 +1,39 @@
+{
+    "id": 226002,
+    "name": "Chaguanas",
+    "alt_names": [],
+    "state_code": "CHA",
+    "latitude": 10.5168387,
+    "longitude": -61.4114482,
+    "type": "borough",
+    "cities": [
+        {
+            "id": 2260020001,
+            "name": "Chaguanas",
+            "alt_names": [],
+            "latitude": 10.51667,
+            "longitude": -61.41667,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260020002,
+            "name": "Ward of Chaguanas",
+            "alt_names": [],
+            "latitude": 10.5,
+            "longitude": -61.38333,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 231001,
+    "name": "Funafuti",
+    "alt_names": [],
+    "state_code": "FUN",
+    "latitude": -8.5211471,
+    "longitude": 179.1961926,
+    "type": "town council",
+    "cities": [
+        {
+            "id": 2310010001,
+            "name": "Alapi Village",
+            "alt_names": [],
+            "latitude": -8.52074,
+            "longitude": 179.1968,
+            "timezone": {
+                "zoneName": "Pacific/Funafuti",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "TVT",
+                "tzName": "Tuvalu Time"
+            }
+        },
+        {
+            "id": 2310010002,
+            "name": "Fakaifou Village",
+            "alt_names": [],
+            "latitude": -8.51758,
+            "longitude": 179.20094,
+            "timezone": {
+                "zoneName": "Pacific/Funafuti",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "TVT",
+                "tzName": "Tuvalu Time"
+            }
+        },
+        {
+            "id": 2310010003,
+            "name": "Funafuti",
+            "alt_names": [],
+            "latitude": -8.52425,
+            "longitude": 179.19417,
+            "timezone": {
+                "zoneName": "Pacific/Funafuti",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "TVT",
+                "tzName": "Tuvalu Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 165012,
+    "name": "Musandam",
+    "alt_names": [],
+    "state_code": "MU",
+    "latitude": 26.1986144,
+    "longitude": 56.2460949,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1650120001,
+            "name": "Dib Dibba",
+            "alt_names": [],
+            "latitude": 26.19778,
+            "longitude": 56.25778,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 1650120002,
+            "name": "Khasab",
+            "alt_names": [],
+            "latitude": 26.17993,
+            "longitude": 56.24774,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 1650120003,
+            "name": "Madḩā’ al Jadīdah",
+            "alt_names": [],
+            "latitude": 25.28345,
+            "longitude": 56.3328,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

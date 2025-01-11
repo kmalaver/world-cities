@@ -1,0 +1,39 @@
+{
+    "id": 201068,
+    "name": "Komenda",
+    "alt_names": [],
+    "state_code": "164",
+    "latitude": 46.206488,
+    "longitude": 14.5382499,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010680001,
+            "name": "Komenda",
+            "alt_names": [],
+            "latitude": 46.20484,
+            "longitude": 14.53839,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010680002,
+            "name": "Moste",
+            "alt_names": [],
+            "latitude": 46.195,
+            "longitude": 14.55139,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

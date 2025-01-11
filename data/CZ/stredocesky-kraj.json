@@ -1,0 +1,2685 @@
+{
+    "id": 58073,
+    "name": "Středočeský kraj",
+    "alt_names": [],
+    "state_code": "20",
+    "latitude": 49.8782223,
+    "longitude": 14.9362955,
+    "type": "region",
+    "cities": [
+        {
+            "id": 580730001,
+            "name": "Bakov nad Jizerou",
+            "alt_names": [],
+            "latitude": 50.4823,
+            "longitude": 14.94149,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730002,
+            "name": "Bělá pod Bezdězem",
+            "alt_names": [],
+            "latitude": 50.50121,
+            "longitude": 14.80418,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730003,
+            "name": "Benátky nad Jizerou",
+            "alt_names": [],
+            "latitude": 50.29085,
+            "longitude": 14.82343,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730004,
+            "name": "Benešov",
+            "alt_names": [],
+            "latitude": 49.78162,
+            "longitude": 14.68697,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730005,
+            "name": "Beroun",
+            "alt_names": [],
+            "latitude": 49.96382,
+            "longitude": 14.072,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730006,
+            "name": "Bohutín",
+            "alt_names": [],
+            "latitude": 49.65551,
+            "longitude": 13.94389,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730007,
+            "name": "Brandýs nad Labem-Stará Boleslav",
+            "alt_names": [],
+            "latitude": 50.18709,
+            "longitude": 14.66326,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730008,
+            "name": "Brandýsek",
+            "alt_names": [],
+            "latitude": 50.18923,
+            "longitude": 14.16199,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730009,
+            "name": "Březnice",
+            "alt_names": [],
+            "latitude": 49.55763,
+            "longitude": 13.95063,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730010,
+            "name": "Buštěhrad",
+            "alt_names": [],
+            "latitude": 50.15594,
+            "longitude": 14.18897,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730011,
+            "name": "Byšice",
+            "alt_names": [],
+            "latitude": 50.31044,
+            "longitude": 14.61136,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730012,
+            "name": "Bystřice",
+            "alt_names": [],
+            "latitude": 49.73213,
+            "longitude": 14.6674,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730013,
+            "name": "Čáslav",
+            "alt_names": [],
+            "latitude": 49.91099,
+            "longitude": 15.38972,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730014,
+            "name": "Čechtice",
+            "alt_names": [],
+            "latitude": 49.62403,
+            "longitude": 15.04824,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730015,
+            "name": "Čelákovice",
+            "alt_names": [],
+            "latitude": 50.16038,
+            "longitude": 14.75005,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730016,
+            "name": "Čerčany",
+            "alt_names": [],
+            "latitude": 49.85293,
+            "longitude": 14.70299,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730017,
+            "name": "Cerhenice",
+            "alt_names": [],
+            "latitude": 50.07127,
+            "longitude": 15.07203,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730018,
+            "name": "Černošice",
+            "alt_names": [],
+            "latitude": 49.96008,
+            "longitude": 14.31979,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730019,
+            "name": "Červené Pečky",
+            "alt_names": [],
+            "latitude": 49.97822,
+            "longitude": 15.20856,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730020,
+            "name": "Český Brod",
+            "alt_names": [],
+            "latitude": 50.0742,
+            "longitude": 14.86081,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730021,
+            "name": "Chyňava",
+            "alt_names": [],
+            "latitude": 50.02736,
+            "longitude": 14.07398,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730022,
+            "name": "Církvice",
+            "alt_names": [],
+            "latitude": 49.9456,
+            "longitude": 15.33505,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730023,
+            "name": "Cítov",
+            "alt_names": [],
+            "latitude": 50.37225,
+            "longitude": 14.39813,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730024,
+            "name": "Davle",
+            "alt_names": [],
+            "latitude": 49.89218,
+            "longitude": 14.40037,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730025,
+            "name": "Divišov",
+            "alt_names": [],
+            "latitude": 49.78849,
+            "longitude": 14.87579,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730026,
+            "name": "Dobřichovice",
+            "alt_names": [],
+            "latitude": 49.92749,
+            "longitude": 14.27469,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730027,
+            "name": "Dobříš",
+            "alt_names": [],
+            "latitude": 49.78113,
+            "longitude": 14.16717,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730028,
+            "name": "Dobrovice",
+            "alt_names": [],
+            "latitude": 50.36933,
+            "longitude": 14.96233,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730029,
+            "name": "Doksy",
+            "alt_names": [],
+            "latitude": 50.119,
+            "longitude": 14.04782,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730030,
+            "name": "Dolní Beřkovice",
+            "alt_names": [],
+            "latitude": 50.39313,
+            "longitude": 14.45024,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730031,
+            "name": "Dolní Bousov",
+            "alt_names": [],
+            "latitude": 50.43825,
+            "longitude": 15.12812,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730032,
+            "name": "Dolní Břežany",
+            "alt_names": [],
+            "latitude": 49.96321,
+            "longitude": 14.4585,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730033,
+            "name": "Horní Počaply",
+            "alt_names": [],
+            "latitude": 50.4244,
+            "longitude": 14.38993,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730034,
+            "name": "Horoměřice",
+            "alt_names": [],
+            "latitude": 50.13173,
+            "longitude": 14.33879,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730035,
+            "name": "Hořovice",
+            "alt_names": [],
+            "latitude": 49.83597,
+            "longitude": 13.90268,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730036,
+            "name": "Hostivice",
+            "alt_names": [],
+            "latitude": 50.08158,
+            "longitude": 14.25856,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730037,
+            "name": "Hostomice",
+            "alt_names": [],
+            "latitude": 49.82526,
+            "longitude": 14.0456,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730038,
+            "name": "Hovorčovice",
+            "alt_names": [],
+            "latitude": 50.17866,
+            "longitude": 14.51789,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730039,
+            "name": "Hradištko",
+            "alt_names": [],
+            "latitude": 49.86828,
+            "longitude": 14.40935,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730040,
+            "name": "Hřebeč",
+            "alt_names": [],
+            "latitude": 50.13595,
+            "longitude": 14.16446,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730041,
+            "name": "Hudlice",
+            "alt_names": [],
+            "latitude": 49.96096,
+            "longitude": 13.97063,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730042,
+            "name": "Hýskov",
+            "alt_names": [],
+            "latitude": 49.99072,
+            "longitude": 14.05055,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730043,
+            "name": "Jeneč",
+            "alt_names": [],
+            "latitude": 50.0873,
+            "longitude": 14.21482,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730044,
+            "name": "Jesenice",
+            "alt_names": [],
+            "latitude": 49.96814,
+            "longitude": 14.5135,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730045,
+            "name": "Jílové u Prahy",
+            "alt_names": [],
+            "latitude": 49.89545,
+            "longitude": 14.49333,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730046,
+            "name": "Jince",
+            "alt_names": [],
+            "latitude": 49.78624,
+            "longitude": 13.97867,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730047,
+            "name": "Jirny",
+            "alt_names": [],
+            "latitude": 50.11578,
+            "longitude": 14.69923,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730048,
+            "name": "Kačice",
+            "alt_names": [],
+            "latitude": 50.16261,
+            "longitude": 13.98815,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730049,
+            "name": "Kamenice",
+            "alt_names": [],
+            "latitude": 49.90151,
+            "longitude": 14.58242,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730050,
+            "name": "Kamenné Žehrovice",
+            "alt_names": [],
+            "latitude": 50.12697,
+            "longitude": 14.01809,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730051,
+            "name": "Kamenný Přívoz",
+            "alt_names": [],
+            "latitude": 49.86299,
+            "longitude": 14.50339,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730052,
+            "name": "Kladno",
+            "alt_names": [],
+            "latitude": 50.14734,
+            "longitude": 14.10285,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730053,
+            "name": "Klecany",
+            "alt_names": [],
+            "latitude": 50.17599,
+            "longitude": 14.41148,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730054,
+            "name": "Klobuky",
+            "alt_names": [],
+            "latitude": 50.29401,
+            "longitude": 13.98748,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730055,
+            "name": "Kněžmost",
+            "alt_names": [],
+            "latitude": 50.48917,
+            "longitude": 15.03829,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730056,
+            "name": "Kolín",
+            "alt_names": [],
+            "latitude": 50.02806,
+            "longitude": 15.1998,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730057,
+            "name": "Komárov",
+            "alt_names": [],
+            "latitude": 49.8065,
+            "longitude": 13.85636,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730058,
+            "name": "Kosmonosy",
+            "alt_names": [],
+            "latitude": 50.4385,
+            "longitude": 14.93,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730059,
+            "name": "Kosova Hora",
+            "alt_names": [],
+            "latitude": 49.65414,
+            "longitude": 14.47173,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730060,
+            "name": "Kostelec nad Černými Lesy",
+            "alt_names": [],
+            "latitude": 49.99403,
+            "longitude": 14.85922,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730061,
+            "name": "Kostelec nad Labem",
+            "alt_names": [],
+            "latitude": 50.22653,
+            "longitude": 14.58552,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730062,
+            "name": "Kouřim",
+            "alt_names": [],
+            "latitude": 50.00306,
+            "longitude": 14.97703,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730063,
+            "name": "Kralupy nad Vltavou",
+            "alt_names": [],
+            "latitude": 50.24107,
+            "longitude": 14.31149,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730064,
+            "name": "Králův Dvůr",
+            "alt_names": [],
+            "latitude": 49.94981,
+            "longitude": 14.03445,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730065,
+            "name": "Krásná Hora nad Vltavou",
+            "alt_names": [],
+            "latitude": 49.60461,
+            "longitude": 14.27742,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730066,
+            "name": "Křinec",
+            "alt_names": [],
+            "latitude": 50.26449,
+            "longitude": 15.13782,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730067,
+            "name": "Kutná Hora",
+            "alt_names": [],
+            "latitude": 49.94839,
+            "longitude": 15.26816,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730068,
+            "name": "Lány",
+            "alt_names": [],
+            "latitude": 50.12471,
+            "longitude": 13.95041,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730069,
+            "name": "Libčice nad Vltavou",
+            "alt_names": [],
+            "latitude": 50.19778,
+            "longitude": 14.36385,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730070,
+            "name": "Líbeznice",
+            "alt_names": [],
+            "latitude": 50.19198,
+            "longitude": 14.49357,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730071,
+            "name": "Libice nad Cidlinou",
+            "alt_names": [],
+            "latitude": 50.12677,
+            "longitude": 15.1782,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730072,
+            "name": "Libiš",
+            "alt_names": [],
+            "latitude": 50.27417,
+            "longitude": 14.5024,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730073,
+            "name": "Libušín",
+            "alt_names": [],
+            "latitude": 50.16819,
+            "longitude": 14.05458,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730074,
+            "name": "Lochovice",
+            "alt_names": [],
+            "latitude": 49.85318,
+            "longitude": 13.98126,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730075,
+            "name": "Loděnice",
+            "alt_names": [],
+            "latitude": 49.99486,
+            "longitude": 14.15785,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730076,
+            "name": "Loučeň",
+            "alt_names": [],
+            "latitude": 50.28537,
+            "longitude": 15.02049,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730077,
+            "name": "Luštěnice",
+            "alt_names": [],
+            "latitude": 50.32296,
+            "longitude": 14.93667,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730078,
+            "name": "Lužec nad Vltavou",
+            "alt_names": [],
+            "latitude": 50.32138,
+            "longitude": 14.40022,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730079,
+            "name": "Lužná",
+            "alt_names": [],
+            "latitude": 50.12377,
+            "longitude": 13.77004,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730080,
+            "name": "Lysá nad Labem",
+            "alt_names": [],
+            "latitude": 50.20143,
+            "longitude": 14.83281,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730081,
+            "name": "Mělník",
+            "alt_names": [],
+            "latitude": 50.3505,
+            "longitude": 14.47411,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730082,
+            "name": "Měšice",
+            "alt_names": [],
+            "latitude": 50.19799,
+            "longitude": 14.51992,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730083,
+            "name": "Městec Králové",
+            "alt_names": [],
+            "latitude": 50.20718,
+            "longitude": 15.29758,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730084,
+            "name": "Milín",
+            "alt_names": [],
+            "latitude": 49.63192,
+            "longitude": 14.046,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730085,
+            "name": "Milovice",
+            "alt_names": [],
+            "latitude": 50.22596,
+            "longitude": 14.88863,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730086,
+            "name": "Mladá Boleslav",
+            "alt_names": [],
+            "latitude": 50.41135,
+            "longitude": 14.90318,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730087,
+            "name": "Mnichovice",
+            "alt_names": [],
+            "latitude": 49.93601,
+            "longitude": 14.70907,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730088,
+            "name": "Mnichovo Hradiště",
+            "alt_names": [],
+            "latitude": 50.5272,
+            "longitude": 14.97134,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730089,
+            "name": "Mníšek pod Brdy",
+            "alt_names": [],
+            "latitude": 49.8665,
+            "longitude": 14.26176,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730090,
+            "name": "Mšeno",
+            "alt_names": [],
+            "latitude": 50.43809,
+            "longitude": 14.6325,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730091,
+            "name": "Mukařov",
+            "alt_names": [],
+            "latitude": 49.99115,
+            "longitude": 14.74155,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730092,
+            "name": "Načeradec",
+            "alt_names": [],
+            "latitude": 49.61018,
+            "longitude": 14.90633,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730093,
+            "name": "Nehvizdy",
+            "alt_names": [],
+            "latitude": 50.13056,
+            "longitude": 14.72993,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730094,
+            "name": "Nelahozeves",
+            "alt_names": [],
+            "latitude": 50.26148,
+            "longitude": 14.29881,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730095,
+            "name": "Neratovice",
+            "alt_names": [],
+            "latitude": 50.25926,
+            "longitude": 14.51759,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730096,
+            "name": "Netvořice",
+            "alt_names": [],
+            "latitude": 49.81569,
+            "longitude": 14.51827,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730097,
+            "name": "Neveklov",
+            "alt_names": [],
+            "latitude": 49.75373,
+            "longitude": 14.53291,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730098,
+            "name": "Nižbor",
+            "alt_names": [],
+            "latitude": 49.99995,
+            "longitude": 14.00237,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730099,
+            "name": "Nové Strašecí",
+            "alt_names": [],
+            "latitude": 50.15272,
+            "longitude": 13.90043,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730100,
+            "name": "Nový Knín",
+            "alt_names": [],
+            "latitude": 49.788,
+            "longitude": 14.29355,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730101,
+            "name": "Nymburk",
+            "alt_names": [],
+            "latitude": 50.18605,
+            "longitude": 15.04167,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730102,
+            "name": "Obecnice",
+            "alt_names": [],
+            "latitude": 49.71615,
+            "longitude": 13.94731,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730103,
+            "name": "Odolena Voda",
+            "alt_names": [],
+            "latitude": 50.23341,
+            "longitude": 14.41078,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730104,
+            "name": "Okres Benešov",
+            "alt_names": [],
+            "latitude": 49.66667,
+            "longitude": 14.75,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730105,
+            "name": "Okres Beroun",
+            "alt_names": [],
+            "latitude": 49.83333,
+            "longitude": 14.08333,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730106,
+            "name": "Okres Kladno",
+            "alt_names": [],
+            "latitude": 50.16667,
+            "longitude": 14.16667,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730107,
+            "name": "Okres Kolín",
+            "alt_names": [],
+            "latitude": 50,
+            "longitude": 15,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730108,
+            "name": "Okres Kutná Hora",
+            "alt_names": [],
+            "latitude": 49.83333,
+            "longitude": 15.25,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730109,
+            "name": "Okres Mělník",
+            "alt_names": [],
+            "latitude": 50.33333,
+            "longitude": 14.5,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730110,
+            "name": "Okres Mladá Boleslav",
+            "alt_names": [],
+            "latitude": 50.41667,
+            "longitude": 14.91667,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730111,
+            "name": "Okres Nymburk",
+            "alt_names": [],
+            "latitude": 50.16667,
+            "longitude": 15.16667,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730112,
+            "name": "Okres Praha-východ",
+            "alt_names": [],
+            "latitude": 50.11768,
+            "longitude": 14.70836,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730113,
+            "name": "Okres Praha-západ",
+            "alt_names": [],
+            "latitude": 49.83333,
+            "longitude": 14.33333,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730114,
+            "name": "Okres Příbram",
+            "alt_names": [],
+            "latitude": 49.66667,
+            "longitude": 14.16667,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730115,
+            "name": "Okres Rakovník",
+            "alt_names": [],
+            "latitude": 50.1,
+            "longitude": 13.7,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730116,
+            "name": "Ondřejov",
+            "alt_names": [],
+            "latitude": 49.90461,
+            "longitude": 14.7842,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730117,
+            "name": "Pavlíkov",
+            "alt_names": [],
+            "latitude": 50.05599,
+            "longitude": 13.73636,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730118,
+            "name": "Pchery",
+            "alt_names": [],
+            "latitude": 50.19378,
+            "longitude": 14.11782,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730119,
+            "name": "Pečky",
+            "alt_names": [],
+            "latitude": 50.09043,
+            "longitude": 15.03017,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730120,
+            "name": "Petrovice",
+            "alt_names": [],
+            "latitude": 49.55426,
+            "longitude": 14.33737,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730121,
+            "name": "Plaňany",
+            "alt_names": [],
+            "latitude": 50.0501,
+            "longitude": 15.02944,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730122,
+            "name": "Poděbrady",
+            "alt_names": [],
+            "latitude": 50.14242,
+            "longitude": 15.11881,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730123,
+            "name": "Poříčany",
+            "alt_names": [],
+            "latitude": 50.10806,
+            "longitude": 14.91818,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730124,
+            "name": "Poříčí nad Sázavou",
+            "alt_names": [],
+            "latitude": 49.83895,
+            "longitude": 14.67446,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730125,
+            "name": "Postupice",
+            "alt_names": [],
+            "latitude": 49.72798,
+            "longitude": 14.77722,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730126,
+            "name": "Přerov nad Labem",
+            "alt_names": [],
+            "latitude": 50.16027,
+            "longitude": 14.82502,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730127,
+            "name": "Příbram",
+            "alt_names": [],
+            "latitude": 49.68988,
+            "longitude": 14.01043,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730128,
+            "name": "Průhonice",
+            "alt_names": [],
+            "latitude": 49.99962,
+            "longitude": 14.55017,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730129,
+            "name": "Psáry",
+            "alt_names": [],
+            "latitude": 49.93622,
+            "longitude": 14.51276,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730130,
+            "name": "Pyšely",
+            "alt_names": [],
+            "latitude": 49.87678,
+            "longitude": 14.67713,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730131,
+            "name": "Rakovník",
+            "alt_names": [],
+            "latitude": 50.1037,
+            "longitude": 13.7334,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730132,
+            "name": "Řevnice",
+            "alt_names": [],
+            "latitude": 49.91395,
+            "longitude": 14.23589,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730133,
+            "name": "Řevničov",
+            "alt_names": [],
+            "latitude": 50.18489,
+            "longitude": 13.80823,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730134,
+            "name": "Řež",
+            "alt_names": [],
+            "latitude": 50.17734,
+            "longitude": 14.35733,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730135,
+            "name": "Říčany",
+            "alt_names": [],
+            "latitude": 49.99168,
+            "longitude": 14.65427,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730136,
+            "name": "Rožďalovice",
+            "alt_names": [],
+            "latitude": 50.30476,
+            "longitude": 15.16962,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730137,
+            "name": "Rožmitál pod Třemšínem",
+            "alt_names": [],
+            "latitude": 49.60196,
+            "longitude": 13.8643,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730138,
+            "name": "Roztoky",
+            "alt_names": [],
+            "latitude": 50.15841,
+            "longitude": 14.3976,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730139,
+            "name": "Rudná",
+            "alt_names": [],
+            "latitude": 50.03502,
+            "longitude": 14.23435,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730140,
+            "name": "Sadská",
+            "alt_names": [],
+            "latitude": 50.13596,
+            "longitude": 14.98633,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730141,
+            "name": "Sázava",
+            "alt_names": [],
+            "latitude": 49.87164,
+            "longitude": 14.89674,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730142,
+            "name": "Sedlčany",
+            "alt_names": [],
+            "latitude": 49.66057,
+            "longitude": 14.42664,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730143,
+            "name": "Sedlec",
+            "alt_names": [],
+            "latitude": 49.96391,
+            "longitude": 15.28846,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730144,
+            "name": "Šestajovice",
+            "alt_names": [],
+            "latitude": 50.10845,
+            "longitude": 14.68013,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730145,
+            "name": "Slaný",
+            "alt_names": [],
+            "latitude": 50.23046,
+            "longitude": 14.08693,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730146,
+            "name": "Smečno",
+            "alt_names": [],
+            "latitude": 50.18844,
+            "longitude": 14.04037,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730147,
+            "name": "Stará Huť",
+            "alt_names": [],
+            "latitude": 49.78225,
+            "longitude": 14.19735,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730148,
+            "name": "Starý Kolín",
+            "alt_names": [],
+            "latitude": 50.00977,
+            "longitude": 15.29388,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730149,
+            "name": "Štěchovice",
+            "alt_names": [],
+            "latitude": 49.85109,
+            "longitude": 14.40543,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730150,
+            "name": "Stochov",
+            "alt_names": [],
+            "latitude": 50.14631,
+            "longitude": 13.96345,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730151,
+            "name": "Strančice",
+            "alt_names": [],
+            "latitude": 49.94811,
+            "longitude": 14.67745,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730152,
+            "name": "Suchdol",
+            "alt_names": [],
+            "latitude": 49.95247,
+            "longitude": 15.16651,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730153,
+            "name": "Tišice",
+            "alt_names": [],
+            "latitude": 50.2698,
+            "longitude": 14.55411,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730154,
+            "name": "Třebotov",
+            "alt_names": [],
+            "latitude": 49.97244,
+            "longitude": 14.29127,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730155,
+            "name": "Trhový Štěpánov",
+            "alt_names": [],
+            "latitude": 49.71147,
+            "longitude": 15.01356,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730156,
+            "name": "Tuchlovice",
+            "alt_names": [],
+            "latitude": 50.13803,
+            "longitude": 13.99115,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730157,
+            "name": "Tuchoměřice",
+            "alt_names": [],
+            "latitude": 50.13543,
+            "longitude": 14.28218,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730158,
+            "name": "Týnec nad Labem",
+            "alt_names": [],
+            "latitude": 50.04202,
+            "longitude": 15.35836,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730159,
+            "name": "Týnec nad Sázavou",
+            "alt_names": [],
+            "latitude": 49.83348,
+            "longitude": 14.58983,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730160,
+            "name": "Uhlířské Janovice",
+            "alt_names": [],
+            "latitude": 49.88019,
+            "longitude": 15.06481,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730161,
+            "name": "Unhošť",
+            "alt_names": [],
+            "latitude": 50.08535,
+            "longitude": 14.13007,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730162,
+            "name": "Úvaly",
+            "alt_names": [],
+            "latitude": 50.07394,
+            "longitude": 14.7308,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730163,
+            "name": "Velim",
+            "alt_names": [],
+            "latitude": 50.05965,
+            "longitude": 15.10711,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730164,
+            "name": "Velká Dobrá",
+            "alt_names": [],
+            "latitude": 50.10964,
+            "longitude": 14.0698,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730165,
+            "name": "Velké Popovice",
+            "alt_names": [],
+            "latitude": 49.92252,
+            "longitude": 14.63934,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730166,
+            "name": "Velké Přílepy",
+            "alt_names": [],
+            "latitude": 50.1605,
+            "longitude": 14.31447,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730167,
+            "name": "Velký Osek",
+            "alt_names": [],
+            "latitude": 50.09867,
+            "longitude": 15.18629,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730168,
+            "name": "Veltruby",
+            "alt_names": [],
+            "latitude": 50.07059,
+            "longitude": 15.18454,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730169,
+            "name": "Veltrusy",
+            "alt_names": [],
+            "latitude": 50.27046,
+            "longitude": 14.32857,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730170,
+            "name": "Velvary",
+            "alt_names": [],
+            "latitude": 50.28152,
+            "longitude": 14.23616,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730171,
+            "name": "Vestec",
+            "alt_names": [],
+            "latitude": 49.9805,
+            "longitude": 14.50487,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730172,
+            "name": "Vinařice",
+            "alt_names": [],
+            "latitude": 50.17585,
+            "longitude": 14.09106,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730173,
+            "name": "Vlašim",
+            "alt_names": [],
+            "latitude": 49.70632,
+            "longitude": 14.89881,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730174,
+            "name": "Votice",
+            "alt_names": [],
+            "latitude": 49.64013,
+            "longitude": 14.63809,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730175,
+            "name": "Vrané nad Vltavou",
+            "alt_names": [],
+            "latitude": 49.93585,
+            "longitude": 14.37706,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730176,
+            "name": "Vrdy",
+            "alt_names": [],
+            "latitude": 49.92153,
+            "longitude": 15.47243,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730177,
+            "name": "Všenory",
+            "alt_names": [],
+            "latitude": 49.92883,
+            "longitude": 14.30392,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730178,
+            "name": "Všetaty",
+            "alt_names": [],
+            "latitude": 50.28187,
+            "longitude": 14.59297,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730179,
+            "name": "Zaječov",
+            "alt_names": [],
+            "latitude": 49.77435,
+            "longitude": 13.84072,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730180,
+            "name": "Zásmuky",
+            "alt_names": [],
+            "latitude": 49.9547,
+            "longitude": 15.03058,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730181,
+            "name": "Zbraslavice",
+            "alt_names": [],
+            "latitude": 49.81179,
+            "longitude": 15.18319,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730182,
+            "name": "Žďár",
+            "alt_names": [],
+            "latitude": 50.54366,
+            "longitude": 15.08034,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730183,
+            "name": "Zdiby",
+            "alt_names": [],
+            "latitude": 50.16799,
+            "longitude": 14.45118,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730184,
+            "name": "Zdice",
+            "alt_names": [],
+            "latitude": 49.91207,
+            "longitude": 13.97747,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730185,
+            "name": "Žebrák",
+            "alt_names": [],
+            "latitude": 49.87574,
+            "longitude": 13.89735,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730186,
+            "name": "Zeleneč",
+            "alt_names": [],
+            "latitude": 50.13362,
+            "longitude": 14.6607,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730187,
+            "name": "Žiželice",
+            "alt_names": [],
+            "latitude": 50.13192,
+            "longitude": 15.3932,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730188,
+            "name": "Žleby",
+            "alt_names": [],
+            "latitude": 49.88958,
+            "longitude": 15.48853,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730189,
+            "name": "Zlonice",
+            "alt_names": [],
+            "latitude": 50.2875,
+            "longitude": 14.09214,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730190,
+            "name": "Zruč nad Sázavou",
+            "alt_names": [],
+            "latitude": 49.7401,
+            "longitude": 15.10606,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 580730191,
+            "name": "Zvole",
+            "alt_names": [],
+            "latitude": 49.93466,
+            "longitude": 14.41769,
+            "timezone": {
+                "zoneName": "Europe/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

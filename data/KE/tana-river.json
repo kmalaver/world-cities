@@ -1,0 +1,39 @@
+{
+    "id": 113040,
+    "name": "Tana River",
+    "alt_names": [],
+    "state_code": "40",
+    "latitude": -1.6518468,
+    "longitude": 39.6518165,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130400001,
+            "name": "Hola",
+            "alt_names": [],
+            "latitude": -1.48256,
+            "longitude": 40.03341,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130400002,
+            "name": "Kipini",
+            "alt_names": [],
+            "latitude": -2.52565,
+            "longitude": 40.5262,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

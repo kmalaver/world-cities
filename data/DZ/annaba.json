@@ -1,0 +1,67 @@
+{
+    "id": 4005,
+    "name": "Annaba",
+    "alt_names": [],
+    "state_code": "23",
+    "latitude": 36.8020508,
+    "longitude": 7.5247243,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40050001,
+            "name": "Annaba",
+            "alt_names": [],
+            "latitude": 36.9,
+            "longitude": 7.76667,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40050002,
+            "name": "Berrahal",
+            "alt_names": [],
+            "latitude": 36.83528,
+            "longitude": 7.45333,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40050003,
+            "name": "Drean",
+            "alt_names": [],
+            "latitude": 36.68482,
+            "longitude": 7.75111,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40050004,
+            "name": "El Hadjar",
+            "alt_names": [],
+            "latitude": 36.80377,
+            "longitude": 7.73684,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

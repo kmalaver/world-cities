@@ -1,0 +1,39 @@
+{
+    "id": 16067,
+    "name": "Tartar",
+    "alt_names": [],
+    "state_code": "TAR",
+    "latitude": 40.3443875,
+    "longitude": 46.9376519,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160670001,
+            "name": "Martakert",
+            "alt_names": [],
+            "latitude": 40.21127,
+            "longitude": 46.82135,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160670002,
+            "name": "Terter",
+            "alt_names": [],
+            "latitude": 40.34201,
+            "longitude": 46.93161,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

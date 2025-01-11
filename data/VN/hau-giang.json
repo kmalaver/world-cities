@@ -1,0 +1,39 @@
+{
+    "id": 243028,
+    "name": "Hậu Giang",
+    "alt_names": [],
+    "state_code": "73",
+    "latitude": 9.757898,
+    "longitude": 105.6412527,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2430280001,
+            "name": "Huyện Châu Thành A",
+            "alt_names": [],
+            "latitude": 9.93056,
+            "longitude": 105.64194,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430280002,
+            "name": "Vị Thanh",
+            "alt_names": [],
+            "latitude": 9.78449,
+            "longitude": 105.47012,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

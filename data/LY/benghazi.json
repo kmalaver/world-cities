@@ -1,0 +1,39 @@
+{
+    "id": 123002,
+    "name": "Benghazi",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 32.1194242,
+    "longitude": 20.0867909,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230020001,
+            "name": "Benghazi",
+            "alt_names": [],
+            "latitude": 32.11486,
+            "longitude": 20.06859,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230020002,
+            "name": "Qaryat Sulūq",
+            "alt_names": [],
+            "latitude": 31.66818,
+            "longitude": 20.25205,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

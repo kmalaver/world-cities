@@ -1,0 +1,53 @@
+{
+    "id": 198003,
+    "name": "North West",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 1.418,
+    "longitude": 103.8275,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1980030001,
+            "name": "Sembawang",
+            "alt_names": [],
+            "latitude": 1.4491,
+            "longitude": 103.8201,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980030002,
+            "name": "Woodlands",
+            "alt_names": [],
+            "latitude": 1.43801,
+            "longitude": 103.78877,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980030003,
+            "name": "Yishun",
+            "alt_names": [],
+            "latitude": 1.4293,
+            "longitude": 103.8355,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        }
+    ]
+}

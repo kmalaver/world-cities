@@ -1,0 +1,53 @@
+{
+    "id": 203006,
+    "name": "Galguduud",
+    "alt_names": [],
+    "state_code": "GA",
+    "latitude": 5.1850128,
+    "longitude": 46.8252838,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030060001,
+            "name": "Ceelbuur",
+            "alt_names": [],
+            "latitude": 4.68501,
+            "longitude": 46.6176,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030060002,
+            "name": "Ceeldheer",
+            "alt_names": [],
+            "latitude": 3.84878,
+            "longitude": 47.18064,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030060003,
+            "name": "Dhuusamarreeb",
+            "alt_names": [],
+            "latitude": 5.53597,
+            "longitude": 46.38666,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

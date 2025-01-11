@@ -1,0 +1,53 @@
+{
+    "id": 63029,
+    "name": "Santiago Rodríguez",
+    "alt_names": [],
+    "state_code": "26",
+    "latitude": 19.4713181,
+    "longitude": -71.3395801,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630290001,
+            "name": "Monción",
+            "alt_names": [],
+            "latitude": 19.46667,
+            "longitude": -71.16667,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630290002,
+            "name": "Sabaneta",
+            "alt_names": [],
+            "latitude": 19.47793,
+            "longitude": -71.34125,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630290003,
+            "name": "San Ignacio de Sabaneta",
+            "alt_names": [],
+            "latitude": 19.38333,
+            "longitude": -71.35,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

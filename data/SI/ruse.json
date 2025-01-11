@@ -1,0 +1,39 @@
+{
+    "id": 201148,
+    "name": "Ruše",
+    "alt_names": [],
+    "state_code": "108",
+    "latitude": 46.5206265,
+    "longitude": 15.4817869,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011480001,
+            "name": "Bistrica ob Dravi",
+            "alt_names": [],
+            "latitude": 46.55419,
+            "longitude": 15.54855,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011480002,
+            "name": "Ruše",
+            "alt_names": [],
+            "latitude": 46.53944,
+            "longitude": 15.51583,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

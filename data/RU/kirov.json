@@ -1,0 +1,723 @@
+{
+    "id": 181031,
+    "name": "Kirov",
+    "alt_names": [],
+    "state_code": "KIR",
+    "latitude": 58.4198529,
+    "longitude": 50.2097248,
+    "type": "administrative region",
+    "cities": [
+        {
+            "id": 1810310001,
+            "name": "Afanas’yevskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.83333,
+            "longitude": 53.25,
+            "timezone": null
+        },
+        {
+            "id": 1810310002,
+            "name": "Arbazh",
+            "alt_names": [],
+            "latitude": 57.68041,
+            "longitude": 48.30647,
+            "timezone": null
+        },
+        {
+            "id": 1810310003,
+            "name": "Arkul’",
+            "alt_names": [],
+            "latitude": 57.28085,
+            "longitude": 50.044,
+            "timezone": null
+        },
+        {
+            "id": 1810310004,
+            "name": "Belaya Kholunitsa",
+            "alt_names": [],
+            "latitude": 58.84,
+            "longitude": 50.85278,
+            "timezone": null
+        },
+        {
+            "id": 1810310005,
+            "name": "Belorechensk",
+            "alt_names": [],
+            "latitude": 58.77251,
+            "longitude": 52.29357,
+            "timezone": null
+        },
+        {
+            "id": 1810310006,
+            "name": "Bogorodskoye",
+            "alt_names": [],
+            "latitude": 57.82849,
+            "longitude": 50.74856,
+            "timezone": null
+        },
+        {
+            "id": 1810310007,
+            "name": "Chërnaya Kholunitsa",
+            "alt_names": [],
+            "latitude": 58.85115,
+            "longitude": 51.71545,
+            "timezone": null
+        },
+        {
+            "id": 1810310008,
+            "name": "Darovskoy",
+            "alt_names": [],
+            "latitude": 58.76999,
+            "longitude": 47.95642,
+            "timezone": null
+        },
+        {
+            "id": 1810310009,
+            "name": "Dem’yanovo",
+            "alt_names": [],
+            "latitude": 60.35111,
+            "longitude": 47.08417,
+            "timezone": null
+        },
+        {
+            "id": 1810310010,
+            "name": "Dubrovka",
+            "alt_names": [],
+            "latitude": 59.22866,
+            "longitude": 51.15578,
+            "timezone": null
+        },
+        {
+            "id": 1810310011,
+            "name": "Falënki",
+            "alt_names": [],
+            "latitude": 58.36127,
+            "longitude": 51.59461,
+            "timezone": null
+        },
+        {
+            "id": 1810310012,
+            "name": "Falënskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.33333,
+            "longitude": 51.58333,
+            "timezone": null
+        },
+        {
+            "id": 1810310013,
+            "name": "Kiknur",
+            "alt_names": [],
+            "latitude": 57.30341,
+            "longitude": 47.20105,
+            "timezone": null
+        },
+        {
+            "id": 1810310014,
+            "name": "Kiknurskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.33333,
+            "longitude": 47.16667,
+            "timezone": null
+        },
+        {
+            "id": 1810310015,
+            "name": "Kil’mez’",
+            "alt_names": [],
+            "latitude": 56.94389,
+            "longitude": 51.065,
+            "timezone": null
+        },
+        {
+            "id": 1810310016,
+            "name": "Kirov",
+            "alt_names": [],
+            "latitude": 58.59665,
+            "longitude": 49.66007,
+            "timezone": null
+        },
+        {
+            "id": 1810310017,
+            "name": "Kirovo-Chepetsk",
+            "alt_names": [],
+            "latitude": 58.55386,
+            "longitude": 50.03986,
+            "timezone": null
+        },
+        {
+            "id": 1810310018,
+            "name": "Kirovo-Chepetskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.5,
+            "longitude": 50,
+            "timezone": null
+        },
+        {
+            "id": 1810310019,
+            "name": "Kirs",
+            "alt_names": [],
+            "latitude": 59.33882,
+            "longitude": 52.24467,
+            "timezone": null
+        },
+        {
+            "id": 1810310020,
+            "name": "Kosino",
+            "alt_names": [],
+            "latitude": 58.41272,
+            "longitude": 51.27819,
+            "timezone": null
+        },
+        {
+            "id": 1810310021,
+            "name": "Kostino",
+            "alt_names": [],
+            "latitude": 58.90966,
+            "longitude": 53.26907,
+            "timezone": null
+        },
+        {
+            "id": 1810310022,
+            "name": "Kotel’nich",
+            "alt_names": [],
+            "latitude": 58.3089,
+            "longitude": 48.348,
+            "timezone": null
+        },
+        {
+            "id": 1810310023,
+            "name": "Krasnaya Polyana",
+            "alt_names": [],
+            "latitude": 56.24204,
+            "longitude": 51.14425,
+            "timezone": null
+        },
+        {
+            "id": 1810310024,
+            "name": "Kumëny",
+            "alt_names": [],
+            "latitude": 58.10887,
+            "longitude": 49.91614,
+            "timezone": null
+        },
+        {
+            "id": 1810310025,
+            "name": "Lal’sk",
+            "alt_names": [],
+            "latitude": 60.74146,
+            "longitude": 47.58617,
+            "timezone": null
+        },
+        {
+            "id": 1810310026,
+            "name": "Leninskoye",
+            "alt_names": [],
+            "latitude": 58.31637,
+            "longitude": 47.08856,
+            "timezone": null
+        },
+        {
+            "id": 1810310027,
+            "name": "Lesnoy",
+            "alt_names": [],
+            "latitude": 59.781,
+            "longitude": 52.12838,
+            "timezone": null
+        },
+        {
+            "id": 1810310028,
+            "name": "Lesnyye Polyany",
+            "alt_names": [],
+            "latitude": 59.00314,
+            "longitude": 52.41802,
+            "timezone": null
+        },
+        {
+            "id": 1810310029,
+            "name": "Luza",
+            "alt_names": [],
+            "latitude": 60.63081,
+            "longitude": 47.25118,
+            "timezone": null
+        },
+        {
+            "id": 1810310030,
+            "name": "Luzskiy Rayon",
+            "alt_names": [],
+            "latitude": 60.58333,
+            "longitude": 47.25,
+            "timezone": null
+        },
+        {
+            "id": 1810310031,
+            "name": "Lyangasovo",
+            "alt_names": [],
+            "latitude": 58.51759,
+            "longitude": 49.44718,
+            "timezone": null
+        },
+        {
+            "id": 1810310032,
+            "name": "Malmyzh",
+            "alt_names": [],
+            "latitude": 56.5205,
+            "longitude": 50.6818,
+            "timezone": null
+        },
+        {
+            "id": 1810310033,
+            "name": "Malmyzhskiy Rayon",
+            "alt_names": [],
+            "latitude": 56.58333,
+            "longitude": 50.91667,
+            "timezone": null
+        },
+        {
+            "id": 1810310034,
+            "name": "Maromitsa",
+            "alt_names": [],
+            "latitude": 59.86828,
+            "longitude": 48.01227,
+            "timezone": null
+        },
+        {
+            "id": 1810310035,
+            "name": "Medvedok",
+            "alt_names": [],
+            "latitude": 57.38913,
+            "longitude": 50.0351,
+            "timezone": null
+        },
+        {
+            "id": 1810310036,
+            "name": "Mirnyy",
+            "alt_names": [],
+            "latitude": 58.49333,
+            "longitude": 47.65389,
+            "timezone": null
+        },
+        {
+            "id": 1810310037,
+            "name": "Murashi",
+            "alt_names": [],
+            "latitude": 59.3999,
+            "longitude": 48.9615,
+            "timezone": null
+        },
+        {
+            "id": 1810310038,
+            "name": "Murashinskiy Rayon",
+            "alt_names": [],
+            "latitude": 59.33333,
+            "longitude": 48.75,
+            "timezone": null
+        },
+        {
+            "id": 1810310039,
+            "name": "Murygino",
+            "alt_names": [],
+            "latitude": 58.73831,
+            "longitude": 49.45822,
+            "timezone": null
+        },
+        {
+            "id": 1810310040,
+            "name": "Nagorsk",
+            "alt_names": [],
+            "latitude": 59.31722,
+            "longitude": 50.80778,
+            "timezone": null
+        },
+        {
+            "id": 1810310041,
+            "name": "Nagorskiy Rayon",
+            "alt_names": [],
+            "latitude": 59.5,
+            "longitude": 50.83333,
+            "timezone": null
+        },
+        {
+            "id": 1810310042,
+            "name": "Nema",
+            "alt_names": [],
+            "latitude": 57.50675,
+            "longitude": 50.50115,
+            "timezone": null
+        },
+        {
+            "id": 1810310043,
+            "name": "Nemskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.5,
+            "longitude": 50.66667,
+            "timezone": null
+        },
+        {
+            "id": 1810310044,
+            "name": "Nizhneivkino",
+            "alt_names": [],
+            "latitude": 58.19398,
+            "longitude": 49.52137,
+            "timezone": null
+        },
+        {
+            "id": 1810310045,
+            "name": "Nolinsk",
+            "alt_names": [],
+            "latitude": 57.55962,
+            "longitude": 49.93629,
+            "timezone": null
+        },
+        {
+            "id": 1810310046,
+            "name": "Nolinskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.58333,
+            "longitude": 49.91667,
+            "timezone": null
+        },
+        {
+            "id": 1810310047,
+            "name": "Omutninsk",
+            "alt_names": [],
+            "latitude": 58.67001,
+            "longitude": 52.1932,
+            "timezone": null
+        },
+        {
+            "id": 1810310048,
+            "name": "Oparino",
+            "alt_names": [],
+            "latitude": 59.85179,
+            "longitude": 48.27826,
+            "timezone": null
+        },
+        {
+            "id": 1810310049,
+            "name": "Orichevskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.25,
+            "longitude": 48.75,
+            "timezone": null
+        },
+        {
+            "id": 1810310050,
+            "name": "Orichi",
+            "alt_names": [],
+            "latitude": 58.40356,
+            "longitude": 49.05719,
+            "timezone": null
+        },
+        {
+            "id": 1810310051,
+            "name": "Orlov",
+            "alt_names": [],
+            "latitude": 58.53946,
+            "longitude": 48.89173,
+            "timezone": null
+        },
+        {
+            "id": 1810310052,
+            "name": "Orlovskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.66306,
+            "longitude": 48.74222,
+            "timezone": null
+        },
+        {
+            "id": 1810310053,
+            "name": "Pasegovo",
+            "alt_names": [],
+            "latitude": 58.50602,
+            "longitude": 49.51383,
+            "timezone": null
+        },
+        {
+            "id": 1810310054,
+            "name": "Peskovka",
+            "alt_names": [],
+            "latitude": 59.04478,
+            "longitude": 52.36057,
+            "timezone": null
+        },
+        {
+            "id": 1810310055,
+            "name": "Pinyug",
+            "alt_names": [],
+            "latitude": 60.25095,
+            "longitude": 47.78425,
+            "timezone": null
+        },
+        {
+            "id": 1810310056,
+            "name": "Pizhanka",
+            "alt_names": [],
+            "latitude": 57.46042,
+            "longitude": 48.542,
+            "timezone": null
+        },
+        {
+            "id": 1810310057,
+            "name": "Pizhanskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.41667,
+            "longitude": 48.5,
+            "timezone": null
+        },
+        {
+            "id": 1810310058,
+            "name": "Podosinovets",
+            "alt_names": [],
+            "latitude": 60.27758,
+            "longitude": 47.06587,
+            "timezone": null
+        },
+        {
+            "id": 1810310059,
+            "name": "Podosinovskiy Rayon",
+            "alt_names": [],
+            "latitude": 60.16667,
+            "longitude": 47.33333,
+            "timezone": null
+        },
+        {
+            "id": 1810310060,
+            "name": "Raduzhnyy",
+            "alt_names": [],
+            "latitude": 58.49899,
+            "longitude": 49.64347,
+            "timezone": null
+        },
+        {
+            "id": 1810310061,
+            "name": "Rudnichnyy",
+            "alt_names": [],
+            "latitude": 59.61702,
+            "longitude": 52.47033,
+            "timezone": null
+        },
+        {
+            "id": 1810310062,
+            "name": "Sanchursk",
+            "alt_names": [],
+            "latitude": 56.94125,
+            "longitude": 47.24987,
+            "timezone": null
+        },
+        {
+            "id": 1810310063,
+            "name": "Sanchurskiy Rayon",
+            "alt_names": [],
+            "latitude": 57,
+            "longitude": 47.33333,
+            "timezone": null
+        },
+        {
+            "id": 1810310064,
+            "name": "Shabalinskiy Rayon",
+            "alt_names": [],
+            "latitude": 58.33333,
+            "longitude": 46.91667,
+            "timezone": null
+        },
+        {
+            "id": 1810310065,
+            "name": "Slobodskoy",
+            "alt_names": [],
+            "latitude": 58.73222,
+            "longitude": 50.17722,
+            "timezone": null
+        },
+        {
+            "id": 1810310066,
+            "name": "Slobodskoy Rayon",
+            "alt_names": [],
+            "latitude": 58.75,
+            "longitude": 50.25,
+            "timezone": null
+        },
+        {
+            "id": 1810310067,
+            "name": "Sosnovka",
+            "alt_names": [],
+            "latitude": 56.25496,
+            "longitude": 51.28419,
+            "timezone": null
+        },
+        {
+            "id": 1810310068,
+            "name": "Sovetsk",
+            "alt_names": [],
+            "latitude": 57.58475,
+            "longitude": 48.95844,
+            "timezone": null
+        },
+        {
+            "id": 1810310069,
+            "name": "Sovetskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.58333,
+            "longitude": 49,
+            "timezone": null
+        },
+        {
+            "id": 1810310070,
+            "name": "Sozimskiy",
+            "alt_names": [],
+            "latitude": 59.74178,
+            "longitude": 52.24821,
+            "timezone": null
+        },
+        {
+            "id": 1810310071,
+            "name": "Strizhi",
+            "alt_names": [],
+            "latitude": 58.45758,
+            "longitude": 49.28667,
+            "timezone": null
+        },
+        {
+            "id": 1810310072,
+            "name": "Stulovo",
+            "alt_names": [],
+            "latitude": 58.7225,
+            "longitude": 50.14389,
+            "timezone": null
+        },
+        {
+            "id": 1810310073,
+            "name": "Suna",
+            "alt_names": [],
+            "latitude": 57.83379,
+            "longitude": 50.05884,
+            "timezone": null
+        },
+        {
+            "id": 1810310074,
+            "name": "Sunskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.83333,
+            "longitude": 50,
+            "timezone": null
+        },
+        {
+            "id": 1810310075,
+            "name": "Svecha",
+            "alt_names": [],
+            "latitude": 58.27849,
+            "longitude": 47.51636,
+            "timezone": null
+        },
+        {
+            "id": 1810310076,
+            "name": "Svetlopolyansk",
+            "alt_names": [],
+            "latitude": 59.41836,
+            "longitude": 52.36045,
+            "timezone": null
+        },
+        {
+            "id": 1810310077,
+            "name": "Torfyanoy",
+            "alt_names": [],
+            "latitude": 58.4916,
+            "longitude": 49.19786,
+            "timezone": null
+        },
+        {
+            "id": 1810310078,
+            "name": "Tuzha",
+            "alt_names": [],
+            "latitude": 57.60615,
+            "longitude": 47.93597,
+            "timezone": null
+        },
+        {
+            "id": 1810310079,
+            "name": "Uni",
+            "alt_names": [],
+            "latitude": 57.751,
+            "longitude": 51.4913,
+            "timezone": null
+        },
+        {
+            "id": 1810310080,
+            "name": "Uninskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.66667,
+            "longitude": 51.5,
+            "timezone": null
+        },
+        {
+            "id": 1810310081,
+            "name": "Urzhum",
+            "alt_names": [],
+            "latitude": 57.11412,
+            "longitude": 49.99956,
+            "timezone": null
+        },
+        {
+            "id": 1810310082,
+            "name": "Vakhrushi",
+            "alt_names": [],
+            "latitude": 58.68472,
+            "longitude": 50.02611,
+            "timezone": null
+        },
+        {
+            "id": 1810310083,
+            "name": "Verkhoshizhem’ye",
+            "alt_names": [],
+            "latitude": 58.01097,
+            "longitude": 49.10384,
+            "timezone": null
+        },
+        {
+            "id": 1810310084,
+            "name": "Vostochnyy",
+            "alt_names": [],
+            "latitude": 58.78811,
+            "longitude": 52.24513,
+            "timezone": null
+        },
+        {
+            "id": 1810310085,
+            "name": "Vyatskiye Polyany",
+            "alt_names": [],
+            "latitude": 56.22602,
+            "longitude": 51.06557,
+            "timezone": null
+        },
+        {
+            "id": 1810310086,
+            "name": "Yaransk",
+            "alt_names": [],
+            "latitude": 57.30331,
+            "longitude": 47.88611,
+            "timezone": null
+        },
+        {
+            "id": 1810310087,
+            "name": "Yaranskiy Rayon",
+            "alt_names": [],
+            "latitude": 57.16667,
+            "longitude": 48,
+            "timezone": null
+        },
+        {
+            "id": 1810310088,
+            "name": "Yur’yanskiy Rayon",
+            "alt_names": [],
+            "latitude": 59,
+            "longitude": 49.25,
+            "timezone": null
+        },
+        {
+            "id": 1810310089,
+            "name": "Zuyevka",
+            "alt_names": [],
+            "latitude": 58.40503,
+            "longitude": 51.13355,
+            "timezone": null
+        }
+    ]
+}

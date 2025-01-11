@@ -1,0 +1,627 @@
+{
+    "id": 185012,
+    "name": "Vieux Fort",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 13.720608,
+    "longitude": -60.9496433,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1850120001,
+            "name": "Augier",
+            "alt_names": [],
+            "latitude": 13.76669,
+            "longitude": -60.98063,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120002,
+            "name": "Beane Field",
+            "alt_names": [],
+            "latitude": 13.73976,
+            "longitude": -60.94741,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120003,
+            "name": "Beausejour",
+            "alt_names": [],
+            "latitude": 13.75229,
+            "longitude": -60.95519,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120004,
+            "name": "Belle Vue",
+            "alt_names": [],
+            "latitude": 13.79218,
+            "longitude": -60.95379,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120005,
+            "name": "Black Bay",
+            "alt_names": [],
+            "latitude": 13.7433,
+            "longitude": -60.98272,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120006,
+            "name": "Bruceville/Shanty Town",
+            "alt_names": [],
+            "latitude": 13.72558,
+            "longitude": -60.94907,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120007,
+            "name": "Cacoa",
+            "alt_names": [],
+            "latitude": 13.77889,
+            "longitude": -60.93862,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120008,
+            "name": "Cantonement",
+            "alt_names": [],
+            "latitude": 13.75665,
+            "longitude": -60.97662,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120009,
+            "name": "Carierre",
+            "alt_names": [],
+            "latitude": 13.78514,
+            "longitude": -60.96721,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120010,
+            "name": "Catin",
+            "alt_names": [],
+            "latitude": 13.77694,
+            "longitude": -60.97973,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120011,
+            "name": "Cocoa Dan",
+            "alt_names": [],
+            "latitude": 13.73087,
+            "longitude": -60.97195,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120012,
+            "name": "Coolie Town",
+            "alt_names": [],
+            "latitude": 13.76911,
+            "longitude": -60.9668,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120013,
+            "name": "De Mailly",
+            "alt_names": [],
+            "latitude": 13.79649,
+            "longitude": -60.94938,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120014,
+            "name": "Derierre Bois",
+            "alt_names": [],
+            "latitude": 13.76807,
+            "longitude": -60.97725,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120015,
+            "name": "Derierre Morne",
+            "alt_names": [],
+            "latitude": 13.74126,
+            "longitude": -60.96057,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120016,
+            "name": "Docamel/La Resource",
+            "alt_names": [],
+            "latitude": 13.74202,
+            "longitude": -60.95604,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120017,
+            "name": "Eau Piquant/St Urbain",
+            "alt_names": [],
+            "latitude": 13.76025,
+            "longitude": -60.94012,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120018,
+            "name": "En Bamboo",
+            "alt_names": [],
+            "latitude": 13.78155,
+            "longitude": -60.94763,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120019,
+            "name": "Esperance",
+            "alt_names": [],
+            "latitude": 13.78854,
+            "longitude": -60.96108,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120020,
+            "name": "Fond Capeche",
+            "alt_names": [],
+            "latitude": 13.77449,
+            "longitude": -60.94835,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120021,
+            "name": "Fond Sabot",
+            "alt_names": [],
+            "latitude": 13.77659,
+            "longitude": -60.95546,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120022,
+            "name": "Grace",
+            "alt_names": [],
+            "latitude": 13.77678,
+            "longitude": -60.96637,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120023,
+            "name": "Hewanorra Orchard",
+            "alt_names": [],
+            "latitude": 13.74486,
+            "longitude": -60.97284,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120024,
+            "name": "Hope Estate",
+            "alt_names": [],
+            "latitude": 13.76477,
+            "longitude": -60.95831,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120025,
+            "name": "Industrial Estate",
+            "alt_names": [],
+            "latitude": 13.74096,
+            "longitude": -60.97393,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120026,
+            "name": "Joyeux",
+            "alt_names": [],
+            "latitude": 13.78313,
+            "longitude": -60.96068,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120027,
+            "name": "La Resource",
+            "alt_names": [],
+            "latitude": 13.74799,
+            "longitude": -60.96237,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120028,
+            "name": "La Retraite",
+            "alt_names": [],
+            "latitude": 13.75944,
+            "longitude": -60.96632,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120029,
+            "name": "La Tourney/Cedar Heights",
+            "alt_names": [],
+            "latitude": 13.74114,
+            "longitude": -60.96517,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120030,
+            "name": "Maganier",
+            "alt_names": [],
+            "latitude": 13.7945,
+            "longitude": -60.98513,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120031,
+            "name": "Morne Cayenne",
+            "alt_names": [],
+            "latitude": 13.78349,
+            "longitude": -60.95506,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120032,
+            "name": "Morne Vert",
+            "alt_names": [],
+            "latitude": 13.77899,
+            "longitude": -60.97617,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120033,
+            "name": "Moule A Chique",
+            "alt_names": [],
+            "latitude": 13.71458,
+            "longitude": -60.94835,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120034,
+            "name": "Obrier",
+            "alt_names": [],
+            "latitude": 13.76831,
+            "longitude": -60.97313,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120035,
+            "name": "Pierrot",
+            "alt_names": [],
+            "latitude": 13.76857,
+            "longitude": -60.94381,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120036,
+            "name": "Plut",
+            "alt_names": [],
+            "latitude": 13.77417,
+            "longitude": -60.96076,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120037,
+            "name": "Pomme",
+            "alt_names": [],
+            "latitude": 13.75792,
+            "longitude": -60.98147,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120038,
+            "name": "St Jude'S Highway",
+            "alt_names": [],
+            "latitude": 13.75867,
+            "longitude": -60.9736,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120039,
+            "name": "Tete Morne/Morne Andrew",
+            "alt_names": [],
+            "latitude": 13.77114,
+            "longitude": -60.95194,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120040,
+            "name": "Town",
+            "alt_names": [],
+            "latitude": 13.72835,
+            "longitude": -60.95408,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120041,
+            "name": "Vieux Fort",
+            "alt_names": [],
+            "latitude": 13.71667,
+            "longitude": -60.95,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120042,
+            "name": "Vieux Fort/Laborie Highway",
+            "alt_names": [],
+            "latitude": 13.73197,
+            "longitude": -60.95477,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120043,
+            "name": "Vige'",
+            "alt_names": [],
+            "latitude": 13.78692,
+            "longitude": -60.9355,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1850120044,
+            "name": "Westall Group/The Mangue",
+            "alt_names": [],
+            "latitude": 13.72707,
+            "longitude": -60.95312,
+            "timezone": {
+                "zoneName": "America/St_Lucia",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

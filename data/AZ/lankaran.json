@@ -1,0 +1,39 @@
+{
+    "id": 16036,
+    "name": "Lankaran",
+    "alt_names": [],
+    "state_code": "LA",
+    "latitude": 38.7528669,
+    "longitude": 48.8475015,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160360001,
+            "name": "Haftoni",
+            "alt_names": [],
+            "latitude": 38.76325,
+            "longitude": 48.76223,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160360002,
+            "name": "Lankaran",
+            "alt_names": [],
+            "latitude": 38.75428,
+            "longitude": 48.85062,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

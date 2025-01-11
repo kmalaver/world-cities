@@ -1,0 +1,39 @@
+{
+    "id": 50003,
+    "name": "Cuvette",
+    "alt_names": [],
+    "state_code": "8",
+    "latitude": -0.2877446,
+    "longitude": 16.1580937,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500030001,
+            "name": "Makoua",
+            "alt_names": [],
+            "latitude": 0.00694,
+            "longitude": 15.63333,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500030002,
+            "name": "Owando",
+            "alt_names": [],
+            "latitude": -0.48193,
+            "longitude": 15.89988,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

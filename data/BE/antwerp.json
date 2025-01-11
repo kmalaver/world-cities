@@ -1,0 +1,25 @@
+{
+    "id": 21001,
+    "name": "Antwerp",
+    "alt_names": [],
+    "state_code": "VAN",
+    "latitude": 51.2194475,
+    "longitude": 4.4024643,
+    "type": "province",
+    "cities": [
+        {
+            "id": 210010001,
+            "name": "Antwerp",
+            "alt_names": [],
+            "latitude": 51.2194475,
+            "longitude": 4.4024643,
+            "timezone": {
+                "zoneName": "Europe/Brussels",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

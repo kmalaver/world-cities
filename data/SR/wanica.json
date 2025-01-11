@@ -1,0 +1,25 @@
+{
+    "id": 211010,
+    "name": "Wanica",
+    "alt_names": [],
+    "state_code": "WA",
+    "latitude": 5.7323762,
+    "longitude": -55.2701235,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2110100001,
+            "name": "Lelydorp",
+            "alt_names": [],
+            "latitude": 5.7,
+            "longitude": -55.23333,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        }
+    ]
+}

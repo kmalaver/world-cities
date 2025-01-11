@@ -1,0 +1,39 @@
+{
+    "id": 137002,
+    "name": "Assaba",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 16.7759558,
+    "longitude": -11.5248055,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370020001,
+            "name": "Barkéwol",
+            "alt_names": [],
+            "latitude": 16.64039,
+            "longitude": -12.49849,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370020002,
+            "name": "Kiffa",
+            "alt_names": [],
+            "latitude": 16.62073,
+            "longitude": -11.40208,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

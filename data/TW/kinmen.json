@@ -1,0 +1,39 @@
+{
+    "id": 216009,
+    "name": "Kinmen",
+    "alt_names": [],
+    "state_code": "KIN",
+    "latitude": 24.3487792,
+    "longitude": 118.3285644,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160090001,
+            "name": "Jincheng",
+            "alt_names": [],
+            "latitude": 24.43415,
+            "longitude": 118.31712,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160090002,
+            "name": "Kinmen County",
+            "alt_names": [],
+            "latitude": 24.45333,
+            "longitude": 118.38861,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

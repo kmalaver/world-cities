@@ -1,0 +1,25 @@
+{
+    "id": 190010,
+    "name": "Va'a-o-Fonoti",
+    "alt_names": [],
+    "state_code": "VF",
+    "latitude": -13.9470903,
+    "longitude": -171.5431872,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1900100001,
+            "name": "Samamea",
+            "alt_names": [],
+            "latitude": -13.93375,
+            "longitude": -171.53122,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        }
+    ]
+}

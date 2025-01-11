@@ -1,0 +1,39 @@
+{
+    "id": 133059,
+    "name": "Victoria",
+    "alt_names": [],
+    "state_code": "45",
+    "latitude": 28.8052674,
+    "longitude": -97.0035982,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330590001,
+            "name": "Rabat",
+            "alt_names": [],
+            "latitude": 35.88152,
+            "longitude": 14.39872,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330590002,
+            "name": "Victoria",
+            "alt_names": [],
+            "latitude": 36.04444,
+            "longitude": 14.23972,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

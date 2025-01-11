@@ -1,0 +1,39 @@
+{
+    "id": 150012,
+    "name": "Oshikoto",
+    "alt_names": [],
+    "state_code": "OT",
+    "latitude": -18.4152575,
+    "longitude": 16.912251,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500120001,
+            "name": "Omuthiya",
+            "alt_names": [],
+            "latitude": -18.36463,
+            "longitude": 16.58146,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500120002,
+            "name": "Tsumeb",
+            "alt_names": [],
+            "latitude": -19.23333,
+            "longitude": 17.71667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

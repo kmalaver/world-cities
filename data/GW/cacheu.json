@@ -1,0 +1,39 @@
+{
+    "id": 93004,
+    "name": "Cacheu",
+    "alt_names": [],
+    "state_code": "CA",
+    "latitude": 12.0551416,
+    "longitude": -16.0640179,
+    "type": "region",
+    "cities": [
+        {
+            "id": 930040001,
+            "name": "Cacheu",
+            "alt_names": [],
+            "latitude": 12.27444,
+            "longitude": -16.16528,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 930040002,
+            "name": "Canchungo",
+            "alt_names": [],
+            "latitude": 12.06722,
+            "longitude": -16.03333,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

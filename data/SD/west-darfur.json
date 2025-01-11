@@ -1,0 +1,25 @@
+{
+    "id": 210016,
+    "name": "West Darfur",
+    "alt_names": [],
+    "state_code": "DW",
+    "latitude": 12.8463561,
+    "longitude": 23.0011989,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100160001,
+            "name": "Geneina",
+            "alt_names": [],
+            "latitude": 13.45262,
+            "longitude": 22.44725,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

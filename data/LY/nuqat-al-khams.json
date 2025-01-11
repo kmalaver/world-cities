@@ -1,0 +1,53 @@
+{
+    "id": 123015,
+    "name": "Nuqat al Khams",
+    "alt_names": [],
+    "state_code": "NQ",
+    "latitude": 32.6914909,
+    "longitude": 11.8891721,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230150001,
+            "name": "Al Ajaylat",
+            "alt_names": [],
+            "latitude": 32.75718,
+            "longitude": 12.37633,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230150002,
+            "name": "Zalţan",
+            "alt_names": [],
+            "latitude": 32.94699,
+            "longitude": 11.86668,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230150003,
+            "name": "Zuwārah",
+            "alt_names": [],
+            "latitude": 32.9312,
+            "longitude": 12.08199,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

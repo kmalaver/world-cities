@@ -1,0 +1,53 @@
+{
+    "id": 1021,
+    "name": "Logar",
+    "alt_names": [],
+    "state_code": "LOG",
+    "latitude": 34.0145518,
+    "longitude": 69.1923916,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10210001,
+            "name": "Baraki Barak",
+            "alt_names": [],
+            "latitude": 33.96744,
+            "longitude": 68.9492,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10210002,
+            "name": "Ḩukūmatī Azrah",
+            "alt_names": [],
+            "latitude": 34.17355,
+            "longitude": 69.64573,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10210003,
+            "name": "Pul-e ‘Alam",
+            "alt_names": [],
+            "latitude": 33.99529,
+            "longitude": 69.02274,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

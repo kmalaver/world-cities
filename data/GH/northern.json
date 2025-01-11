@@ -1,0 +1,81 @@
+{
+    "id": 83009,
+    "name": "Northern",
+    "alt_names": [],
+    "state_code": "NP",
+    "latitude": 9.5,
+    "longitude": -1,
+    "type": "region",
+    "cities": [
+        {
+            "id": 830090001,
+            "name": "Kpandae",
+            "alt_names": [],
+            "latitude": 8.46885,
+            "longitude": -0.01127,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830090002,
+            "name": "Salaga",
+            "alt_names": [],
+            "latitude": 8.55083,
+            "longitude": -0.51875,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830090003,
+            "name": "Savelugu",
+            "alt_names": [],
+            "latitude": 9.62441,
+            "longitude": -0.8253,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830090004,
+            "name": "Tamale",
+            "alt_names": [],
+            "latitude": 9.40079,
+            "longitude": -0.8393,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 830090005,
+            "name": "Yendi",
+            "alt_names": [],
+            "latitude": 9.44272,
+            "longitude": -0.00991,
+            "timezone": {
+                "zoneName": "Africa/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

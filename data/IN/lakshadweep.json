@@ -1,0 +1,39 @@
+{
+    "id": 101019,
+    "name": "Lakshadweep",
+    "alt_names": [],
+    "state_code": "LD",
+    "latitude": 10.3280265,
+    "longitude": 72.7846336,
+    "type": "union territory",
+    "cities": [
+        {
+            "id": 1010190001,
+            "name": "Kavaratti",
+            "alt_names": [],
+            "latitude": 10.56688,
+            "longitude": 72.64203,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 1010190002,
+            "name": "Lakshadweep",
+            "alt_names": [],
+            "latitude": 11.27333,
+            "longitude": 74.04582,
+            "timezone": {
+                "zoneName": "Asia/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

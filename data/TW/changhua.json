@@ -1,0 +1,39 @@
+{
+    "id": 216001,
+    "name": "Changhua",
+    "alt_names": [],
+    "state_code": "CHA",
+    "latitude": 24.0517963,
+    "longitude": 120.5161352,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160010001,
+            "name": "Changhua",
+            "alt_names": [],
+            "latitude": 23.95361,
+            "longitude": 120.49083,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160010002,
+            "name": "Yuanlin",
+            "alt_names": [],
+            "latitude": 23.95671,
+            "longitude": 120.57608,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

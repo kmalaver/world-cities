@@ -1,0 +1,39 @@
+{
+    "id": 123020,
+    "name": "Wadi al Shatii",
+    "alt_names": [],
+    "state_code": "WS",
+    "latitude": 27.7351468,
+    "longitude": 12.4380581,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230200001,
+            "name": "Brak",
+            "alt_names": [],
+            "latitude": 27.54956,
+            "longitude": 14.27139,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230200002,
+            "name": "Idrī",
+            "alt_names": [],
+            "latitude": 27.44707,
+            "longitude": 13.05173,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 43002,
+    "name": "Batha",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 13.9371775,
+    "longitude": 18.4276047,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430020001,
+            "name": "Ati",
+            "alt_names": [],
+            "latitude": 13.2154,
+            "longitude": 18.3353,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430020002,
+            "name": "Oum Hadjer",
+            "alt_names": [],
+            "latitude": 13.2954,
+            "longitude": 19.6966,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

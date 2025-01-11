@@ -1,0 +1,53 @@
+{
+    "id": 63030,
+    "name": "Santo Domingo",
+    "alt_names": [],
+    "state_code": "32",
+    "latitude": 18.5104253,
+    "longitude": -69.8404054,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630300001,
+            "name": "Boca Chica",
+            "alt_names": [],
+            "latitude": 18.45,
+            "longitude": -69.6,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630300002,
+            "name": "Santo Domingo Este",
+            "alt_names": [],
+            "latitude": 18.48847,
+            "longitude": -69.85707,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630300003,
+            "name": "Santo Domingo Oeste",
+            "alt_names": [],
+            "latitude": 18.5,
+            "longitude": -70,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

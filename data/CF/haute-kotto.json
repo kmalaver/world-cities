@@ -1,0 +1,39 @@
+{
+    "id": 42005,
+    "name": "Haute-Kotto",
+    "alt_names": [],
+    "state_code": "HK",
+    "latitude": 7.7964379,
+    "longitude": 23.3823545,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420050001,
+            "name": "Bria",
+            "alt_names": [],
+            "latitude": 6.54233,
+            "longitude": 21.98633,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420050002,
+            "name": "Ouadda",
+            "alt_names": [],
+            "latitude": 8.07771,
+            "longitude": 22.40075,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

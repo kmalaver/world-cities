@@ -1,0 +1,39 @@
+{
+    "id": 25010,
+    "name": "Punakha ",
+    "alt_names": [],
+    "state_code": "23",
+    "latitude": 27.6903716,
+    "longitude": 89.8879304,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250100001,
+            "name": "Pajo",
+            "alt_names": [],
+            "latitude": 27.53333,
+            "longitude": 89.88333,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250100002,
+            "name": "Punākha",
+            "alt_names": [],
+            "latitude": 27.59137,
+            "longitude": 89.87743,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

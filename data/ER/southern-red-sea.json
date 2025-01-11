@@ -1,0 +1,39 @@
+{
+    "id": 68006,
+    "name": "Southern Red Sea",
+    "alt_names": [],
+    "state_code": "DK",
+    "latitude": 13.5137103,
+    "longitude": 41.7606472,
+    "type": "region",
+    "cities": [
+        {
+            "id": 680060001,
+            "name": "Assab",
+            "alt_names": [],
+            "latitude": 13.00917,
+            "longitude": 42.73944,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 680060002,
+            "name": "Edd",
+            "alt_names": [],
+            "latitude": 13.93088,
+            "longitude": 41.6938,
+            "timezone": {
+                "zoneName": "Africa/Asmara",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

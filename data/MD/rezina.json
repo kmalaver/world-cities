@@ -1,0 +1,39 @@
+{
+    "id": 142026,
+    "name": "Rezina",
+    "alt_names": [],
+    "state_code": "RE",
+    "latitude": 47.7180447,
+    "longitude": 28.8871024,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420260001,
+            "name": "Rezina",
+            "alt_names": [],
+            "latitude": 47.74928,
+            "longitude": 28.96583,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420260002,
+            "name": "Saharna",
+            "alt_names": [],
+            "latitude": 47.69107,
+            "longitude": 28.97458,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

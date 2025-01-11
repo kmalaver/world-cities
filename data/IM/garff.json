@@ -1,0 +1,53 @@
+{
+    "id": 134002,
+    "name": "Garff",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": 54.256872,
+    "longitude": -4.5547307,
+    "type": "sheadings",
+    "cities": [
+        {
+            "id": 1340020001,
+            "name": "Lonan",
+            "alt_names": [],
+            "latitude": 54.2210452,
+            "longitude": -4.5010306,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1340020002,
+            "name": "Maughold",
+            "alt_names": [],
+            "latitude": 54.2549454,
+            "longitude": -4.5122349,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1340020003,
+            "name": "Onchan",
+            "alt_names": [],
+            "latitude": 54.1981508,
+            "longitude": -4.5490898,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

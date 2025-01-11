@@ -1,0 +1,53 @@
+{
+    "id": 201017,
+    "name": "Celje",
+    "alt_names": [],
+    "state_code": "011",
+    "latitude": 46.2397495,
+    "longitude": 15.2677063,
+    "type": "urban municipality",
+    "cities": [
+        {
+            "id": 2010170001,
+            "name": "Celje",
+            "alt_names": [],
+            "latitude": 46.23092,
+            "longitude": 15.26044,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010170002,
+            "name": "Ljubečna",
+            "alt_names": [],
+            "latitude": 46.25567,
+            "longitude": 15.3243,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010170003,
+            "name": "Trnovlje pri Celju",
+            "alt_names": [],
+            "latitude": 46.25667,
+            "longitude": 15.29528,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

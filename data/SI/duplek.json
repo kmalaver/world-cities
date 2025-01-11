@@ -1,0 +1,39 @@
+{
+    "id": 201038,
+    "name": "Duplek",
+    "alt_names": [],
+    "state_code": "026",
+    "latitude": 46.5010016,
+    "longitude": 15.7546307,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010380001,
+            "name": "Spodnji Duplek",
+            "alt_names": [],
+            "latitude": 46.50306,
+            "longitude": 15.74528,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010380002,
+            "name": "Zgornji Duplek",
+            "alt_names": [],
+            "latitude": 46.51361,
+            "longitude": 15.72083,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

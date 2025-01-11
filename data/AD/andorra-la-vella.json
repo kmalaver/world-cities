@@ -1,0 +1,25 @@
+{
+    "id": 6001,
+    "name": "Andorra la Vella",
+    "alt_names": [],
+    "state_code": "07",
+    "latitude": 42.5063174,
+    "longitude": 1.5218355,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 60010001,
+            "name": "Andorra la Vella",
+            "alt_names": [],
+            "latitude": 42.50779,
+            "longitude": 1.52109,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

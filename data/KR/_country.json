@@ -1,0 +1,47 @@
+{
+    "id": 206,
+    "name": "South Korea",
+    "iso3": "KOR",
+    "iso2": "KR",
+    "numeric_code": "410",
+    "phonecode": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "currency_name": "Won",
+    "currency_symbol": "₩",
+    "tld": ".kr",
+    "native": "대한민국",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "translations": {
+        "de": "Südkorea",
+        "es": "Corea del Sur",
+        "fa": "کره شمالی",
+        "fr": "Corée du Sud",
+        "hr": "Južna Koreja",
+        "it": "Corea del Sud",
+        "ja": "大韓民国",
+        "ko": "대한민국",
+        "nl": "Zuid-Korea",
+        "pl": "Korea Południowa",
+        "pt": "Coreia do Sul",
+        "pt-BR": "Coreia do Sul",
+        "ru": "Южная Корея",
+        "tr": "Güney Kore",
+        "uk": "Південна Корея",
+        "zh-CN": "韩国"
+    },
+    "latitude": 37,
+    "longitude": 127.5,
+    "emoji": "🇰🇷",
+    "emojiU": "U+1F1F0 U+1F1F7",
+    "timezones": [
+        {
+            "zoneName": "Asia/Seoul",
+            "gmtOffset": 32400,
+            "gmtOffsetName": "UTC+09:00",
+            "abbreviation": "KST",
+            "tzName": "Korea Standard Time"
+        }
+    ]
+}

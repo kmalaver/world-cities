@@ -1,0 +1,39 @@
+{
+    "id": 216017,
+    "name": "Tainan",
+    "alt_names": [],
+    "state_code": "TNN",
+    "latitude": 22.9997281,
+    "longitude": 120.2270277,
+    "type": "special municipality",
+    "cities": [
+        {
+            "id": 2160170001,
+            "name": "Tainan",
+            "alt_names": [],
+            "latitude": 22.99083,
+            "longitude": 120.21333,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160170002,
+            "name": "Yujing",
+            "alt_names": [],
+            "latitude": 23.12493,
+            "longitude": 120.46138,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

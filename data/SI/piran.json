@@ -1,0 +1,67 @@
+{
+    "id": 201121,
+    "name": "Piran",
+    "alt_names": [],
+    "state_code": "090",
+    "latitude": 45.5288856,
+    "longitude": 13.5680735,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011210001,
+            "name": "Lucija",
+            "alt_names": [],
+            "latitude": 45.50526,
+            "longitude": 13.6024,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011210002,
+            "name": "Piran",
+            "alt_names": [],
+            "latitude": 45.52778,
+            "longitude": 13.57056,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011210003,
+            "name": "Portorož",
+            "alt_names": [],
+            "latitude": 45.51429,
+            "longitude": 13.59206,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011210004,
+            "name": "Seča",
+            "alt_names": [],
+            "latitude": 45.49584,
+            "longitude": 13.61466,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

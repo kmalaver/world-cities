@@ -1,0 +1,53 @@
+{
+    "id": 162040,
+    "name": "Krivogaštani",
+    "alt_names": [],
+    "state_code": "45",
+    "latitude": 41.3082306,
+    "longitude": 21.3679689,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620400001,
+            "name": "Krivogashtani",
+            "alt_names": [],
+            "latitude": 41.33611,
+            "longitude": 21.33306,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620400002,
+            "name": "Obršani",
+            "alt_names": [],
+            "latitude": 41.28168,
+            "longitude": 21.3615,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620400003,
+            "name": "Клечовце",
+            "alt_names": [],
+            "latitude": 42.11611,
+            "longitude": 21.85722,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

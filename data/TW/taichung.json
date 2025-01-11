@@ -1,0 +1,39 @@
+{
+    "id": 216016,
+    "name": "Taichung",
+    "alt_names": [],
+    "state_code": "TXG",
+    "latitude": 24.1477358,
+    "longitude": 120.6736482,
+    "type": "special municipality",
+    "cities": [
+        {
+            "id": 2160160001,
+            "name": "Taichung",
+            "alt_names": [],
+            "latitude": 24.1469,
+            "longitude": 120.6839,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160160002,
+            "name": "Taichung City",
+            "alt_names": [],
+            "latitude": 24.15472,
+            "longitude": 120.67297,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

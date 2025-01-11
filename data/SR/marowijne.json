@@ -1,0 +1,39 @@
+{
+    "id": 211004,
+    "name": "Marowijne",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 5.6268128,
+    "longitude": -54.2593118,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2110040001,
+            "name": "Albina",
+            "alt_names": [],
+            "latitude": 5.49788,
+            "longitude": -54.05522,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        },
+        {
+            "id": 2110040002,
+            "name": "Moengo",
+            "alt_names": [],
+            "latitude": 5.61411,
+            "longitude": -54.40121,
+            "timezone": {
+                "zoneName": "America/Paramaribo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "SRT",
+                "tzName": "Suriname Time"
+            }
+        }
+    ]
+}

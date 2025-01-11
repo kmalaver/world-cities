@@ -1,0 +1,53 @@
+{
+    "id": 43012,
+    "name": "Logone Oriental",
+    "alt_names": [],
+    "state_code": "LR",
+    "latitude": 8.3149949,
+    "longitude": 16.3463791,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430120001,
+            "name": "Bébédja",
+            "alt_names": [],
+            "latitude": 8.6761,
+            "longitude": 16.566,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430120002,
+            "name": "Béboto",
+            "alt_names": [],
+            "latitude": 8.26681,
+            "longitude": 16.93898,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430120003,
+            "name": "Doba",
+            "alt_names": [],
+            "latitude": 8.65,
+            "longitude": 16.85,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

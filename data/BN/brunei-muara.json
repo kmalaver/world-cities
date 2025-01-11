@@ -1,0 +1,81 @@
+{
+    "id": 33002,
+    "name": "Brunei-Muara",
+    "alt_names": [],
+    "state_code": "BM",
+    "latitude": 4.9311206,
+    "longitude": 114.9516869,
+    "type": "district",
+    "cities": [
+        {
+            "id": 330020001,
+            "name": "Bandar Seri Begawan",
+            "alt_names": [],
+            "latitude": 4.89035,
+            "longitude": 114.94006,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        },
+        {
+            "id": 330020002,
+            "name": "Berakas A",
+            "alt_names": [],
+            "latitude": 4.97032,
+            "longitude": 114.92989,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        },
+        {
+            "id": 330020003,
+            "name": "Kapok",
+            "alt_names": [],
+            "latitude": 5.02447,
+            "longitude": 115.04664,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        },
+        {
+            "id": 330020004,
+            "name": "Mentiri",
+            "alt_names": [],
+            "latitude": 4.97058,
+            "longitude": 115.02078,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        },
+        {
+            "id": 330020005,
+            "name": "Serasa",
+            "alt_names": [],
+            "latitude": 5.01718,
+            "longitude": 115.05841,
+            "timezone": {
+                "zoneName": "Asia/Brunei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "BNT",
+                "tzName": "Brunei Darussalam Time"
+            }
+        }
+    ]
+}

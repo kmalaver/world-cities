@@ -1,0 +1,39 @@
+{
+    "id": 50001,
+    "name": "Bouenza",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": -4.1128079,
+    "longitude": 13.7289167,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500010001,
+            "name": "Kayes",
+            "alt_names": [],
+            "latitude": -4.20493,
+            "longitude": 13.28608,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500010002,
+            "name": "Madingou",
+            "alt_names": [],
+            "latitude": -4.15361,
+            "longitude": 13.55,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

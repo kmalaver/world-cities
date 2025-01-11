@@ -1,0 +1,53 @@
+{
+    "id": 178005,
+    "name": "Al-Shahaniya",
+    "alt_names": [],
+    "state_code": "SH",
+    "latitude": 25.4106386,
+    "longitude": 51.1846025,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1780050001,
+            "name": "Al Jumaylīyah",
+            "alt_names": [],
+            "latitude": 25.61068,
+            "longitude": 51.09108,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1780050002,
+            "name": "Ash Shīḩānīyah",
+            "alt_names": [],
+            "latitude": 25.37088,
+            "longitude": 51.22264,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1780050003,
+            "name": "Dukhān",
+            "alt_names": [],
+            "latitude": 25.42485,
+            "longitude": 50.78227,
+            "timezone": {
+                "zoneName": "Asia/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

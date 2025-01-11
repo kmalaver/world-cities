@@ -1,0 +1,53 @@
+{
+    "id": 150010,
+    "name": "Omusati",
+    "alt_names": [],
+    "state_code": "OS",
+    "latitude": -18.4070294,
+    "longitude": 14.8454619,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500100001,
+            "name": "Okahao",
+            "alt_names": [],
+            "latitude": -17.88758,
+            "longitude": 15.06677,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500100002,
+            "name": "Ongandjera",
+            "alt_names": [],
+            "latitude": -17.88333,
+            "longitude": 15.06667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        },
+        {
+            "id": 1500100003,
+            "name": "Outapi",
+            "alt_names": [],
+            "latitude": -17.5,
+            "longitude": 14.98333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

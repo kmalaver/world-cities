@@ -1,0 +1,1985 @@
+{
+    "id": 85005,
+    "name": "Attica",
+    "alt_names": [],
+    "state_code": "I",
+    "latitude": 38.0457568,
+    "longitude": 23.8584737,
+    "type": "administrative region",
+    "cities": [
+        {
+            "id": 850050001,
+            "name": "Acharnés",
+            "alt_names": [],
+            "latitude": 38.08333,
+            "longitude": 23.73333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050002,
+            "name": "Aegina",
+            "alt_names": [],
+            "latitude": 37.74667,
+            "longitude": 23.4275,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050003,
+            "name": "Afidnés",
+            "alt_names": [],
+            "latitude": 38.20332,
+            "longitude": 23.83982,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050004,
+            "name": "Aghios Panteleímon",
+            "alt_names": [],
+            "latitude": 38.11643,
+            "longitude": 23.98182,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050005,
+            "name": "Agía Marína",
+            "alt_names": [],
+            "latitude": 37.82036,
+            "longitude": 23.84424,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050006,
+            "name": "Agía Paraskeví",
+            "alt_names": [],
+            "latitude": 38.01667,
+            "longitude": 23.83333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050007,
+            "name": "Agía Varvára",
+            "alt_names": [],
+            "latitude": 37.98938,
+            "longitude": 23.66011,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050008,
+            "name": "Ágioi Anárgyroi",
+            "alt_names": [],
+            "latitude": 38.03013,
+            "longitude": 23.72379,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050009,
+            "name": "Agios Dimitrios",
+            "alt_names": [],
+            "latitude": 37.93333,
+            "longitude": 23.73333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050010,
+            "name": "Agios Dimítrios Kropiás",
+            "alt_names": [],
+            "latitude": 37.80612,
+            "longitude": 23.85793,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050011,
+            "name": "Agios Ioannis Rentis",
+            "alt_names": [],
+            "latitude": 37.96491,
+            "longitude": 23.66511,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050012,
+            "name": "Ágios Stéfanos",
+            "alt_names": [],
+            "latitude": 38.14657,
+            "longitude": 23.85608,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050013,
+            "name": "Aiánteio",
+            "alt_names": [],
+            "latitude": 37.92135,
+            "longitude": 23.45877,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050014,
+            "name": "Aigáleo",
+            "alt_names": [],
+            "latitude": 37.98333,
+            "longitude": 23.68333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050015,
+            "name": "Álimos",
+            "alt_names": [],
+            "latitude": 37.91033,
+            "longitude": 23.72361,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050016,
+            "name": "Ampelákia",
+            "alt_names": [],
+            "latitude": 37.95055,
+            "longitude": 23.52803,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050017,
+            "name": "Anávyssos",
+            "alt_names": [],
+            "latitude": 37.73414,
+            "longitude": 23.94389,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050018,
+            "name": "Áno Liósia",
+            "alt_names": [],
+            "latitude": 38.08333,
+            "longitude": 23.7,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050019,
+            "name": "Anoixi",
+            "alt_names": [],
+            "latitude": 38.13267,
+            "longitude": 23.85874,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050020,
+            "name": "Anthoúsa",
+            "alt_names": [],
+            "latitude": 38.02544,
+            "longitude": 23.87617,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050021,
+            "name": "Argithéa",
+            "alt_names": [],
+            "latitude": 37.97506,
+            "longitude": 23.88556,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050022,
+            "name": "Argyroúpoli",
+            "alt_names": [],
+            "latitude": 37.90594,
+            "longitude": 23.75035,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050023,
+            "name": "Artémida",
+            "alt_names": [],
+            "latitude": 37.96727,
+            "longitude": 23.99684,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050024,
+            "name": "Asprópyrgos",
+            "alt_names": [],
+            "latitude": 38.06134,
+            "longitude": 23.58971,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050025,
+            "name": "Athens",
+            "alt_names": [],
+            "latitude": 37.98376,
+            "longitude": 23.72784,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050026,
+            "name": "Avlónas",
+            "alt_names": [],
+            "latitude": 38.25149,
+            "longitude": 23.69554,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050027,
+            "name": "Áyioi Apóstoloi",
+            "alt_names": [],
+            "latitude": 38.29169,
+            "longitude": 23.91011,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050028,
+            "name": "Chaïdári",
+            "alt_names": [],
+            "latitude": 38.01135,
+            "longitude": 23.66597,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050029,
+            "name": "Cholargós",
+            "alt_names": [],
+            "latitude": 38,
+            "longitude": 23.8,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050030,
+            "name": "Dhafní",
+            "alt_names": [],
+            "latitude": 37.95002,
+            "longitude": 23.73437,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050031,
+            "name": "Dhráfi",
+            "alt_names": [],
+            "latitude": 38.02375,
+            "longitude": 23.90788,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050032,
+            "name": "Dióni",
+            "alt_names": [],
+            "latitude": 38.02328,
+            "longitude": 23.93286,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050033,
+            "name": "Diónysos",
+            "alt_names": [],
+            "latitude": 38.10458,
+            "longitude": 23.87938,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050034,
+            "name": "Drapetsóna",
+            "alt_names": [],
+            "latitude": 37.94988,
+            "longitude": 23.62309,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050035,
+            "name": "Drosiá",
+            "alt_names": [],
+            "latitude": 38.11977,
+            "longitude": 23.86428,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050036,
+            "name": "Ekáli",
+            "alt_names": [],
+            "latitude": 38.11035,
+            "longitude": 23.83505,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050037,
+            "name": "Elefsína",
+            "alt_names": [],
+            "latitude": 38.04135,
+            "longitude": 23.54295,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050038,
+            "name": "Ellinikó",
+            "alt_names": [],
+            "latitude": 37.89013,
+            "longitude": 23.74406,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050039,
+            "name": "Erythrés",
+            "alt_names": [],
+            "latitude": 38.21741,
+            "longitude": 23.32234,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050040,
+            "name": "Filothéi",
+            "alt_names": [],
+            "latitude": 38.02524,
+            "longitude": 23.78257,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050041,
+            "name": "Fylí",
+            "alt_names": [],
+            "latitude": 38.10235,
+            "longitude": 23.66901,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050042,
+            "name": "Galatás",
+            "alt_names": [],
+            "latitude": 37.49618,
+            "longitude": 23.44886,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050043,
+            "name": "Galátsi",
+            "alt_names": [],
+            "latitude": 38.01667,
+            "longitude": 23.75,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050044,
+            "name": "Gérakas",
+            "alt_names": [],
+            "latitude": 38.02277,
+            "longitude": 23.8576,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050045,
+            "name": "Glyfáda",
+            "alt_names": [],
+            "latitude": 37.86289,
+            "longitude": 23.75802,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050046,
+            "name": "Grammatikó",
+            "alt_names": [],
+            "latitude": 38.20251,
+            "longitude": 23.96504,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050047,
+            "name": "Ílion",
+            "alt_names": [],
+            "latitude": 38.03333,
+            "longitude": 23.7,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050048,
+            "name": "Ilioúpoli",
+            "alt_names": [],
+            "latitude": 37.93149,
+            "longitude": 23.76779,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050049,
+            "name": "Irákleio",
+            "alt_names": [],
+            "latitude": 38.05282,
+            "longitude": 23.76523,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050050,
+            "name": "Kaisarianí",
+            "alt_names": [],
+            "latitude": 37.9634,
+            "longitude": 23.76523,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050051,
+            "name": "Kálamos",
+            "alt_names": [],
+            "latitude": 38.28447,
+            "longitude": 23.86308,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050052,
+            "name": "Kallithéa",
+            "alt_names": [],
+            "latitude": 37.95,
+            "longitude": 23.7,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050053,
+            "name": "Kalývia Thorikoú",
+            "alt_names": [],
+            "latitude": 37.83894,
+            "longitude": 23.92505,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050054,
+            "name": "Kamaterón",
+            "alt_names": [],
+            "latitude": 38.05586,
+            "longitude": 23.70515,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050055,
+            "name": "Kapandríti",
+            "alt_names": [],
+            "latitude": 38.21579,
+            "longitude": 23.87938,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050056,
+            "name": "Karellás",
+            "alt_names": [],
+            "latitude": 37.93445,
+            "longitude": 23.86484,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050057,
+            "name": "Káto Soúlion",
+            "alt_names": [],
+            "latitude": 38.16803,
+            "longitude": 24.01628,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050058,
+            "name": "Keratéa",
+            "alt_names": [],
+            "latitude": 37.80585,
+            "longitude": 23.9774,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050059,
+            "name": "Keratsíni",
+            "alt_names": [],
+            "latitude": 37.9625,
+            "longitude": 23.61972,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050060,
+            "name": "Khalándrion",
+            "alt_names": [],
+            "latitude": 38.02369,
+            "longitude": 23.80068,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050061,
+            "name": "Khalkoútsion",
+            "alt_names": [],
+            "latitude": 38.33263,
+            "longitude": 23.73188,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050062,
+            "name": "Kifisiá",
+            "alt_names": [],
+            "latitude": 38.07438,
+            "longitude": 23.81106,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050063,
+            "name": "Kinéta",
+            "alt_names": [],
+            "latitude": 37.96843,
+            "longitude": 23.21351,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050064,
+            "name": "Kipséli",
+            "alt_names": [],
+            "latitude": 38.00288,
+            "longitude": 23.73755,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050065,
+            "name": "Kítsi",
+            "alt_names": [],
+            "latitude": 37.85181,
+            "longitude": 23.84068,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050066,
+            "name": "Koropí",
+            "alt_names": [],
+            "latitude": 37.89886,
+            "longitude": 23.87181,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050067,
+            "name": "Korydallós",
+            "alt_names": [],
+            "latitude": 37.98468,
+            "longitude": 23.64711,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050068,
+            "name": "Kouvarás",
+            "alt_names": [],
+            "latitude": 37.82711,
+            "longitude": 23.96715,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050069,
+            "name": "Kryonéri",
+            "alt_names": [],
+            "latitude": 38.13712,
+            "longitude": 23.83055,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050070,
+            "name": "Kypséli",
+            "alt_names": [],
+            "latitude": 37.76021,
+            "longitude": 23.45448,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050071,
+            "name": "Kýthira",
+            "alt_names": [],
+            "latitude": 36.14955,
+            "longitude": 22.98979,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050072,
+            "name": "Lávrio",
+            "alt_names": [],
+            "latitude": 37.71445,
+            "longitude": 24.05647,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050073,
+            "name": "Leondárion",
+            "alt_names": [],
+            "latitude": 37.987,
+            "longitude": 23.85518,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050074,
+            "name": "Limín Mesoyaías",
+            "alt_names": [],
+            "latitude": 37.89108,
+            "longitude": 24.00307,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050075,
+            "name": "Lykóvrysi",
+            "alt_names": [],
+            "latitude": 38.06933,
+            "longitude": 23.78223,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050076,
+            "name": "Magoúla",
+            "alt_names": [],
+            "latitude": 38.07989,
+            "longitude": 23.52108,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050077,
+            "name": "Mándra",
+            "alt_names": [],
+            "latitude": 38.06667,
+            "longitude": 23.5,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050078,
+            "name": "Marathónas",
+            "alt_names": [],
+            "latitude": 38.15317,
+            "longitude": 23.96278,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050079,
+            "name": "Markópoulo",
+            "alt_names": [],
+            "latitude": 37.88333,
+            "longitude": 23.93333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050080,
+            "name": "Markópoulo Oropoú",
+            "alt_names": [],
+            "latitude": 38.2898,
+            "longitude": 23.82475,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050081,
+            "name": "Maroúsi",
+            "alt_names": [],
+            "latitude": 38.05,
+            "longitude": 23.8,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050082,
+            "name": "Megalochóri",
+            "alt_names": [],
+            "latitude": 37.71051,
+            "longitude": 23.34659,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050083,
+            "name": "Mégara",
+            "alt_names": [],
+            "latitude": 37.99471,
+            "longitude": 23.34324,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050084,
+            "name": "Melíssia",
+            "alt_names": [],
+            "latitude": 38.05,
+            "longitude": 23.83333,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050085,
+            "name": "Metamórfosi",
+            "alt_names": [],
+            "latitude": 38.06576,
+            "longitude": 23.76356,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050086,
+            "name": "Moskháton",
+            "alt_names": [],
+            "latitude": 37.94789,
+            "longitude": 23.6788,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050087,
+            "name": "Néa Chalkidóna",
+            "alt_names": [],
+            "latitude": 38.0271,
+            "longitude": 23.73051,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050088,
+            "name": "Néa Erythraía",
+            "alt_names": [],
+            "latitude": 38.0927,
+            "longitude": 23.82223,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050089,
+            "name": "Néa Filadélfeia",
+            "alt_names": [],
+            "latitude": 38.03491,
+            "longitude": 23.73811,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050090,
+            "name": "Néa Ionía",
+            "alt_names": [],
+            "latitude": 38.0357,
+            "longitude": 23.75733,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050091,
+            "name": "Néa Mákri",
+            "alt_names": [],
+            "latitude": 38.08733,
+            "longitude": 23.97642,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050092,
+            "name": "Néa Palátia",
+            "alt_names": [],
+            "latitude": 38.31942,
+            "longitude": 23.79649,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050093,
+            "name": "Néa Pentéli",
+            "alt_names": [],
+            "latitude": 38.06059,
+            "longitude": 23.85926,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050094,
+            "name": "Néa Péramos",
+            "alt_names": [],
+            "latitude": 38.00647,
+            "longitude": 23.42348,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050095,
+            "name": "Néa Smýrni",
+            "alt_names": [],
+            "latitude": 37.94504,
+            "longitude": 23.71416,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050096,
+            "name": "Néo Psychikó",
+            "alt_names": [],
+            "latitude": 38.00624,
+            "longitude": 23.78373,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050097,
+            "name": "Neos Voutzás",
+            "alt_names": [],
+            "latitude": 38.04312,
+            "longitude": 23.97749,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050098,
+            "name": "Níkaia",
+            "alt_names": [],
+            "latitude": 37.96667,
+            "longitude": 23.65,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050099,
+            "name": "Oropós",
+            "alt_names": [],
+            "latitude": 38.30326,
+            "longitude": 23.75549,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050100,
+            "name": "Paianía",
+            "alt_names": [],
+            "latitude": 37.95527,
+            "longitude": 23.85443,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050101,
+            "name": "Palaiá Fókaia",
+            "alt_names": [],
+            "latitude": 37.71998,
+            "longitude": 23.94792,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050102,
+            "name": "Palaió Fáliro",
+            "alt_names": [],
+            "latitude": 37.92812,
+            "longitude": 23.70105,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050103,
+            "name": "Pallíni",
+            "alt_names": [],
+            "latitude": 38.00514,
+            "longitude": 23.88302,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050104,
+            "name": "Papágou",
+            "alt_names": [],
+            "latitude": 37.98642,
+            "longitude": 23.79347,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050105,
+            "name": "Péfki",
+            "alt_names": [],
+            "latitude": 38.06019,
+            "longitude": 23.79264,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050106,
+            "name": "Pentéli",
+            "alt_names": [],
+            "latitude": 38.05,
+            "longitude": 23.86667,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050107,
+            "name": "Pérama",
+            "alt_names": [],
+            "latitude": 37.96775,
+            "longitude": 23.5721,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050108,
+            "name": "Peristéri",
+            "alt_names": [],
+            "latitude": 38.01539,
+            "longitude": 23.69187,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050109,
+            "name": "Petroúpolis",
+            "alt_names": [],
+            "latitude": 38.04187,
+            "longitude": 23.68494,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050110,
+            "name": "Pikérmi",
+            "alt_names": [],
+            "latitude": 38.00161,
+            "longitude": 23.94075,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050111,
+            "name": "Piraeus",
+            "alt_names": [],
+            "latitude": 37.94203,
+            "longitude": 23.64619,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050112,
+            "name": "Polydéndri",
+            "alt_names": [],
+            "latitude": 38.216,
+            "longitude": 23.86806,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050113,
+            "name": "Póros",
+            "alt_names": [],
+            "latitude": 37.49944,
+            "longitude": 23.45361,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050114,
+            "name": "Psychikó",
+            "alt_names": [],
+            "latitude": 38.01324,
+            "longitude": 23.77223,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050115,
+            "name": "Rafína",
+            "alt_names": [],
+            "latitude": 38.01812,
+            "longitude": 24.00599,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050116,
+            "name": "Rodópoli",
+            "alt_names": [],
+            "latitude": 38.11669,
+            "longitude": 23.87572,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050117,
+            "name": "Salamína",
+            "alt_names": [],
+            "latitude": 37.96427,
+            "longitude": 23.49649,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050118,
+            "name": "Saronída",
+            "alt_names": [],
+            "latitude": 37.74809,
+            "longitude": 23.91059,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050119,
+            "name": "Selínia",
+            "alt_names": [],
+            "latitude": 37.9332,
+            "longitude": 23.53147,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050120,
+            "name": "Skála Oropoú",
+            "alt_names": [],
+            "latitude": 38.31964,
+            "longitude": 23.78763,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050121,
+            "name": "Skarmagkás",
+            "alt_names": [],
+            "latitude": 38.01133,
+            "longitude": 23.60303,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050122,
+            "name": "Spáta",
+            "alt_names": [],
+            "latitude": 37.96163,
+            "longitude": 23.91514,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050123,
+            "name": "Spétses",
+            "alt_names": [],
+            "latitude": 37.26191,
+            "longitude": 23.15943,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050124,
+            "name": "Stamáta",
+            "alt_names": [],
+            "latitude": 38.12546,
+            "longitude": 23.88038,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050125,
+            "name": "Távros",
+            "alt_names": [],
+            "latitude": 37.97064,
+            "longitude": 23.69043,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050126,
+            "name": "Thrakomakedónes",
+            "alt_names": [],
+            "latitude": 38.12964,
+            "longitude": 23.75751,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050127,
+            "name": "Vári",
+            "alt_names": [],
+            "latitude": 37.8332,
+            "longitude": 23.80311,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050128,
+            "name": "Varnávas",
+            "alt_names": [],
+            "latitude": 38.22358,
+            "longitude": 23.92307,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050129,
+            "name": "Varybóbi",
+            "alt_names": [],
+            "latitude": 38.12723,
+            "longitude": 23.78729,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050130,
+            "name": "Vathý",
+            "alt_names": [],
+            "latitude": 37.7642,
+            "longitude": 23.48011,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050131,
+            "name": "Vília",
+            "alt_names": [],
+            "latitude": 38.16716,
+            "longitude": 23.33659,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050132,
+            "name": "Vlycháda",
+            "alt_names": [],
+            "latitude": 38.02734,
+            "longitude": 23.43663,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050133,
+            "name": "Voúla",
+            "alt_names": [],
+            "latitude": 37.84221,
+            "longitude": 23.77651,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050134,
+            "name": "Vouliagméni",
+            "alt_names": [],
+            "latitude": 37.81423,
+            "longitude": 23.77892,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050135,
+            "name": "Vraná",
+            "alt_names": [],
+            "latitude": 38.12497,
+            "longitude": 23.95198,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050136,
+            "name": "Vrilissia",
+            "alt_names": [],
+            "latitude": 38.03381,
+            "longitude": 23.82962,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050137,
+            "name": "Výronas",
+            "alt_names": [],
+            "latitude": 37.96105,
+            "longitude": 23.753,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050138,
+            "name": "Ýdra",
+            "alt_names": [],
+            "latitude": 37.34976,
+            "longitude": 23.4656,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050139,
+            "name": "Ymittos",
+            "alt_names": [],
+            "latitude": 37.95342,
+            "longitude": 23.74897,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050140,
+            "name": "Zefyri",
+            "alt_names": [],
+            "latitude": 38.06647,
+            "longitude": 23.71701,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 850050141,
+            "name": "Zográfos",
+            "alt_names": [],
+            "latitude": 37.97574,
+            "longitude": 23.76911,
+            "timezone": {
+                "zoneName": "Europe/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

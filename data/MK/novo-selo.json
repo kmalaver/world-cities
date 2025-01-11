@@ -1,0 +1,39 @@
+{
+    "id": 162051,
+    "name": "Novo Selo",
+    "alt_names": [],
+    "state_code": "56",
+    "latitude": 41.432558,
+    "longitude": 22.8820489,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620510001,
+            "name": "Novo Selo",
+            "alt_names": [],
+            "latitude": 41.41486,
+            "longitude": 22.88164,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620510002,
+            "name": "Sušica",
+            "alt_names": [],
+            "latitude": 41.43982,
+            "longitude": 22.83676,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

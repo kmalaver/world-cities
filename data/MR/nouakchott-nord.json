@@ -1,0 +1,53 @@
+{
+    "id": 137010,
+    "name": "Nouakchott-Nord",
+    "alt_names": [],
+    "state_code": "14",
+    "latitude": 18.1130205,
+    "longitude": -15.8994956,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370100001,
+            "name": "Dar-Naim",
+            "alt_names": [],
+            "latitude": 18.03333333,
+            "longitude": -15.96666667,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370100002,
+            "name": "Teyarett",
+            "alt_names": [],
+            "latitude": 18.1289572,
+            "longitude": -15.9377834,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370100003,
+            "name": "Toujouonine",
+            "alt_names": [],
+            "latitude": 18.07169,
+            "longitude": -15.90311,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

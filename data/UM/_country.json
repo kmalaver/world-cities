@@ -1,0 +1,54 @@
+{
+    "id": 237,
+    "name": "United States Minor Outlying Islands",
+    "iso3": "UMI",
+    "iso2": "UM",
+    "numeric_code": "581",
+    "phonecode": "1",
+    "capital": "",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".us",
+    "native": "United States Minor Outlying Islands",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "translations": {
+        "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+        "es": "Islas Ultramarinas Menores de Estados Unidos",
+        "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+        "fr": "Îles mineures éloignées des États-Unis",
+        "hr": "Mali udaljeni otoci SAD-a",
+        "it": "Isole minori esterne degli Stati Uniti d'America",
+        "ja": "合衆国領有小離島",
+        "ko": "미국령 군소 제도",
+        "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+        "pl": "Mniejsze Wyspy Zewnętrzne Stanów Zjednoczonych",
+        "pt": "Ilhas Menores Distantes dos Estados Unidos",
+        "pt-BR": "Ilhas Menores Distantes dos Estados Unidos",
+        "ru": "Малые отдаленные острова Соединенных Штатов",
+        "tr": "Abd Küçük Harici Adalari",
+        "uk": "Малі віддалені острови Сполучених Штатів",
+        "zh-CN": "美国本土外小岛屿"
+    },
+    "latitude": 0,
+    "longitude": 0,
+    "emoji": "🇺🇲",
+    "emojiU": "U+1F1FA U+1F1F2",
+    "timezones": [
+        {
+            "zoneName": "Pacific/Midway",
+            "gmtOffset": -39600,
+            "gmtOffsetName": "UTC-11:00",
+            "abbreviation": "SST",
+            "tzName": "Samoa Standard Time"
+        },
+        {
+            "zoneName": "Pacific/Wake",
+            "gmtOffset": 43200,
+            "gmtOffsetName": "UTC+12:00",
+            "abbreviation": "WAKT",
+            "tzName": "Wake Island Time"
+        }
+    ]
+}

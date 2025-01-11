@@ -1,0 +1,25 @@
+{
+    "id": 87001,
+    "name": "Carriacou",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": 12.4785888,
+    "longitude": -61.4493842,
+    "type": "dependency",
+    "cities": [
+        {
+            "id": 870010001,
+            "name": "Hillsborough",
+            "alt_names": [],
+            "latitude": 12.48292,
+            "longitude": -61.45597,
+            "timezone": {
+                "zoneName": "America/Grenada",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

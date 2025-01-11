@@ -1,0 +1,53 @@
+{
+    "id": 43013,
+    "name": "Mandoul",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 8.603091,
+    "longitude": 17.4795173,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430130001,
+            "name": "Goundi",
+            "alt_names": [],
+            "latitude": 9.36267,
+            "longitude": 17.36597,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430130002,
+            "name": "Koumra",
+            "alt_names": [],
+            "latitude": 8.91256,
+            "longitude": 17.55392,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430130003,
+            "name": "Moïssala",
+            "alt_names": [],
+            "latitude": 8.3404,
+            "longitude": 17.7663,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

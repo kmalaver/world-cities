@@ -1,0 +1,39 @@
+{
+    "id": 203015,
+    "name": "Sanaag",
+    "alt_names": [],
+    "state_code": "SA",
+    "latitude": 10.3938218,
+    "longitude": 47.7637565,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030150001,
+            "name": "Ceerigaabo",
+            "alt_names": [],
+            "latitude": 10.61616,
+            "longitude": 47.36795,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030150002,
+            "name": "Las Khorey",
+            "alt_names": [],
+            "latitude": 11.1595,
+            "longitude": 48.1967,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

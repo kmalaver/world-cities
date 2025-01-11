@@ -1,0 +1,53 @@
+{
+    "id": 171010,
+    "name": "Concepción",
+    "alt_names": [],
+    "state_code": "1",
+    "latitude": -23.4214264,
+    "longitude": -57.4344451,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1710100001,
+            "name": "Belén",
+            "alt_names": [],
+            "latitude": -23.46611,
+            "longitude": -57.26194,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710100002,
+            "name": "Concepción",
+            "alt_names": [],
+            "latitude": -23.39985,
+            "longitude": -57.43236,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710100003,
+            "name": "Horqueta",
+            "alt_names": [],
+            "latitude": -23.34278,
+            "longitude": -57.05972,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        }
+    ]
+}

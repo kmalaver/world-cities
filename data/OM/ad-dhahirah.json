@@ -1,0 +1,39 @@
+{
+    "id": 165002,
+    "name": "Ad Dhahirah",
+    "alt_names": [],
+    "state_code": "ZA",
+    "latitude": 23.2161674,
+    "longitude": 56.4907444,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1650020001,
+            "name": "‘Ibrī",
+            "alt_names": [],
+            "latitude": 23.22573,
+            "longitude": 56.51572,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        },
+        {
+            "id": 1650020002,
+            "name": "Yanqul",
+            "alt_names": [],
+            "latitude": 23.58645,
+            "longitude": 56.53969,
+            "timezone": {
+                "zoneName": "Asia/Muscat",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        }
+    ]
+}

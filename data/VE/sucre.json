@@ -1,0 +1,67 @@
+{
+    "id": 242020,
+    "name": "Sucre",
+    "alt_names": [],
+    "state_code": "R",
+    "latitude": -19.035345,
+    "longitude": -65.2592128,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2420200001,
+            "name": "Carúpano",
+            "alt_names": [],
+            "latitude": 10.66516,
+            "longitude": -63.25387,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420200002,
+            "name": "Cumaná",
+            "alt_names": [],
+            "latitude": 10.45397,
+            "longitude": -64.18256,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420200003,
+            "name": "Güiria",
+            "alt_names": [],
+            "latitude": 10.57721,
+            "longitude": -62.29841,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420200004,
+            "name": "Municipio Valdez",
+            "alt_names": [],
+            "latitude": 10.57945,
+            "longitude": -62.30029,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

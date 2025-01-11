@@ -1,0 +1,39 @@
+{
+    "id": 80003,
+    "name": "Moyen-Ogooué",
+    "alt_names": [],
+    "state_code": "3",
+    "latitude": -0.442784,
+    "longitude": 10.439656,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800030001,
+            "name": "Lambaréné",
+            "alt_names": [],
+            "latitude": -0.7001,
+            "longitude": 10.24055,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800030002,
+            "name": "Ndjolé",
+            "alt_names": [],
+            "latitude": -0.17827,
+            "longitude": 10.76488,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

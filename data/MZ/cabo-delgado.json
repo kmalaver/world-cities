@@ -1,0 +1,67 @@
+{
+    "id": 148001,
+    "name": "Cabo Delgado",
+    "alt_names": [],
+    "state_code": "P",
+    "latitude": -12.3335474,
+    "longitude": 39.3206241,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1480010001,
+            "name": "Chiure",
+            "alt_names": [],
+            "latitude": -13.46665,
+            "longitude": 39.70317,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480010002,
+            "name": "Mocímboa",
+            "alt_names": [],
+            "latitude": -11.31667,
+            "longitude": 40.35,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480010003,
+            "name": "Montepuez",
+            "alt_names": [],
+            "latitude": -13.12556,
+            "longitude": 38.99972,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480010004,
+            "name": "Pemba",
+            "alt_names": [],
+            "latitude": -12.97395,
+            "longitude": 40.51775,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

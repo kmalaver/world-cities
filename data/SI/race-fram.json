@@ -1,0 +1,53 @@
+{
+    "id": 201134,
+    "name": "Rače–Fram",
+    "alt_names": [],
+    "state_code": "098",
+    "latitude": 46.4542083,
+    "longitude": 15.6329467,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011340001,
+            "name": "Fram",
+            "alt_names": [],
+            "latitude": 46.456,
+            "longitude": 15.63007,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011340002,
+            "name": "Morje",
+            "alt_names": [],
+            "latitude": 46.44444,
+            "longitude": 15.62139,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011340003,
+            "name": "Rače",
+            "alt_names": [],
+            "latitude": 46.45194,
+            "longitude": 15.68139,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

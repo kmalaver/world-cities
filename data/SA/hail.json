@@ -1,0 +1,67 @@
+{
+    "id": 193007,
+    "name": "Ha'il",
+    "alt_names": [],
+    "state_code": "06",
+    "latitude": 27.7076143,
+    "longitude": 41.9196471,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1930070001,
+            "name": "Jubbah",
+            "alt_names": [],
+            "latitude": 28.0062,
+            "longitude": 40.9416,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930070002,
+            "name": "Mawqaq",
+            "alt_names": [],
+            "latitude": 27.38398,
+            "longitude": 41.17635,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930070003,
+            "name": "Qufar",
+            "alt_names": [],
+            "latitude": 27.41534,
+            "longitude": 41.61903,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930070004,
+            "name": "Simira",
+            "alt_names": [],
+            "latitude": 26.49418,
+            "longitude": 42.12494,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

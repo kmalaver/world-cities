@@ -1,0 +1,95 @@
+{
+    "id": 210010,
+    "name": "Northern",
+    "alt_names": [],
+    "state_code": "NO",
+    "latitude": 38.063817,
+    "longitude": -84.4628648,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100100001,
+            "name": "Ad Dabbah",
+            "alt_names": [],
+            "latitude": 18.05,
+            "longitude": 30.95,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100100002,
+            "name": "Argo",
+            "alt_names": [],
+            "latitude": 19.51667,
+            "longitude": 30.41667,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100100003,
+            "name": "Dongola",
+            "alt_names": [],
+            "latitude": 19.18163,
+            "longitude": 30.47689,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100100004,
+            "name": "Karmah an Nuzul",
+            "alt_names": [],
+            "latitude": 19.63333,
+            "longitude": 30.41667,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100100005,
+            "name": "Kuraymah",
+            "alt_names": [],
+            "latitude": 18.55,
+            "longitude": 31.85,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100100006,
+            "name": "Merowe",
+            "alt_names": [],
+            "latitude": 18.47036,
+            "longitude": 31.81126,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

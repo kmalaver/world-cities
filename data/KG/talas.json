@@ -1,0 +1,53 @@
+{
+    "id": 117009,
+    "name": "Talas",
+    "alt_names": [],
+    "state_code": "T",
+    "latitude": 42.2867339,
+    "longitude": 72.5204827,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1170090001,
+            "name": "Kara-Buurinskiy Rayon",
+            "alt_names": [],
+            "latitude": 42.5,
+            "longitude": 71.41667,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        },
+        {
+            "id": 1170090002,
+            "name": "Talas",
+            "alt_names": [],
+            "latitude": 42.52277,
+            "longitude": 72.24274,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        },
+        {
+            "id": 1170090003,
+            "name": "Talasskiy Rayon",
+            "alt_names": [],
+            "latitude": 42.18647,
+            "longitude": 72.69408,
+            "timezone": {
+                "zoneName": "Asia/Bishkek",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "KGT",
+                "tzName": "Kyrgyzstan Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 4049,
+    "name": "Tamanghasset",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 22.7902972,
+    "longitude": 5.5193268,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40490001,
+            "name": "I-n-Salah",
+            "alt_names": [],
+            "latitude": 27.19351,
+            "longitude": 2.46069,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40490002,
+            "name": "Tamanrasset",
+            "alt_names": [],
+            "latitude": 22.785,
+            "longitude": 5.52278,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

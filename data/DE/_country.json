@@ -1,0 +1,54 @@
+{
+    "id": 82,
+    "name": "Germany",
+    "iso3": "DEU",
+    "iso2": "DE",
+    "numeric_code": "276",
+    "phonecode": "49",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "currency_name": "Euro",
+    "currency_symbol": "€",
+    "tld": ".de",
+    "native": "Deutschland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "translations": {
+        "de": "Deutschland",
+        "es": "Alemania",
+        "fa": "آلمان",
+        "fr": "Allemagne",
+        "hr": "Njemačka",
+        "it": "Germania",
+        "ja": "ドイツ",
+        "ko": "독일",
+        "nl": "Duitsland",
+        "pl": "Niemcy",
+        "pt": "Alemanha",
+        "pt-BR": "Alemanha",
+        "ru": "Германия",
+        "tr": "Almanya",
+        "uk": "Німеччина",
+        "zh-CN": "德国"
+    },
+    "latitude": 51,
+    "longitude": 9,
+    "emoji": "🇩🇪",
+    "emojiU": "U+1F1E9 U+1F1EA",
+    "timezones": [
+        {
+            "zoneName": "Europe/Berlin",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        },
+        {
+            "zoneName": "Europe/Busingen",
+            "gmtOffset": 3600,
+            "gmtOffsetName": "UTC+01:00",
+            "abbreviation": "CET",
+            "tzName": "Central European Time"
+        }
+    ]
+}

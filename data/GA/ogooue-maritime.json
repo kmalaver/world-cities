@@ -1,0 +1,53 @@
+{
+    "id": 80008,
+    "name": "Ogooué-Maritime",
+    "alt_names": [],
+    "state_code": "8",
+    "latitude": -1.3465975,
+    "longitude": 9.7232673,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800080001,
+            "name": "Gamba",
+            "alt_names": [],
+            "latitude": -2.65,
+            "longitude": 10,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800080002,
+            "name": "Omboué",
+            "alt_names": [],
+            "latitude": -1.57464,
+            "longitude": 9.26184,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800080003,
+            "name": "Port-Gentil",
+            "alt_names": [],
+            "latitude": -0.71933,
+            "longitude": 8.78151,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

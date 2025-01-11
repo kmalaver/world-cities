@@ -1,0 +1,39 @@
+{
+    "id": 71004,
+    "name": "Benishangul-Gumuz",
+    "alt_names": [],
+    "state_code": "BE",
+    "latitude": 10.7802889,
+    "longitude": 35.5657862,
+    "type": "region",
+    "cities": [
+        {
+            "id": 710040001,
+            "name": "Asosa",
+            "alt_names": [],
+            "latitude": 10,
+            "longitude": 34.5,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710040002,
+            "name": "Metekel",
+            "alt_names": [],
+            "latitude": 10.42673,
+            "longitude": 35.71975,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

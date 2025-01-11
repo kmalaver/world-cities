@@ -1,0 +1,39 @@
+{
+    "id": 164006,
+    "name": "Oslo",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 59.9138688,
+    "longitude": 10.7522454,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1640060001,
+            "name": "Oslo",
+            "alt_names": [],
+            "latitude": 59.91273,
+            "longitude": 10.74609,
+            "timezone": {
+                "zoneName": "Europe/Oslo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1640060002,
+            "name": "Sjølyststranda",
+            "alt_names": [],
+            "latitude": 59.92105,
+            "longitude": 10.68017,
+            "timezone": {
+                "zoneName": "Europe/Oslo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

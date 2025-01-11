@@ -1,0 +1,39 @@
+{
+    "id": 16007,
+    "name": "Astara",
+    "alt_names": [],
+    "state_code": "AST",
+    "latitude": 38.4937845,
+    "longitude": 48.6944365,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160070001,
+            "name": "Astara",
+            "alt_names": [],
+            "latitude": 38.45598,
+            "longitude": 48.87498,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160070002,
+            "name": "Kizhaba",
+            "alt_names": [],
+            "latitude": 38.53461,
+            "longitude": 48.80546,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

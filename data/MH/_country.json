@@ -1,0 +1,54 @@
+{
+    "id": 135,
+    "name": "Marshall Islands",
+    "iso3": "MHL",
+    "iso2": "MH",
+    "numeric_code": "584",
+    "phonecode": "692",
+    "capital": "Majuro",
+    "currency": "USD",
+    "currency_name": "United States dollar",
+    "currency_symbol": "$",
+    "tld": ".mh",
+    "native": "M̧ajeļ",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "translations": {
+        "de": "Marshallinseln",
+        "es": "Islas Marshall",
+        "fa": "جزایر مارشال",
+        "fr": "Îles Marshall",
+        "hr": "Maršalovi Otoci",
+        "it": "Isole Marshall",
+        "ja": "マーシャル諸島",
+        "ko": "마셜 제도",
+        "nl": "Marshalleilanden",
+        "pl": "Wyspy Marshalla",
+        "pt": "Ilhas Marshall",
+        "pt-BR": "Ilhas Marshall",
+        "ru": "Маршалловы острова",
+        "tr": "Marşal Adalari",
+        "uk": "Маршаллові острови",
+        "zh-CN": "马绍尔群岛"
+    },
+    "latitude": 9,
+    "longitude": 168,
+    "emoji": "🇲🇭",
+    "emojiU": "U+1F1F2 U+1F1ED",
+    "timezones": [
+        {
+            "zoneName": "Pacific/Kwajalein",
+            "gmtOffset": 43200,
+            "gmtOffsetName": "UTC+12:00",
+            "abbreviation": "MHT",
+            "tzName": "Marshall Islands Time"
+        },
+        {
+            "zoneName": "Pacific/Majuro",
+            "gmtOffset": 43200,
+            "gmtOffsetName": "UTC+12:00",
+            "abbreviation": "MHT",
+            "tzName": "Marshall Islands Time"
+        }
+    ]
+}

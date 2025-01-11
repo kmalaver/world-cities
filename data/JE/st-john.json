@@ -1,0 +1,53 @@
+{
+    "id": 110005,
+    "name": "St John",
+    "alt_names": [],
+    "state_code": "05",
+    "latitude": 49.2391257,
+    "longitude": -2.1802684,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1100050001,
+            "name": "Vingtaine de Hérupe",
+            "alt_names": [],
+            "latitude": 49.2333012,
+            "longitude": -2.1235708,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100050002,
+            "name": "Vingtaine du Douet",
+            "alt_names": [],
+            "latitude": 49.2345962,
+            "longitude": -2.1722771,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100050003,
+            "name": "Vingtaine du Nord",
+            "alt_names": [],
+            "latitude": 49.2393878,
+            "longitude": -2.1206972,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

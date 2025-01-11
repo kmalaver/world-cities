@@ -1,0 +1,67 @@
+{
+    "id": 120008,
+    "name": "South",
+    "alt_names": [],
+    "state_code": "JA",
+    "latitude": 33.2721479,
+    "longitude": 35.2032778,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200080001,
+            "name": "En Nâqoûra",
+            "alt_names": [],
+            "latitude": 33.11806,
+            "longitude": 35.13972,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200080002,
+            "name": "Ghazieh",
+            "alt_names": [],
+            "latitude": 33.5175,
+            "longitude": 35.36889,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200080003,
+            "name": "Sidon",
+            "alt_names": [],
+            "latitude": 33.55751,
+            "longitude": 35.37148,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200080004,
+            "name": "Tyre",
+            "alt_names": [],
+            "latitude": 33.27333,
+            "longitude": 35.19389,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

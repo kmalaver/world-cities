@@ -1,0 +1,53 @@
+{
+    "id": 142018,
+    "name": "Florești",
+    "alt_names": [],
+    "state_code": "FL",
+    "latitude": 47.8667849,
+    "longitude": 28.3391864,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420180001,
+            "name": "Floreşti",
+            "alt_names": [],
+            "latitude": 47.89137,
+            "longitude": 28.29312,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420180002,
+            "name": "Ghindești",
+            "alt_names": [],
+            "latitude": 47.85482,
+            "longitude": 28.37679,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420180003,
+            "name": "Mărculeşti",
+            "alt_names": [],
+            "latitude": 47.86897,
+            "longitude": 28.24109,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

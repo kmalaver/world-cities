@@ -1,0 +1,39 @@
+{
+    "id": 120004,
+    "name": "Beqaa",
+    "alt_names": [],
+    "state_code": "BI",
+    "latitude": 33.8462662,
+    "longitude": 35.9019489,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200040001,
+            "name": "Aanjar",
+            "alt_names": [],
+            "latitude": 33.72778,
+            "longitude": 35.93111,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200040002,
+            "name": "Zahlé",
+            "alt_names": [],
+            "latitude": 33.84675,
+            "longitude": 35.90203,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 43018,
+    "name": "Ouaddaï",
+    "alt_names": [],
+    "state_code": "OD",
+    "latitude": 13.748476,
+    "longitude": 20.7122465,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430180001,
+            "name": "Abéché",
+            "alt_names": [],
+            "latitude": 13.82916,
+            "longitude": 20.8324,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430180002,
+            "name": "Adré",
+            "alt_names": [],
+            "latitude": 13.46648,
+            "longitude": 22.19875,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430180003,
+            "name": "Goz Béïda",
+            "alt_names": [],
+            "latitude": 13.94563,
+            "longitude": 20.5468,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

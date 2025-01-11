@@ -1,0 +1,39 @@
+{
+    "id": 231004,
+    "name": "Niutao Island Council",
+    "alt_names": [],
+    "state_code": "NIT",
+    "latitude": -6.1064258,
+    "longitude": 177.3438429,
+    "type": "island council",
+    "cities": [
+        {
+            "id": 2310040001,
+            "name": "Kulia Village",
+            "alt_names": [],
+            "latitude": -6.10819,
+            "longitude": 177.33393,
+            "timezone": {
+                "zoneName": "Pacific/Funafuti",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "TVT",
+                "tzName": "Tuvalu Time"
+            }
+        },
+        {
+            "id": 2310040002,
+            "name": "Niulakita",
+            "alt_names": [],
+            "latitude": -10.788,
+            "longitude": 179.466,
+            "timezone": {
+                "zoneName": "Pacific/Funafuti",
+                "gmtOffset": 43200,
+                "gmtOffsetName": "UTC+12:00",
+                "abbreviation": "TVT",
+                "tzName": "Tuvalu Time"
+            }
+        }
+    ]
+}

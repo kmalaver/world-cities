@@ -1,0 +1,39 @@
+{
+    "id": 98008,
+    "name": "Sai Kung",
+    "alt_names": [],
+    "state_code": "NSK",
+    "latitude": 22.38143,
+    "longitude": 114.27052,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980080001,
+            "name": "Sai Kung",
+            "alt_names": [],
+            "latitude": 22.384,
+            "longitude": 114.273,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980080002,
+            "name": "Tseung Kwan O",
+            "alt_names": [],
+            "latitude": 22.319,
+            "longitude": 114.263,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

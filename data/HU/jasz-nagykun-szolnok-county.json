@@ -1,0 +1,753 @@
+{
+    "id": 99018,
+    "name": "Jász-Nagykun-Szolnok County",
+    "alt_names": [],
+    "state_code": "JN",
+    "latitude": 47.2555579,
+    "longitude": 20.5232456,
+    "type": "county",
+    "cities": [
+        {
+            "id": 990180001,
+            "name": "Abádszalók",
+            "alt_names": [],
+            "latitude": 47.46667,
+            "longitude": 20.6,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180002,
+            "name": "Alattyán",
+            "alt_names": [],
+            "latitude": 47.42705,
+            "longitude": 20.04219,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180003,
+            "name": "Besenyszög",
+            "alt_names": [],
+            "latitude": 47.3,
+            "longitude": 20.26667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180004,
+            "name": "Cibakháza",
+            "alt_names": [],
+            "latitude": 46.95976,
+            "longitude": 20.19753,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180005,
+            "name": "Cserkeszőlő",
+            "alt_names": [],
+            "latitude": 46.8632,
+            "longitude": 20.18701,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180006,
+            "name": "Fegyvernek",
+            "alt_names": [],
+            "latitude": 47.26667,
+            "longitude": 20.53333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180007,
+            "name": "Jánoshida",
+            "alt_names": [],
+            "latitude": 47.38333,
+            "longitude": 20.06667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180008,
+            "name": "Jászalsószentgyörgy",
+            "alt_names": [],
+            "latitude": 47.36667,
+            "longitude": 20.1,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180009,
+            "name": "Jászapáti",
+            "alt_names": [],
+            "latitude": 47.51667,
+            "longitude": 20.15,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180010,
+            "name": "Jászapáti Járás",
+            "alt_names": [],
+            "latitude": 47.46126,
+            "longitude": 20.06567,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180011,
+            "name": "Jászárokszállás",
+            "alt_names": [],
+            "latitude": 47.64238,
+            "longitude": 19.98038,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180012,
+            "name": "Jászberény",
+            "alt_names": [],
+            "latitude": 47.5,
+            "longitude": 19.91667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180013,
+            "name": "Jászberényi Járás",
+            "alt_names": [],
+            "latitude": 47.565,
+            "longitude": 19.86887,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180014,
+            "name": "Jászdózsa",
+            "alt_names": [],
+            "latitude": 47.5661,
+            "longitude": 20.01534,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180015,
+            "name": "Jászjákóhalma",
+            "alt_names": [],
+            "latitude": 47.52038,
+            "longitude": 19.99086,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180016,
+            "name": "Jászkisér",
+            "alt_names": [],
+            "latitude": 47.45,
+            "longitude": 20.21667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180017,
+            "name": "Jászladány",
+            "alt_names": [],
+            "latitude": 47.36667,
+            "longitude": 20.16667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180018,
+            "name": "Jászszentandrás",
+            "alt_names": [],
+            "latitude": 47.58333,
+            "longitude": 20.18333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180019,
+            "name": "Karcag",
+            "alt_names": [],
+            "latitude": 47.31667,
+            "longitude": 20.93333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180020,
+            "name": "Karcagi Járás",
+            "alt_names": [],
+            "latitude": 47.28583,
+            "longitude": 20.84218,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180021,
+            "name": "Kenderes",
+            "alt_names": [],
+            "latitude": 47.25,
+            "longitude": 20.68333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180022,
+            "name": "Kengyel",
+            "alt_names": [],
+            "latitude": 47.08333,
+            "longitude": 20.33333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180023,
+            "name": "Kisújszállás",
+            "alt_names": [],
+            "latitude": 47.21667,
+            "longitude": 20.76667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180024,
+            "name": "Kunhegyes",
+            "alt_names": [],
+            "latitude": 47.36667,
+            "longitude": 20.63333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180025,
+            "name": "Kunhegyesi Járás",
+            "alt_names": [],
+            "latitude": 47.40329,
+            "longitude": 20.59199,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180026,
+            "name": "Kunmadaras",
+            "alt_names": [],
+            "latitude": 47.43333,
+            "longitude": 20.8,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180027,
+            "name": "Kunszentmárton",
+            "alt_names": [],
+            "latitude": 46.83916,
+            "longitude": 20.28879,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180028,
+            "name": "Kunszentmártoni Járás",
+            "alt_names": [],
+            "latitude": 46.87698,
+            "longitude": 20.25179,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180029,
+            "name": "Mezőtúr",
+            "alt_names": [],
+            "latitude": 47,
+            "longitude": 20.63333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180030,
+            "name": "Mezőtúri Járás",
+            "alt_names": [],
+            "latitude": 47.02495,
+            "longitude": 20.59046,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180031,
+            "name": "Öcsöd",
+            "alt_names": [],
+            "latitude": 46.9,
+            "longitude": 20.4,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180032,
+            "name": "Rákóczifalva",
+            "alt_names": [],
+            "latitude": 47.08333,
+            "longitude": 20.23333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180033,
+            "name": "Rákócziújfalu",
+            "alt_names": [],
+            "latitude": 47.06667,
+            "longitude": 20.26667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180034,
+            "name": "Szajol",
+            "alt_names": [],
+            "latitude": 47.18333,
+            "longitude": 20.3,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180035,
+            "name": "Szelevény",
+            "alt_names": [],
+            "latitude": 46.80259,
+            "longitude": 20.20283,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180036,
+            "name": "Szolnok",
+            "alt_names": [],
+            "latitude": 47.18333,
+            "longitude": 20.2,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180037,
+            "name": "Szolnoki Járás",
+            "alt_names": [],
+            "latitude": 47.2248,
+            "longitude": 20.19839,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180038,
+            "name": "Tiszabő",
+            "alt_names": [],
+            "latitude": 47.3,
+            "longitude": 20.48333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180039,
+            "name": "Tiszabura",
+            "alt_names": [],
+            "latitude": 47.45,
+            "longitude": 20.46667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180040,
+            "name": "Tiszaföldvár",
+            "alt_names": [],
+            "latitude": 46.98333,
+            "longitude": 20.25,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180041,
+            "name": "Tiszafüred",
+            "alt_names": [],
+            "latitude": 47.61667,
+            "longitude": 20.76667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180042,
+            "name": "Tiszafüredi Járás",
+            "alt_names": [],
+            "latitude": 47.53907,
+            "longitude": 20.78879,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180043,
+            "name": "Tiszapüspöki",
+            "alt_names": [],
+            "latitude": 47.21667,
+            "longitude": 20.31667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180044,
+            "name": "Tiszaroff",
+            "alt_names": [],
+            "latitude": 47.4,
+            "longitude": 20.45,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180045,
+            "name": "Tiszasüly",
+            "alt_names": [],
+            "latitude": 47.38333,
+            "longitude": 20.4,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180046,
+            "name": "Tiszaszentimre",
+            "alt_names": [],
+            "latitude": 47.48333,
+            "longitude": 20.73333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180047,
+            "name": "Tiszaszőlős",
+            "alt_names": [],
+            "latitude": 47.55707,
+            "longitude": 20.71949,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180048,
+            "name": "Törökszentmiklós",
+            "alt_names": [],
+            "latitude": 47.18333,
+            "longitude": 20.41667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180049,
+            "name": "Törökszentmiklósi Járás",
+            "alt_names": [],
+            "latitude": 47.18209,
+            "longitude": 20.44859,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180050,
+            "name": "Tószeg",
+            "alt_names": [],
+            "latitude": 47.1,
+            "longitude": 20.15,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180051,
+            "name": "Túrkeve",
+            "alt_names": [],
+            "latitude": 47.1,
+            "longitude": 20.75,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180052,
+            "name": "Újszász",
+            "alt_names": [],
+            "latitude": 47.3,
+            "longitude": 20.08333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990180053,
+            "name": "Zagyvarékas",
+            "alt_names": [],
+            "latitude": 47.26667,
+            "longitude": 20.13333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

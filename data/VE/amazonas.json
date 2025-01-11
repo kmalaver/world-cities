@@ -1,0 +1,95 @@
+{
+    "id": 242001,
+    "name": "Amazonas",
+    "alt_names": [],
+    "state_code": "Z",
+    "latitude": -3.4168427,
+    "longitude": -65.8560646,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2420010001,
+            "name": "Maroa",
+            "alt_names": [],
+            "latitude": 2.7188,
+            "longitude": -67.56046,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420010002,
+            "name": "Municipio Autónomo Alto Orinoco",
+            "alt_names": [],
+            "latitude": 2.73456,
+            "longitude": -64.83032,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420010003,
+            "name": "Puerto Ayacucho",
+            "alt_names": [],
+            "latitude": 5.66049,
+            "longitude": -67.58343,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420010004,
+            "name": "San Carlos de Río Negro",
+            "alt_names": [],
+            "latitude": 1.92027,
+            "longitude": -67.06089,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420010005,
+            "name": "San Fernando de Atabapo",
+            "alt_names": [],
+            "latitude": 4.04564,
+            "longitude": -67.69934,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        },
+        {
+            "id": 2420010006,
+            "name": "San Juan de Manapiare",
+            "alt_names": [],
+            "latitude": 5.32665,
+            "longitude": -66.05402,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

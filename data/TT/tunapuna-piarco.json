@@ -1,0 +1,53 @@
+{
+    "id": 226015,
+    "name": "Tunapuna-Piarco",
+    "alt_names": [],
+    "state_code": "TUP",
+    "latitude": 10.6859096,
+    "longitude": -61.3035248,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2260150001,
+            "name": "Arouca",
+            "alt_names": [],
+            "latitude": 10.62877,
+            "longitude": -61.33487,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260150002,
+            "name": "Paradise",
+            "alt_names": [],
+            "latitude": 10.65298,
+            "longitude": -61.36298,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260150003,
+            "name": "Tunapuna",
+            "alt_names": [],
+            "latitude": 10.65245,
+            "longitude": -61.38878,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

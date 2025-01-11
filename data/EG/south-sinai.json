@@ -1,0 +1,81 @@
+{
+    "id": 65026,
+    "name": "South Sinai",
+    "alt_names": [],
+    "state_code": "JS",
+    "latitude": 29.3101828,
+    "longitude": 34.1531947,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650260001,
+            "name": "Dahab",
+            "alt_names": [],
+            "latitude": 28.48208,
+            "longitude": 34.49505,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650260002,
+            "name": "El-Tor",
+            "alt_names": [],
+            "latitude": 28.24168,
+            "longitude": 33.6222,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650260003,
+            "name": "Nuwaybi‘a",
+            "alt_names": [],
+            "latitude": 29.04681,
+            "longitude": 34.6634,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650260004,
+            "name": "Saint Catherine",
+            "alt_names": [],
+            "latitude": 28.56191,
+            "longitude": 33.94934,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650260005,
+            "name": "Sharm el-Sheikh",
+            "alt_names": [],
+            "latitude": 27.91582,
+            "longitude": 34.32995,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

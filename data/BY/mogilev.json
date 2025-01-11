@@ -1,0 +1,669 @@
+{
+    "id": 20006,
+    "name": "Mogilev",
+    "alt_names": [],
+    "state_code": "MA",
+    "latitude": 53.5101791,
+    "longitude": 30.4006444,
+    "type": "oblast",
+    "cities": [
+        {
+            "id": 200060001,
+            "name": "Asipovichy",
+            "alt_names": [],
+            "latitude": 53.3011,
+            "longitude": 28.6386,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060002,
+            "name": "Asipovitski Rayon",
+            "alt_names": [],
+            "latitude": 53.33333,
+            "longitude": 28.75,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060003,
+            "name": "Babruysk",
+            "alt_names": [],
+            "latitude": 53.1384,
+            "longitude": 29.2214,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060004,
+            "name": "Babruyski Rayon",
+            "alt_names": [],
+            "latitude": 53.08333,
+            "longitude": 29.16667,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060005,
+            "name": "Buynichy",
+            "alt_names": [],
+            "latitude": 53.8536,
+            "longitude": 30.2671,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060006,
+            "name": "Byalynichy",
+            "alt_names": [],
+            "latitude": 53.9994,
+            "longitude": 29.7141,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060007,
+            "name": "Byalynitski Rayon",
+            "alt_names": [],
+            "latitude": 54,
+            "longitude": 29.75,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060008,
+            "name": "Bykhaw",
+            "alt_names": [],
+            "latitude": 53.521,
+            "longitude": 30.2454,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060009,
+            "name": "Chavuski Rayon",
+            "alt_names": [],
+            "latitude": 53.83333,
+            "longitude": 30.91667,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060010,
+            "name": "Chavusy",
+            "alt_names": [],
+            "latitude": 53.8098,
+            "longitude": 30.9717,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060011,
+            "name": "Cherykaw",
+            "alt_names": [],
+            "latitude": 53.5689,
+            "longitude": 31.3831,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060012,
+            "name": "Cherykawski Rayon",
+            "alt_names": [],
+            "latitude": 53.66667,
+            "longitude": 31.33333,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060013,
+            "name": "Dashkawka",
+            "alt_names": [],
+            "latitude": 53.7352,
+            "longitude": 30.2625,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060014,
+            "name": "Drybin",
+            "alt_names": [],
+            "latitude": 54.1192,
+            "longitude": 31.0939,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060015,
+            "name": "Drybinski Rayon",
+            "alt_names": [],
+            "latitude": 54.08333,
+            "longitude": 31,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060016,
+            "name": "Hlusha",
+            "alt_names": [],
+            "latitude": 53.0868,
+            "longitude": 28.8567,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060017,
+            "name": "Hlusk",
+            "alt_names": [],
+            "latitude": 52.903,
+            "longitude": 28.6845,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060018,
+            "name": "Horatski Rayon",
+            "alt_names": [],
+            "latitude": 54.33333,
+            "longitude": 31,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060019,
+            "name": "Horki",
+            "alt_names": [],
+            "latitude": 54.2862,
+            "longitude": 30.9863,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060020,
+            "name": "Kadino",
+            "alt_names": [],
+            "latitude": 53.88389,
+            "longitude": 30.52028,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060021,
+            "name": "Kamyennyya Lavy",
+            "alt_names": [],
+            "latitude": 54.0898,
+            "longitude": 30.2962,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060022,
+            "name": "Kastsyukovichy",
+            "alt_names": [],
+            "latitude": 53.3525,
+            "longitude": 32.0514,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060023,
+            "name": "Khodasy",
+            "alt_names": [],
+            "latitude": 53.9266,
+            "longitude": 31.4779,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060024,
+            "name": "Khotsimsk",
+            "alt_names": [],
+            "latitude": 53.4086,
+            "longitude": 32.578,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060025,
+            "name": "Khotsimski Rayon",
+            "alt_names": [],
+            "latitude": 53.41667,
+            "longitude": 32.5,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060026,
+            "name": "Kirawsk",
+            "alt_names": [],
+            "latitude": 53.2693,
+            "longitude": 29.4752,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060027,
+            "name": "Klichaw",
+            "alt_names": [],
+            "latitude": 53.4923,
+            "longitude": 29.3356,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060028,
+            "name": "Klimavichy",
+            "alt_names": [],
+            "latitude": 53.6079,
+            "longitude": 31.9586,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060029,
+            "name": "Krasnapol’ski Rayon",
+            "alt_names": [],
+            "latitude": 53.33333,
+            "longitude": 31.41667,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060030,
+            "name": "Krasnapollye",
+            "alt_names": [],
+            "latitude": 53.3353,
+            "longitude": 31.3999,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060031,
+            "name": "Krasnyy Bereg",
+            "alt_names": [],
+            "latitude": 53.3291,
+            "longitude": 30.1929,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060032,
+            "name": "Kruhlaye",
+            "alt_names": [],
+            "latitude": 54.2497,
+            "longitude": 29.7968,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060033,
+            "name": "Krychaw",
+            "alt_names": [],
+            "latitude": 53.7125,
+            "longitude": 31.717,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060034,
+            "name": "Mahilyow",
+            "alt_names": [],
+            "latitude": 53.9168,
+            "longitude": 30.3449,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060035,
+            "name": "Mahilyowski Rayon",
+            "alt_names": [],
+            "latitude": 53.83333,
+            "longitude": 30.25,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060036,
+            "name": "Mstsislaw",
+            "alt_names": [],
+            "latitude": 54.0185,
+            "longitude": 31.7217,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060037,
+            "name": "Myazhysyatki",
+            "alt_names": [],
+            "latitude": 53.7776,
+            "longitude": 30.1765,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060038,
+            "name": "Myshkavichy",
+            "alt_names": [],
+            "latitude": 53.2172,
+            "longitude": 29.512,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060039,
+            "name": "Palykavichy Pyershyya",
+            "alt_names": [],
+            "latitude": 53.9854,
+            "longitude": 30.36,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060040,
+            "name": "Posëlok Voskhod",
+            "alt_names": [],
+            "latitude": 53.7766,
+            "longitude": 30.3497,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060041,
+            "name": "Ramanavichy",
+            "alt_names": [],
+            "latitude": 53.8653,
+            "longitude": 30.5597,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060042,
+            "name": "Shklow",
+            "alt_names": [],
+            "latitude": 54.2131,
+            "longitude": 30.2877,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060043,
+            "name": "Shklowski Rayon",
+            "alt_names": [],
+            "latitude": 54.16667,
+            "longitude": 30.33333,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060044,
+            "name": "Slawharad",
+            "alt_names": [],
+            "latitude": 53.4429,
+            "longitude": 31.0014,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060045,
+            "name": "Veyno",
+            "alt_names": [],
+            "latitude": 53.83333,
+            "longitude": 30.38333,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060046,
+            "name": "Vishow",
+            "alt_names": [],
+            "latitude": 53.9805,
+            "longitude": 29.9925,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        },
+        {
+            "id": 200060047,
+            "name": "Yalizava",
+            "alt_names": [],
+            "latitude": 53.3994,
+            "longitude": 29.0048,
+            "timezone": {
+                "zoneName": "Europe/Minsk",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "MSK",
+                "tzName": "Moscow Time"
+            }
+        }
+    ]
+}

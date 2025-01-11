@@ -1,0 +1,781 @@
+{
+    "id": 214007,
+    "name": "Fribourg",
+    "alt_names": [],
+    "state_code": "FR",
+    "latitude": 46.6816748,
+    "longitude": 7.1172635,
+    "type": "canton",
+    "cities": [
+        {
+            "id": 2140070001,
+            "name": "Alterswil",
+            "alt_names": [],
+            "latitude": 46.79587,
+            "longitude": 7.25877,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070002,
+            "name": "Attalens",
+            "alt_names": [],
+            "latitude": 46.50555,
+            "longitude": 6.85039,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070003,
+            "name": "Avry-sur-Matran",
+            "alt_names": [],
+            "latitude": 46.78753,
+            "longitude": 7.06735,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070004,
+            "name": "Bas-Vully",
+            "alt_names": [],
+            "latitude": 46.96194,
+            "longitude": 7.11251,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070005,
+            "name": "Belfaux",
+            "alt_names": [],
+            "latitude": 46.82171,
+            "longitude": 7.10674,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070006,
+            "name": "Bösingen",
+            "alt_names": [],
+            "latitude": 46.89229,
+            "longitude": 7.2277,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070007,
+            "name": "Broc",
+            "alt_names": [],
+            "latitude": 46.60513,
+            "longitude": 7.09891,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070008,
+            "name": "Broye District",
+            "alt_names": [],
+            "latitude": 46.82212,
+            "longitude": 6.90249,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070009,
+            "name": "Bulle",
+            "alt_names": [],
+            "latitude": 46.61797,
+            "longitude": 7.0569,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070010,
+            "name": "Charmey",
+            "alt_names": [],
+            "latitude": 46.61957,
+            "longitude": 7.16486,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070011,
+            "name": "Châtel-Saint-Denis",
+            "alt_names": [],
+            "latitude": 46.52691,
+            "longitude": 6.90083,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070012,
+            "name": "Corminboeuf",
+            "alt_names": [],
+            "latitude": 46.81029,
+            "longitude": 7.10535,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070013,
+            "name": "Courgevaux",
+            "alt_names": [],
+            "latitude": 46.90648,
+            "longitude": 7.11215,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070014,
+            "name": "Cugy",
+            "alt_names": [],
+            "latitude": 46.81479,
+            "longitude": 6.88888,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070015,
+            "name": "Domdidier",
+            "alt_names": [],
+            "latitude": 46.86716,
+            "longitude": 7.01337,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070016,
+            "name": "Düdingen",
+            "alt_names": [],
+            "latitude": 46.84916,
+            "longitude": 7.1915,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070017,
+            "name": "Ecublens",
+            "alt_names": [],
+            "latitude": 46.60735,
+            "longitude": 6.80895,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070018,
+            "name": "Ependes",
+            "alt_names": [],
+            "latitude": 46.75368,
+            "longitude": 7.14609,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070019,
+            "name": "Estavayer-le-Lac",
+            "alt_names": [],
+            "latitude": 46.84876,
+            "longitude": 6.8465,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070020,
+            "name": "Flamatt",
+            "alt_names": [],
+            "latitude": 46.88994,
+            "longitude": 7.32204,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070021,
+            "name": "Fribourg",
+            "alt_names": [],
+            "latitude": 46.80237,
+            "longitude": 7.15128,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070022,
+            "name": "Giffers",
+            "alt_names": [],
+            "latitude": 46.7623,
+            "longitude": 7.20845,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070023,
+            "name": "Givisiez",
+            "alt_names": [],
+            "latitude": 46.81201,
+            "longitude": 7.12639,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070024,
+            "name": "Glâne District",
+            "alt_names": [],
+            "latitude": 46.66667,
+            "longitude": 6.91667,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070025,
+            "name": "Grolley",
+            "alt_names": [],
+            "latitude": 46.8336,
+            "longitude": 7.07116,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070026,
+            "name": "Gruyère District",
+            "alt_names": [],
+            "latitude": 46.60753,
+            "longitude": 7.10741,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070027,
+            "name": "Gruyères",
+            "alt_names": [],
+            "latitude": 46.58338,
+            "longitude": 7.08207,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070028,
+            "name": "Heitenried",
+            "alt_names": [],
+            "latitude": 46.82762,
+            "longitude": 7.29944,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070029,
+            "name": "Kerzers",
+            "alt_names": [],
+            "latitude": 46.97586,
+            "longitude": 7.1957,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070030,
+            "name": "La Roche",
+            "alt_names": [],
+            "latitude": 46.6962,
+            "longitude": 7.13721,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070031,
+            "name": "La Tour-de-Trême",
+            "alt_names": [],
+            "latitude": 46.61061,
+            "longitude": 7.06496,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070032,
+            "name": "Lake District",
+            "alt_names": [],
+            "latitude": 46.91016,
+            "longitude": 7.14088,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070033,
+            "name": "Marly",
+            "alt_names": [],
+            "latitude": 46.77611,
+            "longitude": 7.16459,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070034,
+            "name": "Marsens",
+            "alt_names": [],
+            "latitude": 46.65644,
+            "longitude": 7.05948,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070035,
+            "name": "Mézières",
+            "alt_names": [],
+            "latitude": 46.67958,
+            "longitude": 6.9263,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070036,
+            "name": "Murten/Morat",
+            "alt_names": [],
+            "latitude": 46.92827,
+            "longitude": 7.11715,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070037,
+            "name": "Oberschrot",
+            "alt_names": [],
+            "latitude": 46.74126,
+            "longitude": 7.28149,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070038,
+            "name": "Plaffeien",
+            "alt_names": [],
+            "latitude": 46.74198,
+            "longitude": 7.28666,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070039,
+            "name": "Praroman",
+            "alt_names": [],
+            "latitude": 46.75145,
+            "longitude": 7.17778,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070040,
+            "name": "Rechthalten",
+            "alt_names": [],
+            "latitude": 46.76766,
+            "longitude": 7.24028,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070041,
+            "name": "Riaz",
+            "alt_names": [],
+            "latitude": 46.64224,
+            "longitude": 7.06183,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070042,
+            "name": "Romont",
+            "alt_names": [],
+            "latitude": 46.69652,
+            "longitude": 6.91898,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070043,
+            "name": "Rue",
+            "alt_names": [],
+            "latitude": 46.61916,
+            "longitude": 6.82225,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070044,
+            "name": "Sâles",
+            "alt_names": [],
+            "latitude": 46.63473,
+            "longitude": 6.97336,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070045,
+            "name": "Sankt Antoni",
+            "alt_names": [],
+            "latitude": 46.82207,
+            "longitude": 7.26091,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070046,
+            "name": "Sarine District",
+            "alt_names": [],
+            "latitude": 46.78435,
+            "longitude": 7.09993,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070047,
+            "name": "Schmitten",
+            "alt_names": [],
+            "latitude": 46.8575,
+            "longitude": 7.25031,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070048,
+            "name": "Sense District",
+            "alt_names": [],
+            "latitude": 46.80132,
+            "longitude": 7.26028,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070049,
+            "name": "Tafers",
+            "alt_names": [],
+            "latitude": 46.81483,
+            "longitude": 7.21852,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070050,
+            "name": "Treyvaux",
+            "alt_names": [],
+            "latitude": 46.72796,
+            "longitude": 7.13769,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070051,
+            "name": "Ueberstorf",
+            "alt_names": [],
+            "latitude": 46.86587,
+            "longitude": 7.30998,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070052,
+            "name": "Veveyse District",
+            "alt_names": [],
+            "latitude": 46.55083,
+            "longitude": 6.91085,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070053,
+            "name": "Villars-sur-Glâne",
+            "alt_names": [],
+            "latitude": 46.79054,
+            "longitude": 7.11717,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070054,
+            "name": "Villaz-Saint-Pierre",
+            "alt_names": [],
+            "latitude": 46.72074,
+            "longitude": 6.95638,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140070055,
+            "name": "Vuadens",
+            "alt_names": [],
+            "latitude": 46.61545,
+            "longitude": 7.01732,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

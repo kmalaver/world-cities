@@ -1,0 +1,25 @@
+{
+    "id": 150004,
+    "name": "Kavango East",
+    "alt_names": [],
+    "state_code": "KE",
+    "latitude": -18.271048,
+    "longitude": 18.4276047,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500040001,
+            "name": "Rundu",
+            "alt_names": [],
+            "latitude": -17.93333,
+            "longitude": 19.76667,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

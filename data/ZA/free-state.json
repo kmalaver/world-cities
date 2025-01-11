@@ -1,0 +1,585 @@
+{
+    "id": 204002,
+    "name": "Free State",
+    "alt_names": [],
+    "state_code": "FS",
+    "latitude": 37.6858525,
+    "longitude": -97.2811256,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2040020001,
+            "name": "Allanridge",
+            "alt_names": [],
+            "latitude": -27.75431,
+            "longitude": 26.64382,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020002,
+            "name": "Bethlehem",
+            "alt_names": [],
+            "latitude": -28.23078,
+            "longitude": 28.30707,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020003,
+            "name": "Bloemfontein",
+            "alt_names": [],
+            "latitude": -29.12107,
+            "longitude": 26.214,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020004,
+            "name": "Bothaville",
+            "alt_names": [],
+            "latitude": -27.3887,
+            "longitude": 26.61701,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020005,
+            "name": "Botshabelo",
+            "alt_names": [],
+            "latitude": -29.26737,
+            "longitude": 26.72595,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020006,
+            "name": "Brandfort",
+            "alt_names": [],
+            "latitude": -28.70008,
+            "longitude": 26.45968,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020007,
+            "name": "Clocolan",
+            "alt_names": [],
+            "latitude": -28.91367,
+            "longitude": 27.56555,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020008,
+            "name": "Deneysville",
+            "alt_names": [],
+            "latitude": -26.8908,
+            "longitude": 28.09707,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020009,
+            "name": "Fezile Dabi District Municipality",
+            "alt_names": [],
+            "latitude": -27.33918,
+            "longitude": 27.71927,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020010,
+            "name": "Frankfort",
+            "alt_names": [],
+            "latitude": -27.27888,
+            "longitude": 28.49696,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020011,
+            "name": "Harrismith",
+            "alt_names": [],
+            "latitude": -28.27276,
+            "longitude": 29.12946,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020012,
+            "name": "Heilbron",
+            "alt_names": [],
+            "latitude": -27.28115,
+            "longitude": 27.9709,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020013,
+            "name": "Hennenman",
+            "alt_names": [],
+            "latitude": -27.97654,
+            "longitude": 27.02423,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020014,
+            "name": "Hoopstad",
+            "alt_names": [],
+            "latitude": -27.83273,
+            "longitude": 25.90833,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020015,
+            "name": "Koppies",
+            "alt_names": [],
+            "latitude": -27.24179,
+            "longitude": 27.57422,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020016,
+            "name": "Kroonstad",
+            "alt_names": [],
+            "latitude": -27.65036,
+            "longitude": 27.23488,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020017,
+            "name": "Kutloanong",
+            "alt_names": [],
+            "latitude": -27.83333,
+            "longitude": 26.75,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020018,
+            "name": "Ladybrand",
+            "alt_names": [],
+            "latitude": -29.19448,
+            "longitude": 27.45739,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020019,
+            "name": "Lejweleputswa District Municipality",
+            "alt_names": [],
+            "latitude": -28.23982,
+            "longitude": 26.12649,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020020,
+            "name": "Lindley",
+            "alt_names": [],
+            "latitude": -27.8791,
+            "longitude": 27.91348,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020021,
+            "name": "Mangaung Metropolitan Municipality",
+            "alt_names": [],
+            "latitude": -29.15627,
+            "longitude": 26.35116,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020022,
+            "name": "Marquard",
+            "alt_names": [],
+            "latitude": -28.66449,
+            "longitude": 27.43048,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020023,
+            "name": "Parys",
+            "alt_names": [],
+            "latitude": -26.9033,
+            "longitude": 27.45727,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020024,
+            "name": "Phuthaditjhaba",
+            "alt_names": [],
+            "latitude": -28.52423,
+            "longitude": 28.81582,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020025,
+            "name": "Reitz",
+            "alt_names": [],
+            "latitude": -27.80138,
+            "longitude": 28.42726,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020026,
+            "name": "Sasolburg",
+            "alt_names": [],
+            "latitude": -26.81358,
+            "longitude": 27.81695,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020027,
+            "name": "Senekal",
+            "alt_names": [],
+            "latitude": -28.31971,
+            "longitude": 27.62082,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020028,
+            "name": "Thaba Nchu",
+            "alt_names": [],
+            "latitude": -29.20932,
+            "longitude": 26.83898,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020029,
+            "name": "Thabo Mofutsanyana District Municipality",
+            "alt_names": [],
+            "latitude": -28.24378,
+            "longitude": 28.34077,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020030,
+            "name": "Theunissen",
+            "alt_names": [],
+            "latitude": -28.41098,
+            "longitude": 26.70107,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020031,
+            "name": "Ventersburg",
+            "alt_names": [],
+            "latitude": -28.08561,
+            "longitude": 27.13814,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020032,
+            "name": "Viljoenskroon",
+            "alt_names": [],
+            "latitude": -27.20841,
+            "longitude": 26.94855,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020033,
+            "name": "Villiers",
+            "alt_names": [],
+            "latitude": -27.03026,
+            "longitude": 28.60061,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020034,
+            "name": "Virginia",
+            "alt_names": [],
+            "latitude": -28.10391,
+            "longitude": 26.86593,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020035,
+            "name": "Vrede",
+            "alt_names": [],
+            "latitude": -27.42573,
+            "longitude": 29.16585,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020036,
+            "name": "Vredefort",
+            "alt_names": [],
+            "latitude": -27.00805,
+            "longitude": 27.3646,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020037,
+            "name": "Welkom",
+            "alt_names": [],
+            "latitude": -27.97742,
+            "longitude": 26.73506,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020038,
+            "name": "Wesselsbron",
+            "alt_names": [],
+            "latitude": -27.8549,
+            "longitude": 26.36583,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020039,
+            "name": "Winburg",
+            "alt_names": [],
+            "latitude": -28.51805,
+            "longitude": 27.00933,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020040,
+            "name": "Xhariep District Municipality",
+            "alt_names": [],
+            "latitude": -29.84311,
+            "longitude": 25.83286,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        },
+        {
+            "id": 2040020041,
+            "name": "Zastron",
+            "alt_names": [],
+            "latitude": -30.30225,
+            "longitude": 27.08395,
+            "timezone": {
+                "zoneName": "Africa/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        }
+    ]
+}

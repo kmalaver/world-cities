@@ -1,0 +1,67 @@
+{
+    "id": 206008,
+    "name": "Jeju",
+    "alt_names": [],
+    "state_code": "49",
+    "latitude": 33.9568278,
+    "longitude": -84.13135,
+    "type": "special self-governing province",
+    "cities": [
+        {
+            "id": 2060080001,
+            "name": "Gaigeturi",
+            "alt_names": [],
+            "latitude": 33.46444,
+            "longitude": 126.31833,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060080002,
+            "name": "Jeju City",
+            "alt_names": [],
+            "latitude": 33.50972,
+            "longitude": 126.52194,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060080003,
+            "name": "Jeju-si",
+            "alt_names": [],
+            "latitude": 33.45578,
+            "longitude": 126.53928,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 2060080004,
+            "name": "Seogwipo",
+            "alt_names": [],
+            "latitude": 33.25333,
+            "longitude": 126.56181,
+            "timezone": {
+                "zoneName": "Asia/Seoul",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        }
+    ]
+}

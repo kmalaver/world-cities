@@ -1,0 +1,39 @@
+{
+    "id": 104011,
+    "name": "Karbala",
+    "alt_names": [],
+    "state_code": "KA",
+    "latitude": 32.4045493,
+    "longitude": 43.8673222,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040110001,
+            "name": "Al Hindīyah",
+            "alt_names": [],
+            "latitude": 32.54671,
+            "longitude": 44.22765,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040110002,
+            "name": "Karbala",
+            "alt_names": [],
+            "latitude": 32.61603,
+            "longitude": 44.02488,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

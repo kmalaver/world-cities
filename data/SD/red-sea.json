@@ -1,0 +1,67 @@
+{
+    "id": 210011,
+    "name": "Red Sea",
+    "alt_names": [],
+    "state_code": "RS",
+    "latitude": 20.280232,
+    "longitude": 38.512573,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100110001,
+            "name": "Gebeit",
+            "alt_names": [],
+            "latitude": 21.06667,
+            "longitude": 36.31667,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100110002,
+            "name": "Port Sudan",
+            "alt_names": [],
+            "latitude": 19.61745,
+            "longitude": 37.21644,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100110003,
+            "name": "Sawākin",
+            "alt_names": [],
+            "latitude": 19.1059,
+            "longitude": 37.3321,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100110004,
+            "name": "Tokār",
+            "alt_names": [],
+            "latitude": 18.4254,
+            "longitude": 37.729,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

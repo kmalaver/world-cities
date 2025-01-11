@@ -1,0 +1,39 @@
+{
+    "id": 118006,
+    "name": "Khammouane",
+    "alt_names": [],
+    "state_code": "KH",
+    "latitude": 17.6384066,
+    "longitude": 105.2194808,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1180060001,
+            "name": "Muang Thakhèk",
+            "alt_names": [],
+            "latitude": 17.4088,
+            "longitude": 104.82639,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 1180060002,
+            "name": "Thakhèk",
+            "alt_names": [],
+            "latitude": 17.41027,
+            "longitude": 104.83068,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": 238001,
+    "name": "Artigas",
+    "alt_names": [],
+    "state_code": "AR",
+    "latitude": -30.6175112,
+    "longitude": -56.9594559,
+    "type": "department",
+    "cities": [
+        {
+            "id": 2380010001,
+            "name": "Artigas",
+            "alt_names": [],
+            "latitude": -30.4,
+            "longitude": -56.46667,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380010002,
+            "name": "Baltasar Brum",
+            "alt_names": [],
+            "latitude": -30.71905,
+            "longitude": -57.32596,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380010003,
+            "name": "Bella Unión",
+            "alt_names": [],
+            "latitude": -30.25966,
+            "longitude": -57.59919,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380010004,
+            "name": "Las Piedras",
+            "alt_names": [],
+            "latitude": -30.26204,
+            "longitude": -57.58174,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        },
+        {
+            "id": 2380010005,
+            "name": "Tomás Gomensoro",
+            "alt_names": [],
+            "latitude": -30.4287,
+            "longitude": -57.43609,
+            "timezone": {
+                "zoneName": "America/Montevideo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "UYT",
+                "tzName": "Uruguay Standard Time"
+            }
+        }
+    ]
+}

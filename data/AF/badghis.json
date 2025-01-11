@@ -1,0 +1,39 @@
+{
+    "id": 1002,
+    "name": "Badghis",
+    "alt_names": [],
+    "state_code": "BDG",
+    "latitude": 35.1671339,
+    "longitude": 63.7695384,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10020001,
+            "name": "Ghormach",
+            "alt_names": [],
+            "latitude": 35.73062,
+            "longitude": 63.78264,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10020002,
+            "name": "Qala i Naw",
+            "alt_names": [],
+            "latitude": 34.98735,
+            "longitude": 63.12891,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

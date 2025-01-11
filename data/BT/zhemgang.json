@@ -1,0 +1,39 @@
+{
+    "id": 25020,
+    "name": "Zhemgang ",
+    "alt_names": [],
+    "state_code": "34",
+    "latitude": 27.076975,
+    "longitude": 90.8294002,
+    "type": "district",
+    "cities": [
+        {
+            "id": 250200001,
+            "name": "Panbang",
+            "alt_names": [],
+            "latitude": 26.86667,
+            "longitude": 90.98333,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        },
+        {
+            "id": 250200002,
+            "name": "Zhemgang",
+            "alt_names": [],
+            "latitude": 27.21689,
+            "longitude": 90.65793,
+            "timezone": {
+                "zoneName": "Asia/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        }
+    ]
+}

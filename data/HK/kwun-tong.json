@@ -1,0 +1,39 @@
+{
+    "id": 98006,
+    "name": "Kwun Tong",
+    "alt_names": [],
+    "state_code": "KKT",
+    "latitude": 22.31326,
+    "longitude": 114.22581,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980060001,
+            "name": "Kwun Tong",
+            "alt_names": [],
+            "latitude": 22.31,
+            "longitude": 114.225,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980060002,
+            "name": "Lam Tin",
+            "alt_names": [],
+            "latitude": 22.307,
+            "longitude": 114.235,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

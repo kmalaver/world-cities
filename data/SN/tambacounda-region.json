@@ -1,0 +1,39 @@
+{
+    "id": 194012,
+    "name": "Tambacounda Region",
+    "alt_names": [],
+    "state_code": "TC",
+    "latitude": 13.5619011,
+    "longitude": -13.1740348,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1940120001,
+            "name": "Tambacounda",
+            "alt_names": [],
+            "latitude": 13.77073,
+            "longitude": -13.66734,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1940120002,
+            "name": "Tambacounda Department",
+            "alt_names": [],
+            "latitude": 13.605,
+            "longitude": -13.647,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

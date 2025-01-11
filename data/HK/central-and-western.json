@@ -1,0 +1,39 @@
+{
+    "id": 98001,
+    "name": "Central and Western",
+    "alt_names": [],
+    "state_code": "HCW",
+    "latitude": 22.28666,
+    "longitude": 114.15497,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980010001,
+            "name": "Admiralty",
+            "alt_names": [],
+            "latitude": 22.278,
+            "longitude": 114.164,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980010002,
+            "name": "Central",
+            "alt_names": [],
+            "latitude": 22.281,
+            "longitude": 114.159,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

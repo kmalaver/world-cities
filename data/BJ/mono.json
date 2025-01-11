@@ -1,0 +1,39 @@
+{
+    "id": 23009,
+    "name": "Mono",
+    "alt_names": [],
+    "state_code": "MO",
+    "latitude": 37.9218608,
+    "longitude": -118.9528645,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230090001,
+            "name": "Commune of Athieme",
+            "alt_names": [],
+            "latitude": 6.56924,
+            "longitude": 1.70259,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230090002,
+            "name": "Lokossa",
+            "alt_names": [],
+            "latitude": 6.63869,
+            "longitude": 1.71674,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 201162,
+    "name": "Škofljica",
+    "alt_names": [],
+    "state_code": "123",
+    "latitude": 45.9840962,
+    "longitude": 14.5746626,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2011620001,
+            "name": "Lavrica",
+            "alt_names": [],
+            "latitude": 46.00002,
+            "longitude": 14.5573,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2011620002,
+            "name": "Škofljica",
+            "alt_names": [],
+            "latitude": 45.98333,
+            "longitude": 14.57667,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

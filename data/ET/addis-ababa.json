@@ -1,0 +1,25 @@
+{
+    "id": 71001,
+    "name": "Addis Ababa",
+    "alt_names": [],
+    "state_code": "AA",
+    "latitude": 8.9806034,
+    "longitude": 38.7577605,
+    "type": "administration",
+    "cities": [
+        {
+            "id": 710010001,
+            "name": "Addis Ababa",
+            "alt_names": [],
+            "latitude": 9.02497,
+            "longitude": 38.74689,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

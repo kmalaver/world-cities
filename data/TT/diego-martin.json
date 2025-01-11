@@ -1,0 +1,39 @@
+{
+    "id": 226004,
+    "name": "Diego Martin",
+    "alt_names": [],
+    "state_code": "DMN",
+    "latitude": 10.7362286,
+    "longitude": -61.5544836,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2260040001,
+            "name": "Petit Valley",
+            "alt_names": [],
+            "latitude": 10.69974,
+            "longitude": -61.54717,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 2260040002,
+            "name": "Ward of Diego Martin",
+            "alt_names": [],
+            "latitude": 10.7,
+            "longitude": -61.58333,
+            "timezone": {
+                "zoneName": "America/Port_of_Spain",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

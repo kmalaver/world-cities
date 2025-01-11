@@ -1,0 +1,39 @@
+{
+    "id": 216010,
+    "name": "Lienchiang",
+    "alt_names": [],
+    "state_code": "LIE",
+    "latitude": 26.1505556,
+    "longitude": 119.9288889,
+    "type": "county",
+    "cities": [
+        {
+            "id": 2160100001,
+            "name": "Lienchiang",
+            "alt_names": [],
+            "latitude": 26.37004,
+            "longitude": 120.49545,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160100002,
+            "name": "Nangan",
+            "alt_names": [],
+            "latitude": 26.15039,
+            "longitude": 119.93284,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

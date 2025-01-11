@@ -1,0 +1,123 @@
+{
+    "id": 65001,
+    "name": "Alexandria",
+    "alt_names": [],
+    "state_code": "ALX",
+    "latitude": 30.8760568,
+    "longitude": 29.742604,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650010001,
+            "name": "Abu Qir",
+            "alt_names": [],
+            "latitude": 31.31666667,
+            "longitude": 30.06666667,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010002,
+            "name": "Agami",
+            "alt_names": [],
+            "latitude": 31.0959,
+            "longitude": 29.7604,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010003,
+            "name": "Alexandria",
+            "alt_names": [],
+            "latitude": 31.20176,
+            "longitude": 29.91582,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010004,
+            "name": "Ar-Raml",
+            "alt_names": [],
+            "latitude": 31.24821,
+            "longitude": 29.97368,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010005,
+            "name": "Borg El Arab",
+            "alt_names": [],
+            "latitude": 30.91666667,
+            "longitude": 29.53333333,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010006,
+            "name": "Montaza",
+            "alt_names": [],
+            "latitude": 31.2827,
+            "longitude": 30.0219,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010007,
+            "name": "New Borg El Arab",
+            "alt_names": [],
+            "latitude": 30.88525,
+            "longitude": 29.57721,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650010008,
+            "name": "Sidi Bishr",
+            "alt_names": [],
+            "latitude": 31.2521,
+            "longitude": 29.9945,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

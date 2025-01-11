@@ -1,0 +1,39 @@
+{
+    "id": 119004,
+    "name": "Augšdaugava",
+    "alt_names": [],
+    "state_code": "111",
+    "latitude": 55.9396978,
+    "longitude": 25.7431709,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1190040001,
+            "name": "Daugavpils",
+            "alt_names": [],
+            "latitude": 55.88333,
+            "longitude": 26.53333,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1190040002,
+            "name": "Ilūkste",
+            "alt_names": [],
+            "latitude": 55.97754,
+            "longitude": 26.29655,
+            "timezone": {
+                "zoneName": "Europe/Riga",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

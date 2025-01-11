@@ -1,0 +1,39 @@
+{
+    "id": 133053,
+    "name": "St. Julian's",
+    "alt_names": [],
+    "state_code": "48",
+    "latitude": 42.2122513,
+    "longitude": -85.8917127,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330530001,
+            "name": "Paceville",
+            "alt_names": [],
+            "latitude": 35.9237,
+            "longitude": 14.4914,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330530002,
+            "name": "San Ġwann",
+            "alt_names": [],
+            "latitude": 35.90556,
+            "longitude": 14.47611,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 42017,
+    "name": "Vakaga",
+    "alt_names": [],
+    "state_code": "VK",
+    "latitude": 9.5113296,
+    "longitude": 22.2384017,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420170001,
+            "name": "Birao",
+            "alt_names": [],
+            "latitude": 10.28488,
+            "longitude": 22.78818,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420170002,
+            "name": "Ouanda-Djallé",
+            "alt_names": [],
+            "latitude": 9.05877,
+            "longitude": 22.42741,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

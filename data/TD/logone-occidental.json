@@ -1,0 +1,67 @@
+{
+    "id": 43011,
+    "name": "Logone Occidental",
+    "alt_names": [],
+    "state_code": "LO",
+    "latitude": 8.759676,
+    "longitude": 15.876004,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430110001,
+            "name": "Beïnamar",
+            "alt_names": [],
+            "latitude": 8.6698,
+            "longitude": 15.3813,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430110002,
+            "name": "Benoy",
+            "alt_names": [],
+            "latitude": 8.98327,
+            "longitude": 16.31991,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430110003,
+            "name": "Lac Wey",
+            "alt_names": [],
+            "latitude": 8.70502,
+            "longitude": 15.98303,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430110004,
+            "name": "Moundou",
+            "alt_names": [],
+            "latitude": 8.56667,
+            "longitude": 16.08333,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

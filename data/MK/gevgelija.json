@@ -1,0 +1,39 @@
+{
+    "id": 162024,
+    "name": "Gevgelija",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": 41.2118606,
+    "longitude": 22.3814624,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620240001,
+            "name": "Gevgelija",
+            "alt_names": [],
+            "latitude": 41.14166,
+            "longitude": 22.50141,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620240002,
+            "name": "Miravci",
+            "alt_names": [],
+            "latitude": 41.30925,
+            "longitude": 22.43641,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

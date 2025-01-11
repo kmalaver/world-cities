@@ -1,0 +1,81 @@
+{
+    "id": 209021,
+    "name": "North Central",
+    "alt_names": [],
+    "state_code": "7",
+    "latitude": 8.1995638,
+    "longitude": 80.6326916,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2090210001,
+            "name": "Anuradhapura",
+            "alt_names": [],
+            "latitude": 8.31223,
+            "longitude": 80.41306,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090210002,
+            "name": "Anuradhapura District",
+            "alt_names": [],
+            "latitude": 8.33333,
+            "longitude": 80.5,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090210003,
+            "name": "Mihintale",
+            "alt_names": [],
+            "latitude": 8.3593,
+            "longitude": 80.5103,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090210004,
+            "name": "Polonnaruwa",
+            "alt_names": [],
+            "latitude": 7.93965,
+            "longitude": 81.00274,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        },
+        {
+            "id": 2090210005,
+            "name": "Polonnaruwa District",
+            "alt_names": [],
+            "latitude": 8,
+            "longitude": 81,
+            "timezone": {
+                "zoneName": "Asia/Colombo",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        }
+    ]
+}

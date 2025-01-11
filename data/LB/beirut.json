@@ -1,0 +1,39 @@
+{
+    "id": 120003,
+    "name": "Beirut",
+    "alt_names": [],
+    "state_code": "BA",
+    "latitude": 33.8886106,
+    "longitude": 35.4954772,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200030001,
+            "name": "Beirut",
+            "alt_names": [],
+            "latitude": 33.89332,
+            "longitude": 35.50157,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200030002,
+            "name": "Ra’s Bayrūt",
+            "alt_names": [],
+            "latitude": 33.9,
+            "longitude": 35.48333,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

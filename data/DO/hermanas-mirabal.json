@@ -1,0 +1,67 @@
+{
+    "id": 63010,
+    "name": "Hermanas Mirabal",
+    "alt_names": [],
+    "state_code": "19",
+    "latitude": 19.3747559,
+    "longitude": -70.3513235,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630100001,
+            "name": "Salcedo",
+            "alt_names": [],
+            "latitude": 19.41667,
+            "longitude": -70.38333,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630100002,
+            "name": "Salsipuedes",
+            "alt_names": [],
+            "latitude": 19.40552,
+            "longitude": -70.37985,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630100003,
+            "name": "Tenares",
+            "alt_names": [],
+            "latitude": 19.37439,
+            "longitude": -70.35087,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630100004,
+            "name": "Villa Tapia",
+            "alt_names": [],
+            "latitude": 19.30084,
+            "longitude": -70.42199,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": 26006,
+    "name": "Pando",
+    "alt_names": [],
+    "state_code": "N",
+    "latitude": -10.7988901,
+    "longitude": -66.9988011,
+    "type": "department",
+    "cities": [
+        {
+            "id": 260060001,
+            "name": "Cobija",
+            "alt_names": [],
+            "latitude": -11.02671,
+            "longitude": -68.76918,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260060002,
+            "name": "Provincia Abuná",
+            "alt_names": [],
+            "latitude": -10.5,
+            "longitude": -66.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260060003,
+            "name": "Provincia General Federico Román",
+            "alt_names": [],
+            "latitude": -10.33333,
+            "longitude": -65.88333,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260060004,
+            "name": "Provincia Madre de Dios",
+            "alt_names": [],
+            "latitude": -11.58333,
+            "longitude": -67,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260060005,
+            "name": "Provincia Manuripi",
+            "alt_names": [],
+            "latitude": -11.33333,
+            "longitude": -67.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        },
+        {
+            "id": 260060006,
+            "name": "Provincia Nicolás Suárez",
+            "alt_names": [],
+            "latitude": -11.33333,
+            "longitude": -68.5,
+            "timezone": {
+                "zoneName": "America/La_Paz",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BOT",
+                "tzName": "Bolivia Time"
+            }
+        }
+    ]
+}

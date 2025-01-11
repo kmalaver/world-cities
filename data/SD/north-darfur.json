@@ -1,0 +1,53 @@
+{
+    "id": 210008,
+    "name": "North Darfur",
+    "alt_names": [],
+    "state_code": "DN",
+    "latitude": 15.7661969,
+    "longitude": 24.9042208,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100080001,
+            "name": "El Fasher",
+            "alt_names": [],
+            "latitude": 13.62793,
+            "longitude": 25.34936,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100080002,
+            "name": "Kutum",
+            "alt_names": [],
+            "latitude": 14.2,
+            "longitude": 24.66667,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100080003,
+            "name": "Umm Kaddadah",
+            "alt_names": [],
+            "latitude": 13.60169,
+            "longitude": 26.68759,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 222001,
+    "name": "Aileu",
+    "alt_names": [],
+    "state_code": "AL",
+    "latitude": -8.7043994,
+    "longitude": 125.6095474,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2220010001,
+            "name": "Aileu",
+            "alt_names": [],
+            "latitude": -8.72806,
+            "longitude": 125.56639,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        },
+        {
+            "id": 2220010002,
+            "name": "Lequidoe",
+            "alt_names": [],
+            "latitude": -8.69139,
+            "longitude": 125.63611,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        },
+        {
+            "id": 2220010003,
+            "name": "Remexio",
+            "alt_names": [],
+            "latitude": -8.61667,
+            "longitude": 125.66667,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        }
+    ]
+}

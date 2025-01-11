@@ -1,0 +1,39 @@
+{
+    "id": 113021,
+    "name": "Lamu",
+    "alt_names": [],
+    "state_code": "21",
+    "latitude": -2.2355058,
+    "longitude": 40.4720004,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130210001,
+            "name": "Lamu",
+            "alt_names": [],
+            "latitude": -2.27169,
+            "longitude": 40.90201,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130210002,
+            "name": "Witu",
+            "alt_names": [],
+            "latitude": -2.38892,
+            "longitude": 40.43827,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

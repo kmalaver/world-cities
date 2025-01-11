@@ -1,0 +1,53 @@
+{
+    "id": 203012,
+    "name": "Middle Shebelle",
+    "alt_names": [],
+    "state_code": "SD",
+    "latitude": 2.9250247,
+    "longitude": 45.9039689,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2030120001,
+            "name": "Cadale",
+            "alt_names": [],
+            "latitude": 2.7603,
+            "longitude": 46.3222,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030120002,
+            "name": "Jawhar",
+            "alt_names": [],
+            "latitude": 2.78087,
+            "longitude": 45.50048,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2030120003,
+            "name": "Mahaddayweyne",
+            "alt_names": [],
+            "latitude": 2.9726,
+            "longitude": 45.5347,
+            "timezone": {
+                "zoneName": "Africa/Mogadishu",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

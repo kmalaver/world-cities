@@ -1,0 +1,53 @@
+{
+    "id": 171017,
+    "name": "Presidente Hayes",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": -23.3512605,
+    "longitude": -58.7373634,
+    "type": "department",
+    "cities": [
+        {
+            "id": 1710170001,
+            "name": "Benjamín Aceval",
+            "alt_names": [],
+            "latitude": -24.96667,
+            "longitude": -57.56667,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710170002,
+            "name": "Nanawua",
+            "alt_names": [],
+            "latitude": -25.2793,
+            "longitude": -57.70307,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        },
+        {
+            "id": 1710170003,
+            "name": "Villa Hayes",
+            "alt_names": [],
+            "latitude": -25.09306,
+            "longitude": -57.52361,
+            "timezone": {
+                "zoneName": "America/Asuncion",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "PYST",
+                "tzName": "Paraguay Summer Time"
+            }
+        }
+    ]
+}

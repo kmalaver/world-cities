@@ -1,0 +1,39 @@
+{
+    "id": 187005,
+    "name": "Saint George",
+    "alt_names": [],
+    "state_code": "04",
+    "latitude": 42.957609,
+    "longitude": -81.326705,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1870050001,
+            "name": "Kingstown",
+            "alt_names": [],
+            "latitude": 13.15527,
+            "longitude": -61.22742,
+            "timezone": {
+                "zoneName": "America/St_Vincent",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 1870050002,
+            "name": "Kingstown Park",
+            "alt_names": [],
+            "latitude": 13.15924,
+            "longitude": -61.23161,
+            "timezone": {
+                "zoneName": "America/St_Vincent",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

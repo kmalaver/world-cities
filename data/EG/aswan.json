@@ -1,0 +1,67 @@
+{
+    "id": 65002,
+    "name": "Aswan",
+    "alt_names": [],
+    "state_code": "ASN",
+    "latitude": 23.6966498,
+    "longitude": 32.7181375,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650020001,
+            "name": "Abu Simbel",
+            "alt_names": [],
+            "latitude": 22.3457,
+            "longitude": 31.61624,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650020002,
+            "name": "Aswan",
+            "alt_names": [],
+            "latitude": 24.09082,
+            "longitude": 32.89942,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650020003,
+            "name": "Idfū",
+            "alt_names": [],
+            "latitude": 24.97916,
+            "longitude": 32.87722,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650020004,
+            "name": "Kawm Umbū",
+            "alt_names": [],
+            "latitude": 24.47669,
+            "longitude": 32.94626,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

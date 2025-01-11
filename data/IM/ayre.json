@@ -1,0 +1,53 @@
+{
+    "id": 134001,
+    "name": "Ayre",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 54.3297577,
+    "longitude": -4.6025879,
+    "type": "sheadings",
+    "cities": [
+        {
+            "id": 1340010001,
+            "name": "Andreas",
+            "alt_names": [],
+            "latitude": 54.368414,
+            "longitude": -4.5211463,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1340010002,
+            "name": "Bride",
+            "alt_names": [],
+            "latitude": 54.3831657,
+            "longitude": -4.4080356,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1340010003,
+            "name": "Lezayre",
+            "alt_names": [],
+            "latitude": 54.2962193,
+            "longitude": -4.5311015,
+            "timezone": {
+                "zoneName": "Europe/Isle_of_Man",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

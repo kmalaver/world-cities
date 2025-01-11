@@ -1,0 +1,53 @@
+{
+    "id": 142008,
+    "name": "Cantemir",
+    "alt_names": [],
+    "state_code": "CT",
+    "latitude": 46.2771742,
+    "longitude": 28.2009653,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420080001,
+            "name": "Cantemir",
+            "alt_names": [],
+            "latitude": 46.27743,
+            "longitude": 28.2027,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420080002,
+            "name": "Iargara",
+            "alt_names": [],
+            "latitude": 46.4252,
+            "longitude": 28.42676,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420080003,
+            "name": "Vişniovca",
+            "alt_names": [],
+            "latitude": 46.3326,
+            "longitude": 28.44797,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

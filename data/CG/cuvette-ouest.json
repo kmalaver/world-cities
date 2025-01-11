@@ -1,0 +1,25 @@
+{
+    "id": 50004,
+    "name": "Cuvette-Ouest",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": 0.144755,
+    "longitude": 14.4723301,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500040001,
+            "name": "Ewo",
+            "alt_names": [],
+            "latitude": -0.8725,
+            "longitude": 14.82056,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

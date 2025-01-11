@@ -1,0 +1,39 @@
+{
+    "id": 142015,
+    "name": "Dubăsari",
+    "alt_names": [],
+    "state_code": "DU",
+    "latitude": 47.2643942,
+    "longitude": 29.1550348,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1420150001,
+            "name": "Cocieri",
+            "alt_names": [],
+            "latitude": 47.3017,
+            "longitude": 29.11755,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1420150002,
+            "name": "Ustia",
+            "alt_names": [],
+            "latitude": 47.25524,
+            "longitude": 29.12406,
+            "timezone": {
+                "zoneName": "Europe/Chisinau",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

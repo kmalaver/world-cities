@@ -1,0 +1,39 @@
+{
+    "id": 123008,
+    "name": "Jufra",
+    "alt_names": [],
+    "state_code": "JU",
+    "latitude": 27.9835135,
+    "longitude": 16.912251,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230080001,
+            "name": "Hūn",
+            "alt_names": [],
+            "latitude": 29.12684,
+            "longitude": 15.94772,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230080002,
+            "name": "Waddān",
+            "alt_names": [],
+            "latitude": 29.1614,
+            "longitude": 16.13904,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

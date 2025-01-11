@@ -1,0 +1,25 @@
+{
+    "id": 23010,
+    "name": "Ouémé",
+    "alt_names": [],
+    "state_code": "OU",
+    "latitude": 6.6148152,
+    "longitude": 2.4999918,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230100001,
+            "name": "Porto-Novo",
+            "alt_names": [],
+            "latitude": 6.49646,
+            "longitude": 2.60359,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

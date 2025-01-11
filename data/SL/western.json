@@ -1,0 +1,67 @@
+{
+    "id": 197004,
+    "name": "Western",
+    "alt_names": [],
+    "state_code": "W",
+    "latitude": 40.2545969,
+    "longitude": -80.2455444,
+    "type": "area",
+    "cities": [
+        {
+            "id": 1970040001,
+            "name": "Freetown",
+            "alt_names": [],
+            "latitude": 8.48714,
+            "longitude": -13.2356,
+            "timezone": {
+                "zoneName": "Africa/Freetown",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1970040002,
+            "name": "Hastings",
+            "alt_names": [],
+            "latitude": 8.37994,
+            "longitude": -13.13693,
+            "timezone": {
+                "zoneName": "Africa/Freetown",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1970040003,
+            "name": "Kent",
+            "alt_names": [],
+            "latitude": 8.33333,
+            "longitude": -13.06667,
+            "timezone": {
+                "zoneName": "Africa/Freetown",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1970040004,
+            "name": "Waterloo",
+            "alt_names": [],
+            "latitude": 8.3389,
+            "longitude": -13.07091,
+            "timezone": {
+                "zoneName": "Africa/Freetown",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

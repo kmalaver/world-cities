@@ -1,0 +1,39 @@
+{
+    "id": 137012,
+    "name": "Nouakchott-Sud",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": 17.9709288,
+    "longitude": -15.9464874,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1370120001,
+            "name": "Arafat",
+            "alt_names": [],
+            "latitude": 18.04639,
+            "longitude": -15.97194,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1370120002,
+            "name": "Riyad",
+            "alt_names": [],
+            "latitude": 18.10222222,
+            "longitude": -15.955,
+            "timezone": {
+                "zoneName": "Africa/Nouakchott",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

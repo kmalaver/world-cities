@@ -1,0 +1,39 @@
+{
+    "id": 93011,
+    "name": "Tombali",
+    "alt_names": [],
+    "state_code": "TO",
+    "latitude": 11.3632696,
+    "longitude": -14.9856176,
+    "type": "region",
+    "cities": [
+        {
+            "id": 930110001,
+            "name": "Catió",
+            "alt_names": [],
+            "latitude": 11.2825,
+            "longitude": -15.25472,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 930110002,
+            "name": "Quebo",
+            "alt_names": [],
+            "latitude": 11.33333,
+            "longitude": -14.93333,
+            "timezone": {
+                "zoneName": "Africa/Bissau",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

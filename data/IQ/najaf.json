@@ -1,0 +1,53 @@
+{
+    "id": 104014,
+    "name": "Najaf",
+    "alt_names": [],
+    "state_code": "NA",
+    "latitude": 31.3517486,
+    "longitude": 44.0960311,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1040140001,
+            "name": "Al Mishkhāb",
+            "alt_names": [],
+            "latitude": 31.80437,
+            "longitude": 44.4893,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040140002,
+            "name": "Kufa",
+            "alt_names": [],
+            "latitude": 32.05114,
+            "longitude": 44.44017,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1040140003,
+            "name": "Najaf",
+            "alt_names": [],
+            "latitude": 32.02594,
+            "longitude": 44.34625,
+            "timezone": {
+                "zoneName": "Asia/Baghdad",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

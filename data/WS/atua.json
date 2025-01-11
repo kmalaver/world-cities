@@ -1,0 +1,67 @@
+{
+    "id": 190003,
+    "name": "Atua",
+    "alt_names": [],
+    "state_code": "AT",
+    "latitude": -13.9787053,
+    "longitude": -171.6254283,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1900030001,
+            "name": "Falefa",
+            "alt_names": [],
+            "latitude": -13.88695,
+            "longitude": -171.58805,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900030002,
+            "name": "Lotofagā",
+            "alt_names": [],
+            "latitude": -13.97643,
+            "longitude": -171.85781,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900030003,
+            "name": "Lufilufi",
+            "alt_names": [],
+            "latitude": -13.87449,
+            "longitude": -171.59857,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900030004,
+            "name": "Solosolo",
+            "alt_names": [],
+            "latitude": -13.87504,
+            "longitude": -171.64181,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        }
+    ]
+}

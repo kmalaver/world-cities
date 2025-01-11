@@ -1,0 +1,53 @@
+{
+    "id": 133024,
+    "name": "Luqa",
+    "alt_names": [],
+    "state_code": "25",
+    "latitude": 35.8582865,
+    "longitude": 14.4868883,
+    "type": "local council",
+    "cities": [
+        {
+            "id": 1330240001,
+            "name": "Ħal Luqa",
+            "alt_names": [],
+            "latitude": 35.85889,
+            "longitude": 14.48861,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330240002,
+            "name": "Ħal Safi",
+            "alt_names": [],
+            "latitude": 35.833333,
+            "longitude": 14.485,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1330240003,
+            "name": "Senglea",
+            "alt_names": [],
+            "latitude": 35.8875,
+            "longitude": 14.51694,
+            "timezone": {
+                "zoneName": "Europe/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

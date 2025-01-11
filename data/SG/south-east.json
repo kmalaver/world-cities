@@ -1,0 +1,53 @@
+{
+    "id": 198004,
+    "name": "South East",
+    "alt_names": [],
+    "state_code": "04",
+    "latitude": 1.3571,
+    "longitude": 103.7004,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1980040001,
+            "name": "Bedok",
+            "alt_names": [],
+            "latitude": 1.3236,
+            "longitude": 103.9273,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980040002,
+            "name": "Pasir Ris",
+            "alt_names": [],
+            "latitude": 1.3739,
+            "longitude": 103.9493,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        },
+        {
+            "id": 1980040003,
+            "name": "Tampines",
+            "alt_names": [],
+            "latitude": 1.3547,
+            "longitude": 103.9437,
+            "timezone": {
+                "zoneName": "Asia/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        }
+    ]
+}

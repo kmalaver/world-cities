@@ -1,0 +1,795 @@
+{
+    "id": 54004,
+    "name": "Istria",
+    "alt_names": [],
+    "state_code": "18",
+    "latitude": 45.1286455,
+    "longitude": 13.901542,
+    "type": "county",
+    "cities": [
+        {
+            "id": 540040001,
+            "name": "Bale",
+            "alt_names": [],
+            "latitude": 45.04056,
+            "longitude": 13.78361,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040002,
+            "name": "Bale-Valle",
+            "alt_names": [],
+            "latitude": 45.04089,
+            "longitude": 13.78565,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040003,
+            "name": "Brtonigla",
+            "alt_names": [],
+            "latitude": 45.38139,
+            "longitude": 13.62944,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040004,
+            "name": "Brtonigla-Verteneglio",
+            "alt_names": [],
+            "latitude": 45.37918,
+            "longitude": 13.62554,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040005,
+            "name": "Buje",
+            "alt_names": [],
+            "latitude": 45.41,
+            "longitude": 13.66194,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040006,
+            "name": "Buje-Buie",
+            "alt_names": [],
+            "latitude": 45.4079,
+            "longitude": 13.65914,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040007,
+            "name": "Buzet",
+            "alt_names": [],
+            "latitude": 45.40944,
+            "longitude": 13.96667,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040008,
+            "name": "Fažana",
+            "alt_names": [],
+            "latitude": 44.9275,
+            "longitude": 13.80361,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040009,
+            "name": "Fažana-Fasana",
+            "alt_names": [],
+            "latitude": 44.92822,
+            "longitude": 13.80548,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040010,
+            "name": "Funtana",
+            "alt_names": [],
+            "latitude": 45.17472,
+            "longitude": 13.605,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040011,
+            "name": "Funtana-Fontane",
+            "alt_names": [],
+            "latitude": 45.17483,
+            "longitude": 13.60627,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040012,
+            "name": "Galižana",
+            "alt_names": [],
+            "latitude": 44.93167,
+            "longitude": 13.86861,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040013,
+            "name": "Grad Buzet",
+            "alt_names": [],
+            "latitude": 45.41667,
+            "longitude": 13.96667,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040014,
+            "name": "Grad Labin",
+            "alt_names": [],
+            "latitude": 45.08333,
+            "longitude": 14.13333,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040015,
+            "name": "Grad Pazin",
+            "alt_names": [],
+            "latitude": 45.23333,
+            "longitude": 13.93333,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040016,
+            "name": "Grožnjan",
+            "alt_names": [],
+            "latitude": 45.37889,
+            "longitude": 13.72389,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040017,
+            "name": "Grožnjan-Grisignana",
+            "alt_names": [],
+            "latitude": 45.37728,
+            "longitude": 13.72145,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040018,
+            "name": "Kanfanar",
+            "alt_names": [],
+            "latitude": 45.12194,
+            "longitude": 13.83917,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040019,
+            "name": "Karojba",
+            "alt_names": [],
+            "latitude": 45.30083,
+            "longitude": 13.82306,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040020,
+            "name": "Kaštelir-Labinci",
+            "alt_names": [],
+            "latitude": 45.30277,
+            "longitude": 13.68841,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040021,
+            "name": "Labin",
+            "alt_names": [],
+            "latitude": 45.095,
+            "longitude": 14.11972,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040022,
+            "name": "Ližnjan",
+            "alt_names": [],
+            "latitude": 44.82833,
+            "longitude": 13.95694,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040023,
+            "name": "Ližnjan-Lisignano",
+            "alt_names": [],
+            "latitude": 44.82765,
+            "longitude": 13.96028,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040024,
+            "name": "Lupoglav",
+            "alt_names": [],
+            "latitude": 45.35204,
+            "longitude": 14.10846,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040025,
+            "name": "Marčana",
+            "alt_names": [],
+            "latitude": 44.95528,
+            "longitude": 13.95389,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040026,
+            "name": "Medulin",
+            "alt_names": [],
+            "latitude": 44.8225,
+            "longitude": 13.935,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040027,
+            "name": "Motovun",
+            "alt_names": [],
+            "latitude": 45.33667,
+            "longitude": 13.82861,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040028,
+            "name": "Motovun-Montona",
+            "alt_names": [],
+            "latitude": 45.33633,
+            "longitude": 13.82977,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040029,
+            "name": "Novigrad",
+            "alt_names": [],
+            "latitude": 45.315,
+            "longitude": 13.55806,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040030,
+            "name": "Novigrad-Cittanova",
+            "alt_names": [],
+            "latitude": 45.31669,
+            "longitude": 13.56155,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040031,
+            "name": "Općina Lanišće",
+            "alt_names": [],
+            "latitude": 45.4352,
+            "longitude": 14.08196,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040032,
+            "name": "Oprtalj-Portole",
+            "alt_names": [],
+            "latitude": 45.38226,
+            "longitude": 13.82406,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040033,
+            "name": "Pazin",
+            "alt_names": [],
+            "latitude": 45.24028,
+            "longitude": 13.93667,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040034,
+            "name": "Poreč",
+            "alt_names": [],
+            "latitude": 45.22567,
+            "longitude": 13.59511,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040035,
+            "name": "Poreč-Parenzo",
+            "alt_names": [],
+            "latitude": 45.22717,
+            "longitude": 13.59653,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040036,
+            "name": "Pula",
+            "alt_names": [],
+            "latitude": 44.86833,
+            "longitude": 13.84806,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040037,
+            "name": "Pula-Pola",
+            "alt_names": [],
+            "latitude": 44.86711,
+            "longitude": 13.84882,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040038,
+            "name": "Rabac",
+            "alt_names": [],
+            "latitude": 45.07944,
+            "longitude": 14.1575,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040039,
+            "name": "Raša",
+            "alt_names": [],
+            "latitude": 45.08028,
+            "longitude": 14.07889,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040040,
+            "name": "Rovinj",
+            "alt_names": [],
+            "latitude": 45.08,
+            "longitude": 13.64,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040041,
+            "name": "Rovinj-Rovigno",
+            "alt_names": [],
+            "latitude": 45.0819,
+            "longitude": 13.6397,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040042,
+            "name": "Sveta Nedelja",
+            "alt_names": [],
+            "latitude": 45.14932,
+            "longitude": 14.09889,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040043,
+            "name": "Sveti Lovreč",
+            "alt_names": [],
+            "latitude": 45.1777,
+            "longitude": 13.74317,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040044,
+            "name": "Tar",
+            "alt_names": [],
+            "latitude": 45.30083,
+            "longitude": 13.62528,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040045,
+            "name": "Tar-Vabriga-Torre Abrega",
+            "alt_names": [],
+            "latitude": 45.29946,
+            "longitude": 13.62489,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040046,
+            "name": "Umag",
+            "alt_names": [],
+            "latitude": 45.43139,
+            "longitude": 13.52389,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040047,
+            "name": "Umag-Umago",
+            "alt_names": [],
+            "latitude": 45.43462,
+            "longitude": 13.52589,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040048,
+            "name": "Valbandon",
+            "alt_names": [],
+            "latitude": 44.91879,
+            "longitude": 13.81344,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040049,
+            "name": "Vinež",
+            "alt_names": [],
+            "latitude": 45.09806,
+            "longitude": 14.10694,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040050,
+            "name": "Višnjan-Visignano",
+            "alt_names": [],
+            "latitude": 45.27614,
+            "longitude": 13.72128,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040051,
+            "name": "Vižinada-Visinada",
+            "alt_names": [],
+            "latitude": 45.33126,
+            "longitude": 13.75943,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040052,
+            "name": "Vodnjan",
+            "alt_names": [],
+            "latitude": 44.95944,
+            "longitude": 13.85167,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040053,
+            "name": "Vodnjan-Dignano",
+            "alt_names": [],
+            "latitude": 44.96187,
+            "longitude": 13.85041,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040054,
+            "name": "Vrsar",
+            "alt_names": [],
+            "latitude": 45.14917,
+            "longitude": 13.60528,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040055,
+            "name": "Vrsar-Orsera",
+            "alt_names": [],
+            "latitude": 45.15074,
+            "longitude": 13.60558,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 540040056,
+            "name": "Žminj",
+            "alt_names": [],
+            "latitude": 45.14278,
+            "longitude": 13.90889,
+            "timezone": {
+                "zoneName": "Europe/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

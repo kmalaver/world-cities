@@ -1,0 +1,1663 @@
+{
+    "id": 214001,
+    "name": "Aargau",
+    "alt_names": [],
+    "state_code": "AG",
+    "latitude": 47.3876664,
+    "longitude": 8.2554295,
+    "type": "canton",
+    "cities": [
+        {
+            "id": 2140010001,
+            "name": "Aarau",
+            "alt_names": [],
+            "latitude": 47.39254,
+            "longitude": 8.04422,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010002,
+            "name": "Aarburg",
+            "alt_names": [],
+            "latitude": 47.32067,
+            "longitude": 7.89986,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010003,
+            "name": "Aristau",
+            "alt_names": [],
+            "latitude": 47.28692,
+            "longitude": 8.36356,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010004,
+            "name": "Auw",
+            "alt_names": [],
+            "latitude": 47.21082,
+            "longitude": 8.36583,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010005,
+            "name": "Bad Zurzach",
+            "alt_names": [],
+            "latitude": 47.58764,
+            "longitude": 8.29365,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010006,
+            "name": "Baden",
+            "alt_names": [],
+            "latitude": 47.47333,
+            "longitude": 8.30592,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010007,
+            "name": "Berikon",
+            "alt_names": [],
+            "latitude": 47.35155,
+            "longitude": 8.37232,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010008,
+            "name": "Besenbüren",
+            "alt_names": [],
+            "latitude": 47.31439,
+            "longitude": 8.34586,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010009,
+            "name": "Bezirk Aarau",
+            "alt_names": [],
+            "latitude": 47.37706,
+            "longitude": 8.05235,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010010,
+            "name": "Bezirk Baden",
+            "alt_names": [],
+            "latitude": 47.4566,
+            "longitude": 8.30059,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010011,
+            "name": "Bezirk Bremgarten",
+            "alt_names": [],
+            "latitude": 47.34927,
+            "longitude": 8.33343,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010012,
+            "name": "Bezirk Brugg",
+            "alt_names": [],
+            "latitude": 47.47776,
+            "longitude": 8.17798,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010013,
+            "name": "Bezirk Kulm",
+            "alt_names": [],
+            "latitude": 47.28757,
+            "longitude": 8.13302,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010014,
+            "name": "Bezirk Laufenburg",
+            "alt_names": [],
+            "latitude": 47.51844,
+            "longitude": 8.03878,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010015,
+            "name": "Bezirk Lenzburg",
+            "alt_names": [],
+            "latitude": 47.37184,
+            "longitude": 8.1891,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010016,
+            "name": "Bezirk Muri",
+            "alt_names": [],
+            "latitude": 47.25233,
+            "longitude": 8.35362,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010017,
+            "name": "Bezirk Rheinfelden",
+            "alt_names": [],
+            "latitude": 47.54048,
+            "longitude": 7.83331,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010018,
+            "name": "Bezirk Zofingen",
+            "alt_names": [],
+            "latitude": 47.28864,
+            "longitude": 7.95697,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010019,
+            "name": "Bezirk Zurzach",
+            "alt_names": [],
+            "latitude": 47.56182,
+            "longitude": 8.2802,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010020,
+            "name": "Birmenstorf",
+            "alt_names": [],
+            "latitude": 47.46152,
+            "longitude": 8.24816,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010021,
+            "name": "Birr",
+            "alt_names": [],
+            "latitude": 47.43432,
+            "longitude": 8.20891,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010022,
+            "name": "Boniswil",
+            "alt_names": [],
+            "latitude": 47.31725,
+            "longitude": 8.18963,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010023,
+            "name": "Bremgarten",
+            "alt_names": [],
+            "latitude": 47.35109,
+            "longitude": 8.34214,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010024,
+            "name": "Brittnau",
+            "alt_names": [],
+            "latitude": 47.25954,
+            "longitude": 7.94689,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010025,
+            "name": "Brugg",
+            "alt_names": [],
+            "latitude": 47.48096,
+            "longitude": 8.20869,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010026,
+            "name": "Buchs",
+            "alt_names": [],
+            "latitude": 47.39358,
+            "longitude": 8.08233,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010027,
+            "name": "Buttwil",
+            "alt_names": [],
+            "latitude": 47.26828,
+            "longitude": 8.31064,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010028,
+            "name": "Densbüren",
+            "alt_names": [],
+            "latitude": 47.4526,
+            "longitude": 8.0533,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010029,
+            "name": "Dottikon",
+            "alt_names": [],
+            "latitude": 47.38437,
+            "longitude": 8.23981,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010030,
+            "name": "Dürrenäsch",
+            "alt_names": [],
+            "latitude": 47.32094,
+            "longitude": 8.15874,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010031,
+            "name": "Egliswil",
+            "alt_names": [],
+            "latitude": 47.34922,
+            "longitude": 8.18553,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010032,
+            "name": "Ehrendingen",
+            "alt_names": [],
+            "latitude": 47.5025,
+            "longitude": 8.34729,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010033,
+            "name": "Eiken",
+            "alt_names": [],
+            "latitude": 47.53361,
+            "longitude": 7.98801,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010034,
+            "name": "Endingen",
+            "alt_names": [],
+            "latitude": 47.53742,
+            "longitude": 8.29036,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010035,
+            "name": "Frick",
+            "alt_names": [],
+            "latitude": 47.51169,
+            "longitude": 8.02471,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010036,
+            "name": "Gebenstorf",
+            "alt_names": [],
+            "latitude": 47.48136,
+            "longitude": 8.23949,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010037,
+            "name": "Gipf-Oberfrick",
+            "alt_names": [],
+            "latitude": 47.49875,
+            "longitude": 8.00497,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010038,
+            "name": "Gontenschwil",
+            "alt_names": [],
+            "latitude": 47.27166,
+            "longitude": 8.14396,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010039,
+            "name": "Gränichen",
+            "alt_names": [],
+            "latitude": 47.3593,
+            "longitude": 8.10243,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010040,
+            "name": "Hägglingen",
+            "alt_names": [],
+            "latitude": 47.38851,
+            "longitude": 8.25285,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010041,
+            "name": "Hausen",
+            "alt_names": [],
+            "latitude": 47.46396,
+            "longitude": 8.20988,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010042,
+            "name": "Jonen",
+            "alt_names": [],
+            "latitude": 47.2975,
+            "longitude": 8.39282,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010043,
+            "name": "Kaiseraugst",
+            "alt_names": [],
+            "latitude": 47.53966,
+            "longitude": 7.72605,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010044,
+            "name": "Kaisten",
+            "alt_names": [],
+            "latitude": 47.5416,
+            "longitude": 8.04337,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010045,
+            "name": "Killwangen",
+            "alt_names": [],
+            "latitude": 47.43223,
+            "longitude": 8.35097,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010046,
+            "name": "Klingnau",
+            "alt_names": [],
+            "latitude": 47.58361,
+            "longitude": 8.2488,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010047,
+            "name": "Koblenz",
+            "alt_names": [],
+            "latitude": 47.60972,
+            "longitude": 8.2375,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010048,
+            "name": "Kölliken",
+            "alt_names": [],
+            "latitude": 47.33337,
+            "longitude": 8.02237,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010049,
+            "name": "Künten",
+            "alt_names": [],
+            "latitude": 47.38887,
+            "longitude": 8.33045,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010050,
+            "name": "Küttigen",
+            "alt_names": [],
+            "latitude": 47.41484,
+            "longitude": 8.04979,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010051,
+            "name": "Laufenburg",
+            "alt_names": [],
+            "latitude": 47.55985,
+            "longitude": 8.06225,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010052,
+            "name": "Lauffohr (Brugg)",
+            "alt_names": [],
+            "latitude": 47.50154,
+            "longitude": 8.23122,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010053,
+            "name": "Leibstadt",
+            "alt_names": [],
+            "latitude": 47.5879,
+            "longitude": 8.17611,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010054,
+            "name": "Lenzburg",
+            "alt_names": [],
+            "latitude": 47.38853,
+            "longitude": 8.17503,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010055,
+            "name": "Magden",
+            "alt_names": [],
+            "latitude": 47.52868,
+            "longitude": 7.81128,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010056,
+            "name": "Meisterschwanden",
+            "alt_names": [],
+            "latitude": 47.29489,
+            "longitude": 8.22867,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010057,
+            "name": "Mellingen",
+            "alt_names": [],
+            "latitude": 47.41903,
+            "longitude": 8.27331,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010058,
+            "name": "Menziken",
+            "alt_names": [],
+            "latitude": 47.23965,
+            "longitude": 8.18996,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010059,
+            "name": "Merenschwand",
+            "alt_names": [],
+            "latitude": 47.25944,
+            "longitude": 8.37633,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010060,
+            "name": "Möhlin",
+            "alt_names": [],
+            "latitude": 47.55915,
+            "longitude": 7.84329,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010061,
+            "name": "Muhen",
+            "alt_names": [],
+            "latitude": 47.33578,
+            "longitude": 8.05536,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010062,
+            "name": "Mumpf",
+            "alt_names": [],
+            "latitude": 47.54563,
+            "longitude": 7.92123,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010063,
+            "name": "Murgenthal",
+            "alt_names": [],
+            "latitude": 47.27145,
+            "longitude": 7.83935,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010064,
+            "name": "Muri",
+            "alt_names": [],
+            "latitude": 47.27428,
+            "longitude": 8.33854,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010065,
+            "name": "Neuenhof",
+            "alt_names": [],
+            "latitude": 47.44985,
+            "longitude": 8.32682,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010066,
+            "name": "Niederlenz",
+            "alt_names": [],
+            "latitude": 47.40079,
+            "longitude": 8.1764,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010067,
+            "name": "Niederrohrdorf",
+            "alt_names": [],
+            "latitude": 47.42409,
+            "longitude": 8.30404,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010068,
+            "name": "Oberentfelden",
+            "alt_names": [],
+            "latitude": 47.35639,
+            "longitude": 8.04594,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010069,
+            "name": "Oberlunkhofen",
+            "alt_names": [],
+            "latitude": 47.31244,
+            "longitude": 8.39242,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010070,
+            "name": "Oberrohrdorf",
+            "alt_names": [],
+            "latitude": 47.41833,
+            "longitude": 8.31983,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010071,
+            "name": "Oberrüti",
+            "alt_names": [],
+            "latitude": 47.16673,
+            "longitude": 8.39441,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010072,
+            "name": "Obersiggenthal",
+            "alt_names": [],
+            "latitude": 47.4875,
+            "longitude": 8.29652,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010073,
+            "name": "Oftringen",
+            "alt_names": [],
+            "latitude": 47.31382,
+            "longitude": 7.92533,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010074,
+            "name": "Othmarsingen",
+            "alt_names": [],
+            "latitude": 47.40125,
+            "longitude": 8.21383,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010075,
+            "name": "Reinach",
+            "alt_names": [],
+            "latitude": 47.25732,
+            "longitude": 8.18091,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010076,
+            "name": "Rheinfelden",
+            "alt_names": [],
+            "latitude": 47.55437,
+            "longitude": 7.79403,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010077,
+            "name": "Rothrist",
+            "alt_names": [],
+            "latitude": 47.30508,
+            "longitude": 7.89196,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010078,
+            "name": "Rudolfstetten",
+            "alt_names": [],
+            "latitude": 47.37101,
+            "longitude": 8.38083,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010079,
+            "name": "Rupperswil",
+            "alt_names": [],
+            "latitude": 47.40131,
+            "longitude": 8.12877,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010080,
+            "name": "Safenwil",
+            "alt_names": [],
+            "latitude": 47.32163,
+            "longitude": 7.98254,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010081,
+            "name": "Sarmenstorf",
+            "alt_names": [],
+            "latitude": 47.31109,
+            "longitude": 8.2495,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010082,
+            "name": "Schafisheim",
+            "alt_names": [],
+            "latitude": 47.37664,
+            "longitude": 8.14263,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010083,
+            "name": "Schinznach Bad",
+            "alt_names": [],
+            "latitude": 47.44992,
+            "longitude": 8.16833,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010084,
+            "name": "Schinznach Dorf",
+            "alt_names": [],
+            "latitude": 47.4465,
+            "longitude": 8.14089,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010085,
+            "name": "Schöftland",
+            "alt_names": [],
+            "latitude": 47.3059,
+            "longitude": 8.05119,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010086,
+            "name": "Schwaderloch",
+            "alt_names": [],
+            "latitude": 47.58541,
+            "longitude": 8.14455,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010087,
+            "name": "Seengen",
+            "alt_names": [],
+            "latitude": 47.32503,
+            "longitude": 8.20724,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010088,
+            "name": "Seon",
+            "alt_names": [],
+            "latitude": 47.34848,
+            "longitude": 8.16072,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010089,
+            "name": "Sins",
+            "alt_names": [],
+            "latitude": 47.19296,
+            "longitude": 8.39384,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010090,
+            "name": "Spreitenbach",
+            "alt_names": [],
+            "latitude": 47.42285,
+            "longitude": 8.36792,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010091,
+            "name": "Staffelbach",
+            "alt_names": [],
+            "latitude": 47.28395,
+            "longitude": 8.04208,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010092,
+            "name": "Staufen",
+            "alt_names": [],
+            "latitude": 47.38197,
+            "longitude": 8.16681,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010093,
+            "name": "Stein",
+            "alt_names": [],
+            "latitude": 47.54403,
+            "longitude": 7.95256,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010094,
+            "name": "Strengelbach",
+            "alt_names": [],
+            "latitude": 47.27917,
+            "longitude": 7.92895,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010095,
+            "name": "Suhr",
+            "alt_names": [],
+            "latitude": 47.37172,
+            "longitude": 8.07967,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010096,
+            "name": "Sulz",
+            "alt_names": [],
+            "latitude": 47.53602,
+            "longitude": 8.09628,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010097,
+            "name": "Tegerfelden",
+            "alt_names": [],
+            "latitude": 47.55809,
+            "longitude": 8.28914,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010098,
+            "name": "Teufenthal",
+            "alt_names": [],
+            "latitude": 47.32896,
+            "longitude": 8.11777,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010099,
+            "name": "Turgi",
+            "alt_names": [],
+            "latitude": 47.49201,
+            "longitude": 8.25412,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010100,
+            "name": "Uerkheim",
+            "alt_names": [],
+            "latitude": 47.30353,
+            "longitude": 8.0232,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010101,
+            "name": "Unterkulm",
+            "alt_names": [],
+            "latitude": 47.30998,
+            "longitude": 8.11371,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010102,
+            "name": "Unterlunkhofen",
+            "alt_names": [],
+            "latitude": 47.3212,
+            "longitude": 8.38102,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010103,
+            "name": "Untersiggenthal",
+            "alt_names": [],
+            "latitude": 47.50213,
+            "longitude": 8.25554,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010104,
+            "name": "Veltheim",
+            "alt_names": [],
+            "latitude": 47.43796,
+            "longitude": 8.14722,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010105,
+            "name": "Villigen",
+            "alt_names": [],
+            "latitude": 47.52682,
+            "longitude": 8.21486,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010106,
+            "name": "Villmergen",
+            "alt_names": [],
+            "latitude": 47.35009,
+            "longitude": 8.24762,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010107,
+            "name": "Villnachern",
+            "alt_names": [],
+            "latitude": 47.47098,
+            "longitude": 8.15975,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010108,
+            "name": "Vordemwald",
+            "alt_names": [],
+            "latitude": 47.27585,
+            "longitude": 7.90114,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010109,
+            "name": "Waltenschwil",
+            "alt_names": [],
+            "latitude": 47.33339,
+            "longitude": 8.29791,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010110,
+            "name": "Wegenstetten",
+            "alt_names": [],
+            "latitude": 47.49797,
+            "longitude": 7.93141,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010111,
+            "name": "Wettingen",
+            "alt_names": [],
+            "latitude": 47.47049,
+            "longitude": 8.31636,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010112,
+            "name": "Windisch",
+            "alt_names": [],
+            "latitude": 47.47899,
+            "longitude": 8.21842,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010113,
+            "name": "Wittnau",
+            "alt_names": [],
+            "latitude": 47.48139,
+            "longitude": 7.97577,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010114,
+            "name": "Wohlen",
+            "alt_names": [],
+            "latitude": 47.35066,
+            "longitude": 8.27517,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010115,
+            "name": "Wölflinswil",
+            "alt_names": [],
+            "latitude": 47.4607,
+            "longitude": 7.99835,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010116,
+            "name": "Würenlingen",
+            "alt_names": [],
+            "latitude": 47.53356,
+            "longitude": 8.25666,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010117,
+            "name": "Würenlos",
+            "alt_names": [],
+            "latitude": 47.44205,
+            "longitude": 8.36261,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2140010118,
+            "name": "Zofingen",
+            "alt_names": [],
+            "latitude": 47.28779,
+            "longitude": 7.94586,
+            "timezone": {
+                "zoneName": "Europe/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

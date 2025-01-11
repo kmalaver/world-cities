@@ -1,0 +1,67 @@
+{
+    "id": 210009,
+    "name": "North Kordofan",
+    "alt_names": [],
+    "state_code": "KN",
+    "latitude": 13.8306441,
+    "longitude": 29.4179324,
+    "type": "state",
+    "cities": [
+        {
+            "id": 2100090001,
+            "name": "Ar Rahad",
+            "alt_names": [],
+            "latitude": 12.71667,
+            "longitude": 30.65,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100090002,
+            "name": "Bārah",
+            "alt_names": [],
+            "latitude": 13.7,
+            "longitude": 30.36667,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100090003,
+            "name": "El Obeid",
+            "alt_names": [],
+            "latitude": 13.18421,
+            "longitude": 30.21669,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        },
+        {
+            "id": 2100090004,
+            "name": "Umm Ruwaba",
+            "alt_names": [],
+            "latitude": 12.9061,
+            "longitude": 31.2158,
+            "timezone": {
+                "zoneName": "Africa/Khartoum",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EAT",
+                "tzName": "Eastern African Time"
+            }
+        }
+    ]
+}

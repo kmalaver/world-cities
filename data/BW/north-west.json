@@ -1,0 +1,81 @@
+{
+    "id": 29008,
+    "name": "North-West",
+    "alt_names": [],
+    "state_code": "NW",
+    "latitude": 39.3446307,
+    "longitude": -76.6854283,
+    "type": "district",
+    "cities": [
+        {
+            "id": 290080001,
+            "name": "Maun",
+            "alt_names": [],
+            "latitude": -19.98333,
+            "longitude": 23.41667,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290080002,
+            "name": "Nokaneng",
+            "alt_names": [],
+            "latitude": -19.66667,
+            "longitude": 22.26667,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290080003,
+            "name": "Pandamatenga",
+            "alt_names": [],
+            "latitude": -18.52779,
+            "longitude": 25.62698,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290080004,
+            "name": "Sehithwa",
+            "alt_names": [],
+            "latitude": -20.46667,
+            "longitude": 22.71667,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 290080005,
+            "name": "Shakawe",
+            "alt_names": [],
+            "latitude": -18.36536,
+            "longitude": 21.84219,
+            "timezone": {
+                "zoneName": "Africa/Gaborone",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

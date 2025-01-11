@@ -1,0 +1,53 @@
+{
+    "id": 110003,
+    "name": "St Clement",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 49.1696579,
+    "longitude": -2.0883934,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1100030001,
+            "name": "Grande Vingtaine",
+            "alt_names": [],
+            "latitude": 49.1720713,
+            "longitude": -2.0619937,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100030002,
+            "name": "Vingtaine de Samarès",
+            "alt_names": [],
+            "latitude": 49.1649758,
+            "longitude": -2.0988029,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100030003,
+            "name": "Vingtaine du Rocquier",
+            "alt_names": [],
+            "latitude": 49.1670818,
+            "longitude": -2.0505807,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

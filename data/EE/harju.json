@@ -1,0 +1,501 @@
+{
+    "id": 69001,
+    "name": "Harju",
+    "alt_names": [],
+    "state_code": "37",
+    "latitude": 59.3334239,
+    "longitude": 25.2466974,
+    "type": "county",
+    "cities": [
+        {
+            "id": 690010001,
+            "name": "Anija vald",
+            "alt_names": [],
+            "latitude": 59.27644,
+            "longitude": 25.48168,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010002,
+            "name": "Aruküla",
+            "alt_names": [],
+            "latitude": 59.36686,
+            "longitude": 25.07618,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010003,
+            "name": "Haabneeme",
+            "alt_names": [],
+            "latitude": 59.51358,
+            "longitude": 24.82225,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010004,
+            "name": "Harku",
+            "alt_names": [],
+            "latitude": 59.38641,
+            "longitude": 24.57176,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010005,
+            "name": "Harku vald",
+            "alt_names": [],
+            "latitude": 59.39157,
+            "longitude": 24.46206,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010006,
+            "name": "Jõelähtme vald",
+            "alt_names": [],
+            "latitude": 59.43996,
+            "longitude": 25.13535,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010007,
+            "name": "Jüri",
+            "alt_names": [],
+            "latitude": 59.35417,
+            "longitude": 24.89417,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010008,
+            "name": "Kehra",
+            "alt_names": [],
+            "latitude": 59.33611,
+            "longitude": 25.32111,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010009,
+            "name": "Keila",
+            "alt_names": [],
+            "latitude": 59.30361,
+            "longitude": 24.41306,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010010,
+            "name": "Kiili",
+            "alt_names": [],
+            "latitude": 59.30775,
+            "longitude": 24.83776,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010011,
+            "name": "Kiili vald",
+            "alt_names": [],
+            "latitude": 59.29672,
+            "longitude": 24.85292,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010012,
+            "name": "Kose",
+            "alt_names": [],
+            "latitude": 59.46001,
+            "longitude": 24.87824,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010013,
+            "name": "Kuusalu",
+            "alt_names": [],
+            "latitude": 59.44389,
+            "longitude": 25.44139,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010014,
+            "name": "Laagri",
+            "alt_names": [],
+            "latitude": 59.35083,
+            "longitude": 24.61418,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010015,
+            "name": "Loksa",
+            "alt_names": [],
+            "latitude": 59.57639,
+            "longitude": 25.72139,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010016,
+            "name": "Loksa linn",
+            "alt_names": [],
+            "latitude": 59.57844,
+            "longitude": 25.71667,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010017,
+            "name": "Loo",
+            "alt_names": [],
+            "latitude": 59.43123,
+            "longitude": 24.94949,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010018,
+            "name": "Maardu",
+            "alt_names": [],
+            "latitude": 59.46529,
+            "longitude": 24.98215,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010019,
+            "name": "Maardu linn",
+            "alt_names": [],
+            "latitude": 59.46385,
+            "longitude": 24.9735,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010020,
+            "name": "Paldiski",
+            "alt_names": [],
+            "latitude": 59.35667,
+            "longitude": 24.05306,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010021,
+            "name": "Pringi",
+            "alt_names": [],
+            "latitude": 59.53459,
+            "longitude": 24.79726,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010022,
+            "name": "Raasiku",
+            "alt_names": [],
+            "latitude": 59.36639,
+            "longitude": 25.18306,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010023,
+            "name": "Rae vald",
+            "alt_names": [],
+            "latitude": 59.33202,
+            "longitude": 24.93932,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010024,
+            "name": "Riisipere",
+            "alt_names": [],
+            "latitude": 59.11417,
+            "longitude": 24.31056,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010025,
+            "name": "Rummu",
+            "alt_names": [],
+            "latitude": 59.53528,
+            "longitude": 24.79972,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010026,
+            "name": "Saku",
+            "alt_names": [],
+            "latitude": 59.30354,
+            "longitude": 24.66382,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010027,
+            "name": "Saku vald",
+            "alt_names": [],
+            "latitude": 59.28069,
+            "longitude": 24.71649,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010028,
+            "name": "Saue",
+            "alt_names": [],
+            "latitude": 59.32258,
+            "longitude": 24.54967,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010029,
+            "name": "Saue vald",
+            "alt_names": [],
+            "latitude": 59.29255,
+            "longitude": 24.52503,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010030,
+            "name": "Tabasalu",
+            "alt_names": [],
+            "latitude": 59.42607,
+            "longitude": 24.5533,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010031,
+            "name": "Tallinn",
+            "alt_names": [],
+            "latitude": 59.43696,
+            "longitude": 24.75353,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010032,
+            "name": "Turba",
+            "alt_names": [],
+            "latitude": 59.08306,
+            "longitude": 24.225,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010033,
+            "name": "Vaida",
+            "alt_names": [],
+            "latitude": 59.28546,
+            "longitude": 24.97897,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010034,
+            "name": "Viimsi",
+            "alt_names": [],
+            "latitude": 59.50502,
+            "longitude": 24.84807,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 690010035,
+            "name": "Viimsi vald",
+            "alt_names": [],
+            "latitude": 59.50204,
+            "longitude": 24.84833,
+            "timezone": {
+                "zoneName": "Europe/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

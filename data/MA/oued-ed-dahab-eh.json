@@ -1,0 +1,53 @@
+{
+    "id": 147058,
+    "name": "Oued Ed-Dahab (EH)",
+    "alt_names": [],
+    "state_code": "OUD",
+    "latitude": 22.7337892,
+    "longitude": -14.2861116,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1470580001,
+            "name": "Aousserd",
+            "alt_names": [],
+            "latitude": 21.91977,
+            "longitude": -15.02068,
+            "timezone": {
+                "zoneName": "Africa/Casablanca",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WEST",
+                "tzName": "Western European Summer Time"
+            }
+        },
+        {
+            "id": 1470580002,
+            "name": "Imlili",
+            "alt_names": [],
+            "latitude": 22.6558,
+            "longitude": -15.60719,
+            "timezone": {
+                "zoneName": "Africa/Casablanca",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WEST",
+                "tzName": "Western European Summer Time"
+            }
+        },
+        {
+            "id": 1470580003,
+            "name": "Oued-Ed-Dahab",
+            "alt_names": [],
+            "latitude": 23.64201,
+            "longitude": -14.44934,
+            "timezone": {
+                "zoneName": "Africa/Casablanca",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WEST",
+                "tzName": "Western European Summer Time"
+            }
+        }
+    ]
+}

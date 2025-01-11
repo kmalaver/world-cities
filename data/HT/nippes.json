@@ -1,0 +1,67 @@
+{
+    "id": 95004,
+    "name": "Nippes",
+    "alt_names": [],
+    "state_code": "NI",
+    "latitude": 18.3990735,
+    "longitude": -73.4180211,
+    "type": "department",
+    "cities": [
+        {
+            "id": 950040001,
+            "name": "Ansavo",
+            "alt_names": [],
+            "latitude": 18.41667,
+            "longitude": -73.5,
+            "timezone": {
+                "zoneName": "America/Port-au-Prince",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 950040002,
+            "name": "Baradères",
+            "alt_names": [],
+            "latitude": 18.48255,
+            "longitude": -73.63884,
+            "timezone": {
+                "zoneName": "America/Port-au-Prince",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 950040003,
+            "name": "Miragoâne",
+            "alt_names": [],
+            "latitude": 18.44599,
+            "longitude": -73.08957,
+            "timezone": {
+                "zoneName": "America/Port-au-Prince",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        },
+        {
+            "id": 950040004,
+            "name": "Petit Trou de Nippes",
+            "alt_names": [],
+            "latitude": 18.52535,
+            "longitude": -73.50815,
+            "timezone": {
+                "zoneName": "America/Port-au-Prince",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 43023,
+    "name": "Wadi Fira",
+    "alt_names": [],
+    "state_code": "WF",
+    "latitude": 15.0892416,
+    "longitude": 21.4752851,
+    "type": "province",
+    "cities": [
+        {
+            "id": 430230001,
+            "name": "Biltine",
+            "alt_names": [],
+            "latitude": 14.52791,
+            "longitude": 20.92749,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 430230002,
+            "name": "Iriba",
+            "alt_names": [],
+            "latitude": 15.11667,
+            "longitude": 22.25,
+            "timezone": {
+                "zoneName": "Africa/Ndjamena",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

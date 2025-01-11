@@ -1,0 +1,4407 @@
+{
+    "id": 175012,
+    "name": "Silesia",
+    "alt_names": [],
+    "state_code": "24",
+    "latitude": 50.5716595,
+    "longitude": 19.3219768,
+    "type": "voivodship",
+    "cities": [
+        {
+            "id": 1750120001,
+            "name": "Bąków",
+            "alt_names": [],
+            "latitude": 49.89342,
+            "longitude": 18.71495,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120002,
+            "name": "Bażanowice",
+            "alt_names": [],
+            "latitude": 49.73791,
+            "longitude": 18.70345,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120003,
+            "name": "Będzin",
+            "alt_names": [],
+            "latitude": 50.32607,
+            "longitude": 19.12565,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120004,
+            "name": "Bełk",
+            "alt_names": [],
+            "latitude": 50.13048,
+            "longitude": 18.71667,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120005,
+            "name": "Bełsznica",
+            "alt_names": [],
+            "latitude": 49.97811,
+            "longitude": 18.36313,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120006,
+            "name": "Bestwina",
+            "alt_names": [],
+            "latitude": 49.89712,
+            "longitude": 19.05776,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120007,
+            "name": "Bestwinka",
+            "alt_names": [],
+            "latitude": 49.93272,
+            "longitude": 19.06694,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120008,
+            "name": "Bielsko-Biala",
+            "alt_names": [],
+            "latitude": 49.82245,
+            "longitude": 19.04686,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120009,
+            "name": "Bielsko-Biała",
+            "alt_names": [],
+            "latitude": 49.81204,
+            "longitude": 19.03899,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120010,
+            "name": "Bieruń",
+            "alt_names": [],
+            "latitude": 50.09,
+            "longitude": 19.09291,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120011,
+            "name": "Blachownia",
+            "alt_names": [],
+            "latitude": 50.78015,
+            "longitude": 18.96389,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120012,
+            "name": "Bobrowniki",
+            "alt_names": [],
+            "latitude": 50.37985,
+            "longitude": 18.98661,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120013,
+            "name": "Bojszowy",
+            "alt_names": [],
+            "latitude": 50.0578,
+            "longitude": 19.10145,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120014,
+            "name": "Bojszowy Nowe",
+            "alt_names": [],
+            "latitude": 50.05284,
+            "longitude": 19.05012,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120015,
+            "name": "Boronów",
+            "alt_names": [],
+            "latitude": 50.6746,
+            "longitude": 18.90678,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120016,
+            "name": "Borowno",
+            "alt_names": [],
+            "latitude": 50.93247,
+            "longitude": 19.2738,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120017,
+            "name": "Borucin",
+            "alt_names": [],
+            "latitude": 50.00763,
+            "longitude": 18.15748,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120018,
+            "name": "Brenna",
+            "alt_names": [],
+            "latitude": 49.72576,
+            "longitude": 18.90249,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120019,
+            "name": "Bronów",
+            "alt_names": [],
+            "latitude": 49.87782,
+            "longitude": 18.92103,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120020,
+            "name": "Brzeziny Śląskie",
+            "alt_names": [],
+            "latitude": 50.35439,
+            "longitude": 18.98129,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120021,
+            "name": "Buczkowice",
+            "alt_names": [],
+            "latitude": 49.72858,
+            "longitude": 19.06908,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120022,
+            "name": "Bujaków",
+            "alt_names": [],
+            "latitude": 49.85182,
+            "longitude": 19.19432,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120023,
+            "name": "Bystra",
+            "alt_names": [],
+            "latitude": 49.76042,
+            "longitude": 19.05973,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120024,
+            "name": "Bytom",
+            "alt_names": [],
+            "latitude": 50.34802,
+            "longitude": 18.93282,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120025,
+            "name": "Chałupki",
+            "alt_names": [],
+            "latitude": 49.92559,
+            "longitude": 18.3173,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120026,
+            "name": "Chełm Śląski",
+            "alt_names": [],
+            "latitude": 50.10825,
+            "longitude": 19.19552,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120027,
+            "name": "Choroń",
+            "alt_names": [],
+            "latitude": 50.68178,
+            "longitude": 19.26058,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120028,
+            "name": "Chorzów",
+            "alt_names": [],
+            "latitude": 50.30582,
+            "longitude": 18.9742,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120029,
+            "name": "Chruszczobród",
+            "alt_names": [],
+            "latitude": 50.4147,
+            "longitude": 19.32718,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120030,
+            "name": "Chybie",
+            "alt_names": [],
+            "latitude": 49.90249,
+            "longitude": 18.82756,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120031,
+            "name": "Ciasna",
+            "alt_names": [],
+            "latitude": 50.75427,
+            "longitude": 18.60835,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120032,
+            "name": "Cięcina",
+            "alt_names": [],
+            "latitude": 49.6022,
+            "longitude": 19.14102,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120033,
+            "name": "Cielmice",
+            "alt_names": [],
+            "latitude": 50.08826,
+            "longitude": 19.01896,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120034,
+            "name": "Cieszyn",
+            "alt_names": [],
+            "latitude": 49.75133,
+            "longitude": 18.63213,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120035,
+            "name": "Cisiec",
+            "alt_names": [],
+            "latitude": 49.59213,
+            "longitude": 19.1054,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120036,
+            "name": "Cisownica",
+            "alt_names": [],
+            "latitude": 49.72276,
+            "longitude": 18.76207,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120037,
+            "name": "Cynków",
+            "alt_names": [],
+            "latitude": 50.56203,
+            "longitude": 19.11956,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120038,
+            "name": "Czaniec",
+            "alt_names": [],
+            "latitude": 49.85071,
+            "longitude": 19.25354,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120039,
+            "name": "Czarków",
+            "alt_names": [],
+            "latitude": 50.01833,
+            "longitude": 18.90678,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120040,
+            "name": "Czechowice-Dziedzice",
+            "alt_names": [],
+            "latitude": 49.91342,
+            "longitude": 19.00479,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120041,
+            "name": "Czeladź",
+            "alt_names": [],
+            "latitude": 50.31542,
+            "longitude": 19.07824,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120042,
+            "name": "Czernica",
+            "alt_names": [],
+            "latitude": 50.08391,
+            "longitude": 18.40068,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120043,
+            "name": "Czernichów",
+            "alt_names": [],
+            "latitude": 49.75443,
+            "longitude": 19.20947,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120044,
+            "name": "Czerwionka-Leszczyny",
+            "alt_names": [],
+            "latitude": 50.15007,
+            "longitude": 18.67762,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120045,
+            "name": "Częstochowa",
+            "alt_names": [],
+            "latitude": 50.79646,
+            "longitude": 19.12409,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120046,
+            "name": "Czyżowice",
+            "alt_names": [],
+            "latitude": 49.9849,
+            "longitude": 18.40433,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120047,
+            "name": "Dąbrowa Górnicza",
+            "alt_names": [],
+            "latitude": 50.33394,
+            "longitude": 19.20479,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120048,
+            "name": "Dąbrowa Zielona",
+            "alt_names": [],
+            "latitude": 50.84394,
+            "longitude": 19.55652,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120049,
+            "name": "Dębowiec",
+            "alt_names": [],
+            "latitude": 49.81406,
+            "longitude": 18.72062,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120050,
+            "name": "Dobieszowice",
+            "alt_names": [],
+            "latitude": 50.39697,
+            "longitude": 19.01304,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120051,
+            "name": "Drogomyśl",
+            "alt_names": [],
+            "latitude": 49.86964,
+            "longitude": 18.75727,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120052,
+            "name": "Dzięgielów",
+            "alt_names": [],
+            "latitude": 49.72259,
+            "longitude": 18.70491,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120053,
+            "name": "Frydek",
+            "alt_names": [],
+            "latitude": 49.99626,
+            "longitude": 19.07278,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120054,
+            "name": "Gardawice",
+            "alt_names": [],
+            "latitude": 50.11667,
+            "longitude": 18.8,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120055,
+            "name": "Gaszowice",
+            "alt_names": [],
+            "latitude": 50.10858,
+            "longitude": 18.43042,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120056,
+            "name": "Gierałtowice",
+            "alt_names": [],
+            "latitude": 50.22486,
+            "longitude": 18.73384,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120057,
+            "name": "Gilowice",
+            "alt_names": [],
+            "latitude": 49.99505,
+            "longitude": 19.09613,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120058,
+            "name": "Gliwice",
+            "alt_names": [],
+            "latitude": 50.29761,
+            "longitude": 18.67658,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120059,
+            "name": "Gniazdów",
+            "alt_names": [],
+            "latitude": 50.59621,
+            "longitude": 19.11132,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120060,
+            "name": "Goczałkowice Zdrój",
+            "alt_names": [],
+            "latitude": 49.94454,
+            "longitude": 18.96927,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120061,
+            "name": "Godów",
+            "alt_names": [],
+            "latitude": 49.92481,
+            "longitude": 18.4783,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120062,
+            "name": "Godziszka",
+            "alt_names": [],
+            "latitude": 49.71288,
+            "longitude": 19.07587,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120063,
+            "name": "Goleszów",
+            "alt_names": [],
+            "latitude": 49.7358,
+            "longitude": 18.73675,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120064,
+            "name": "Gołkowice",
+            "alt_names": [],
+            "latitude": 49.91418,
+            "longitude": 18.51419,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120065,
+            "name": "Góra",
+            "alt_names": [],
+            "latitude": 49.97971,
+            "longitude": 19.10471,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120066,
+            "name": "Górki Wielkie",
+            "alt_names": [],
+            "latitude": 49.77971,
+            "longitude": 18.83117,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120067,
+            "name": "Gorzyce",
+            "alt_names": [],
+            "latitude": 49.95945,
+            "longitude": 18.39884,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120068,
+            "name": "Gorzyczki",
+            "alt_names": [],
+            "latitude": 49.94912,
+            "longitude": 18.4033,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120069,
+            "name": "Gostyń",
+            "alt_names": [],
+            "latitude": 50.10528,
+            "longitude": 18.88241,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120070,
+            "name": "Hażlach",
+            "alt_names": [],
+            "latitude": 49.80714,
+            "longitude": 18.65178,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120071,
+            "name": "Herby",
+            "alt_names": [],
+            "latitude": 50.75318,
+            "longitude": 18.88756,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120072,
+            "name": "Huta Stara B",
+            "alt_names": [],
+            "latitude": 50.73792,
+            "longitude": 19.13295,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120073,
+            "name": "Imielin",
+            "alt_names": [],
+            "latitude": 50.14534,
+            "longitude": 19.18599,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120074,
+            "name": "Istebna",
+            "alt_names": [],
+            "latitude": 49.56319,
+            "longitude": 18.90567,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120075,
+            "name": "Jankowice",
+            "alt_names": [],
+            "latitude": 50.0009,
+            "longitude": 18.98901,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120076,
+            "name": "Jankowice Rybnickie",
+            "alt_names": [],
+            "latitude": 50.04479,
+            "longitude": 18.54707,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120077,
+            "name": "Janowice",
+            "alt_names": [],
+            "latitude": 49.88496,
+            "longitude": 19.09376,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120078,
+            "name": "Jasienica",
+            "alt_names": [],
+            "latitude": 49.81312,
+            "longitude": 18.92155,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120079,
+            "name": "Jastrząb",
+            "alt_names": [],
+            "latitude": 50.67019,
+            "longitude": 19.1817,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120080,
+            "name": "Jastrzębie Zdrój",
+            "alt_names": [],
+            "latitude": 49.95542,
+            "longitude": 18.57479,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120081,
+            "name": "Jastrzębie-Zdrój",
+            "alt_names": [],
+            "latitude": 49.96063,
+            "longitude": 18.60053,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120082,
+            "name": "Jaworze",
+            "alt_names": [],
+            "latitude": 49.79351,
+            "longitude": 18.9479,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120083,
+            "name": "Jaworzno",
+            "alt_names": [],
+            "latitude": 50.20528,
+            "longitude": 19.27498,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120084,
+            "name": "Jaworzynka",
+            "alt_names": [],
+            "latitude": 49.54019,
+            "longitude": 18.86996,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120085,
+            "name": "Jejkowice",
+            "alt_names": [],
+            "latitude": 50.10814,
+            "longitude": 18.46767,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120086,
+            "name": "Jeleśnia",
+            "alt_names": [],
+            "latitude": 49.64246,
+            "longitude": 19.32701,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120087,
+            "name": "Juszczyna",
+            "alt_names": [],
+            "latitude": 49.62984,
+            "longitude": 19.22032,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120088,
+            "name": "Kaczyce",
+            "alt_names": [],
+            "latitude": 49.82752,
+            "longitude": 18.59161,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120089,
+            "name": "Kalej",
+            "alt_names": [],
+            "latitude": 50.83662,
+            "longitude": 18.98429,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120090,
+            "name": "Kalety",
+            "alt_names": [],
+            "latitude": 50.5627,
+            "longitude": 18.8926,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120091,
+            "name": "Kamesznica",
+            "alt_names": [],
+            "latitude": 49.56469,
+            "longitude": 19.0212,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120092,
+            "name": "Kamienica Polska",
+            "alt_names": [],
+            "latitude": 50.6709,
+            "longitude": 19.12265,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120093,
+            "name": "Kamyk",
+            "alt_names": [],
+            "latitude": 50.90179,
+            "longitude": 19.02875,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120094,
+            "name": "Kaniów",
+            "alt_names": [],
+            "latitude": 49.94316,
+            "longitude": 19.05098,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120095,
+            "name": "Katowice",
+            "alt_names": [],
+            "latitude": 50.25841,
+            "longitude": 19.02754,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120096,
+            "name": "Kłobuck",
+            "alt_names": [],
+            "latitude": 50.90081,
+            "longitude": 18.93674,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120097,
+            "name": "Kłomnice",
+            "alt_names": [],
+            "latitude": 50.92165,
+            "longitude": 19.35679,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120098,
+            "name": "Knurów",
+            "alt_names": [],
+            "latitude": 50.21971,
+            "longitude": 18.65067,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120099,
+            "name": "Kobiernice",
+            "alt_names": [],
+            "latitude": 49.85497,
+            "longitude": 19.21646,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120100,
+            "name": "Kobiór",
+            "alt_names": [],
+            "latitude": 50.06089,
+            "longitude": 18.93468,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120101,
+            "name": "Kochanowice",
+            "alt_names": [],
+            "latitude": 50.70548,
+            "longitude": 18.74911,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120102,
+            "name": "Kończyce Małe",
+            "alt_names": [],
+            "latitude": 49.85824,
+            "longitude": 18.62964,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120103,
+            "name": "Kończyce Wielkie",
+            "alt_names": [],
+            "latitude": 49.8351,
+            "longitude": 18.64474,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120104,
+            "name": "Koniaków",
+            "alt_names": [],
+            "latitude": 49.55066,
+            "longitude": 18.9491,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120105,
+            "name": "Koniecpol",
+            "alt_names": [],
+            "latitude": 50.77468,
+            "longitude": 19.68896,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120106,
+            "name": "Konopiska",
+            "alt_names": [],
+            "latitude": 50.72695,
+            "longitude": 19.00781,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120107,
+            "name": "Korbielów",
+            "alt_names": [],
+            "latitude": 49.5682,
+            "longitude": 19.35001,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120108,
+            "name": "Kornowac",
+            "alt_names": [],
+            "latitude": 50.07179,
+            "longitude": 18.32846,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120109,
+            "name": "Kościelec",
+            "alt_names": [],
+            "latitude": 50.89713,
+            "longitude": 19.2156,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120110,
+            "name": "Koszarawa",
+            "alt_names": [],
+            "latitude": 49.64462,
+            "longitude": 19.40083,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120111,
+            "name": "Koszęcin",
+            "alt_names": [],
+            "latitude": 50.63411,
+            "longitude": 18.8413,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120112,
+            "name": "Koziegłowy",
+            "alt_names": [],
+            "latitude": 50.60035,
+            "longitude": 19.16299,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120113,
+            "name": "Kozy",
+            "alt_names": [],
+            "latitude": 49.84756,
+            "longitude": 19.14891,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120114,
+            "name": "Kroczyce",
+            "alt_names": [],
+            "latitude": 50.56176,
+            "longitude": 19.57,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120115,
+            "name": "Krupski Młyn",
+            "alt_names": [],
+            "latitude": 50.57337,
+            "longitude": 18.62251,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120116,
+            "name": "Kryry",
+            "alt_names": [],
+            "latitude": 50.01667,
+            "longitude": 18.80568,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120117,
+            "name": "Krzanowice",
+            "alt_names": [],
+            "latitude": 50.01822,
+            "longitude": 18.12251,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120118,
+            "name": "Krzepice",
+            "alt_names": [],
+            "latitude": 50.97059,
+            "longitude": 18.72886,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120119,
+            "name": "Krzyżanowice",
+            "alt_names": [],
+            "latitude": 49.98247,
+            "longitude": 18.26846,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120120,
+            "name": "Krzyżowa",
+            "alt_names": [],
+            "latitude": 49.59235,
+            "longitude": 19.34469,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120121,
+            "name": "Krzyżowice",
+            "alt_names": [],
+            "latitude": 49.98528,
+            "longitude": 18.67281,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120122,
+            "name": "Książenice",
+            "alt_names": [],
+            "latitude": 50.15524,
+            "longitude": 18.59925,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120123,
+            "name": "Kuźnia Raciborska",
+            "alt_names": [],
+            "latitude": 50.20058,
+            "longitude": 18.31146,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120124,
+            "name": "Laliki",
+            "alt_names": [],
+            "latitude": 49.53446,
+            "longitude": 19.00549,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120125,
+            "name": "Lędziny",
+            "alt_names": [],
+            "latitude": 50.14264,
+            "longitude": 19.13149,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120126,
+            "name": "Lelów",
+            "alt_names": [],
+            "latitude": 50.68335,
+            "longitude": 19.62562,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120127,
+            "name": "Leśna",
+            "alt_names": [],
+            "latitude": 49.67041,
+            "longitude": 19.12763,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120128,
+            "name": "Ligota",
+            "alt_names": [],
+            "latitude": 49.89856,
+            "longitude": 18.9509,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120129,
+            "name": "Lipie",
+            "alt_names": [],
+            "latitude": 51.01257,
+            "longitude": 18.79658,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120130,
+            "name": "Lipowa",
+            "alt_names": [],
+            "latitude": 49.67574,
+            "longitude": 19.09398,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120131,
+            "name": "Lubliniec",
+            "alt_names": [],
+            "latitude": 50.66897,
+            "longitude": 18.6844,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120132,
+            "name": "Lubomia",
+            "alt_names": [],
+            "latitude": 50.03972,
+            "longitude": 18.3082,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120133,
+            "name": "Lyski",
+            "alt_names": [],
+            "latitude": 50.11992,
+            "longitude": 18.39146,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120134,
+            "name": "Łaziska",
+            "alt_names": [],
+            "latitude": 49.9357,
+            "longitude": 18.44707,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120135,
+            "name": "Łaziska Górne",
+            "alt_names": [],
+            "latitude": 50.14952,
+            "longitude": 18.84215,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120136,
+            "name": "Łazy",
+            "alt_names": [],
+            "latitude": 50.42769,
+            "longitude": 19.39465,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120137,
+            "name": "Łękawica",
+            "alt_names": [],
+            "latitude": 49.72209,
+            "longitude": 19.26496,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120138,
+            "name": "Łobodno",
+            "alt_names": [],
+            "latitude": 50.93079,
+            "longitude": 18.9909,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120139,
+            "name": "Łodygowice",
+            "alt_names": [],
+            "latitude": 49.72992,
+            "longitude": 19.13939,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120140,
+            "name": "Markłowice",
+            "alt_names": [],
+            "latitude": 50.01695,
+            "longitude": 18.52098,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120141,
+            "name": "Mazańcowice",
+            "alt_names": [],
+            "latitude": 49.85802,
+            "longitude": 18.97708,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120142,
+            "name": "Miasteczko Śląskie",
+            "alt_names": [],
+            "latitude": 50.50262,
+            "longitude": 18.93949,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120143,
+            "name": "Miedźna",
+            "alt_names": [],
+            "latitude": 49.98225,
+            "longitude": 19.04883,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120144,
+            "name": "Miedzno",
+            "alt_names": [],
+            "latitude": 50.96994,
+            "longitude": 18.98111,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120145,
+            "name": "Międzybrodzie Bialskie",
+            "alt_names": [],
+            "latitude": 49.78747,
+            "longitude": 19.19741,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120146,
+            "name": "Mierzęcice",
+            "alt_names": [],
+            "latitude": 50.44504,
+            "longitude": 19.12934,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120147,
+            "name": "Mikołów",
+            "alt_names": [],
+            "latitude": 50.17103,
+            "longitude": 18.9041,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120148,
+            "name": "Milówka",
+            "alt_names": [],
+            "latitude": 49.5554,
+            "longitude": 19.09072,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120149,
+            "name": "Mnich",
+            "alt_names": [],
+            "latitude": 49.88944,
+            "longitude": 18.80722,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120150,
+            "name": "Mstów",
+            "alt_names": [],
+            "latitude": 50.82969,
+            "longitude": 19.28547,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120151,
+            "name": "Mszana",
+            "alt_names": [],
+            "latitude": 49.96939,
+            "longitude": 18.52793,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120152,
+            "name": "Murcki",
+            "alt_names": [],
+            "latitude": 50.20036,
+            "longitude": 19.04351,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120153,
+            "name": "Mykanów",
+            "alt_names": [],
+            "latitude": 50.9236,
+            "longitude": 19.2005,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120154,
+            "name": "Mysłowice",
+            "alt_names": [],
+            "latitude": 50.20745,
+            "longitude": 19.16668,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120155,
+            "name": "Myszków",
+            "alt_names": [],
+            "latitude": 50.5752,
+            "longitude": 19.32461,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120156,
+            "name": "Nakło",
+            "alt_names": [],
+            "latitude": 50.4369,
+            "longitude": 18.91056,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120157,
+            "name": "Nędza",
+            "alt_names": [],
+            "latitude": 50.16112,
+            "longitude": 18.31103,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120158,
+            "name": "Niedobczyce",
+            "alt_names": [],
+            "latitude": 50.0654,
+            "longitude": 18.49531,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120159,
+            "name": "Niegowonice",
+            "alt_names": [],
+            "latitude": 50.38909,
+            "longitude": 19.42263,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120160,
+            "name": "Ochaby",
+            "alt_names": [],
+            "latitude": 49.84252,
+            "longitude": 18.76894,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120161,
+            "name": "Ogrodzieniec",
+            "alt_names": [],
+            "latitude": 50.45177,
+            "longitude": 19.51987,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120162,
+            "name": "Olsztyn",
+            "alt_names": [],
+            "latitude": 50.75185,
+            "longitude": 19.26737,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120163,
+            "name": "Olza",
+            "alt_names": [],
+            "latitude": 49.95393,
+            "longitude": 18.3391,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120164,
+            "name": "Opatów",
+            "alt_names": [],
+            "latitude": 50.95567,
+            "longitude": 18.81941,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120165,
+            "name": "Ornontowice",
+            "alt_names": [],
+            "latitude": 50.19377,
+            "longitude": 18.75435,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120166,
+            "name": "Orzech",
+            "alt_names": [],
+            "latitude": 50.42744,
+            "longitude": 18.92275,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120167,
+            "name": "Orzesze",
+            "alt_names": [],
+            "latitude": 50.15595,
+            "longitude": 18.77923,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120168,
+            "name": "Ostrowy nad Okszą",
+            "alt_names": [],
+            "latitude": 50.97799,
+            "longitude": 19.05355,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120169,
+            "name": "Ożarowice",
+            "alt_names": [],
+            "latitude": 50.46182,
+            "longitude": 19.04317,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120170,
+            "name": "Paniówki",
+            "alt_names": [],
+            "latitude": 50.23139,
+            "longitude": 18.78104,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120171,
+            "name": "Panki",
+            "alt_names": [],
+            "latitude": 50.88333,
+            "longitude": 18.7516,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120172,
+            "name": "Pawłowice",
+            "alt_names": [],
+            "latitude": 49.96127,
+            "longitude": 18.71778,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120173,
+            "name": "Pawonków",
+            "alt_names": [],
+            "latitude": 50.69499,
+            "longitude": 18.58149,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120174,
+            "name": "Pewel Ślemieńska",
+            "alt_names": [],
+            "latitude": 49.68968,
+            "longitude": 19.33431,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120175,
+            "name": "Pewel Wielka",
+            "alt_names": [],
+            "latitude": 49.67457,
+            "longitude": 19.37482,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120176,
+            "name": "Piasek",
+            "alt_names": [],
+            "latitude": 50.01055,
+            "longitude": 18.94807,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120177,
+            "name": "Piekary Śląskie",
+            "alt_names": [],
+            "latitude": 50.38017,
+            "longitude": 18.92653,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120178,
+            "name": "Pielgrzymowice",
+            "alt_names": [],
+            "latitude": 49.90547,
+            "longitude": 18.64886,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120179,
+            "name": "Pierściec",
+            "alt_names": [],
+            "latitude": 49.83339,
+            "longitude": 18.81409,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120180,
+            "name": "Pietrowice Wielkie",
+            "alt_names": [],
+            "latitude": 50.08452,
+            "longitude": 18.09148,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120181,
+            "name": "Pietrzykowice",
+            "alt_names": [],
+            "latitude": 49.69634,
+            "longitude": 19.1599,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120182,
+            "name": "Pilchowice",
+            "alt_names": [],
+            "latitude": 50.21668,
+            "longitude": 18.56132,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120183,
+            "name": "Pilica",
+            "alt_names": [],
+            "latitude": 50.46799,
+            "longitude": 19.65729,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120184,
+            "name": "Pisarzowice",
+            "alt_names": [],
+            "latitude": 49.88363,
+            "longitude": 19.14565,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120185,
+            "name": "Pogórze",
+            "alt_names": [],
+            "latitude": 49.79961,
+            "longitude": 18.84327,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120186,
+            "name": "Pogrzebień",
+            "alt_names": [],
+            "latitude": 50.06722,
+            "longitude": 18.29876,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120187,
+            "name": "Pogwizdów",
+            "alt_names": [],
+            "latitude": 49.80382,
+            "longitude": 18.60106,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120188,
+            "name": "Połomia",
+            "alt_names": [],
+            "latitude": 49.99185,
+            "longitude": 18.55102,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120189,
+            "name": "Porąbka",
+            "alt_names": [],
+            "latitude": 49.81716,
+            "longitude": 19.21835,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120190,
+            "name": "Poraj",
+            "alt_names": [],
+            "latitude": 50.67797,
+            "longitude": 19.21509,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120191,
+            "name": "Poręba",
+            "alt_names": [],
+            "latitude": 50.48831,
+            "longitude": 19.33903,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120192,
+            "name": "Potok Złoty",
+            "alt_names": [],
+            "latitude": 50.70676,
+            "longitude": 19.43091,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120193,
+            "name": "Powiat będziński",
+            "alt_names": [],
+            "latitude": 50.32924,
+            "longitude": 19.10419,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120194,
+            "name": "Powiat bielski",
+            "alt_names": [],
+            "latitude": 49.76175,
+            "longitude": 19.1066,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120195,
+            "name": "Powiat bieruńsko-lędziński",
+            "alt_names": [],
+            "latitude": 50.09356,
+            "longitude": 19.1427,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120196,
+            "name": "Powiat cieszyński",
+            "alt_names": [],
+            "latitude": 49.72628,
+            "longitude": 18.79147,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120197,
+            "name": "Powiat częstochowski",
+            "alt_names": [],
+            "latitude": 50.84118,
+            "longitude": 19.34045,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120198,
+            "name": "Powiat gliwicki",
+            "alt_names": [],
+            "latitude": 50.36266,
+            "longitude": 18.58107,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120199,
+            "name": "Powiat kłobucki",
+            "alt_names": [],
+            "latitude": 50.93274,
+            "longitude": 18.87005,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120200,
+            "name": "Powiat lubliniecki",
+            "alt_names": [],
+            "latitude": 50.67367,
+            "longitude": 18.79378,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120201,
+            "name": "Powiat mikołowski",
+            "alt_names": [],
+            "latitude": 50.15133,
+            "longitude": 18.83689,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120202,
+            "name": "Powiat myszkowski",
+            "alt_names": [],
+            "latitude": 50.60554,
+            "longitude": 19.35125,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120203,
+            "name": "Powiat pszczyński",
+            "alt_names": [],
+            "latitude": 49.98987,
+            "longitude": 18.88177,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120204,
+            "name": "Powiat raciborski",
+            "alt_names": [],
+            "latitude": 50.08696,
+            "longitude": 18.26916,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120205,
+            "name": "Powiat rybnicki",
+            "alt_names": [],
+            "latitude": 50.10385,
+            "longitude": 18.46527,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120206,
+            "name": "Powiat tarnogórski",
+            "alt_names": [],
+            "latitude": 50.47264,
+            "longitude": 18.86265,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120207,
+            "name": "Powiat wodzisławski",
+            "alt_names": [],
+            "latitude": 49.99323,
+            "longitude": 18.42504,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120208,
+            "name": "Powiat zawierciański",
+            "alt_names": [],
+            "latitude": 50.54225,
+            "longitude": 19.61192,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120209,
+            "name": "Powiat żywiecki",
+            "alt_names": [],
+            "latitude": 49.61145,
+            "longitude": 19.21367,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120210,
+            "name": "Pruchna",
+            "alt_names": [],
+            "latitude": 49.86527,
+            "longitude": 18.68191,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120211,
+            "name": "Przyborów",
+            "alt_names": [],
+            "latitude": 49.6215,
+            "longitude": 19.38701,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120212,
+            "name": "Przyrów",
+            "alt_names": [],
+            "latitude": 50.80051,
+            "longitude": 19.52794,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120213,
+            "name": "Przystajń",
+            "alt_names": [],
+            "latitude": 50.88495,
+            "longitude": 18.69169,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120214,
+            "name": "Przyszowice",
+            "alt_names": [],
+            "latitude": 50.24841,
+            "longitude": 18.74594,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120215,
+            "name": "Psary",
+            "alt_names": [],
+            "latitude": 50.6147,
+            "longitude": 18.96991,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120216,
+            "name": "Pszczyna",
+            "alt_names": [],
+            "latitude": 49.98037,
+            "longitude": 18.95382,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120217,
+            "name": "Pszów",
+            "alt_names": [],
+            "latitude": 50.03994,
+            "longitude": 18.39472,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120218,
+            "name": "Puńców",
+            "alt_names": [],
+            "latitude": 49.71842,
+            "longitude": 18.66157,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120219,
+            "name": "Pyskowice",
+            "alt_names": [],
+            "latitude": 50.4,
+            "longitude": 18.63333,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120220,
+            "name": "Racibórz",
+            "alt_names": [],
+            "latitude": 50.09195,
+            "longitude": 18.21928,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120221,
+            "name": "Radlin",
+            "alt_names": [],
+            "latitude": 50.0502,
+            "longitude": 18.47626,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120222,
+            "name": "Radostowice",
+            "alt_names": [],
+            "latitude": 50.00311,
+            "longitude": 18.88103,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120223,
+            "name": "Radziechowy",
+            "alt_names": [],
+            "latitude": 49.64651,
+            "longitude": 19.13115,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120224,
+            "name": "Radzionków",
+            "alt_names": [],
+            "latitude": 50.40026,
+            "longitude": 18.90232,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120225,
+            "name": "Rajcza",
+            "alt_names": [],
+            "latitude": 49.50927,
+            "longitude": 19.11278,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120226,
+            "name": "Raszczyce",
+            "alt_names": [],
+            "latitude": 50.1219,
+            "longitude": 18.29962,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120227,
+            "name": "Rędziny",
+            "alt_names": [],
+            "latitude": 50.85922,
+            "longitude": 19.2162,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120228,
+            "name": "Rogów",
+            "alt_names": [],
+            "latitude": 49.99097,
+            "longitude": 18.35077,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120229,
+            "name": "Rogoźnik",
+            "alt_names": [],
+            "latitude": 50.39106,
+            "longitude": 19.03776,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120230,
+            "name": "Rokitno Szlacheckie",
+            "alt_names": [],
+            "latitude": 50.43195,
+            "longitude": 19.43293,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120231,
+            "name": "Ruda Śląska",
+            "alt_names": [],
+            "latitude": 50.2584,
+            "longitude": 18.85632,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120232,
+            "name": "Rudnik",
+            "alt_names": [],
+            "latitude": 50.12729,
+            "longitude": 18.18598,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120233,
+            "name": "Rudniki",
+            "alt_names": [],
+            "latitude": 50.52134,
+            "longitude": 19.4313,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120234,
+            "name": "Rudy",
+            "alt_names": [],
+            "latitude": 50.19003,
+            "longitude": 18.45334,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120235,
+            "name": "Rudziczka",
+            "alt_names": [],
+            "latitude": 50.03608,
+            "longitude": 18.76225,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120236,
+            "name": "Rudziniec",
+            "alt_names": [],
+            "latitude": 50.35324,
+            "longitude": 18.40914,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120237,
+            "name": "Rybarzowice",
+            "alt_names": [],
+            "latitude": 49.72956,
+            "longitude": 19.10162,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120238,
+            "name": "Rybnik",
+            "alt_names": [],
+            "latitude": 50.09713,
+            "longitude": 18.54179,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120239,
+            "name": "Rycerka Dolna",
+            "alt_names": [],
+            "latitude": 49.47805,
+            "longitude": 19.06162,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120240,
+            "name": "Rycerka Górna",
+            "alt_names": [],
+            "latitude": 49.44436,
+            "longitude": 19.01596,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120241,
+            "name": "Rydułtowy",
+            "alt_names": [],
+            "latitude": 50.05857,
+            "longitude": 18.41703,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120242,
+            "name": "Sączów",
+            "alt_names": [],
+            "latitude": 50.4352,
+            "longitude": 19.03038,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120243,
+            "name": "Sarnów",
+            "alt_names": [],
+            "latitude": 50.3738,
+            "longitude": 19.15061,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120244,
+            "name": "Siemianowice Śląskie",
+            "alt_names": [],
+            "latitude": 50.32738,
+            "longitude": 19.02901,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120245,
+            "name": "Sieraków Śląski",
+            "alt_names": [],
+            "latitude": 50.8029,
+            "longitude": 18.57548,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120246,
+            "name": "Siewierz",
+            "alt_names": [],
+            "latitude": 50.46657,
+            "longitude": 19.23028,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120247,
+            "name": "Skoczów",
+            "alt_names": [],
+            "latitude": 49.80089,
+            "longitude": 18.7877,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120248,
+            "name": "Skrzyszów",
+            "alt_names": [],
+            "latitude": 49.94873,
+            "longitude": 18.48879,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120249,
+            "name": "Ślemień",
+            "alt_names": [],
+            "latitude": 49.71826,
+            "longitude": 19.36735,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120250,
+            "name": "Sławków",
+            "alt_names": [],
+            "latitude": 50.29943,
+            "longitude": 19.38967,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120251,
+            "name": "Sól",
+            "alt_names": [],
+            "latitude": 49.48764,
+            "longitude": 19.04171,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120252,
+            "name": "Sopotnia Wielka",
+            "alt_names": [],
+            "latitude": 49.56853,
+            "longitude": 19.28289,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120253,
+            "name": "Sośnicowice",
+            "alt_names": [],
+            "latitude": 50.27214,
+            "longitude": 18.52982,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120254,
+            "name": "Sosnowiec",
+            "alt_names": [],
+            "latitude": 50.27119,
+            "longitude": 19.19463,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120255,
+            "name": "Stanowice",
+            "alt_names": [],
+            "latitude": 50.13037,
+            "longitude": 18.67084,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120256,
+            "name": "Starcza",
+            "alt_names": [],
+            "latitude": 50.66421,
+            "longitude": 19.0418,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120257,
+            "name": "Starokrzepice",
+            "alt_names": [],
+            "latitude": 50.94859,
+            "longitude": 18.65341,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120258,
+            "name": "Strumień",
+            "alt_names": [],
+            "latitude": 49.92103,
+            "longitude": 18.76637,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120259,
+            "name": "Strzebiń",
+            "alt_names": [],
+            "latitude": 50.61647,
+            "longitude": 18.89794,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120260,
+            "name": "Strzyżowice",
+            "alt_names": [],
+            "latitude": 50.38725,
+            "longitude": 19.08038,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120261,
+            "name": "Studzionka",
+            "alt_names": [],
+            "latitude": 49.96232,
+            "longitude": 18.7728,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120262,
+            "name": "Suszec",
+            "alt_names": [],
+            "latitude": 50.02958,
+            "longitude": 18.7916,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120263,
+            "name": "Świerklaniec",
+            "alt_names": [],
+            "latitude": 50.44237,
+            "longitude": 18.93734,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120264,
+            "name": "Świerklany Dolne",
+            "alt_names": [],
+            "latitude": 50.01827,
+            "longitude": 18.57702,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120265,
+            "name": "Świerklany Górne",
+            "alt_names": [],
+            "latitude": 50.02765,
+            "longitude": 18.5905,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120266,
+            "name": "Świętochłowice",
+            "alt_names": [],
+            "latitude": 50.29636,
+            "longitude": 18.91726,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120267,
+            "name": "Świnna",
+            "alt_names": [],
+            "latitude": 49.65802,
+            "longitude": 19.25406,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120268,
+            "name": "Syrynia",
+            "alt_names": [],
+            "latitude": 50.02004,
+            "longitude": 18.34597,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120269,
+            "name": "Szczekociny",
+            "alt_names": [],
+            "latitude": 50.62669,
+            "longitude": 19.825,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120270,
+            "name": "Szczerbice",
+            "alt_names": [],
+            "latitude": 50.09416,
+            "longitude": 18.44896,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120271,
+            "name": "Szczyrk",
+            "alt_names": [],
+            "latitude": 49.71724,
+            "longitude": 19.03183,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120272,
+            "name": "Tarnowskie Góry",
+            "alt_names": [],
+            "latitude": 50.44548,
+            "longitude": 18.86147,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120273,
+            "name": "Toszek",
+            "alt_names": [],
+            "latitude": 50.45442,
+            "longitude": 18.52209,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120274,
+            "name": "Truskolasy",
+            "alt_names": [],
+            "latitude": 50.86692,
+            "longitude": 18.82705,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120275,
+            "name": "Trzebinia",
+            "alt_names": [],
+            "latitude": 49.65024,
+            "longitude": 19.22264,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120276,
+            "name": "Turza Śląska",
+            "alt_names": [],
+            "latitude": 49.97231,
+            "longitude": 18.43781,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120277,
+            "name": "Tworków",
+            "alt_names": [],
+            "latitude": 50.00559,
+            "longitude": 18.23576,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120278,
+            "name": "Tworóg",
+            "alt_names": [],
+            "latitude": 50.531,
+            "longitude": 18.71572,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120279,
+            "name": "Tychy",
+            "alt_names": [],
+            "latitude": 50.13717,
+            "longitude": 18.96641,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120280,
+            "name": "Ujsoły",
+            "alt_names": [],
+            "latitude": 49.4829,
+            "longitude": 19.13801,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120281,
+            "name": "Ustroń",
+            "alt_names": [],
+            "latitude": 49.72153,
+            "longitude": 18.80198,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120282,
+            "name": "Węgierska Górka",
+            "alt_names": [],
+            "latitude": 49.60776,
+            "longitude": 19.11638,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120283,
+            "name": "Wielowieś",
+            "alt_names": [],
+            "latitude": 50.50966,
+            "longitude": 18.61608,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120284,
+            "name": "Wieprz",
+            "alt_names": [],
+            "latitude": 49.64746,
+            "longitude": 19.18007,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120285,
+            "name": "Wieszowa",
+            "alt_names": [],
+            "latitude": 50.38444,
+            "longitude": 18.75924,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120286,
+            "name": "Wilamowice",
+            "alt_names": [],
+            "latitude": 49.91701,
+            "longitude": 19.15237,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120287,
+            "name": "Wilcza",
+            "alt_names": [],
+            "latitude": 50.18899,
+            "longitude": 18.59668,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120288,
+            "name": "Wilkowice",
+            "alt_names": [],
+            "latitude": 49.76282,
+            "longitude": 19.08973,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120289,
+            "name": "Wisła",
+            "alt_names": [],
+            "latitude": 49.65629,
+            "longitude": 18.8591,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120290,
+            "name": "Włodowice",
+            "alt_names": [],
+            "latitude": 50.5556,
+            "longitude": 19.45155,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120291,
+            "name": "Wodzisław Śląski",
+            "alt_names": [],
+            "latitude": 50.00377,
+            "longitude": 18.47205,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120292,
+            "name": "Wojkowice",
+            "alt_names": [],
+            "latitude": 50.36509,
+            "longitude": 19.03652,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120293,
+            "name": "Wola",
+            "alt_names": [],
+            "latitude": 50.01745,
+            "longitude": 19.12333,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120294,
+            "name": "Wożniki",
+            "alt_names": [],
+            "latitude": 50.58934,
+            "longitude": 19.05991,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120295,
+            "name": "Wręczyca Wielka",
+            "alt_names": [],
+            "latitude": 50.84589,
+            "longitude": 18.92086,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120296,
+            "name": "Wyry",
+            "alt_names": [],
+            "latitude": 50.13296,
+            "longitude": 18.90052,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120297,
+            "name": "Wysoka",
+            "alt_names": [],
+            "latitude": 50.42989,
+            "longitude": 19.35368,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120298,
+            "name": "Zabłocie",
+            "alt_names": [],
+            "latitude": 49.90282,
+            "longitude": 18.78147,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120299,
+            "name": "Żabnica",
+            "alt_names": [],
+            "latitude": 49.58139,
+            "longitude": 19.15621,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120300,
+            "name": "Zaborze",
+            "alt_names": [],
+            "latitude": 49.87279,
+            "longitude": 18.8037,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120301,
+            "name": "Zabrze",
+            "alt_names": [],
+            "latitude": 50.32492,
+            "longitude": 18.78576,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120302,
+            "name": "Zabrzeg",
+            "alt_names": [],
+            "latitude": 49.91619,
+            "longitude": 18.94292,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120303,
+            "name": "Zamarski",
+            "alt_names": [],
+            "latitude": 49.78254,
+            "longitude": 18.66972,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120304,
+            "name": "Żarki",
+            "alt_names": [],
+            "latitude": 50.62518,
+            "longitude": 19.36357,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120305,
+            "name": "Żarki-Letnisko",
+            "alt_names": [],
+            "latitude": 50.62295,
+            "longitude": 19.27508,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120306,
+            "name": "Zarzecze",
+            "alt_names": [],
+            "latitude": 49.71932,
+            "longitude": 19.17526,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120307,
+            "name": "Zawidów",
+            "alt_names": [],
+            "latitude": 51.02546,
+            "longitude": 15.06213,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120308,
+            "name": "Zawiercie",
+            "alt_names": [],
+            "latitude": 50.48766,
+            "longitude": 19.41679,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120309,
+            "name": "Zbrosławice",
+            "alt_names": [],
+            "latitude": 50.41612,
+            "longitude": 18.75443,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120310,
+            "name": "Zbytków",
+            "alt_names": [],
+            "latitude": 49.92288,
+            "longitude": 18.72697,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120311,
+            "name": "Zebrzydowice",
+            "alt_names": [],
+            "latitude": 49.87793,
+            "longitude": 18.61127,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120312,
+            "name": "Żernica",
+            "alt_names": [],
+            "latitude": 50.2477,
+            "longitude": 18.61547,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120313,
+            "name": "Żory",
+            "alt_names": [],
+            "latitude": 50.04523,
+            "longitude": 18.70062,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1750120314,
+            "name": "Żywiec",
+            "alt_names": [],
+            "latitude": 49.68529,
+            "longitude": 19.19243,
+            "timezone": {
+                "zoneName": "Europe/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

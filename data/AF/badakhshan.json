@@ -1,0 +1,95 @@
+{
+    "id": 1001,
+    "name": "Badakhshan",
+    "alt_names": [],
+    "state_code": "BDS",
+    "latitude": 36.7347725,
+    "longitude": 70.8119953,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10010001,
+            "name": "Ashkāsham",
+            "alt_names": [],
+            "latitude": 36.68333,
+            "longitude": 71.53333,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10010002,
+            "name": "Fayzabad",
+            "alt_names": [],
+            "latitude": 37.11664,
+            "longitude": 70.58002,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10010003,
+            "name": "Jurm",
+            "alt_names": [],
+            "latitude": 36.86477,
+            "longitude": 70.83421,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10010004,
+            "name": "Khandūd",
+            "alt_names": [],
+            "latitude": 36.95127,
+            "longitude": 72.318,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10010005,
+            "name": "Rāghistān",
+            "alt_names": [],
+            "latitude": 37.66079,
+            "longitude": 70.67346,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10010006,
+            "name": "Wākhān",
+            "alt_names": [],
+            "latitude": 37.0571,
+            "longitude": 73.34928,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

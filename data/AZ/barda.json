@@ -1,0 +1,39 @@
+{
+    "id": 16011,
+    "name": "Barda",
+    "alt_names": [],
+    "state_code": "BAR",
+    "latitude": 40.3706555,
+    "longitude": 47.1378909,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160110001,
+            "name": "Barda",
+            "alt_names": [],
+            "latitude": 40.37577,
+            "longitude": 47.12619,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160110002,
+            "name": "Samuxlu",
+            "alt_names": [],
+            "latitude": 40.50833,
+            "longitude": 47.16917,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

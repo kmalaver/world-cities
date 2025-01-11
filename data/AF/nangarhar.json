@@ -1,0 +1,53 @@
+{
+    "id": 1022,
+    "name": "Nangarhar",
+    "alt_names": [],
+    "state_code": "NAN",
+    "latitude": 34.1718313,
+    "longitude": 70.6216794,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10220001,
+            "name": "Bāsawul",
+            "alt_names": [],
+            "latitude": 34.24749,
+            "longitude": 70.87218,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10220002,
+            "name": "Jalālābād",
+            "alt_names": [],
+            "latitude": 34.42647,
+            "longitude": 70.45153,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10220003,
+            "name": "Markaz-e Woluswalī-ye Āchīn",
+            "alt_names": [],
+            "latitude": 34.12583,
+            "longitude": 70.70778,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

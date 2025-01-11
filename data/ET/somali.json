@@ -1,0 +1,95 @@
+{
+    "id": 71009,
+    "name": "Somali",
+    "alt_names": [],
+    "state_code": "SO",
+    "latitude": 6.6612293,
+    "longitude": 43.7908453,
+    "type": "region",
+    "cities": [
+        {
+            "id": 710090001,
+            "name": "Afder Zone",
+            "alt_names": [],
+            "latitude": 5.25,
+            "longitude": 43,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710090002,
+            "name": "Degehabur Zone",
+            "alt_names": [],
+            "latitude": 8.25,
+            "longitude": 43.75,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710090003,
+            "name": "Gode Zone",
+            "alt_names": [],
+            "latitude": 6,
+            "longitude": 43.75,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710090004,
+            "name": "Jijiga",
+            "alt_names": [],
+            "latitude": 9.35,
+            "longitude": 42.8,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710090005,
+            "name": "Liben zone",
+            "alt_names": [],
+            "latitude": 4.75,
+            "longitude": 40.5,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 710090006,
+            "name": "Shinile Zone",
+            "alt_names": [],
+            "latitude": 10.17097,
+            "longitude": 41.83748,
+            "timezone": {
+                "zoneName": "Africa/Addis_Ababa",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

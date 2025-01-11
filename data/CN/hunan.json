@@ -1,0 +1,955 @@
+{
+    "id": 45015,
+    "name": "Hunan",
+    "alt_names": [],
+    "state_code": "HN",
+    "latitude": 27.3683009,
+    "longitude": 109.2819347,
+    "type": "province",
+    "cities": [
+        {
+            "id": 450150001,
+            "name": "Anjiang",
+            "alt_names": [],
+            "latitude": 27.31944,
+            "longitude": 110.10306,
+            "timezone": null
+        },
+        {
+            "id": 450150002,
+            "name": "Anping",
+            "alt_names": [],
+            "latitude": 27.86639,
+            "longitude": 110.11611,
+            "timezone": null
+        },
+        {
+            "id": 450150003,
+            "name": "Anxiang",
+            "alt_names": [],
+            "latitude": 29.4,
+            "longitude": 112.15,
+            "timezone": null
+        },
+        {
+            "id": 450150004,
+            "name": "Baisha",
+            "alt_names": [],
+            "latitude": 26.52222,
+            "longitude": 110.93111,
+            "timezone": null
+        },
+        {
+            "id": 450150005,
+            "name": "Biyong",
+            "alt_names": [],
+            "latitude": 27.18722,
+            "longitude": 109.51,
+            "timezone": null
+        },
+        {
+            "id": 450150006,
+            "name": "Bojia",
+            "alt_names": [],
+            "latitude": 26.46722,
+            "longitude": 111.96806,
+            "timezone": null
+        },
+        {
+            "id": 450150007,
+            "name": "Boyang",
+            "alt_names": [],
+            "latitude": 26.21167,
+            "longitude": 109.52056,
+            "timezone": null
+        },
+        {
+            "id": 450150008,
+            "name": "Bozhou",
+            "alt_names": [],
+            "latitude": 27.37889,
+            "longitude": 109.27778,
+            "timezone": null
+        },
+        {
+            "id": 450150009,
+            "name": "Changde",
+            "alt_names": [],
+            "latitude": 29.04638,
+            "longitude": 111.6783,
+            "timezone": null
+        },
+        {
+            "id": 450150010,
+            "name": "Changsha",
+            "alt_names": [],
+            "latitude": 28.19874,
+            "longitude": 112.97087,
+            "timezone": null
+        },
+        {
+            "id": 450150011,
+            "name": "Changsha Shi",
+            "alt_names": [],
+            "latitude": 28.14582,
+            "longitude": 113.22967,
+            "timezone": null
+        },
+        {
+            "id": 450150012,
+            "name": "Chatian",
+            "alt_names": [],
+            "latitude": 27.80222,
+            "longitude": 109.37361,
+            "timezone": null
+        },
+        {
+            "id": 450150013,
+            "name": "Chenzhou",
+            "alt_names": [],
+            "latitude": 25.8,
+            "longitude": 113.03333,
+            "timezone": null
+        },
+        {
+            "id": 450150014,
+            "name": "Dabaozi",
+            "alt_names": [],
+            "latitude": 26.69556,
+            "longitude": 109.44778,
+            "timezone": null
+        },
+        {
+            "id": 450150015,
+            "name": "Dehang",
+            "alt_names": [],
+            "latitude": 28.3071,
+            "longitude": 109.79668,
+            "timezone": null
+        },
+        {
+            "id": 450150016,
+            "name": "Dengjiapu",
+            "alt_names": [],
+            "latitude": 26.90444,
+            "longitude": 110.92,
+            "timezone": null
+        },
+        {
+            "id": 450150017,
+            "name": "Dengyuantai",
+            "alt_names": [],
+            "latitude": 26.68806,
+            "longitude": 110.54222,
+            "timezone": null
+        },
+        {
+            "id": 450150018,
+            "name": "Dongshan Dongzuxiang",
+            "alt_names": [],
+            "latitude": 26.595,
+            "longitude": 109.89667,
+            "timezone": null
+        },
+        {
+            "id": 450150019,
+            "name": "Fenghuang",
+            "alt_names": [],
+            "latitude": 27.93557,
+            "longitude": 109.59961,
+            "timezone": null
+        },
+        {
+            "id": 450150020,
+            "name": "Gangdong",
+            "alt_names": [],
+            "latitude": 27.91694,
+            "longitude": 110.83417,
+            "timezone": null
+        },
+        {
+            "id": 450150021,
+            "name": "Gaoqiao",
+            "alt_names": [],
+            "latitude": 26.63361,
+            "longitude": 110.9,
+            "timezone": null
+        },
+        {
+            "id": 450150022,
+            "name": "Gaoyi",
+            "alt_names": [],
+            "latitude": 26.95944,
+            "longitude": 110.01556,
+            "timezone": null
+        },
+        {
+            "id": 450150023,
+            "name": "Guankou",
+            "alt_names": [],
+            "latitude": 28.15861,
+            "longitude": 113.62709,
+            "timezone": null
+        },
+        {
+            "id": 450150024,
+            "name": "Hengbanqiao",
+            "alt_names": [],
+            "latitude": 27.17167,
+            "longitude": 110.86528,
+            "timezone": null
+        },
+        {
+            "id": 450150025,
+            "name": "Hengyang",
+            "alt_names": [],
+            "latitude": 26.88946,
+            "longitude": 112.61888,
+            "timezone": null
+        },
+        {
+            "id": 450150026,
+            "name": "Hexiangqiao",
+            "alt_names": [],
+            "latitude": 27.22028,
+            "longitude": 110.96333,
+            "timezone": null
+        },
+        {
+            "id": 450150027,
+            "name": "Hongjiang",
+            "alt_names": [],
+            "latitude": 27.11,
+            "longitude": 109.99556,
+            "timezone": null
+        },
+        {
+            "id": 450150028,
+            "name": "Hongqiao",
+            "alt_names": [],
+            "latitude": 26.76837,
+            "longitude": 112.10814,
+            "timezone": null
+        },
+        {
+            "id": 450150029,
+            "name": "Huaihua",
+            "alt_names": [],
+            "latitude": 27.56337,
+            "longitude": 110.00404,
+            "timezone": null
+        },
+        {
+            "id": 450150030,
+            "name": "Huangjinjing",
+            "alt_names": [],
+            "latitude": 27.58563,
+            "longitude": 110.89133,
+            "timezone": null
+        },
+        {
+            "id": 450150031,
+            "name": "Huanglong",
+            "alt_names": [],
+            "latitude": 26.54139,
+            "longitude": 110.93444,
+            "timezone": null
+        },
+        {
+            "id": 450150032,
+            "name": "Huangmaoyuan",
+            "alt_names": [],
+            "latitude": 27.40417,
+            "longitude": 110.47472,
+            "timezone": null
+        },
+        {
+            "id": 450150033,
+            "name": "Huangqiao",
+            "alt_names": [],
+            "latitude": 27.02194,
+            "longitude": 110.84056,
+            "timezone": null
+        },
+        {
+            "id": 450150034,
+            "name": "Huangtukuang",
+            "alt_names": [],
+            "latitude": 26.91528,
+            "longitude": 110.40778,
+            "timezone": null
+        },
+        {
+            "id": 450150035,
+            "name": "Huangxikou",
+            "alt_names": [],
+            "latitude": 27.71889,
+            "longitude": 110.385,
+            "timezone": null
+        },
+        {
+            "id": 450150036,
+            "name": "Huaqiao",
+            "alt_names": [],
+            "latitude": 27.70806,
+            "longitude": 110.14194,
+            "timezone": null
+        },
+        {
+            "id": 450150037,
+            "name": "Huayuan",
+            "alt_names": [],
+            "latitude": 26.91361,
+            "longitude": 110.53583,
+            "timezone": null
+        },
+        {
+            "id": 450150038,
+            "name": "Huomachong",
+            "alt_names": [],
+            "latitude": 27.88333,
+            "longitude": 110.23,
+            "timezone": null
+        },
+        {
+            "id": 450150039,
+            "name": "Jiangfang",
+            "alt_names": [],
+            "latitude": 26.50158,
+            "longitude": 110.3464,
+            "timezone": null
+        },
+        {
+            "id": 450150040,
+            "name": "Jiangkouxu",
+            "alt_names": [],
+            "latitude": 27.69417,
+            "longitude": 109.73583,
+            "timezone": null
+        },
+        {
+            "id": 450150041,
+            "name": "Jiangshi",
+            "alt_names": [],
+            "latitude": 27.12333,
+            "longitude": 109.73778,
+            "timezone": null
+        },
+        {
+            "id": 450150042,
+            "name": "Jinhe",
+            "alt_names": [],
+            "latitude": 27.71694,
+            "longitude": 109.60472,
+            "timezone": null
+        },
+        {
+            "id": 450150043,
+            "name": "Jinshi",
+            "alt_names": [],
+            "latitude": 29.60487,
+            "longitude": 111.87012,
+            "timezone": null
+        },
+        {
+            "id": 450150044,
+            "name": "Jinshiqiao",
+            "alt_names": [],
+            "latitude": 27.58425,
+            "longitude": 110.93634,
+            "timezone": null
+        },
+        {
+            "id": 450150045,
+            "name": "Lanli",
+            "alt_names": [],
+            "latitude": 27.88694,
+            "longitude": 109.91861,
+            "timezone": null
+        },
+        {
+            "id": 450150046,
+            "name": "Leiyang",
+            "alt_names": [],
+            "latitude": 26.40238,
+            "longitude": 112.85908,
+            "timezone": null
+        },
+        {
+            "id": 450150047,
+            "name": "Lengshuijiang",
+            "alt_names": [],
+            "latitude": 27.68806,
+            "longitude": 111.42944,
+            "timezone": null
+        },
+        {
+            "id": 450150048,
+            "name": "Lengshuitan",
+            "alt_names": [],
+            "latitude": 26.4111,
+            "longitude": 111.59559,
+            "timezone": null
+        },
+        {
+            "id": 450150049,
+            "name": "Liangyaping",
+            "alt_names": [],
+            "latitude": 27.71833,
+            "longitude": 110.67083,
+            "timezone": null
+        },
+        {
+            "id": 450150050,
+            "name": "Lianyuan",
+            "alt_names": [],
+            "latitude": 27.68833,
+            "longitude": 111.66417,
+            "timezone": null
+        },
+        {
+            "id": 450150051,
+            "name": "Linkou",
+            "alt_names": [],
+            "latitude": 26.24806,
+            "longitude": 109.86361,
+            "timezone": null
+        },
+        {
+            "id": 450150052,
+            "name": "Liuduzhai",
+            "alt_names": [],
+            "latitude": 27.36611,
+            "longitude": 110.935,
+            "timezone": null
+        },
+        {
+            "id": 450150053,
+            "name": "Lixiqiao",
+            "alt_names": [],
+            "latitude": 26.79472,
+            "longitude": 110.41806,
+            "timezone": null
+        },
+        {
+            "id": 450150054,
+            "name": "Longtan",
+            "alt_names": [],
+            "latitude": 27.41139,
+            "longitude": 110.53639,
+            "timezone": null
+        },
+        {
+            "id": 450150055,
+            "name": "Longtou’an",
+            "alt_names": [],
+            "latitude": 27.67028,
+            "longitude": 110.33611,
+            "timezone": null
+        },
+        {
+            "id": 450150056,
+            "name": "Loudi",
+            "alt_names": [],
+            "latitude": 27.73444,
+            "longitude": 111.99444,
+            "timezone": null
+        },
+        {
+            "id": 450150057,
+            "name": "Luojiu",
+            "alt_names": [],
+            "latitude": 27.51583,
+            "longitude": 109.80889,
+            "timezone": null
+        },
+        {
+            "id": 450150058,
+            "name": "Luyang",
+            "alt_names": [],
+            "latitude": 27.62389,
+            "longitude": 110.09889,
+            "timezone": null
+        },
+        {
+            "id": 450150059,
+            "name": "Ma’an",
+            "alt_names": [],
+            "latitude": 26.9775,
+            "longitude": 110.72111,
+            "timezone": null
+        },
+        {
+            "id": 450150060,
+            "name": "Malin",
+            "alt_names": [],
+            "latitude": 26.455,
+            "longitude": 110.64167,
+            "timezone": null
+        },
+        {
+            "id": 450150061,
+            "name": "Maoping",
+            "alt_names": [],
+            "latitude": 26.51972,
+            "longitude": 110.41194,
+            "timezone": null
+        },
+        {
+            "id": 450150062,
+            "name": "Nanmuping",
+            "alt_names": [],
+            "latitude": 27.31111,
+            "longitude": 109.67861,
+            "timezone": null
+        },
+        {
+            "id": 450150063,
+            "name": "Nanzhou",
+            "alt_names": [],
+            "latitude": 29.35955,
+            "longitude": 112.40243,
+            "timezone": null
+        },
+        {
+            "id": 450150064,
+            "name": "Prefecture of Chenzhou",
+            "alt_names": [],
+            "latitude": 25.84347,
+            "longitude": 113.05378,
+            "timezone": null
+        },
+        {
+            "id": 450150065,
+            "name": "Pukou",
+            "alt_names": [],
+            "latitude": 26.52222,
+            "longitude": 109.55583,
+            "timezone": null
+        },
+        {
+            "id": 450150066,
+            "name": "Puzi",
+            "alt_names": [],
+            "latitude": 26.98639,
+            "longitude": 109.77639,
+            "timezone": null
+        },
+        {
+            "id": 450150067,
+            "name": "Qiancheng",
+            "alt_names": [],
+            "latitude": 27.18501,
+            "longitude": 109.76543,
+            "timezone": null
+        },
+        {
+            "id": 450150068,
+            "name": "Qianzhou",
+            "alt_names": [],
+            "latitude": 28.31925,
+            "longitude": 109.73346,
+            "timezone": null
+        },
+        {
+            "id": 450150069,
+            "name": "Qiaojiang",
+            "alt_names": [],
+            "latitude": 27.93722,
+            "longitude": 110.67639,
+            "timezone": null
+        },
+        {
+            "id": 450150070,
+            "name": "Qingjiangqiao",
+            "alt_names": [],
+            "latitude": 26.60444,
+            "longitude": 110.98528,
+            "timezone": null
+        },
+        {
+            "id": 450150071,
+            "name": "Qingxi",
+            "alt_names": [],
+            "latitude": 26.43114,
+            "longitude": 110.35489,
+            "timezone": null
+        },
+        {
+            "id": 450150072,
+            "name": "Qionghu",
+            "alt_names": [],
+            "latitude": 28.84061,
+            "longitude": 112.37399,
+            "timezone": null
+        },
+        {
+            "id": 450150073,
+            "name": "Ruoshui",
+            "alt_names": [],
+            "latitude": 27.00194,
+            "longitude": 109.96667,
+            "timezone": null
+        },
+        {
+            "id": 450150074,
+            "name": "Shangmei",
+            "alt_names": [],
+            "latitude": 27.74278,
+            "longitude": 111.29556,
+            "timezone": null
+        },
+        {
+            "id": 450150075,
+            "name": "Shanmen",
+            "alt_names": [],
+            "latitude": 27.225,
+            "longitude": 110.69278,
+            "timezone": null
+        },
+        {
+            "id": 450150076,
+            "name": "Shijiang",
+            "alt_names": [],
+            "latitude": 27.08194,
+            "longitude": 110.79333,
+            "timezone": null
+        },
+        {
+            "id": 450150077,
+            "name": "Shuangjiang",
+            "alt_names": [],
+            "latitude": 26.15467,
+            "longitude": 109.7138,
+            "timezone": null
+        },
+        {
+            "id": 450150078,
+            "name": "Shuangxi",
+            "alt_names": [],
+            "latitude": 27.22833,
+            "longitude": 109.85583,
+            "timezone": null
+        },
+        {
+            "id": 450150079,
+            "name": "Shuiche",
+            "alt_names": [],
+            "latitude": 27.68694,
+            "longitude": 110.99972,
+            "timezone": null
+        },
+        {
+            "id": 450150080,
+            "name": "Shuidatian",
+            "alt_names": [],
+            "latitude": 27.85222,
+            "longitude": 109.60472,
+            "timezone": null
+        },
+        {
+            "id": 450150081,
+            "name": "Simenqian",
+            "alt_names": [],
+            "latitude": 27.48722,
+            "longitude": 110.88611,
+            "timezone": null
+        },
+        {
+            "id": 450150082,
+            "name": "Tangjiafang",
+            "alt_names": [],
+            "latitude": 26.84,
+            "longitude": 110.36472,
+            "timezone": null
+        },
+        {
+            "id": 450150083,
+            "name": "Tanwan",
+            "alt_names": [],
+            "latitude": 27.96639,
+            "longitude": 110.15028,
+            "timezone": null
+        },
+        {
+            "id": 450150084,
+            "name": "Tongwan",
+            "alt_names": [],
+            "latitude": 27.58111,
+            "longitude": 110.27722,
+            "timezone": null
+        },
+        {
+            "id": 450150085,
+            "name": "Tuokou",
+            "alt_names": [],
+            "latitude": 27.12472,
+            "longitude": 109.62472,
+            "timezone": null
+        },
+        {
+            "id": 450150086,
+            "name": "Wantouqiao",
+            "alt_names": [],
+            "latitude": 26.84111,
+            "longitude": 110.61944,
+            "timezone": null
+        },
+        {
+            "id": 450150087,
+            "name": "Wenxing",
+            "alt_names": [],
+            "latitude": 28.68208,
+            "longitude": 112.87864,
+            "timezone": null
+        },
+        {
+            "id": 450150088,
+            "name": "Wulingyuan",
+            "alt_names": [],
+            "latitude": 29.34936,
+            "longitude": 110.54407,
+            "timezone": null
+        },
+        {
+            "id": 450150089,
+            "name": "Wuxi",
+            "alt_names": [],
+            "latitude": 26.5844,
+            "longitude": 111.859,
+            "timezone": null
+        },
+        {
+            "id": 450150090,
+            "name": "Wuyang",
+            "alt_names": [],
+            "latitude": 26.74278,
+            "longitude": 110.32833,
+            "timezone": null
+        },
+        {
+            "id": 450150091,
+            "name": "Xiangtan",
+            "alt_names": [],
+            "latitude": 27.85,
+            "longitude": 112.9,
+            "timezone": null
+        },
+        {
+            "id": 450150092,
+            "name": "Xiangxi Tujiazu Miaozu Zizhizhou",
+            "alt_names": [],
+            "latitude": 28.70573,
+            "longitude": 109.73329,
+            "timezone": null
+        },
+        {
+            "id": 450150093,
+            "name": "Xiangxiang",
+            "alt_names": [],
+            "latitude": 27.73333,
+            "longitude": 112.53333,
+            "timezone": null
+        },
+        {
+            "id": 450150094,
+            "name": "Xianrenwan",
+            "alt_names": [],
+            "latitude": 27.75444,
+            "longitude": 110.32972,
+            "timezone": null
+        },
+        {
+            "id": 450150095,
+            "name": "Xianxi",
+            "alt_names": [],
+            "latitude": 26.33472,
+            "longitude": 109.64306,
+            "timezone": null
+        },
+        {
+            "id": 450150096,
+            "name": "Xiaohenglong",
+            "alt_names": [],
+            "latitude": 27.605,
+            "longitude": 110.51694,
+            "timezone": null
+        },
+        {
+            "id": 450150097,
+            "name": "Xiaolongmen",
+            "alt_names": [],
+            "latitude": 27.80194,
+            "longitude": 110.16056,
+            "timezone": null
+        },
+        {
+            "id": 450150098,
+            "name": "Xiaoshajiang",
+            "alt_names": [],
+            "latitude": 27.52139,
+            "longitude": 110.74806,
+            "timezone": null
+        },
+        {
+            "id": 450150099,
+            "name": "Xishan",
+            "alt_names": [],
+            "latitude": 27.66667,
+            "longitude": 113.5,
+            "timezone": null
+        },
+        {
+            "id": 450150100,
+            "name": "Xixi",
+            "alt_names": [],
+            "latitude": 27.69375,
+            "longitude": 110.95333,
+            "timezone": null
+        },
+        {
+            "id": 450150101,
+            "name": "Xiyan",
+            "alt_names": [],
+            "latitude": 26.61639,
+            "longitude": 110.47361,
+            "timezone": null
+        },
+        {
+            "id": 450150102,
+            "name": "Yanmen",
+            "alt_names": [],
+            "latitude": 27.855,
+            "longitude": 109.74028,
+            "timezone": null
+        },
+        {
+            "id": 450150103,
+            "name": "Yaoshi",
+            "alt_names": [],
+            "latitude": 26.29306,
+            "longitude": 110.78917,
+            "timezone": null
+        },
+        {
+            "id": 450150104,
+            "name": "Yatunpu",
+            "alt_names": [],
+            "latitude": 26.155,
+            "longitude": 109.62667,
+            "timezone": null
+        },
+        {
+            "id": 450150105,
+            "name": "Yiyang",
+            "alt_names": [],
+            "latitude": 28.58917,
+            "longitude": 112.32833,
+            "timezone": null
+        },
+        {
+            "id": 450150106,
+            "name": "Yongfeng",
+            "alt_names": [],
+            "latitude": 27.42829,
+            "longitude": 112.18338,
+            "timezone": null
+        },
+        {
+            "id": 450150107,
+            "name": "Yongzhou",
+            "alt_names": [],
+            "latitude": 26.44014,
+            "longitude": 111.6029,
+            "timezone": null
+        },
+        {
+            "id": 450150108,
+            "name": "Yueyang",
+            "alt_names": [],
+            "latitude": 29.37455,
+            "longitude": 113.09481,
+            "timezone": null
+        },
+        {
+            "id": 450150109,
+            "name": "Yueyang Shi",
+            "alt_names": [],
+            "latitude": 29.32472,
+            "longitude": 113.302,
+            "timezone": null
+        },
+        {
+            "id": 450150110,
+            "name": "Yutan",
+            "alt_names": [],
+            "latitude": 28.25831,
+            "longitude": 112.56048,
+            "timezone": null
+        },
+        {
+            "id": 450150111,
+            "name": "Zhaishi Miaozu Dongzuxiang",
+            "alt_names": [],
+            "latitude": 26.50083,
+            "longitude": 110.04444,
+            "timezone": null
+        },
+        {
+            "id": 450150112,
+            "name": "Zhangjiajie",
+            "alt_names": [],
+            "latitude": 29.12944,
+            "longitude": 110.47833,
+            "timezone": null
+        },
+        {
+            "id": 450150113,
+            "name": "Zhongfang",
+            "alt_names": [],
+            "latitude": 27.41139,
+            "longitude": 109.93194,
+            "timezone": null
+        },
+        {
+            "id": 450150114,
+            "name": "Zhongzhai",
+            "alt_names": [],
+            "latitude": 27.19528,
+            "longitude": 109.26861,
+            "timezone": null
+        },
+        {
+            "id": 450150115,
+            "name": "Zhushi",
+            "alt_names": [],
+            "latitude": 27.08778,
+            "longitude": 110.67694,
+            "timezone": null
+        },
+        {
+            "id": 450150116,
+            "name": "Zhuzhou",
+            "alt_names": [],
+            "latitude": 27.83333,
+            "longitude": 113.15,
+            "timezone": null
+        },
+        {
+            "id": 450150117,
+            "name": "Zhuzhou Shi",
+            "alt_names": [],
+            "latitude": 27.8245,
+            "longitude": 113.08228,
+            "timezone": null
+        },
+        {
+            "id": 450150118,
+            "name": "Zhuzhoujiang Miaozuxiang",
+            "alt_names": [],
+            "latitude": 26.67528,
+            "longitude": 110.07194,
+            "timezone": null
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 149014,
+    "name": "Tanintharyi",
+    "alt_names": [],
+    "state_code": "05",
+    "latitude": 12.4706876,
+    "longitude": 99.0128926,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1490140001,
+            "name": "Dawei",
+            "alt_names": [],
+            "latitude": 14.0823,
+            "longitude": 98.19151,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490140002,
+            "name": "Kawthoung",
+            "alt_names": [],
+            "latitude": 9.98238,
+            "longitude": 98.55034,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        },
+        {
+            "id": 1490140003,
+            "name": "Myeik",
+            "alt_names": [],
+            "latitude": 12.43954,
+            "longitude": 98.60028,
+            "timezone": {
+                "zoneName": "Asia/Yangon",
+                "gmtOffset": 23400,
+                "gmtOffsetName": "UTC+06:30",
+                "abbreviation": "MMT",
+                "tzName": "Myanmar Standard Time"
+            }
+        }
+    ]
+}

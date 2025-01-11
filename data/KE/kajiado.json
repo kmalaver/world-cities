@@ -1,0 +1,53 @@
+{
+    "id": 113010,
+    "name": "Kajiado",
+    "alt_names": [],
+    "state_code": "10",
+    "latitude": -2.0980751,
+    "longitude": 36.7819505,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130100001,
+            "name": "Kajiado",
+            "alt_names": [],
+            "latitude": -1.85238,
+            "longitude": 36.77683,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130100002,
+            "name": "Magadi",
+            "alt_names": [],
+            "latitude": -1.90122,
+            "longitude": 36.287,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130100003,
+            "name": "Ngong",
+            "alt_names": [],
+            "latitude": -1.3527,
+            "longitude": 36.6699,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

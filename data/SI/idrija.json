@@ -1,0 +1,39 @@
+{
+    "id": 201053,
+    "name": "Idrija",
+    "alt_names": [],
+    "state_code": "036",
+    "latitude": 46.0040939,
+    "longitude": 13.9775493,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010530001,
+            "name": "Idrija",
+            "alt_names": [],
+            "latitude": 46.00278,
+            "longitude": 14.03056,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010530002,
+            "name": "Spodnja Idrija",
+            "alt_names": [],
+            "latitude": 46.03194,
+            "longitude": 14.02722,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

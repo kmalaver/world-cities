@@ -1,0 +1,81 @@
+{
+    "id": 161002,
+    "name": "Kangwon",
+    "alt_names": [],
+    "state_code": "07",
+    "latitude": 38.8432393,
+    "longitude": 127.5597067,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1610020001,
+            "name": "Anbyŏn-ŭp",
+            "alt_names": [],
+            "latitude": 39.0425,
+            "longitude": 127.52389,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 1610020002,
+            "name": "Hoeyang",
+            "alt_names": [],
+            "latitude": 38.71028,
+            "longitude": 127.59833,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 1610020003,
+            "name": "Kosan",
+            "alt_names": [],
+            "latitude": 38.85583,
+            "longitude": 127.41806,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 1610020004,
+            "name": "T’ongch’ŏn-ŭp",
+            "alt_names": [],
+            "latitude": 38.95389,
+            "longitude": 127.89167,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        },
+        {
+            "id": 1610020005,
+            "name": "Wŏnsan",
+            "alt_names": [],
+            "latitude": 39.15278,
+            "longitude": 127.44361,
+            "timezone": {
+                "zoneName": "Asia/Pyongyang",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "KST",
+                "tzName": "Korea Standard Time"
+            }
+        }
+    ]
+}

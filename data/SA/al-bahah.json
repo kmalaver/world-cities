@@ -1,0 +1,53 @@
+{
+    "id": 193002,
+    "name": "Al Bahah",
+    "alt_names": [],
+    "state_code": "11",
+    "latitude": 20.2722739,
+    "longitude": 41.441251,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1930020001,
+            "name": "Al Bahah",
+            "alt_names": [],
+            "latitude": 20.01288,
+            "longitude": 41.46767,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930020002,
+            "name": "Al Mindak",
+            "alt_names": [],
+            "latitude": 20.1588,
+            "longitude": 41.28337,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        },
+        {
+            "id": 1930020003,
+            "name": "Hajrah",
+            "alt_names": [],
+            "latitude": 20.23333333,
+            "longitude": 41.05,
+            "timezone": {
+                "zoneName": "Asia/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        }
+    ]
+}

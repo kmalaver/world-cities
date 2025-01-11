@@ -1,0 +1,39 @@
+{
+    "id": 6002,
+    "name": "Canillo",
+    "alt_names": [],
+    "state_code": "02",
+    "latitude": 42.5978249,
+    "longitude": 1.6566377,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 60020001,
+            "name": "Canillo",
+            "alt_names": [],
+            "latitude": 42.5676,
+            "longitude": 1.59756,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 60020002,
+            "name": "El Tarter",
+            "alt_names": [],
+            "latitude": 42.57952,
+            "longitude": 1.65362,
+            "timezone": {
+                "zoneName": "Europe/Andorra",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": 233,
+    "name": "Ukraine",
+    "iso3": "UKR",
+    "iso2": "UA",
+    "numeric_code": "804",
+    "phonecode": "380",
+    "capital": "Kyiv",
+    "currency": "UAH",
+    "currency_name": "Ukrainian hryvnia",
+    "currency_symbol": "₴",
+    "tld": ".ua",
+    "native": "Україна",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "translations": {
+        "de": "Ukraine",
+        "es": "Ucrania",
+        "fa": "وکراین",
+        "fr": "Ukraine",
+        "hr": "Ukrajina",
+        "it": "Ucraina",
+        "ja": "ウクライナ",
+        "ko": "우크라이나",
+        "nl": "Oekraïne",
+        "pl": "Ukraina",
+        "pt": "Ucrânia",
+        "pt-BR": "Ucrânia",
+        "ru": "Украина",
+        "tr": "Ukrayna",
+        "uk": "Україна",
+        "zh-CN": "乌克兰"
+    },
+    "latitude": 49,
+    "longitude": 32,
+    "emoji": "🇺🇦",
+    "emojiU": "U+1F1FA U+1F1E6",
+    "timezones": [
+        {
+            "zoneName": "Europe/Kiev",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        },
+        {
+            "zoneName": "Europe/Simferopol",
+            "gmtOffset": 10800,
+            "gmtOffsetName": "UTC+03:00",
+            "abbreviation": "MSK",
+            "tzName": "Moscow Time"
+        },
+        {
+            "zoneName": "Europe/Uzhgorod",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        },
+        {
+            "zoneName": "Europe/Zaporozhye",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        }
+    ]
+}

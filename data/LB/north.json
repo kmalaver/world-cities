@@ -1,0 +1,53 @@
+{
+    "id": 120007,
+    "name": "North",
+    "alt_names": [],
+    "state_code": "AS",
+    "latitude": 34.4380625,
+    "longitude": 35.8308233,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 1200070001,
+            "name": "Batroûn",
+            "alt_names": [],
+            "latitude": 34.25528,
+            "longitude": 35.65806,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200070002,
+            "name": "Bcharré",
+            "alt_names": [],
+            "latitude": 34.25083,
+            "longitude": 36.01056,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1200070003,
+            "name": "Tripoli",
+            "alt_names": [],
+            "latitude": 34.43352,
+            "longitude": 35.84415,
+            "timezone": {
+                "zoneName": "Asia/Beirut",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

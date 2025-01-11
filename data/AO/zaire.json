@@ -1,0 +1,53 @@
+{
+    "id": 7017,
+    "name": "Zaire",
+    "alt_names": [],
+    "state_code": "ZAI",
+    "latitude": -6.5733458,
+    "longitude": 13.1740348,
+    "type": "province",
+    "cities": [
+        {
+            "id": 70170001,
+            "name": "Mbanza Congo",
+            "alt_names": [],
+            "latitude": -6.26703,
+            "longitude": 14.2401,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70170002,
+            "name": "N'zeto",
+            "alt_names": [],
+            "latitude": -7.23116,
+            "longitude": 12.8666,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 70170003,
+            "name": "Soio",
+            "alt_names": [],
+            "latitude": -6.1349,
+            "longitude": 12.36894,
+            "timezone": {
+                "zoneName": "Africa/Luanda",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

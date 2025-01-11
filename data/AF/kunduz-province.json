@@ -1,0 +1,81 @@
+{
+    "id": 1019,
+    "name": "Kunduz Province",
+    "alt_names": [],
+    "state_code": "KDZ",
+    "latitude": 36.7285511,
+    "longitude": 68.8678982,
+    "type": "province",
+    "cities": [
+        {
+            "id": 10190001,
+            "name": "Dasht-e Archī",
+            "alt_names": [],
+            "latitude": 37.13333,
+            "longitude": 69.16667,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10190002,
+            "name": "Imām Şāḩib",
+            "alt_names": [],
+            "latitude": 37.18897,
+            "longitude": 68.93644,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10190003,
+            "name": "Khanabad",
+            "alt_names": [],
+            "latitude": 36.6825,
+            "longitude": 69.11556,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10190004,
+            "name": "Kunduz",
+            "alt_names": [],
+            "latitude": 36.72895,
+            "longitude": 68.857,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        },
+        {
+            "id": 10190005,
+            "name": "Qarāwul",
+            "alt_names": [],
+            "latitude": 37.21959,
+            "longitude": 68.7802,
+            "timezone": {
+                "zoneName": "Asia/Kabul",
+                "gmtOffset": 16200,
+                "gmtOffsetName": "UTC+04:30",
+                "abbreviation": "AFT",
+                "tzName": "Afghanistan Time"
+            }
+        }
+    ]
+}

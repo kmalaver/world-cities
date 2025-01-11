@@ -1,0 +1,39 @@
+{
+    "id": 131001,
+    "name": "Addu",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": -0.6300995,
+    "longitude": 73.1585626,
+    "type": "city",
+    "cities": [
+        {
+            "id": 1310010001,
+            "name": "Hithadhoo",
+            "alt_names": [],
+            "latitude": -0.6,
+            "longitude": 73.08333,
+            "timezone": {
+                "zoneName": "Indian/Maldives",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "MVT",
+                "tzName": "Maldives Time"
+            }
+        },
+        {
+            "id": 1310010002,
+            "name": "Meedhoo",
+            "alt_names": [],
+            "latitude": -0.58333,
+            "longitude": 73.23333,
+            "timezone": {
+                "zoneName": "Indian/Maldives",
+                "gmtOffset": 18000,
+                "gmtOffsetName": "UTC+05:00",
+                "abbreviation": "MVT",
+                "tzName": "Maldives Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 110001,
+    "name": "Grouville",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 49.1821257,
+    "longitude": -2.0941981,
+    "type": "parish",
+    "cities": [
+        {
+            "id": 1100010001,
+            "name": "Vingtaine de la Rocque",
+            "alt_names": [],
+            "latitude": 49.1670818,
+            "longitude": -2.0505807,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100010002,
+            "name": "Vingtaine de la Rue",
+            "alt_names": [],
+            "latitude": 49.1866123,
+            "longitude": -2.0531613,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100010003,
+            "name": "Vingtaine de Longueville",
+            "alt_names": [],
+            "latitude": 49.1900183,
+            "longitude": -2.049178,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1100010004,
+            "name": "Vingtaine des Marais",
+            "alt_names": [],
+            "latitude": 49.185563,
+            "longitude": -2.050422,
+            "timezone": {
+                "zoneName": "Europe/Jersey",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

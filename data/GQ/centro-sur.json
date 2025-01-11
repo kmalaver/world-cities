@@ -1,0 +1,53 @@
+{
+    "id": 67004,
+    "name": "Centro Sur",
+    "alt_names": [],
+    "state_code": "CS",
+    "latitude": 1.3436084,
+    "longitude": 10.439656,
+    "type": "province",
+    "cities": [
+        {
+            "id": 670040001,
+            "name": "Acurenam",
+            "alt_names": [],
+            "latitude": 1.03225,
+            "longitude": 10.64882,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 670040002,
+            "name": "Bicurga",
+            "alt_names": [],
+            "latitude": 1.58113,
+            "longitude": 10.46716,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 670040003,
+            "name": "Evinayong",
+            "alt_names": [],
+            "latitude": 1.43677,
+            "longitude": 10.55124,
+            "timezone": {
+                "zoneName": "Africa/Malabo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

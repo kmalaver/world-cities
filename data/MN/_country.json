@@ -1,0 +1,61 @@
+{
+    "id": 144,
+    "name": "Mongolia",
+    "iso3": "MNG",
+    "iso2": "MN",
+    "numeric_code": "496",
+    "phonecode": "976",
+    "capital": "Ulan Bator",
+    "currency": "MNT",
+    "currency_name": "Mongolian tögrög",
+    "currency_symbol": "₮",
+    "tld": ".mn",
+    "native": "Монгол улс",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "translations": {
+        "de": "Mongolei",
+        "es": "Mongolia",
+        "fa": "مغولستان",
+        "fr": "Mongolie",
+        "hr": "Mongolija",
+        "it": "Mongolia",
+        "ja": "モンゴル",
+        "ko": "몽골",
+        "nl": "Mongolië",
+        "pl": "Mongolia",
+        "pt": "Mongólia",
+        "pt-BR": "Mongólia",
+        "ru": "Монголия",
+        "tr": "Moğolistan",
+        "uk": "Монголія",
+        "zh-CN": "蒙古"
+    },
+    "latitude": 46,
+    "longitude": 105,
+    "emoji": "🇲🇳",
+    "emojiU": "U+1F1F2 U+1F1F3",
+    "timezones": [
+        {
+            "zoneName": "Asia/Choibalsan",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "CHOT",
+            "tzName": "Choibalsan Standard Time"
+        },
+        {
+            "zoneName": "Asia/Hovd",
+            "gmtOffset": 25200,
+            "gmtOffsetName": "UTC+07:00",
+            "abbreviation": "HOVT",
+            "tzName": "Hovd Time"
+        },
+        {
+            "zoneName": "Asia/Ulaanbaatar",
+            "gmtOffset": 28800,
+            "gmtOffsetName": "UTC+08:00",
+            "abbreviation": "ULAT",
+            "tzName": "Ulaanbaatar Standard Time"
+        }
+    ]
+}

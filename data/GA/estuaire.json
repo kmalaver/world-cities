@@ -1,0 +1,53 @@
+{
+    "id": 80001,
+    "name": "Estuaire",
+    "alt_names": [],
+    "state_code": "1",
+    "latitude": 0.4432864,
+    "longitude": 10.0807298,
+    "type": "province",
+    "cities": [
+        {
+            "id": 800010001,
+            "name": "Cocobeach",
+            "alt_names": [],
+            "latitude": 1.00019,
+            "longitude": 9.58229,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800010002,
+            "name": "Libreville",
+            "alt_names": [],
+            "latitude": 0.39241,
+            "longitude": 9.45356,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 800010003,
+            "name": "Ntoum",
+            "alt_names": [],
+            "latitude": 0.39051,
+            "longitude": 9.76096,
+            "timezone": {
+                "zoneName": "Africa/Libreville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

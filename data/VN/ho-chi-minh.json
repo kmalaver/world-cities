@@ -1,0 +1,53 @@
+{
+    "id": 243029,
+    "name": "Hồ Chí Minh",
+    "alt_names": [],
+    "state_code": "SG",
+    "latitude": 10.8230989,
+    "longitude": 106.6296638,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2430290001,
+            "name": "Cần Giờ",
+            "alt_names": [],
+            "latitude": 10.41115,
+            "longitude": 106.95474,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430290002,
+            "name": "Củ Chi",
+            "alt_names": [],
+            "latitude": 10.97333,
+            "longitude": 106.49325,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 2430290003,
+            "name": "Ho Chi Minh City",
+            "alt_names": [],
+            "latitude": 10.82302,
+            "longitude": 106.62965,
+            "timezone": {
+                "zoneName": "Asia/Ho_Chi_Minh",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

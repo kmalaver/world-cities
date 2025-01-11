@@ -1,0 +1,39 @@
+{
+    "id": 162005,
+    "name": "Bogdanci",
+    "alt_names": [],
+    "state_code": "05",
+    "latitude": 41.1869616,
+    "longitude": 22.5960268,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 1620050001,
+            "name": "Bogdanci",
+            "alt_names": [],
+            "latitude": 41.20306,
+            "longitude": 22.57556,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 1620050002,
+            "name": "Stojakovo",
+            "alt_names": [],
+            "latitude": 41.15556,
+            "longitude": 22.5775,
+            "timezone": {
+                "zoneName": "Europe/Skopje",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

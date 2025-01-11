@@ -1,0 +1,53 @@
+{
+    "id": 63027,
+    "name": "Sánchez Ramírez",
+    "alt_names": [],
+    "state_code": "24",
+    "latitude": 19.052706,
+    "longitude": -70.1492264,
+    "type": "province",
+    "cities": [
+        {
+            "id": 630270001,
+            "name": "Cevicos",
+            "alt_names": [],
+            "latitude": 19.00449,
+            "longitude": -69.97896,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630270002,
+            "name": "Cotuí",
+            "alt_names": [],
+            "latitude": 19.05272,
+            "longitude": -70.14939,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        },
+        {
+            "id": 630270003,
+            "name": "Fantino",
+            "alt_names": [],
+            "latitude": 19.11667,
+            "longitude": -70.3,
+            "timezone": {
+                "zoneName": "America/Santo_Domingo",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        }
+    ]
+}

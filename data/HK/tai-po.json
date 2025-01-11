@@ -1,0 +1,39 @@
+{
+    "id": 98012,
+    "name": "Tai Po",
+    "alt_names": [],
+    "state_code": "NTP",
+    "latitude": 22.45085,
+    "longitude": 114.16422,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980120001,
+            "name": "Tai Mei Tuk",
+            "alt_names": [],
+            "latitude": 22.457,
+            "longitude": 114.184,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980120002,
+            "name": "Tai Po",
+            "alt_names": [],
+            "latitude": 22.449,
+            "longitude": 114.16,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 16054,
+    "name": "Salyan",
+    "alt_names": [],
+    "state_code": "SAL",
+    "latitude": 28.3524811,
+    "longitude": 82.12784,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160540001,
+            "name": "Qaraçala",
+            "alt_names": [],
+            "latitude": 39.81614,
+            "longitude": 48.93792,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160540002,
+            "name": "Salyan",
+            "alt_names": [],
+            "latitude": 39.59621,
+            "longitude": 48.98479,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

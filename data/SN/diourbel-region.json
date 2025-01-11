@@ -1,0 +1,67 @@
+{
+    "id": 194002,
+    "name": "Diourbel Region",
+    "alt_names": [],
+    "state_code": "DB",
+    "latitude": 14.7283085,
+    "longitude": -16.2522143,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1940020001,
+            "name": "Mbacké",
+            "alt_names": [],
+            "latitude": 14.80828,
+            "longitude": -15.86454,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1940020002,
+            "name": "Mbaké",
+            "alt_names": [],
+            "latitude": 14.79032,
+            "longitude": -15.90803,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1940020003,
+            "name": "Tiébo",
+            "alt_names": [],
+            "latitude": 14.63333,
+            "longitude": -16.23333,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        },
+        {
+            "id": 1940020004,
+            "name": "Touba",
+            "alt_names": [],
+            "latitude": 14.85,
+            "longitude": -15.88333,
+            "timezone": {
+                "zoneName": "Africa/Dakar",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        }
+    ]
+}

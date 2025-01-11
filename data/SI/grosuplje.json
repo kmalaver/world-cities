@@ -1,0 +1,39 @@
+{
+    "id": 201046,
+    "name": "Grosuplje",
+    "alt_names": [],
+    "state_code": "032",
+    "latitude": 45.9557645,
+    "longitude": 14.658899,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010460001,
+            "name": "Grosuplje",
+            "alt_names": [],
+            "latitude": 45.95556,
+            "longitude": 14.65889,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010460002,
+            "name": "Šmarje-Sap",
+            "alt_names": [],
+            "latitude": 45.97618,
+            "longitude": 14.61177,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

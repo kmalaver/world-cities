@@ -1,0 +1,53 @@
+{
+    "id": 113023,
+    "name": "Makueni",
+    "alt_names": [],
+    "state_code": "23",
+    "latitude": -2.2558734,
+    "longitude": 37.8936663,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130230001,
+            "name": "Makueni Boma",
+            "alt_names": [],
+            "latitude": -1.80388,
+            "longitude": 37.62405,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130230002,
+            "name": "Mtito Andei",
+            "alt_names": [],
+            "latitude": -2.68987,
+            "longitude": 38.16687,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130230003,
+            "name": "Wote",
+            "alt_names": [],
+            "latitude": -1.78079,
+            "longitude": 37.62882,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

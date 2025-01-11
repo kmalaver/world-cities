@@ -1,0 +1,53 @@
+{
+    "id": 201007,
+    "name": "Bled",
+    "alt_names": [],
+    "state_code": "003",
+    "latitude": 46.3683266,
+    "longitude": 14.1145798,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2010070001,
+            "name": "Bled",
+            "alt_names": [],
+            "latitude": 46.36917,
+            "longitude": 14.11361,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010070002,
+            "name": "Kostanjevica na Krki",
+            "alt_names": [],
+            "latitude": 45.84611,
+            "longitude": 15.42222,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 2010070003,
+            "name": "Zasip",
+            "alt_names": [],
+            "latitude": 46.39284,
+            "longitude": 14.10869,
+            "timezone": {
+                "zoneName": "Europe/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 123012,
+    "name": "Murqub",
+    "alt_names": [],
+    "state_code": "MB",
+    "latitude": 32.4599677,
+    "longitude": 14.1001326,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230120001,
+            "name": "Al Khums",
+            "alt_names": [],
+            "latitude": 32.64861,
+            "longitude": 14.26191,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230120002,
+            "name": "Masallātah",
+            "alt_names": [],
+            "latitude": 32.61667,
+            "longitude": 14,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230120003,
+            "name": "Tarhuna",
+            "alt_names": [],
+            "latitude": 32.43501,
+            "longitude": 13.6332,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

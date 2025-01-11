@@ -1,0 +1,39 @@
+{
+    "id": 220030,
+    "name": "North Andros",
+    "alt_names": [],
+    "state_code": "NS",
+    "latitude": 24.7063805,
+    "longitude": -78.0195387,
+    "type": "district",
+    "cities": [
+        {
+            "id": 2200300001,
+            "name": "Andros Town",
+            "alt_names": [],
+            "latitude": 24.70502,
+            "longitude": -77.76912,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        },
+        {
+            "id": 2200300002,
+            "name": "San Andros",
+            "alt_names": [],
+            "latitude": 25.06667,
+            "longitude": -78.05,
+            "timezone": {
+                "zoneName": "America/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 222009,
+    "name": "Liquiçá",
+    "alt_names": [],
+    "state_code": "LI",
+    "latitude": -8.6674095,
+    "longitude": 125.2587964,
+    "type": "municipality",
+    "cities": [
+        {
+            "id": 2220090001,
+            "name": "Bazartete",
+            "alt_names": [],
+            "latitude": -8.62464,
+            "longitude": 125.38168,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        },
+        {
+            "id": 2220090002,
+            "name": "Likisá",
+            "alt_names": [],
+            "latitude": -8.5875,
+            "longitude": 125.34194,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        },
+        {
+            "id": 2220090003,
+            "name": "Maubara",
+            "alt_names": [],
+            "latitude": -8.61194,
+            "longitude": 125.20611,
+            "timezone": {
+                "zoneName": "Asia/Dili",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "TLT",
+                "tzName": "Timor Leste Time"
+            }
+        }
+    ]
+}

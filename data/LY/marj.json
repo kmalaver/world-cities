@@ -1,0 +1,53 @@
+{
+    "id": 123010,
+    "name": "Marj",
+    "alt_names": [],
+    "state_code": "MJ",
+    "latitude": 32.0550363,
+    "longitude": 21.1891151,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230100001,
+            "name": "Al Abyār",
+            "alt_names": [],
+            "latitude": 32.19,
+            "longitude": 20.59653,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230100002,
+            "name": "Al Marj",
+            "alt_names": [],
+            "latitude": 32.49257,
+            "longitude": 20.82909,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230100003,
+            "name": "Tūkrah",
+            "alt_names": [],
+            "latitude": 32.53414,
+            "longitude": 20.57911,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

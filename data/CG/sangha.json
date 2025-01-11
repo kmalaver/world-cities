@@ -1,0 +1,39 @@
+{
+    "id": 50012,
+    "name": "Sangha",
+    "alt_names": [],
+    "state_code": "13",
+    "latitude": 1.4662328,
+    "longitude": 15.4068079,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500120001,
+            "name": "Ouésso",
+            "alt_names": [],
+            "latitude": 1.61361,
+            "longitude": 16.05167,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500120002,
+            "name": "Sémbé",
+            "alt_names": [],
+            "latitude": 1.64806,
+            "longitude": 14.58056,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

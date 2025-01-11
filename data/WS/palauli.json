@@ -1,0 +1,39 @@
+{
+    "id": 190007,
+    "name": "Palauli",
+    "alt_names": [],
+    "state_code": "PA",
+    "latitude": -13.7294579,
+    "longitude": -172.4536115,
+    "type": "district",
+    "cities": [
+        {
+            "id": 1900070001,
+            "name": "Gataivai",
+            "alt_names": [],
+            "latitude": -13.7736,
+            "longitude": -172.38802,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        },
+        {
+            "id": 1900070002,
+            "name": "Vailoa",
+            "alt_names": [],
+            "latitude": -13.75551,
+            "longitude": -172.30698,
+            "timezone": {
+                "zoneName": "Pacific/Apia",
+                "gmtOffset": 50400,
+                "gmtOffsetName": "UTC+14:00",
+                "abbreviation": "WST",
+                "tzName": "West Samoa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 216018,
+    "name": "Taipei",
+    "alt_names": [],
+    "state_code": "TPE",
+    "latitude": 25.0329694,
+    "longitude": 121.5654177,
+    "type": "special municipality",
+    "cities": [
+        {
+            "id": 2160180001,
+            "name": "Banqiao",
+            "alt_names": [],
+            "latitude": 25.01427,
+            "longitude": 121.46719,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160180002,
+            "name": "Jiufen",
+            "alt_names": [],
+            "latitude": 25.10957,
+            "longitude": 121.84424,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160180003,
+            "name": "Taipei",
+            "alt_names": [],
+            "latitude": 25.04776,
+            "longitude": 121.53185,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        },
+        {
+            "id": 2160180004,
+            "name": "Taipei City",
+            "alt_names": [],
+            "latitude": 25.083,
+            "longitude": 121.55331,
+            "timezone": {
+                "zoneName": "Asia/Taipei",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "CST",
+                "tzName": "China Standard Time"
+            }
+        }
+    ]
+}

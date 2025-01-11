@@ -1,0 +1,81 @@
+{
+    "id": 249003,
+    "name": "Eastern",
+    "alt_names": [],
+    "state_code": "03",
+    "latitude": 23.1669688,
+    "longitude": 49.3653149,
+    "type": "province",
+    "cities": [
+        {
+            "id": 2490030001,
+            "name": "Chadiza",
+            "alt_names": [],
+            "latitude": -14.06779,
+            "longitude": 32.43917,
+            "timezone": {
+                "zoneName": "Africa/Lusaka",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2490030002,
+            "name": "Chipata",
+            "alt_names": [],
+            "latitude": -13.63333,
+            "longitude": 32.65,
+            "timezone": {
+                "zoneName": "Africa/Lusaka",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2490030003,
+            "name": "Lundazi",
+            "alt_names": [],
+            "latitude": -12.29292,
+            "longitude": 33.1782,
+            "timezone": {
+                "zoneName": "Africa/Lusaka",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2490030004,
+            "name": "Nyimba",
+            "alt_names": [],
+            "latitude": -14.55656,
+            "longitude": 30.8149,
+            "timezone": {
+                "zoneName": "Africa/Lusaka",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 2490030005,
+            "name": "Petauke",
+            "alt_names": [],
+            "latitude": -14.24117,
+            "longitude": 31.31975,
+            "timezone": {
+                "zoneName": "Africa/Lusaka",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

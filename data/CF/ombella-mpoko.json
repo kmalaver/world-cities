@@ -1,0 +1,53 @@
+{
+    "id": 42012,
+    "name": "Ombella-M'Poko",
+    "alt_names": [],
+    "state_code": "MP",
+    "latitude": 5.1188825,
+    "longitude": 18.4276047,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 420120001,
+            "name": "Bimbo",
+            "alt_names": [],
+            "latitude": 4.25671,
+            "longitude": 18.41583,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420120002,
+            "name": "Boali",
+            "alt_names": [],
+            "latitude": 4.80048,
+            "longitude": 18.12747,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 420120003,
+            "name": "Damara",
+            "alt_names": [],
+            "latitude": 4.96075,
+            "longitude": 18.7035,
+            "timezone": {
+                "zoneName": "Africa/Bangui",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

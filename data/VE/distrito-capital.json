@@ -1,0 +1,25 @@
+{
+    "id": 242010,
+    "name": "Distrito Capital",
+    "alt_names": [],
+    "state_code": "A",
+    "latitude": 41.2614846,
+    "longitude": -95.9310807,
+    "type": "capital district",
+    "cities": [
+        {
+            "id": 2420100001,
+            "name": "Caracas",
+            "alt_names": [],
+            "latitude": 10.5,
+            "longitude": -66.93333333,
+            "timezone": {
+                "zoneName": "America/Caracas",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "VET",
+                "tzName": "Venezuelan Standard Time"
+            }
+        }
+    ]
+}

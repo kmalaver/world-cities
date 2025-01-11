@@ -1,0 +1,39 @@
+{
+    "id": 123009,
+    "name": "Kufra",
+    "alt_names": [],
+    "state_code": "KF",
+    "latitude": 23.3112389,
+    "longitude": 21.8568586,
+    "type": "popularate",
+    "cities": [
+        {
+            "id": 1230090001,
+            "name": "Al Jawf",
+            "alt_names": [],
+            "latitude": 24.1989,
+            "longitude": 23.29093,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 1230090002,
+            "name": "At Tāj",
+            "alt_names": [],
+            "latitude": 24.20487,
+            "longitude": 23.2857,
+            "timezone": {
+                "zoneName": "Africa/Tripoli",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

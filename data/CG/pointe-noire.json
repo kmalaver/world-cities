@@ -1,0 +1,39 @@
+{
+    "id": 50010,
+    "name": "Pointe-Noire",
+    "alt_names": [],
+    "state_code": "16",
+    "latitude": -4.7691623,
+    "longitude": 11.866362,
+    "type": "department",
+    "cities": [
+        {
+            "id": 500100001,
+            "name": "Loandjili",
+            "alt_names": [],
+            "latitude": -4.75611,
+            "longitude": 11.85778,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 500100002,
+            "name": "Pointe-Noire",
+            "alt_names": [],
+            "latitude": -4.77609,
+            "longitude": 11.86352,
+            "timezone": {
+                "zoneName": "Africa/Brazzaville",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}

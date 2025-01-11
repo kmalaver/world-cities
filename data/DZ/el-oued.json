@@ -1,0 +1,67 @@
+{
+    "id": 4023,
+    "name": "El Oued",
+    "alt_names": [],
+    "state_code": "39",
+    "latitude": 33.367811,
+    "longitude": 6.8516511,
+    "type": "province",
+    "cities": [
+        {
+            "id": 40230001,
+            "name": "Debila",
+            "alt_names": [],
+            "latitude": 33.51667,
+            "longitude": 6.95,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40230002,
+            "name": "El Oued",
+            "alt_names": [],
+            "latitude": 33.35608,
+            "longitude": 6.86319,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40230003,
+            "name": "Reguiba",
+            "alt_names": [],
+            "latitude": 33.56391,
+            "longitude": 6.70326,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 40230004,
+            "name": "Robbah",
+            "alt_names": [],
+            "latitude": 33.27967,
+            "longitude": 6.90984,
+            "timezone": {
+                "zoneName": "Africa/Algiers",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

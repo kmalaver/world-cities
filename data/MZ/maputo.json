@@ -1,0 +1,39 @@
+{
+    "id": 148006,
+    "name": "Maputo",
+    "alt_names": [],
+    "state_code": "MPM",
+    "latitude": -25.969248,
+    "longitude": 32.5731746,
+    "type": "city",
+    "cities": [
+        {
+            "id": 1480060001,
+            "name": "KaTembe",
+            "alt_names": [],
+            "latitude": -26.02985,
+            "longitude": 32.53204,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        },
+        {
+            "id": 1480060002,
+            "name": "Maputo",
+            "alt_names": [],
+            "latitude": -25.96553,
+            "longitude": 32.58322,
+            "timezone": {
+                "zoneName": "Africa/Maputo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "CAT",
+                "tzName": "Central Africa Time"
+            }
+        }
+    ]
+}

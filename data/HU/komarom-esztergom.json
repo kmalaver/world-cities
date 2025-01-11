@@ -1,0 +1,977 @@
+{
+    "id": 99021,
+    "name": "Komárom-Esztergom",
+    "alt_names": [],
+    "state_code": "KE",
+    "latitude": 47.5779786,
+    "longitude": 18.1256855,
+    "type": "county",
+    "cities": [
+        {
+            "id": 990210001,
+            "name": "Ács",
+            "alt_names": [],
+            "latitude": 47.71,
+            "longitude": 18.01555556,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210002,
+            "name": "Aka",
+            "alt_names": [],
+            "latitude": 47.40206944,
+            "longitude": 18.07163056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210003,
+            "name": "Almásfüzitő",
+            "alt_names": [],
+            "latitude": 47.7287,
+            "longitude": 18.25538889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210004,
+            "name": "Ászár",
+            "alt_names": [],
+            "latitude": 47.5095,
+            "longitude": 18.00313889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210005,
+            "name": "Bábolna",
+            "alt_names": [],
+            "latitude": 47.64166667,
+            "longitude": 17.97861111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210006,
+            "name": "Bajót",
+            "alt_names": [],
+            "latitude": 47.72722222,
+            "longitude": 18.55583333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210007,
+            "name": "Bakonybánk",
+            "alt_names": [],
+            "latitude": 47.46548056,
+            "longitude": 17.90243056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210008,
+            "name": "Bakonysárkány",
+            "alt_names": [],
+            "latitude": 47.44851944,
+            "longitude": 18.09916111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210009,
+            "name": "Bakonyszombathely",
+            "alt_names": [],
+            "latitude": 47.47208056,
+            "longitude": 17.96018056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210010,
+            "name": "Bana",
+            "alt_names": [],
+            "latitude": 47.64986111,
+            "longitude": 17.92116944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210011,
+            "name": "Bánhida",
+            "alt_names": [],
+            "latitude": 47.57111111,
+            "longitude": 18.38611111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210012,
+            "name": "Bársonyos",
+            "alt_names": [],
+            "latitude": 47.5114,
+            "longitude": 17.91896944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210013,
+            "name": "Császár",
+            "alt_names": [],
+            "latitude": 47.50203056,
+            "longitude": 18.14206111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210014,
+            "name": "Csatka",
+            "alt_names": [],
+            "latitude": 47.38031944,
+            "longitude": 17.97628889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210015,
+            "name": "Csém",
+            "alt_names": [],
+            "latitude": 47.68118056,
+            "longitude": 18.08686111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210016,
+            "name": "Csép",
+            "alt_names": [],
+            "latitude": 47.57863056,
+            "longitude": 18.06365,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210017,
+            "name": "Csolnok",
+            "alt_names": [],
+            "latitude": 47.69346944,
+            "longitude": 18.71303889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210018,
+            "name": "Dad",
+            "alt_names": [],
+            "latitude": 47.51881111,
+            "longitude": 18.22463056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210019,
+            "name": "Dág",
+            "alt_names": [],
+            "latitude": 47.6625,
+            "longitude": 18.72,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210020,
+            "name": "Dömös",
+            "alt_names": [],
+            "latitude": 47.7648,
+            "longitude": 18.91436944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210021,
+            "name": "Dorog",
+            "alt_names": [],
+            "latitude": 47.72095,
+            "longitude": 18.73641,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210022,
+            "name": "Dunaalmás",
+            "alt_names": [],
+            "latitude": 47.72961111,
+            "longitude": 18.3217,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210023,
+            "name": "Dunaszentmiklós",
+            "alt_names": [],
+            "latitude": 47.70566944,
+            "longitude": 18.37958056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210024,
+            "name": "Epöl",
+            "alt_names": [],
+            "latitude": 47.64708056,
+            "longitude": 18.63558056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210025,
+            "name": "Esztergom",
+            "alt_names": [],
+            "latitude": 47.78555556,
+            "longitude": 18.74027778,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210026,
+            "name": "Ete",
+            "alt_names": [],
+            "latitude": 47.53168889,
+            "longitude": 18.07201111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210027,
+            "name": "Gyermely",
+            "alt_names": [],
+            "latitude": 47.59186944,
+            "longitude": 18.64178056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210028,
+            "name": "Héreg",
+            "alt_names": [],
+            "latitude": 47.64703056,
+            "longitude": 18.51063889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210029,
+            "name": "Kecskéd",
+            "alt_names": [],
+            "latitude": 47.52311111,
+            "longitude": 18.30683056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210030,
+            "name": "Kerékteleki",
+            "alt_names": [],
+            "latitude": 47.51635,
+            "longitude": 17.93891944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210031,
+            "name": "Kesztölc",
+            "alt_names": [],
+            "latitude": 47.71358056,
+            "longitude": 18.7952,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210032,
+            "name": "Kisbér",
+            "alt_names": [],
+            "latitude": 47.50166667,
+            "longitude": 18.02666667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210033,
+            "name": "Kisigmánd",
+            "alt_names": [],
+            "latitude": 47.6544,
+            "longitude": 18.0971,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210034,
+            "name": "Kocs",
+            "alt_names": [],
+            "latitude": 47.60668056,
+            "longitude": 18.21536111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210035,
+            "name": "Komárom",
+            "alt_names": [],
+            "latitude": 47.74318,
+            "longitude": 18.11913,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210036,
+            "name": "Kömlőd",
+            "alt_names": [],
+            "latitude": 47.54678056,
+            "longitude": 18.26048056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210037,
+            "name": "Környe",
+            "alt_names": [],
+            "latitude": 47.54533889,
+            "longitude": 18.32696944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210038,
+            "name": "Lábatlan",
+            "alt_names": [],
+            "latitude": 47.74694444,
+            "longitude": 18.49611111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210039,
+            "name": "Leányvár",
+            "alt_names": [],
+            "latitude": 47.68268056,
+            "longitude": 18.7702,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210040,
+            "name": "Máriahalom",
+            "alt_names": [],
+            "latitude": 47.62746944,
+            "longitude": 18.7076,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210041,
+            "name": "Mocsa",
+            "alt_names": [],
+            "latitude": 47.6712,
+            "longitude": 18.18465,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210042,
+            "name": "Mogyorósbánya",
+            "alt_names": [],
+            "latitude": 47.72806,
+            "longitude": 18.60351,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210043,
+            "name": "Nagyigmánd",
+            "alt_names": [],
+            "latitude": 47.63253056,
+            "longitude": 18.05568889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210044,
+            "name": "Nagysáp",
+            "alt_names": [],
+            "latitude": 47.68481111,
+            "longitude": 18.60163056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210045,
+            "name": "Naszály",
+            "alt_names": [],
+            "latitude": 47.69873056,
+            "longitude": 18.26075,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210046,
+            "name": "Neszmély",
+            "alt_names": [],
+            "latitude": 47.7329,
+            "longitude": 18.3451,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210047,
+            "name": "Nyergesújfalu",
+            "alt_names": [],
+            "latitude": 47.76027778,
+            "longitude": 18.55666667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210048,
+            "name": "Oroszlány",
+            "alt_names": [],
+            "latitude": 47.48916667,
+            "longitude": 18.31638889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210049,
+            "name": "Piliscsév",
+            "alt_names": [],
+            "latitude": 47.6771,
+            "longitude": 18.81488889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210050,
+            "name": "Pilismarót",
+            "alt_names": [],
+            "latitude": 47.78403889,
+            "longitude": 18.87551944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210051,
+            "name": "Réde",
+            "alt_names": [],
+            "latitude": 47.43058056,
+            "longitude": 17.91865,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210052,
+            "name": "Sárisáp",
+            "alt_names": [],
+            "latitude": 47.67465278,
+            "longitude": 18.68096944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210053,
+            "name": "Súr",
+            "alt_names": [],
+            "latitude": 47.37083889,
+            "longitude": 18.02876111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210054,
+            "name": "Süttő",
+            "alt_names": [],
+            "latitude": 47.75675,
+            "longitude": 18.44145,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210055,
+            "name": "Szákszend",
+            "alt_names": [],
+            "latitude": 47.55713056,
+            "longitude": 18.16313056,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210056,
+            "name": "Szomód",
+            "alt_names": [],
+            "latitude": 47.68253,
+            "longitude": 18.3418,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210057,
+            "name": "Szomor",
+            "alt_names": [],
+            "latitude": 47.59305,
+            "longitude": 18.66328889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210058,
+            "name": "Szőny",
+            "alt_names": [],
+            "latitude": 47.73333333,
+            "longitude": 18.16666667,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210059,
+            "name": "Tardos",
+            "alt_names": [],
+            "latitude": 47.6618,
+            "longitude": 18.44358,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210060,
+            "name": "Tarján",
+            "alt_names": [],
+            "latitude": 47.61055556,
+            "longitude": 18.51083333,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210061,
+            "name": "Tárkány",
+            "alt_names": [],
+            "latitude": 47.59135,
+            "longitude": 18.00366111,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210062,
+            "name": "Tatabánya",
+            "alt_names": [],
+            "latitude": 47.58616,
+            "longitude": 18.39485,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210063,
+            "name": "Tokodaltáró",
+            "alt_names": [],
+            "latitude": 47.7339,
+            "longitude": 18.68946,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210064,
+            "name": "Úny",
+            "alt_names": [],
+            "latitude": 47.64246944,
+            "longitude": 18.73786944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210065,
+            "name": "Várgesztes",
+            "alt_names": [],
+            "latitude": 47.47526944,
+            "longitude": 18.39731944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210066,
+            "name": "Vérteskethely",
+            "alt_names": [],
+            "latitude": 47.48721111,
+            "longitude": 18.08346944,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210067,
+            "name": "Vértessomló",
+            "alt_names": [],
+            "latitude": 47.50973889,
+            "longitude": 18.36705,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210068,
+            "name": "Vértesszőlős",
+            "alt_names": [],
+            "latitude": 47.61883889,
+            "longitude": 18.3803,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        },
+        {
+            "id": 990210069,
+            "name": "Vértestolna",
+            "alt_names": [],
+            "latitude": 47.62838889,
+            "longitude": 18.45643889,
+            "timezone": {
+                "zoneName": "Europe/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        }
+    ]
+}

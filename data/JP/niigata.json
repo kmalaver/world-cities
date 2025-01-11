@@ -1,0 +1,655 @@
+{
+    "id": 109029,
+    "name": "Niigata",
+    "alt_names": [],
+    "state_code": "15",
+    "latitude": 37.5178386,
+    "longitude": 138.9269794,
+    "type": "prefecture",
+    "cities": [
+        {
+            "id": 1090290001,
+            "name": "Agano Shi",
+            "alt_names": [],
+            "latitude": 37.8142,
+            "longitude": 139.25914,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290002,
+            "name": "Arai",
+            "alt_names": [],
+            "latitude": 37.00059,
+            "longitude": 138.2259,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290003,
+            "name": "Gosen",
+            "alt_names": [],
+            "latitude": 37.73333,
+            "longitude": 139.16667,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290004,
+            "name": "Gosen Shi",
+            "alt_names": [],
+            "latitude": 37.65643,
+            "longitude": 139.22634,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290005,
+            "name": "Itoigawa",
+            "alt_names": [],
+            "latitude": 37.03333,
+            "longitude": 137.85,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290006,
+            "name": "Itoigawa Shi",
+            "alt_names": [],
+            "latitude": 36.96626,
+            "longitude": 137.89402,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290007,
+            "name": "Jōetsu",
+            "alt_names": [],
+            "latitude": 37.14828,
+            "longitude": 138.23642,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290008,
+            "name": "Jōetsu Shi",
+            "alt_names": [],
+            "latitude": 37.1201,
+            "longitude": 138.33752,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290009,
+            "name": "Kameda-honchō",
+            "alt_names": [],
+            "latitude": 37.87214,
+            "longitude": 139.1099,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290010,
+            "name": "Kamo",
+            "alt_names": [],
+            "latitude": 37.66442,
+            "longitude": 139.03502,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290011,
+            "name": "Kamo Shi",
+            "alt_names": [],
+            "latitude": 37.62209,
+            "longitude": 139.11068,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290012,
+            "name": "Kashiwazaki",
+            "alt_names": [],
+            "latitude": 37.36667,
+            "longitude": 138.55,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290013,
+            "name": "Kashiwazaki Shi",
+            "alt_names": [],
+            "latitude": 37.29913,
+            "longitude": 138.58654,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290014,
+            "name": "Maki",
+            "alt_names": [],
+            "latitude": 37.75,
+            "longitude": 138.88333,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290015,
+            "name": "Minamiuonuma Shi",
+            "alt_names": [],
+            "latitude": 37.05587,
+            "longitude": 138.93735,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290016,
+            "name": "Mitsuke",
+            "alt_names": [],
+            "latitude": 37.53333,
+            "longitude": 138.93333,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290017,
+            "name": "Mitsuke Shi",
+            "alt_names": [],
+            "latitude": 37.52465,
+            "longitude": 138.93711,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290018,
+            "name": "Muikamachi",
+            "alt_names": [],
+            "latitude": 37.06667,
+            "longitude": 138.88333,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290019,
+            "name": "Murakami Shi",
+            "alt_names": [],
+            "latitude": 38.31023,
+            "longitude": 139.61733,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290020,
+            "name": "Muramatsu",
+            "alt_names": [],
+            "latitude": 37.69257,
+            "longitude": 139.17127,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290021,
+            "name": "Myoko-shi",
+            "alt_names": [],
+            "latitude": 37,
+            "longitude": 138.25,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290022,
+            "name": "Nagaoka",
+            "alt_names": [],
+            "latitude": 37.45,
+            "longitude": 138.85,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290023,
+            "name": "Nagaoka Shi",
+            "alt_names": [],
+            "latitude": 37.44516,
+            "longitude": 138.85678,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290024,
+            "name": "Niigata",
+            "alt_names": [],
+            "latitude": 37.88637,
+            "longitude": 139.00589,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290025,
+            "name": "Niigata Shi",
+            "alt_names": [],
+            "latitude": 37.82738,
+            "longitude": 139.03303,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290026,
+            "name": "Niitsu-honchō",
+            "alt_names": [],
+            "latitude": 37.80024,
+            "longitude": 139.1224,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290027,
+            "name": "Ojiya",
+            "alt_names": [],
+            "latitude": 37.3,
+            "longitude": 138.8,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290028,
+            "name": "Ojiya-shi",
+            "alt_names": [],
+            "latitude": 37.3,
+            "longitude": 138.8,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290029,
+            "name": "Ryōtsu-minato",
+            "alt_names": [],
+            "latitude": 38.07817,
+            "longitude": 138.43939,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290030,
+            "name": "Sado Shi",
+            "alt_names": [],
+            "latitude": 38.04439,
+            "longitude": 138.38984,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290031,
+            "name": "Sanjō Shi",
+            "alt_names": [],
+            "latitude": 37.54068,
+            "longitude": 139.08983,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290032,
+            "name": "Shibata",
+            "alt_names": [],
+            "latitude": 37.95,
+            "longitude": 139.33333,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290033,
+            "name": "Shibata Shi",
+            "alt_names": [],
+            "latitude": 37.90732,
+            "longitude": 139.42786,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290034,
+            "name": "Shiozawa",
+            "alt_names": [],
+            "latitude": 37.03757,
+            "longitude": 138.84867,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290035,
+            "name": "Shirone",
+            "alt_names": [],
+            "latitude": 37.76354,
+            "longitude": 139.02199,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290036,
+            "name": "Suibara",
+            "alt_names": [],
+            "latitude": 37.84608,
+            "longitude": 139.23039,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290037,
+            "name": "Tainai",
+            "alt_names": [],
+            "latitude": 38.06646,
+            "longitude": 139.37436,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290038,
+            "name": "Tainai Shi",
+            "alt_names": [],
+            "latitude": 38.00587,
+            "longitude": 139.48053,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290039,
+            "name": "Tochio-honchō",
+            "alt_names": [],
+            "latitude": 37.47642,
+            "longitude": 138.99513,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290040,
+            "name": "Tōkamachi",
+            "alt_names": [],
+            "latitude": 37.13333,
+            "longitude": 138.76667,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290041,
+            "name": "Tōkamachi-shi",
+            "alt_names": [],
+            "latitude": 37.13333,
+            "longitude": 138.76667,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290042,
+            "name": "Tsubame",
+            "alt_names": [],
+            "latitude": 37.6645,
+            "longitude": 138.92518,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290043,
+            "name": "Tsubame Shi",
+            "alt_names": [],
+            "latitude": 37.66541,
+            "longitude": 138.88619,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290044,
+            "name": "Uonuma",
+            "alt_names": [],
+            "latitude": 37.24488,
+            "longitude": 138.96234,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290045,
+            "name": "Uonuma Shi",
+            "alt_names": [],
+            "latitude": 37.22088,
+            "longitude": 139.09795,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        },
+        {
+            "id": 1090290046,
+            "name": "Yoshida-kasugachō",
+            "alt_names": [],
+            "latitude": 37.68333,
+            "longitude": 138.88333,
+            "timezone": {
+                "zoneName": "Asia/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        }
+    ]
+}

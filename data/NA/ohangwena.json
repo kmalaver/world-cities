@@ -1,0 +1,25 @@
+{
+    "id": 150008,
+    "name": "Ohangwena",
+    "alt_names": [],
+    "state_code": "OW",
+    "latitude": -17.5979291,
+    "longitude": 16.8178377,
+    "type": "region",
+    "cities": [
+        {
+            "id": 1500080001,
+            "name": "Oshikango",
+            "alt_names": [],
+            "latitude": -17.4,
+            "longitude": 15.88333,
+            "timezone": {
+                "zoneName": "Africa/Windhoek",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "WAST",
+                "tzName": "West Africa Summer Time"
+            }
+        }
+    ]
+}

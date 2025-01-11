@@ -1,0 +1,53 @@
+{
+    "id": 113001,
+    "name": "Baringo",
+    "alt_names": [],
+    "state_code": "01",
+    "latitude": 0.8554988,
+    "longitude": 36.0893406,
+    "type": "county",
+    "cities": [
+        {
+            "id": 1130010001,
+            "name": "Baringo",
+            "alt_names": [],
+            "latitude": 0.46667,
+            "longitude": 35.96667,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130010002,
+            "name": "Eldama Ravine",
+            "alt_names": [],
+            "latitude": 0.05196,
+            "longitude": 35.72734,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 1130010003,
+            "name": "Kabarnet",
+            "alt_names": [],
+            "latitude": 0.49194,
+            "longitude": 35.74303,
+            "timezone": {
+                "zoneName": "Africa/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 16026,
+    "name": "Jalilabad",
+    "alt_names": [],
+    "state_code": "CAL",
+    "latitude": 39.2051632,
+    "longitude": 48.5100604,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160260001,
+            "name": "Jalilabad",
+            "alt_names": [],
+            "latitude": 39.20963,
+            "longitude": 48.49186,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160260002,
+            "name": "Prishibinskoye",
+            "alt_names": [],
+            "latitude": 39.11998,
+            "longitude": 48.59383,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

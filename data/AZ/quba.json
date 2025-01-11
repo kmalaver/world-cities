@@ -1,0 +1,39 @@
+{
+    "id": 16048,
+    "name": "Quba",
+    "alt_names": [],
+    "state_code": "QBA",
+    "latitude": 41.1564242,
+    "longitude": 48.4135021,
+    "type": "district",
+    "cities": [
+        {
+            "id": 160480001,
+            "name": "Hacıhüseynli",
+            "alt_names": [],
+            "latitude": 41.45639,
+            "longitude": 48.64889,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        },
+        {
+            "id": 160480002,
+            "name": "Quba",
+            "alt_names": [],
+            "latitude": 41.36108,
+            "longitude": 48.51341,
+            "timezone": {
+                "zoneName": "Asia/Baku",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "AZT",
+                "tzName": "Azerbaijan Time"
+            }
+        }
+    ]
+}

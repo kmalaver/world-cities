@@ -1,0 +1,53 @@
+{
+    "id": 218018,
+    "name": "Pemba North",
+    "alt_names": [],
+    "state_code": "06",
+    "latitude": -5.0319352,
+    "longitude": 39.7755571,
+    "type": "region",
+    "cities": [
+        {
+            "id": 2180180001,
+            "name": "Konde",
+            "alt_names": [],
+            "latitude": -4.95,
+            "longitude": 39.75,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180180002,
+            "name": "Micheweni",
+            "alt_names": [],
+            "latitude": -4.96667,
+            "longitude": 39.83333,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        },
+        {
+            "id": 2180180003,
+            "name": "Wete",
+            "alt_names": [],
+            "latitude": -5.05589,
+            "longitude": 39.72938,
+            "timezone": {
+                "zoneName": "Africa/Dar_es_Salaam",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        }
+    ]
+}

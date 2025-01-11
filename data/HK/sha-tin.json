@@ -1,0 +1,53 @@
+{
+    "id": 98009,
+    "name": "Sha Tin",
+    "alt_names": [],
+    "state_code": "NST",
+    "latitude": 22.38715,
+    "longitude": 114.19534,
+    "type": "district",
+    "cities": [
+        {
+            "id": 980090001,
+            "name": "Ma On Shan",
+            "alt_names": [],
+            "latitude": 22.422,
+            "longitude": 114.23,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980090002,
+            "name": "Sha Tin",
+            "alt_names": [],
+            "latitude": 22.383,
+            "longitude": 114.188,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        },
+        {
+            "id": 980090003,
+            "name": "Sha Tin Wai",
+            "alt_names": [],
+            "latitude": 22.38,
+            "longitude": 114.191,
+            "timezone": {
+                "zoneName": "Asia/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        }
+    ]
+}

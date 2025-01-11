@@ -1,0 +1,53 @@
+{
+    "id": 65015,
+    "name": "Matrouh",
+    "alt_names": [],
+    "state_code": "MT",
+    "latitude": 29.569635,
+    "longitude": 26.419389,
+    "type": "governorate",
+    "cities": [
+        {
+            "id": 650150001,
+            "name": "Al ‘Alamayn",
+            "alt_names": [],
+            "latitude": 30.83007,
+            "longitude": 28.95502,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650150002,
+            "name": "Mersa Matruh",
+            "alt_names": [],
+            "latitude": 31.3529,
+            "longitude": 27.23725,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        },
+        {
+            "id": 650150003,
+            "name": "Siwa Oasis",
+            "alt_names": [],
+            "latitude": 29.2032,
+            "longitude": 25.51965,
+            "timezone": {
+                "zoneName": "Africa/Cairo",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        }
+    ]
+}

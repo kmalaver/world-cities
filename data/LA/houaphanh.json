@@ -1,0 +1,39 @@
+{
+    "id": 118005,
+    "name": "Houaphanh",
+    "alt_names": [],
+    "state_code": "HO",
+    "latitude": 20.3254175,
+    "longitude": 104.1001326,
+    "type": "province",
+    "cities": [
+        {
+            "id": 1180050001,
+            "name": "Xam Neua",
+            "alt_names": [],
+            "latitude": 20.40764,
+            "longitude": 104.0656,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        },
+        {
+            "id": 1180050002,
+            "name": "Xam Nua",
+            "alt_names": [],
+            "latitude": 20.4164,
+            "longitude": 104.045,
+            "timezone": {
+                "zoneName": "Asia/Vientiane",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        }
+    ]
+}

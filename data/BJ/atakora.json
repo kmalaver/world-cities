@@ -1,0 +1,53 @@
+{
+    "id": 23002,
+    "name": "Atakora",
+    "alt_names": [],
+    "state_code": "AK",
+    "latitude": 10.7954931,
+    "longitude": 1.6760691,
+    "type": "department",
+    "cities": [
+        {
+            "id": 230020001,
+            "name": "Guilmaro",
+            "alt_names": [],
+            "latitude": 10.56583,
+            "longitude": 1.72444,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230020002,
+            "name": "Natitingou",
+            "alt_names": [],
+            "latitude": 10.30416,
+            "longitude": 1.37962,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        },
+        {
+            "id": 230020003,
+            "name": "Tanguieta",
+            "alt_names": [],
+            "latitude": 11.03621,
+            "longitude": 1.41757,
+            "timezone": {
+                "zoneName": "Africa/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        }
+    ]
+}
