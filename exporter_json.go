@@ -3,14 +3,17 @@ package main
 import (
 	"context"
 	"encoding/json"
+	"os"
 )
 
 type JsonExporter struct{}
 
-func (e *JsonExporter) Ext() string {
-	return "json"
-}
+func (e *JsonExporter) Export(ctx context.Context, path string, countries []Country) error {
+	output, err := json.MarshalIndent(countries, "", "  ")
+	if err != nil {
+		return err
+	}
 
-func (e *JsonExporter) Export(ctx context.Context, countries []Country) ([]byte, error) {
-	return json.MarshalIndent(countries, "", "  ")
+	err = os.WriteFile(path+"/data.json", output, 0644)
+	return err
 }

@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"os"
 	"slices"
 	"strings"
 )
@@ -14,7 +15,7 @@ func (e *PsqlExporter) Ext() string {
 	return "sql"
 }
 
-func (e *PsqlExporter) Export(ctx context.Context, countries []Country) ([]byte, error) {
+func (e *PsqlExporter) Export(ctx context.Context, path string, countries []Country) error {
 
 	var countriesData []map[string]any
 	for i := range countries {
@@ -81,7 +82,11 @@ func (e *PsqlExporter) Export(ctx context.Context, countries []Country) ([]byte,
 	statesSql := e.generateInserts("states", statesData)
 	citiesSql := e.generateInserts("cities", citiesData)
 
-	return []byte(strings.Join([]string{schema, countriesSql, statesSql, citiesSql}, "\n\n")), nil
+	dataBytes := []byte(strings.Join([]string{schema, countriesSql, statesSql, citiesSql}, "\n\n"))
+
+	filePath := path + "/data.sql"
+	err := os.WriteFile(filePath, dataBytes, 0644)
+	return err
 }
 
 func (e *PsqlExporter) generateInserts(tableName string, data []map[string]any) string {

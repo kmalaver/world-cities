@@ -6,14 +6,15 @@ import (
 	"flag"
 	"fmt"
 	"os"
+	"path"
 	"slices"
 	"strings"
 	"time"
 )
 
 var includeCountriesFlag = flag.String("countries", "", "Comma separated list of countries to include")
-var outputPathFlag = flag.String("output", "world-cities", "Path to output file")
-var format = flag.String("format", "psql", "Output format (psql, json)")
+var outputPathFlag = flag.String("output", "", "Path to output file")
+var format = flag.String("format", "", "Output format (psql, json)")
 
 var formats = map[string]Exporter{
 	"psql": &PsqlExporter{},
@@ -22,8 +23,12 @@ var formats = map[string]Exporter{
 
 func main() {
 	start := time.Now()
-
 	flag.Parse()
+
+	if *format == "" {
+		fmt.Println("Format is required")
+		os.Exit(1)
+	}
 
 	var countries []string
 	if *includeCountriesFlag != "" {
@@ -45,14 +50,24 @@ func main() {
 		panic(err)
 	}
 
-	dataBytes, err := exporter.Export(context.Background(), data)
+	absPath, err := os.Getwd()
 	if err != nil {
 		panic(err)
 	}
 
-	outputPath := *outputPathFlag + "." + exporter.Ext()
+	if *outputPathFlag == "" {
+		*outputPathFlag = fmt.Sprintf("output_%s", *format)
+	}
 
-	err = os.WriteFile(outputPath, dataBytes, 0644)
+	absPath = path.Join(absPath, *outputPathFlag)
+
+	// create the directory if it doesn't exist
+	err = os.MkdirAll(absPath, 0755)
+	if err != nil {
+		panic(err)
+	}
+
+	err = exporter.Export(context.Background(), absPath, data)
 	if err != nil {
 		panic(err)
 	}
@@ -66,7 +81,7 @@ func main() {
 		}
 	}
 
-	fmt.Printf("Data exported to %s in %s\n", outputPath, time.Since(start))
+	fmt.Printf("Data exported in %s\n", time.Since(start))
 	fmt.Printf("Countries: %d\n", len(data))
 	fmt.Printf("States: %d\n", statesLen)
 	fmt.Printf("Cities: %d\n", citiesLen)

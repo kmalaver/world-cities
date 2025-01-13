@@ -3,8 +3,7 @@ package main
 import "context"
 
 type Exporter interface {
-	Export(ctx context.Context, data []Country) ([]byte, error)
-	Ext() string
+	Export(ctx context.Context, path string, data []Country) error
 }
 
 type Country struct {
