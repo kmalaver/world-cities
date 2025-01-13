@@ -1,0 +1,48 @@
+name: Release workflow for tagged versions
+on:
+  push:
+    tags:
+      - 'v*' 
+
+jobs:
+  release-ubuntu:
+    strategy:
+      fail-fast: false
+      matrix:
+        format: [ 'psql', 'json']
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 1.22
+
+      - name: Install dependencies
+        run: go mod download
+
+      - name: Build
+        run: go build -o ./bin/exporter .
+
+      - name: Run tests
+        run: go test ./...
+
+      - name: Release
+        run: ./bin/exporter -format ${{ matrix.format }} -output ./output_${{ matrix.format }}
+     
+      - name: Compress
+        run: tar -czvf output_${{ matrix.format }}.tar.gz output_${{ matrix.format }}
+
+      - name: Upload release
+        uses: softprops/action-gh-release@v2
+        with: 
+          files: |
+            output_${{ matrix.format }}.tar.gz
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          
+
+
