@@ -1,15 +1,11 @@
-name: Release workflow for tagged versions
+name: Release workflow
 on:
   push:
     tags:
       - 'v*' 
 
 jobs:
-  release-ubuntu:
-    strategy:
-      fail-fast: false
-      matrix:
-        format: [ 'psql', 'json']
+  build-and-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -29,7 +25,30 @@ jobs:
       - name: Run tests
         run: go test ./...
 
-      - name: Release
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: exporter-binary
+          path: ./bin/exporter
+
+  release:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        format: [ 'psql', 'json']
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: exporter-binary
+          path: ./bin
+
+      - name: Make binary executable
+        run: chmod +x ./bin/exporter
+
+      - name: Export data
         run: ./bin/exporter -format ${{ matrix.format }} -output ./output_${{ matrix.format }}
      
       - name: Compress
@@ -42,7 +61,3 @@ jobs:
             output_${{ matrix.format }}.tar.gz
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-
-          
-
-
